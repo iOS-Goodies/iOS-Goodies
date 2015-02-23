@@ -13,3 +13,4 @@
 **UI/UX** 
 
 * [Design Principles](http://learndesignprinciples.com/), by [@lissalauren](https://twitter.com/lissalauren)
+* [Why and How to Avoid Hamburger Menus](https://lmjabreu.com/post/why-and-how-to-avoid-hamburger-menus/), by [@lmjabreu](https://twitter.com/lmjabreu)
