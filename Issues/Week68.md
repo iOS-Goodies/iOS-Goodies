@@ -11,3 +11,5 @@
 * [How I Got to the App Store Top With a Simple Currency App](http://kukuruku.co/hub/ios/how-i-got-to-the-app-store-top-with-a-simple-currency-app), by Valentin Shamardin 
 
 **UI/UX** 
+
+* [Design Principles](http://learndesignprinciples.com/), by [@lissalauren](https://twitter.com/lissalauren)
