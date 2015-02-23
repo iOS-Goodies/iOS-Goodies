@@ -2,6 +2,7 @@
 
 * [Our First Swift Project](http://tech.ustwo.com/2015/02/19/our-first-swift-project/), by [@daniela_dias](https://twitter.com/daniela_dias) and [@madhikarma](https://twitter.com/madhikarma/)
 * [How To Implement A Circular Image Loader Animation with CAShapeLayer](http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer) by [@r0unak](https://twitter.com/r0unak)
+* [If Apple's System Frameworks Were Optimized For Swift](http://mattwyskiel.github.io/posts/2015/02/16/if-apples-system-frameworks-were-optimized-for-swift.html) by [@mattwyskiel](https://twitter.com/mattwyskiel)
 
 **Tools**
 
