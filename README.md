@@ -17,4 +17,4 @@ Finally there is the question: why now? We feel this is the right time to do it,
 
 Please [read](https://github.com/iOS-Goodies/Contributing-Guidelines/blob/master/README.md) the following. :) 
 
-We are quite happy that you share articles that you might see here, if that happens, spread the love and mention us ([@iOSGoodies](https://twitter.com/iosgoodies))
+We are quite happy when you share articles that you have seen here, if that happens, spread the love and mention us ([@iOSGoodies](https://twitter.com/iosgoodies))
