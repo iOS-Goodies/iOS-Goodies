@@ -9,7 +9,8 @@ For some months now, me and Tiago, have been pondering about how can we improve 
 
 * Give the John and Jane Does the opportunity to show off their work.
 * Present the best content to the average busy person, that doesn't have enough time to search the web.
-* Give the content faster to everyone that doesn't want to wait until Thursday.
+* Provide content faster to anyone that doesn't want to wait until Thursday.
+* Help Indie devs to showcase their apps.
 
 Finally there is the question: why now? We feel this is the right time to do it, we think that there are a lot of people that like what we do and want to see us reach the next level, and this is only possible, from our point view, via open sourcing.
 
