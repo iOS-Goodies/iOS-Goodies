@@ -5,6 +5,7 @@
 **Tools**
 
 * [MustOverride](https://github.com/nicklockwood/MustOverride), by [@nicklockwood](https://twitter.com/nicklockwood)
+* [codes](https://github.com/KrauseFx/codes), by [@KrauseFx](https://twitter.com/KrauseFx)
 
 **Business**
 
