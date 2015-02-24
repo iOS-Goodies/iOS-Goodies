@@ -10,6 +10,7 @@
 * [MustOverride](https://github.com/nicklockwood/MustOverride), by [@nicklockwood](https://twitter.com/nicklockwood)
 * [codes](https://github.com/KrauseFx/codes), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [RJImageLoader](https://github.com/rounak/RJImageLoader) by [@r0unak](https://twitter.com/r0unak)
+* [Flex 2.0](https://github.com/Flipboard/FLEX/releases/tag/2.0.0), by [@flipboard](https://twitter.com/flipboard)
 
 **Business**
 
