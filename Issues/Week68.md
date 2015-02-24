@@ -13,6 +13,7 @@
 * [RJImageLoader](https://github.com/rounak/RJImageLoader) by [@r0unak](https://twitter.com/r0unak)
 * [Flex 2.0](https://github.com/Flipboard/FLEX/releases/tag/2.0.0), by [@flipboard](https://twitter.com/flipboard)
 * [Origami 2](http://facebook.github.io/origami/), by [@facebook](https://twitter.com/facebook)
+* [INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh), by [@inspace.io](https://twitter.com/inspace_io)
 
 **Business**
 
