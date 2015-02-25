@@ -20,6 +20,7 @@
 
 * [How I Got to the App Store Top With a Simple Currency App](http://kukuruku.co/hub/ios/how-i-got-to-the-app-store-top-with-a-simple-currency-app), by Valentin Shamardin 
 * [Why I chose Medium](https://medium.com/@t/why-i-chose-medium-59be7a0062a8), by [@tyler_hedrick](https://twitter.com/tyler_hedrick)
+* [Ideas are the Currency of Growth](https://blog.branch.io/ideas-are-the-currency-of-growth), by [@AustinAHay](https://twitter.com/AustinAHay) and [@morganb](https://twitter.com/morganb)
 
 **UI/UX** 
 
