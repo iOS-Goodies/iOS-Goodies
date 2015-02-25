@@ -15,6 +15,7 @@
 * [Flex 2.0](https://github.com/Flipboard/FLEX/releases/tag/2.0.0), by [@flipboard](https://twitter.com/flipboard)
 * [Origami 2](https://code.facebook.com/posts/883904991672650/introducing-origami-live/), by [@facebook](https://twitter.com/facebook)
 * [INSPullToRefresh](https://github.com/inspace-io/INSPullToRefresh), by [@inspace.io](https://twitter.com/inspace_io)
+* [SCXcodeMinimap 2.0](https://github.com/stefanceriu/SCXcodeMiniMap), by [@stefanceriu](https://twitter.com/stefanceriu)
 
 **Business**
 
