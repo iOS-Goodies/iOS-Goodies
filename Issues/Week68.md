@@ -24,5 +24,6 @@
 **UI/UX** 
 
 * [Futures of Text](http://whoo.ps/2015/02/23/futures-of-text), by [@libovness](https://twitter.com/libovness)
+* [Design Sprint Case Study: iOS Coaching at thoughtbot](https://robots.thoughtbot.com/ios-coaching-product-design-sprint), by [@mvenetucci](https://twitter.com/mvenetucci)
 * [Design Principles](http://learndesignprinciples.com/), by [@lissalauren](https://twitter.com/lissalauren)
 * [Design by Details: Instagram](http://blog.brianlovin.com/design-details-instagram-for-ios/), by [@brian_lovin](https://twitter.com/brian_lovin)
