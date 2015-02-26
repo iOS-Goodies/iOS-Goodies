@@ -26,3 +26,4 @@
 * [Design Sprint Case Study: iOS Coaching at thoughtbot](https://robots.thoughtbot.com/ios-coaching-product-design-sprint), by [@mvenetucci](https://twitter.com/mvenetucci)
 * [Design Principles](http://learndesignprinciples.com/), by [@lissalauren](https://twitter.com/lissalauren)
 * [Design by Details: Instagram](http://blog.brianlovin.com/design-details-instagram-for-ios/), by [@brian_lovin](https://twitter.com/brian_lovin)
+* [Redesign Challenge (6/52): Nest for iPhone](https://medium.com/weekly-redesign-challenge/redesign-challenge-6-52-nest-for-iphone-d322c6778941), by [@evandinsmore](https://twitter.com/evandinsmore)
