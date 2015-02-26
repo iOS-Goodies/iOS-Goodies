@@ -21,7 +21,8 @@
 * [How I Got to the App Store Top With a Simple Currency App](http://kukuruku.co/hub/ios/how-i-got-to-the-app-store-top-with-a-simple-currency-app), by Valentin Shamardin 
 * [Why I chose Medium](https://medium.com/@t/why-i-chose-medium-59be7a0062a8), by [@tyler_hedrick](https://twitter.com/tyler_hedrick)
 * [Ideas are the Currency of Growth](https://blog.branch.io/ideas-are-the-currency-of-growth), by [@AustinAHay](https://twitter.com/AustinAHay) and [@morganb](https://twitter.com/morganb)
-
+* [700 Billion](https://lmjabreu.com/post/700-billion/), by [@lmjabreu](https://twitter.com/lmjabreu)
+ 
 **UI/UX** 
 
 * [Futures of Text](http://whoo.ps/2015/02/23/futures-of-text), by [@libovness](https://twitter.com/libovness)
