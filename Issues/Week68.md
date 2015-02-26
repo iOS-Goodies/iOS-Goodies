@@ -4,6 +4,7 @@
 * [Swift Collection Protocols](http://nshipster.com/swift-collection-protocols/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [If Apple's System Frameworks Were Optimized For Swift](http://mattwyskiel.github.io/posts/2015/02/16/if-apples-system-frameworks-were-optimized-for-swift.html) by [@mattwyskiel](https://twitter.com/mattwyskiel)
 * [Ditching Core Data](https://medium.com/the-way-north/ditching-core-data-865c1bb5564c), by [@calebd](https://twitter.com/calebd)
+* [700 Billion](https://lmjabreu.com/post/700-billion/), by [@lmjabreu](https://twitter.com/lmjabreu)
 
 **Tools**
 
