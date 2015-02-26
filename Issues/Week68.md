@@ -13,6 +13,7 @@
 * [RJImageLoader](https://github.com/rounak/RJImageLoader) ([and How it was Done](http://www.raywenderlich.com/94302/implement-circular-image-loader-animation-cashapelayer)) by [@r0unak](https://twitter.com/r0unak)
 * [Flex 2.0](https://github.com/Flipboard/FLEX/releases/tag/2.0.0), by [@flipboard](https://twitter.com/flipboard)
 * [Origami 2](https://code.facebook.com/posts/883904991672650/introducing-origami-live/), by [@facebook](https://twitter.com/facebook)
+* [SCXcodeMinimap 2.0](https://github.com/stefanceriu/SCXcodeMiniMap), by [@stefanceriu](https://twitter.com/stefanceriu)
 * [Atlas: Open Source Messaging UI Components for Layer](http://blog.layer.com/introducing-atlas/), by [@layer](https://twitter.com/layer)
 
 **Business**
