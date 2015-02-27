@@ -15,7 +15,7 @@
 * [Origami 2](https://code.facebook.com/posts/883904991672650/introducing-origami-live/), by [@facebook](https://twitter.com/facebook)
 * [SCXcodeMinimap 2.0](https://github.com/stefanceriu/SCXcodeMiniMap), by [@stefanceriu](https://twitter.com/stefanceriu)
 * [Atlas: Open Source Messaging UI Components for Layer](http://blog.layer.com/introducing-atlas/), by [@layer](https://twitter.com/layer)
-
+* [RGPaperLayout: Layout that clones the interaction of going through sections when editing your sections in Facebook's paper app](https://github.com/terminatorover/RGPaperLayout),by [@roberageleta](https://twitter.com/roberageleta)
 **Business**
 
 * [How I Got to the App Store Top With a Simple Currency App](http://kukuruku.co/hub/ios/how-i-got-to-the-app-store-top-with-a-simple-currency-app), by Valentin Shamardin 
