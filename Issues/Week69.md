@@ -1,4 +1,4 @@
-** Articles **
+**Articles**
 
 * [Quick 1.0: Better Tests for All](http://modocache.svbtle.com/better-tests-for-all), by [@modocache](https://twitter.com/modocache)
 
