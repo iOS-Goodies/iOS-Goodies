@@ -5,7 +5,7 @@
 
 **Business**
 
-* [Two Years To Make (This) App](https://medium.com/@matthewramsden/two-years-to-make-this-app-what-bdc80aa6582b), by [Matthew Ramsden](@matthewramsden)
+* [Two Years To Make (This) App](https://medium.com/@matthewramsden/two-years-to-make-this-app-what-bdc80aa6582b), by [@matthewramsden](https://twitter.com/matthewramsden)
 
 **Tools**
 
