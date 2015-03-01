@@ -7,6 +7,7 @@
 **Tools**
 
 * [DBCamera](https://github.com/danielebogo/DBCamera), by [@theillbo](https://twitter.com/theillbo)
+* [Description Generator Xcode Plugin](https://github.com/adamontherun/xCodeGenerateDescriptionPlugin), by [@adamontherun](https://twitter.com/adamontherun)
 
 **UI/UX**
 
