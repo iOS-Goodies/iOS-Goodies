@@ -17,3 +17,7 @@
 
 * [Invisible Animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5), by [@stevenfabre](https://twitter.com/stevenfabre)
 * [It’s Only Color](https://robots.thoughtbot.com/Its-only-color), by [@mborsare](https://twitter.com/mborsare)
+
+**Indie Apps**
+
+* [Hatch - Send locked messages](https://itunes.apple.com/au/app/id924017887), by [@TysBradford](https://twitter.com/tysbradford)
