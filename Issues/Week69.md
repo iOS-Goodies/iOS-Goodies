@@ -13,6 +13,7 @@
 
 **Controls/Tools**
 
+* [InstagramKit - Objective C Instagram SDK](https://github.com/shyambhat/InstagramKit), by [@bhatthead](https://twitter.com/bhatthead)
 * [Awesome Free Things for Entrepreneurs & Startups](http://freebie.supply/), by [@meseali](https://twitter.com/meseali)
 * [DBCamera](https://github.com/danielebogo/DBCamera), by [@theillbo](https://twitter.com/theillbo)
 * [Description Generator Xcode Plugin](https://github.com/adamontherun/xCodeGenerateDescriptionPlugin), by [@adamontherun](https://twitter.com/adamontherun)
