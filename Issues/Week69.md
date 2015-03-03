@@ -9,6 +9,7 @@
 * [Sustainable Indie Software](http://blog.helftone.com/sustainable-indie-software/), by [@milend](https://twitter.com/milend)
 * [Two Years To Make (This) App](https://medium.com/@matthewramsden/two-years-to-make-this-app-what-bdc80aa6582b), by [@matthewramsden](https://twitter.com/matthewramsden)
 * [How To (Re)launch Your Application?](https://medium.com/bunkr-team/how-to-re-launch-your-application-b7ae6f013987), by [@EdouardPetit](https://twitter.com/EdouardPetit)
+* [Advice for young entrepreneurs](https://medium.com/@pcbo/advice-for-young-entrepreneurs-6626b74695ce), by [@pcbo](https://twitter.com/pcbo)
 
 
 **Controls/Tools**
