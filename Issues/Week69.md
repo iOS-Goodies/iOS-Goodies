@@ -27,6 +27,7 @@
 * [It’s Only Color](https://robots.thoughtbot.com/Its-only-color), by [@mborsare](https://twitter.com/mborsare)
 *  [How to Design an Icon Set for the Apple Watch](https://medium.com/@bgilham/how-to-design-an-icon-set-for-the-apple-watch-e694af12c325), by [@bgilham](https://twitter.com/bgilham)
 *  [UX Tactics To Make Slow Things Seem Faster](http://blog.placeit.net/ux-tactics-make-slow-things-seem-faster), by Spencer Grover
+*  [OneShot, a one week design case study](https://medium.com/ios-os-x-development/oneshot-a-one-week-design-case-study-e0512bc02343), by [@DanielZarick](https://twitter.com/DanielZarick)
 
 **Indie Apps**
 
