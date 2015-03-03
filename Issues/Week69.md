@@ -3,6 +3,7 @@
 * [Quick 1.0: Better Tests for All](http://modocache.svbtle.com/better-tests-for-all), by [@modocache](https://twitter.com/modocache)
 * [Avoiding Complex View Controllers](http://stablekernel.com/blog/avoiding-complex-view-controller/), by [@joeconwaystk](https://twitter.com/joeconwaystk)
 * [My Defense of Swift](http://redqueencoder.com/my-defense-of-swift/), by [@RedQueenCoder](https://twitter.com/RedQueenCoder)
+* [InstagramKit, and the need for a better Instagram client](http://bhat.me/instagramkit_medium), by [@bhatthead](https://twitter.com/bhatthead)
 
 **Business**
 
