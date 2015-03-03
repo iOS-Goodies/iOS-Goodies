@@ -21,8 +21,8 @@
 **UI/UX**
 
 * [Invisible Animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5), by [@stevenfabre](https://twitter.com/stevenfabre)
+* [Futures of text](http://whoo.ps/2015/02/23/futures-of-text), by [@libovness](https://twitter.com/libovness)
 * [It’s Only Color](https://robots.thoughtbot.com/Its-only-color), by [@mborsare](https://twitter.com/mborsare)
-* [Creating an Apple Watch notification mockup with Origami 2.0](http://dancort.es/quartz-composer/2015/03/01/how-to-create-apple-watch-notification-mockup-quartz-composer.html), by [@ddggccaa](https://twitter.com/ddggccaa/)
 *  [How to Design an Icon Set for the Apple Watch](https://medium.com/@bgilham/how-to-design-an-icon-set-for-the-apple-watch-e694af12c325), by [@bgilham](https://twitter.com/bgilham)
 *  [UX Tactics To Make Slow Things Seem Faster](http://blog.placeit.net/ux-tactics-make-slow-things-seem-faster), by Spencer Grover
 
