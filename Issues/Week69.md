@@ -4,6 +4,8 @@
 * [Avoiding Complex View Controllers](http://stablekernel.com/blog/avoiding-complex-view-controller/), by [@joeconwaystk](https://twitter.com/joeconwaystk)
 * [My Defense of Swift](http://redqueencoder.com/my-defense-of-swift/), by [@RedQueenCoder](https://twitter.com/RedQueenCoder)
 * [Library patterns: Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/index.html), by [@tomaspetricek](https://twitter.com/tomaspetricek)
+* [Watchkit Overview](https://medium.com/the-traveled-ios-developers-guide/watchkit-overview-2169b58b3de2), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
+* [Swift: Madness of Generic Integer](http://blog.krzyzanowskim.com/2015/03/01/swift_madness_of_generic_integer/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **Business**
 
@@ -28,6 +30,7 @@
 *  [How to Design an Icon Set for the Apple Watch](https://medium.com/@bgilham/how-to-design-an-icon-set-for-the-apple-watch-e694af12c325), by [@bgilham](https://twitter.com/bgilham)
 *  [UX Tactics To Make Slow Things Seem Faster](http://blog.placeit.net/ux-tactics-make-slow-things-seem-faster), by Spencer Grover
 *  [OneShot, a one week design case study](https://medium.com/ios-os-x-development/oneshot-a-one-week-design-case-study-e0512bc02343), by [@DanielZarick](https://twitter.com/DanielZarick)
+*  [User Interface Design. Otherwise known as: How to interface with idiots](http://shaunscholtz.com/user-interface-design/), by [@Mediakik](https://twitter.com/Mediakik)
 
 **Indie Apps**
 
