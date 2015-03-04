@@ -26,6 +26,7 @@
 
 **UI/UX**
 
+* [Design Details: Tumblr for iOS](http://blog.brianlovin.com/design-details-tumblr-for-ios/), by [@brian_lovin](https://twitter.com/brian_lovin)
 * [Invisible Animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5), by [@stevenfabre](https://twitter.com/stevenfabre)
 * [Futures of text](http://whoo.ps/2015/02/23/futures-of-text), by [@libovness](https://twitter.com/libovness)
 * [It’s Only Color](https://robots.thoughtbot.com/Its-only-color), by [@mborsare](https://twitter.com/mborsare)
