@@ -9,6 +9,7 @@
 
 **Business**
 
+* [Who I want to Hire](http://chadfowler.com/blog/2013/04/09/who-i-want-to-hire/), by [@chadfowler](https://twitter.com/chadfowler)
 * [Sustainable Indie Software](http://blog.helftone.com/sustainable-indie-software/), by [@milend](https://twitter.com/milend)
 * [Two Years To Make (This) App](https://medium.com/@matthewramsden/two-years-to-make-this-app-what-bdc80aa6582b), by [@matthewramsden](https://twitter.com/matthewramsden)
 * [How To (Re)launch Your Application?](https://medium.com/bunkr-team/how-to-re-launch-your-application-b7ae6f013987), by [@EdouardPetit](https://twitter.com/EdouardPetit)
@@ -36,4 +37,3 @@
 
 * [Momentum - Track your habits, create new goals, change your lifestyle](https://itunes.apple.com/us/app/momentum-track-your-habits/id946923599?mt=8), by Mathias Maehlum via [@drbarnard](https://twitter.com/drbarnard)
 * [Hatch - Send locked messages](https://itunes.apple.com/au/app/id924017887), by [@TysBradford](https://twitter.com/tysbradford)
-* [Sustainable Indie Software](http://blog.helftone.com/sustainable-indie-software/), by [@milend](http://twitter.com/milend)
