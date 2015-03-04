@@ -36,3 +36,4 @@
 
 * [Momentum - Track your habits, create new goals, change your lifestyle](https://itunes.apple.com/us/app/momentum-track-your-habits/id946923599?mt=8), by Mathias Maehlum via [@drbarnard](https://twitter.com/drbarnard)
 * [Hatch - Send locked messages](https://itunes.apple.com/au/app/id924017887), by [@TysBradford](https://twitter.com/tysbradford)
+* [Sustainable Indie Software](http://blog.helftone.com/sustainable-indie-software/), by [@milend](http://twitter.com/milend)
