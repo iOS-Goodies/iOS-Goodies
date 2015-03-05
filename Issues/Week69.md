@@ -34,6 +34,7 @@
 *  [UX Tactics To Make Slow Things Seem Faster](http://blog.placeit.net/ux-tactics-make-slow-things-seem-faster), by Spencer Grover
 *  [OneShot, a one week design case study](https://medium.com/ios-os-x-development/oneshot-a-one-week-design-case-study-e0512bc02343), by [@DanielZarick](https://twitter.com/DanielZarick)
 *  [User Interface Design. Otherwise known as: How to interface with idiots](http://shaunscholtz.com/user-interface-design/), by [@Mediakik](https://twitter.com/Mediakik)
+*  [The Death of the Login](https://medium.com/@rameshdot0/the-death-of-the-login-b274b22e27a9), by [@rameshdot0](https://twitter.com/rameshdot0)
 
 **Indie Apps**
 
