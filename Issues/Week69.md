@@ -6,6 +6,7 @@
 * [Library patterns: Why frameworks are evil](http://tomasp.net/blog/2015/library-frameworks/index.html), by [@tomaspetricek](https://twitter.com/tomaspetricek)
 * [Watchkit Overview](https://medium.com/the-traveled-ios-developers-guide/watchkit-overview-2169b58b3de2), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Swift: Madness of Generic Integer](http://blog.krzyzanowskim.com/2015/03/01/swift_madness_of_generic_integer/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [Implementing React.js in Swift](http://blog.scottlogic.com/2015/03/05/reactjs-in-swift.html), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 
 **Business**
 
