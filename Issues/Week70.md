@@ -4,4 +4,4 @@
 
 **Videos**
 
-* [Mike Monteiro @ Interaction Design Association](https://vimeo.com/121082134), by [@monteiro](https://twitter.com/monteiro)
+* [Mike Monteiro - How to Sell Your Work](https://vimeo.com/121082134), by [@monteiro](https://twitter.com/monteiro)
