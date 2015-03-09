@@ -8,12 +8,11 @@
 
 * [Form - The most flexible and powerful way to build a Form on iOS](https://github.com/hyperoslo/Form), by [@hyperoslo](https://twitter.com/hyperoslo)
 
+**UI/UX**
+
+* [5 Reasons You Need to Watch Real People Use Your App](https://teamgaslight.com/blog/5-reasons-you-need-to-watch-real-people-use-your-app), by [@michelletaute](https://twitter.com/michelletaute)
+
 
 **Videos**
 
 * [Mike Monteiro - How to Sell Your Work](https://vimeo.com/121082134), by [@monteiro](https://twitter.com/monteiro)
-
-
-**UI/UX**
-
-* [5 Reasons You Need to Watch Real People Use Your App](https://teamgaslight.com/blog/5-reasons-you-need-to-watch-real-people-use-your-app), by [@michelletaute](https://twitter.com/michelletaute)
