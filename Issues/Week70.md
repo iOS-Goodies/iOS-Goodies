@@ -3,6 +3,7 @@
 * [Creating animations with CAReplicatorLayer](http://www.ios-animations-by-emails.com/posts/2015-march#tutorial), by [@icanzilb](https://twitter.com/icanzilb)
 * [Unity Tower Defense Tutorial](http://noobtuts.com/unity/tower-defense-game), by [@noobtuts](https://twitter.com/noobtuts)
 * [Programming Theory and Practise](http://owensd.io/2015/03/08/programming-theory-and-practice.html), by [@owensd](https://twitter.com/owensd)
+* [Socket.IO on iOS](http://socket.io/blog/socket-io-on-ios/), by [@nukeace](https://twitter.com/nukeace)
 
 **Controls/Tools**
 
