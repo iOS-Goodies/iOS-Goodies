@@ -16,3 +16,7 @@
 **Videos**
 
 * [Mike Monteiro - How to Sell Your Work](https://vimeo.com/121082134), by [@monteiro](https://twitter.com/monteiro)
+
+**Goodies**
+
+* [WatchKit Development Tips](https://developer.apple.com/watchkit/tips/)
