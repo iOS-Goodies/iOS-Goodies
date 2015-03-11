@@ -15,6 +15,10 @@
 * [Form - The most flexible and powerful way to build a Form on iOS](https://github.com/hyperoslo/Form), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [WatchKit Apps - Collection of projects example and tutorial for WatchKit in Swift](https://github.com/kostiakoval/WatchKit-Apps), by [@KostiaKoval](https://twitter.com/KostiaKoval)
 
+**Business**
+
+* [How Apple Will Make The Wearable Market](http://stratechery.com/2015/apple-make-wearable-market/), by [@monkbent](https://twitter.com/monkbent)
+
 **UI/UX**
 
 * [Design Explosions: PBS Kids](https://medium.com/design-explosion/design-explosions-issue-2-pbs-kids-6cb99df3dbd8), by [@uxlaunchpad](https://twitter.com/uxlaunchpad)
