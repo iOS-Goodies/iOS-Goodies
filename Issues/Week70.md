@@ -18,6 +18,7 @@
 **Business**
 
 * [How Apple Will Make The Wearable Market](http://stratechery.com/2015/apple-make-wearable-market/), by [@monkbent](https://twitter.com/monkbent)
+* [The Idea Person](https://medium.com/the-year-of-the-looking-glass/the-idea-person-e08e36f9024d), by [@joulee](https://twitter.com/joulee)
 
 **UI/UX**
 
