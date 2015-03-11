@@ -7,7 +7,7 @@
 * [Swift asserts - the missing manual](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [Stupid Disambiguation Tricks](http://www.figure.ink/blog/2015/3/8/stupid-disambiguation-tricks), by [@jemmons](https://twitter.com/jemmons)
 * [An (Almost) TDD Workflow in Swift](http://www.andrewcbancroft.com/2015/03/10/an-almost-tdd-workflow-in-swift/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
-
+* [Building  Watch Apps](http://amro.co/building-apple-watch-apps), by [@amdev](https://twitter.com/amdev)
 
 **Controls/Tools**
 
