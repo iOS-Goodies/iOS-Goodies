@@ -14,7 +14,9 @@
 
 **UI/UX**
 
+* [Design Explosions: PBS Kids](https://medium.com/design-explosion/design-explosions-issue-2-pbs-kids-6cb99df3dbd8), by [@uxlaunchpad](https://twitter.com/uxlaunchpad)
 * [5 Reasons You Need to Watch Real People Use Your App](https://teamgaslight.com/blog/5-reasons-you-need-to-watch-real-people-use-your-app), by [@michelletaute](https://twitter.com/michelletaute)
+
 
 
 **Videos**
