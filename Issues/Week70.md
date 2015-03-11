@@ -9,7 +9,12 @@
 * [An (Almost) TDD Workflow in Swift](http://www.andrewcbancroft.com/2015/03/10/an-almost-tdd-workflow-in-swift/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
 =======
 * [Swift asserts - the missing manual](http://blog.krzyzanowskim.com/2015/03/09/swift-asserts-the-missing-manual/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+<<<<<<< HEAD
 >>>>>>> Swift asserts - the missing manual
+=======
+* [Stupid Disambiguation Tricks](http://www.figure.ink/blog/2015/3/8/stupid-disambiguation-tricks), by [@jemmons](https://twitter.com/jemmons)
+* [An (Almost) TDD Workflow in Swift](http://www.andrewcbancroft.com/2015/03/10/an-almost-tdd-workflow-in-swift/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
+>>>>>>> Add links to articles
 
 **Controls/Tools**
 
