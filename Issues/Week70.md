@@ -23,6 +23,7 @@
 * [The Idea Person](https://medium.com/the-year-of-the-looking-glass/the-idea-person-e08e36f9024d), by [@joulee](https://twitter.com/joulee)
 * [The Joyless World of Data-Driven Startups](https://medium.com/@zambonini/the-joyless-world-of-data-driven-startups-b6f475f11f5f), by [@zambonini](https://twitter.com/zambonini)
 * [Some Notes on Company Culture](https://medium.com/@EamonLeonard/notes-on-company-culture-8d96a42dc2cc), by [@EamonLeonard](https://twitter.com/EamonLeonard)
+* [Product Hunt Turned my Side Project Into a Startup](https://medium.com/@crixlet/product-hunt-turned-my-side-project-into-a-full-time-gig-7264ce58e988), by [@crixlet](https://twitter.com/crixlet)
 
 **UI/UX**
 
