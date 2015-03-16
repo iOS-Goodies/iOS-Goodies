@@ -6,6 +6,6 @@
 
 **Business**
 
-* [Hiring in tech should prioritize skill, not charisma](http://qz.com/362958/hiring-in-tech-should-prioritize-skill-not-charisma/), by [@tqbf](https://twitter.com/tqbf)
+* [Hiring in tech should prioritize skill, not charisma](http://qz.com/362958), by [@tqbf](https://twitter.com/tqbf)
 
 **UI/UX**
