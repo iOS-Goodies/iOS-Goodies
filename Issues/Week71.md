@@ -11,3 +11,5 @@
 * [Hiring in tech should prioritize skill, not charisma](http://qz.com/362958), by [@tqbf](https://twitter.com/tqbf)
 
 **UI/UX**
+
+* [User experience is more than just usability](http://easilyeasy.com/ux-is-more-than-just-usability.html), by [@meeteasy](https://twitter.com/meeteasy)
