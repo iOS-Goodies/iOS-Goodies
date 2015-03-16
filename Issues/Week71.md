@@ -14,3 +14,4 @@
 **UI/UX**
 
 * [User experience is more than just usability](http://easilyeasy.com/ux-is-more-than-just-usability.html), by [@meeteasy](https://twitter.com/meeteasy)
+* [Redesigning the Login Screen](https://www.gosquared.com/blog/login-screen-design-flow), by [@floopily](https://twitter.com/floopily)
