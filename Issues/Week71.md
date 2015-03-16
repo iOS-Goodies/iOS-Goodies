@@ -10,6 +10,7 @@
 **Business**
 
 * [Hiring in tech should prioritize skill, not charisma](http://qz.com/362958), by [@tqbf](https://twitter.com/tqbf)
+* [Scrum seems to be mostly about having better alibis](http://agileoverflow.com/t/scrum-seems-to-be-mostly-about-having-better-alibis/47), by [@ralf](https://twitter.com/ralf)
 
 **UI/UX**
 
