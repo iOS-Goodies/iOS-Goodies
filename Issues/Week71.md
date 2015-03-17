@@ -16,3 +16,4 @@
 
 * [User experience is more than just usability](http://easilyeasy.com/ux-is-more-than-just-usability.html), by [@meeteasy](https://twitter.com/meeteasy)
 * [Redesigning the Login Screen](https://www.gosquared.com/blog/login-screen-design-flow), by [@floopily](https://twitter.com/floopily)
+* [How to change user habits with interaction design](http://thenextweb.com/dd/2015/03/11/how-to-change-user-habits-with-interaction-design/), by [@jerrycao_uxpin](https://twitter.com/jerrycao_uxpin)
