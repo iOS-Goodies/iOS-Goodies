@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [Few.swift](https://github.com/joshaber/Few.swift), by [@joshaber](https://twitter.com/joshaber)
 
 **Business**
 
