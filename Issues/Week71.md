@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [Few.swift](https://github.com/joshaber/Few.swift), by [@joshaber](https://twitter.com/joshaber)
+* [XCActionBar](https://github.com/pdcgomes/XCActionBar), by [@pedrogomes](https://twitter.com/pedrogomes)
 
 **Business**
 
