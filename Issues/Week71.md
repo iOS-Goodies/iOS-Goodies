@@ -22,3 +22,4 @@
 * [Redesigning the Login Screen](https://www.gosquared.com/blog/login-screen-design-flow), by [@floopily](https://twitter.com/floopily)
 * [How to change user habits with interaction design](http://thenextweb.com/dd/2015/03/11/how-to-change-user-habits-with-interaction-design/), by [@jerrycao_uxpin](https://twitter.com/jerrycao_uxpin)
 * [The best interface is no interface: why we don't always need An App for That](http://www.theverge.com/2015/3/17/8103593/golden-krishna-best-interface-is-no-interface-excerpt), by [@goldenkrishna](https://twitter.com/goldenkrishna)
+* [Critical Sharks Part III: Design Fallacies](http://www.elischiff.com/blog/2015/3/17/critical-sharks-part-iii-design-fallacies), by [@eli_schiff](https://twitter.com/eli_schiff)
