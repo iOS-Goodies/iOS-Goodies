@@ -9,6 +9,7 @@
 
 * [Few.swift](https://github.com/joshaber/Few.swift), by [@joshaber](https://twitter.com/joshaber)
 * [XCActionBar](https://github.com/pdcgomes/XCActionBar), by [@pedrogomes](https://twitter.com/pedrogomes)
+* [KFWatchKitAnimations](https://github.com/kiavashfaisali/KFWatchKitAnimations), by Kiavash Faisali
 
 **Business**
 
