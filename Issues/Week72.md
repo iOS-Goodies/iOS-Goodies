@@ -14,6 +14,7 @@
 * [AAFaceDetection](https://github.com/aaronabentheuer/AAFaceDetection) by [@aaronabentheuer](https://twitter.com/aaronabentheuer)
 * [QLImageset](https://github.com/qfish/QLImageset)
 * [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation), by [@jspahrsummers](https://twitter.com/jspahrsummers)
+* [A swifter Core Data stack](https://github.com/jessesquires/JSQCoreDataKit), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Business**
 
