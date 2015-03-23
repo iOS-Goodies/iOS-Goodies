@@ -13,6 +13,7 @@
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) by [@BKyourway19](https://twitter.com/BKyourway19)
 * [AAFaceDetection](https://github.com/aaronabentheuer/AAFaceDetection) by [@aaronabentheuer](https://twitter.com/aaronabentheuer)
 * [QLImageset](https://github.com/qfish/QLImageset)
+* [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation), by [@jspahrsummers](https://twitter.com/jspahrsummers)
 
 **Business**
 
