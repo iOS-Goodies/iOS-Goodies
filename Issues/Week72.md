@@ -16,6 +16,7 @@
 * [QLImageset](https://github.com/qfish/QLImageset)
 * [ReactiveAnimation](https://github.com/ReactiveCocoa/ReactiveAnimation), by [@jspahrsummers](https://twitter.com/jspahrsummers)
 * [A swifter Core Data stack](https://github.com/jessesquires/JSQCoreDataKit), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Scenery for Mac](http://getscenery.com), by [@chriseidhof](https://twitter.com/chriseidohf)
 
 **Business**
 
