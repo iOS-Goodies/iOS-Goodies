@@ -4,6 +4,7 @@
 * [Anatomy of a TableView(Controller) Architecture](http://matteogobbi.github.io/blog/2015/03/22/anatomy-of-a-tableview-controller-architecture/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [Printing Objective-C Invocations in LLDB](http://arigrant.com/blog/2014/2/18/chisels-print-invocation-command), by [@ari_grant](https://twitter.com/ari_grant)
 * [The state of iOS testing in 2015](http://www.mokacoding.com/blog/ios-testing-in-2015/), by [@mokagio](https://twitter.com/mokagio)
+* [Swift in Production: Scenery](http://chris.eidhof.nl/posts/scenery-launch.html), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 
 **Tools/Controls**
