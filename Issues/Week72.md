@@ -19,6 +19,8 @@
 
 **Business**
 
+* [What many indies are doing wrong](http://joostdevblog.blogspot.nl/2015/03/what-many-indies-are-doing-wrong.html), by [@JoostDevBlog](https://twitter.com/JoostDevBlog)
+
 **UI/UX**
 
 **Indie Apps**
