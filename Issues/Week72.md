@@ -26,6 +26,8 @@
 
 **UI/UX**
 
+* [Category Size Bias](http://coglode.com/gems/category-size-bias), by [@coglode](https://twitter.com/coglode)
+
 **Indie Apps**
 
 * [Puzzly - a new social network for sharing your selfies as puzzles](https://itunes.apple.com/app/puzzly-turn-your-selfies-into/id961658385&mt=8), by [@mgcm](https://twitter.com/mgcm)
