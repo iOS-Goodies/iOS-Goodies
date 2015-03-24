@@ -20,6 +20,7 @@
 **Business**
 
 * [What many indies are doing wrong](http://joostdevblog.blogspot.nl/2015/03/what-many-indies-are-doing-wrong.html), by [@JoostDevBlog](https://twitter.com/JoostDevBlog)
+* [A Product Manager’s Musings](https://medium.com/@NathCres/a-product-manager-s-musings-1c2bcca20c4e), by [@NathCres](https://twitter.com/NathCres)
 
 **UI/UX**
 
