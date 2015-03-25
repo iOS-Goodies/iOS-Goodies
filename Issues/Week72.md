@@ -21,6 +21,7 @@
 * [A swifter Core Data stack](https://github.com/jessesquires/JSQCoreDataKit), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Scenery for Mac - Make beautiful mockups without Photoshop](http://getscenery.com), by Unsigned Integer (Deckset)
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow), by [@aaronabentheuer](https://twitter.com/aaronabentheuer)
+* [ComponentKit](http://componentkit.org/), by [@fbOpenSource](https://twitter.com/fbOpenSource)
 
 **Business**
 
