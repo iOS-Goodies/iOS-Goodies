@@ -44,3 +44,4 @@
 **Goodies**
 
 * [62 Design/Layout Code Samples | 72 Functional Code Samples](http://ioscodesamples.com/index.html)
+* [The unofficial documentation of the iTunes Connect JSON API](https://github.com/fastlane/itc-api-docs), by [@KrauseFx](https://twitter.com/krausefx)
