@@ -23,6 +23,7 @@
 
 **Business**
 
+* [Critical Sharks Part IV: Fear of Apple](http://www.elischiff.com/blog/2015/3/24/fear-of-apple), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [What many indies are doing wrong](http://joostdevblog.blogspot.nl/2015/03/what-many-indies-are-doing-wrong.html), by [@JoostDevBlog](https://twitter.com/JoostDevBlog)
 * [A Product Manager’s Musings](https://medium.com/@NathCres/a-product-manager-s-musings-1c2bcca20c4e), by [@NathCres](https://twitter.com/NathCres)
 * [Six years at SoundCloud, Five Lessons Learned](https://medium.com/@SoundCloud/six-years-at-soundcloud-five-lessons-learned-4a7abc47431b), by [@SoundCloud](https://twitter.com/SoundCloud)
