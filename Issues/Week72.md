@@ -30,6 +30,7 @@
 * [A Product Manager’s Musings](https://medium.com/@NathCres/a-product-manager-s-musings-1c2bcca20c4e), by [@NathCres](https://twitter.com/NathCres)
 * [Six years at SoundCloud, Five Lessons Learned](https://medium.com/@SoundCloud/six-years-at-soundcloud-five-lessons-learned-4a7abc47431b), by [@SoundCloud](https://twitter.com/SoundCloud)
 * [100k Downloads in 1 Weekend](http://blog.getlooseleaf.com/post/113969679734/100k-downloads-in-1-weekend), by [@getlooseleaf](https://twitter.com/getlooseleaf)
+* [I want to start a company right out of school](https://medium.com/dear-design-student/i-want-to-start-a-company-right-out-of-school-230ee0869180), by [@monteiro](https://twitter.com/monteiro)
 
 **UI/UX**
 
