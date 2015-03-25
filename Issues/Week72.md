@@ -38,3 +38,7 @@
 **Indie Apps**
 
 * [Puzzly - a new social network for sharing your selfies as puzzles](https://itunes.apple.com/app/puzzly-turn-your-selfies-into/id961658385&mt=8), by [@mgcm](https://twitter.com/mgcm)
+
+**Goodies**
+
+* [62 Design/Layout Code Samples | 72 Functional Code Samples](http://ioscodesamples.com/index.html)
