@@ -31,6 +31,7 @@
 **UI/UX**
 
 * [Category Size Bias](http://coglode.com/gems/category-size-bias), by [@coglode](https://twitter.com/coglode)
+* [The best icon is a text label](http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label), by [@bytte](https://twitter.com/bytte)
 
 **Indie Apps**
 
