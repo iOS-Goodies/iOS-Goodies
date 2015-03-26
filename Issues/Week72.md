@@ -8,8 +8,8 @@
 * [Introduction to Custom View Controller Transitions and Animations](http://www.appcoda.com/custom-view-controller-transitions-tutorial/), by [@joyceechessa](https://twitter.com/joyceechessa)
 * [Artsy's Technology Stack, 2015](http://artsy.github.io/blog/2015/03/23/artsy-technology-stack-2015/), by [@dblockdotorg](https://twitter.com/dblockdotorg)
 * [Protocols and Generics](http://airspeedvelocity.net/2015/03/26/protocols-and-generics-2/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
-* [Evaluating Expressions in iOS with Objective-C and Swift](http://spin.atomicobject.com/2015/03/24/evaluate-string-expressions-ios-objective-c-swift/), by Matt Nedrich  [@atomicobject](https://twitter.com/atomicobject)
-* [ReactiveCocoa Concepts for Asynchronous Libraries](http://spin.atomicobject.com/2015/03/19/reactivecocoa-asynchronous-libraries/), by Patrick Bacon [@atomicobject](https://twitter.com/atomicobject)
+* [Evaluating Expressions in iOS with Objective-C and Swift](http://spin.atomicobject.com/2015/03/24/evaluate-string-expressions-ios-objective-c-swift/), by Matt Nedrich 
+* [ReactiveCocoa Concepts for Asynchronous Libraries](http://spin.atomicobject.com/2015/03/19/reactivecocoa-asynchronous-libraries/), by Patrick Bacon [@patrickbacon](https://twitter.com/patrickbacon)
 
 
 **Tools/Controls**
