@@ -26,6 +26,7 @@
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow), by [@aaronabentheuer](https://twitter.com/aaronabentheuer)
 * [ComponentKit](http://componentkit.org/), by [@fbOpenSource](https://twitter.com/fbOpenSource)
 * [CATweaker – an Xcode plugin for creating beautiful CAMediaTimingFunction curve](https://github.com/keefo/CATweaker), by [@lianxu](https://twitter.com/lianxu)
+* [Instant Cocoa](http://instantcocoa.io/), by [@khanlou](https://twitter.com/khanlou)
 
 **Business**
 
