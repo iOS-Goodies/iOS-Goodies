@@ -10,6 +10,7 @@
 * [Protocols and Generics](http://airspeedvelocity.net/2015/03/26/protocols-and-generics-2/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
 * [Evaluating Expressions in iOS with Objective-C and Swift](http://spin.atomicobject.com/2015/03/24/evaluate-string-expressions-ios-objective-c-swift/), by Matt Nedrich 
 * [ReactiveCocoa Concepts for Asynchronous Libraries](http://spin.atomicobject.com/2015/03/19/reactivecocoa-asynchronous-libraries/), by Patrick Bacon [@patrickbacon](https://twitter.com/patrickbacon)
+* [XIBs & Autolayout: A guide to controls and keyboard shortcuts for managing constraints](http://stablekernel.com/blog/xibs-autolayout-a-guide-to-controls-and-keyboard-shortcuts-for-managing-constraints/), by [@joeconwaystk](https://twitter.com/joeconwaystk)
 
 
 **Tools/Controls**
