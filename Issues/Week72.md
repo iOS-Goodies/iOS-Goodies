@@ -7,6 +7,9 @@
 * [Swift in Production: Scenery](http://chris.eidhof.nl/posts/scenery-launch.html), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [Introduction to Custom View Controller Transitions and Animations](http://www.appcoda.com/custom-view-controller-transitions-tutorial/), by [@joyceechessa](https://twitter.com/joyceechessa)
 * [Artsy's Technology Stack, 2015](http://artsy.github.io/blog/2015/03/23/artsy-technology-stack-2015/), by [@dblockdotorg](https://twitter.com/dblockdotorg)
+* [Protocols and Generics](http://airspeedvelocity.net/2015/03/26/protocols-and-generics-2/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
+* [Evaluating Expressions in iOS with Objective-C and Swift](http://spin.atomicobject.com/2015/03/24/evaluate-string-expressions-ios-objective-c-swift/), by Matt Nedrich 
+* [ReactiveCocoa Concepts for Asynchronous Libraries](http://spin.atomicobject.com/2015/03/19/reactivecocoa-asynchronous-libraries/), by Patrick Bacon [@patrickbacon](https://twitter.com/patrickbacon)
 
 
 **Tools/Controls**
@@ -22,6 +25,7 @@
 * [Scenery for Mac - Make beautiful mockups without Photoshop](http://getscenery.com), by Unsigned Integer (Deckset)
 * [AAWindow](https://github.com/aaronabentheuer/AAWindow), by [@aaronabentheuer](https://twitter.com/aaronabentheuer)
 * [ComponentKit](http://componentkit.org/), by [@fbOpenSource](https://twitter.com/fbOpenSource)
+* [CATweaker – an Xcode plugin for creating beautiful CAMediaTimingFunction curve](https://github.com/keefo/CATweaker), by [@lianxu](https://twitter.com/lianxu)
 
 **Business**
 
@@ -36,6 +40,8 @@
 
 * [Category Size Bias](http://coglode.com/gems/category-size-bias), by [@coglode](https://twitter.com/coglode)
 * [The best icon is a text label](http://thomasbyttebier.be/blog/the-best-icon-is-a-text-label), by [@bytte](https://twitter.com/bytte)
+* [Some more thoughts about our Tesla Interface Concept](https://medium.com/@oberhaeuser/some-more-thoughts-about-our-tesla-interface-concept-d10fdfd8bac6), by [@oberhaeuserinfo](https://twitter.com/oberhaeuserinfo)
+* [Now they use it, now they don’t - Seeking truth in user testing](https://medium.com/@jennellenystrom/now-they-use-it-now-they-don-t-e976ab505e5d), by [@JennelleNystrom](https://twitter.com/JennelleNystrom)
 
 **Indie Apps**
 
