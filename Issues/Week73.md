@@ -5,6 +5,8 @@
 
 **Tools/Controls**
 
+* [Ophiuchus - Custom Label to apply animations on whole text or letters](https://github.com/Yalantis/Preloader.Ophiuchus), by Igor Muzyka
+
 **Business**
 
 * [NO DICKHEADS! - A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d), by [@rhysys](https://twitter.com/rhysys)
