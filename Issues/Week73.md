@@ -2,6 +2,7 @@
 **Articles**
 
 * [Retrospective on Developing an Application With React Native](http://blog.scottlogic.com/2015/03/26/react-native-retrospective.html), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
+* [Notes from Facebook's Developer Infrastructure at Scale F8 Talk](http://gregoryszorc.com/blog/2015/03/28/notes-from-facebook%27s-developer-infrastructure-at-scale-f8-talk/), by [@indygreg](https://twitter.com/indygreg)
 
 **Tools/Controls**
 
