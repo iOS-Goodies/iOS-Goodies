@@ -22,4 +22,4 @@
 
 **Videos**
 
-* [Designing a Great Onboarding Experience](https://developers.facebooklive.com/videos/564/designing-a-great-onboarding-experience), by Facebook
+* [Facebook F8 Engineering Sessions](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1_7FcSupSJoUe21tF12eu8), by [@fb_engineering](https://twitter.com/fb_engineering)
