@@ -16,6 +16,7 @@
 
 **UI/UX**
 
+* [Why I don’t use PDFs for iOS assets](http://bjango.com/articles/idontusepdfs/), by [@marcedwards](https://twitter.com/marcedwards)
 * [Citymapper on Apple Watch](https://medium.com/@Citymapper/citymapper-on-apple-watch-843c3e757f58), by [@Citymapper](https://twitter.com/Citymapper)
 * [How to Increase Your Forms Completion Rate](http://usabilityhour.com/better-forms/), by [@craigmcf5](https://twitter.com/craigmcf5)
 * [One Magic Formula to Calculate User Experience?](http://journal.gibbon.co/one-magic-formula-to-calculate-user-experience), by [@wdeb](https://twitter.com/wdeb)
