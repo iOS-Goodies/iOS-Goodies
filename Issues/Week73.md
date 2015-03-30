@@ -8,6 +8,7 @@
 
 * [Ophiuchus - Custom Label to apply animations on whole text or letters](https://github.com/Yalantis/Preloader.Ophiuchus), by Igor Muzyka
 * [UIView+MGConstraints - add, store and replace constraints easily](https://github.com/matteogobbi/UIView-MGConstraints), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
+* [SFJumpToLine - Xcode plugin that moves the instruction pointer to the selected line](https://github.com/sferrini/SFJumpToLine), by [@Simone_Ferrini](https://twitter.com/Simone_Ferrini)
 
 **Business**
 
