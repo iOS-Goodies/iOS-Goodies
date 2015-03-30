@@ -9,6 +9,7 @@
 * [Ophiuchus - Custom Label to apply animations on whole text or letters](https://github.com/Yalantis/Preloader.Ophiuchus), by Igor Muzyka
 * [UIView+MGConstraints - add, store and replace constraints easily](https://github.com/matteogobbi/UIView-MGConstraints), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [SFJumpToLine - Xcode plugin that moves the instruction pointer to the selected line](https://github.com/sferrini/SFJumpToLine), by [@Simone_Ferrini](https://twitter.com/Simone_Ferrini)
+* [Hacking with Swift](http://www.hackingwithswift.com/), by [@twostraws](https://twitter.com/twostraws)
 
 **Business**
 
@@ -20,6 +21,7 @@
 * [Citymapper on Apple Watch](https://medium.com/@Citymapper/citymapper-on-apple-watch-843c3e757f58), by [@Citymapper](https://twitter.com/Citymapper)
 * [How to Increase Your Forms Completion Rate](http://usabilityhour.com/better-forms/), by [@craigmcf5](https://twitter.com/craigmcf5)
 * [One Magic Formula to Calculate User Experience?](http://journal.gibbon.co/one-magic-formula-to-calculate-user-experience), by [@wdeb](https://twitter.com/wdeb)
+* [Designing Wunderlist for Apple Watch](https://www.wunderlist.com/blog/designing-wunderlist-for-apple-watch-from-benedikt-lehnert/), by [@blehnert](https://twitter.com/blehnert)
 
 **Videos**
 
