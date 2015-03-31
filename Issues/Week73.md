@@ -15,6 +15,7 @@
 
 **Business**
 
+* [What Designers can Learn from Product Managers](https://medium.com/@joulee/what-designers-can-learn-from-pms-3aa285f511bc), by [@joulee](https://twitter.com/joulee)
 * [NO DICKHEADS! - A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d), by [@rhysys](https://twitter.com/rhysys)
 * [Why Remote Work Thrives in Some Companies and Fails in Others](https://hbr.org/2015/03/why-remote-work-thrives-in-some-companies-and-fails-in-others), by Sean Graber
 
