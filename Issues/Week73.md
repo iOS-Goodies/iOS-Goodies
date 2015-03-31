@@ -5,6 +5,7 @@
 * [Notes from Facebook's Developer Infrastructure at Scale F8 Talk](http://gregoryszorc.com/blog/2015/03/28/notes-from-facebook%27s-developer-infrastructure-at-scale-f8-talk/), by [@indygreg](https://twitter.com/indygreg)
 * [My Core Data Stack](http://martiancraft.com/blog/2015/03/core-data-stack/), by [@mzarra](https://twitter.com/mzarra)
 * [Putting Mobile Back End As A Service Into Practice (Part 1)](http://www.smashingmagazine.com/2015/03/30/mobile-backend-service-practice-part1/), by [@_davidtucker\_](https://twitter.com/_davidtucker_)
+* [Visual Tests with Xcode Playgrounds](http://whoisryannystrom.com/2015/03/30/Visual-Playground-Unit-Tests/), by [@_ryannystrom](https://twitter.com/_ryannystrom)
 
 **Tools/Controls**
 
