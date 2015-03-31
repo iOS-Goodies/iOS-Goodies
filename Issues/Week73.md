@@ -25,6 +25,7 @@
 * [How to Increase Your Forms Completion Rate](http://usabilityhour.com/better-forms/), by [@craigmcf5](https://twitter.com/craigmcf5)
 * [One Magic Formula to Calculate User Experience?](http://journal.gibbon.co/one-magic-formula-to-calculate-user-experience), by [@wdeb](https://twitter.com/wdeb)
 * [Designing Wunderlist for Apple Watch](https://www.wunderlist.com/blog/designing-wunderlist-for-apple-watch-from-benedikt-lehnert/), by [@blehnert](https://twitter.com/blehnert)
+* [Apple Watch GUI for Sketch](https://designcode.io/watch), by [@MengTo](https://twitter.com/mengto)
 
 **Videos**
 
