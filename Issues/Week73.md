@@ -14,6 +14,7 @@
 * [UIView+MGConstraints - add, store and replace constraints easily](https://github.com/matteogobbi/UIView-MGConstraints), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [SFJumpToLine - Xcode plugin that moves the instruction pointer to the selected line](https://github.com/sferrini/SFJumpToLine), by [@Simone_Ferrini](https://twitter.com/Simone_Ferrini)
 * [Hacking with Swift](http://www.hackingwithswift.com/), by [@twostraws](https://twitter.com/twostraws)
+* [iOS Charts](https://github.com/danielgindi/ios-charts), by Daniel Gindi
 
 **Business**
 
