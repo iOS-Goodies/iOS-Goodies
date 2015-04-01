@@ -37,7 +37,7 @@
 * [Think Different](http://realm.io/news/saul-mora-think-different/), by [@casademora](https://twitter.com/casademora)
 * [Swift - Under the Hood](http://www.infoq.com/presentations/swift-llvm), by [@alblue](https://twitter.com/alblue)
 * [Instagram Apple Watch Story](http://www.happy.watch/blog/2015/3/27/instagram-app), by [@acoomans](https://twitter.com/acoomans) and [@_ryannystrom](https://twitter.com/_ryannystrom)
-
+* [How Google does shadows on iOS](https://youtu.be/vvGVsmWdjyw), by [@googledevs](https://twitter.com/googledevs)
 
 **Goodies**
 
