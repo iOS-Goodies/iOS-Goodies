@@ -6,6 +6,7 @@
 * [My Core Data Stack](http://martiancraft.com/blog/2015/03/core-data-stack/), by [@mzarra](https://twitter.com/mzarra)
 * [Putting Mobile Back End As A Service Into Practice (Part 1)](http://www.smashingmagazine.com/2015/03/30/mobile-backend-service-practice-part1/), by [@_davidtucker\_](https://twitter.com/_davidtucker_)
 * [Visual Tests with Xcode Playgrounds](http://whoisryannystrom.com/2015/03/30/Visual-Playground-Unit-Tests/), by [@_ryannystrom](https://twitter.com/_ryannystrom)
+* [Functional notifications](http://www.jessesquires.com/functional-notifications/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Tools/Controls**
 
@@ -33,3 +34,4 @@
 
 * [Facebook F8 Engineering Sessions](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1_7FcSupSJoUe21tF12eu8), by [@fb_engineering](https://twitter.com/fb_engineering)
 * [Think Different](http://realm.io/news/saul-mora-think-different/), by [@casademora](https://twitter.com/casademora)
+* [Swift - Under the Hood](http://www.infoq.com/presentations/swift-llvm), by [@alblue](https://twitter.com/alblue)
