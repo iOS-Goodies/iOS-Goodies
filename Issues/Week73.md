@@ -29,6 +29,7 @@
 * [One Magic Formula to Calculate User Experience?](http://journal.gibbon.co/one-magic-formula-to-calculate-user-experience), by [@wdeb](https://twitter.com/wdeb)
 * [Designing Wunderlist for Apple Watch](https://www.wunderlist.com/blog/designing-wunderlist-for-apple-watch-from-benedikt-lehnert/), by [@blehnert](https://twitter.com/blehnert)
 * [Motivating-Uncertainty Effect](http://coglode.com/gems/motivating-uncertainty-effect), by [@ribot](https://twitter.com/ribot)
+* [Designing the new Twitter profiles](https://blog.twitter.com/2015/designing-the-new-twitter-profiles), by [@sanarao](https://twitter.com/sanarao)
 
 **Videos**
 
