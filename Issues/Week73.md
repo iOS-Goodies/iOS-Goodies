@@ -28,10 +28,16 @@
 * [How to Increase Your Forms Completion Rate](http://usabilityhour.com/better-forms/), by [@craigmcf5](https://twitter.com/craigmcf5)
 * [One Magic Formula to Calculate User Experience?](http://journal.gibbon.co/one-magic-formula-to-calculate-user-experience), by [@wdeb](https://twitter.com/wdeb)
 * [Designing Wunderlist for Apple Watch](https://www.wunderlist.com/blog/designing-wunderlist-for-apple-watch-from-benedikt-lehnert/), by [@blehnert](https://twitter.com/blehnert)
-* [Apple Watch GUI for Sketch](https://designcode.io/watch), by [@MengTo](https://twitter.com/mengto)
+* [Motivating-Uncertainty Effect](http://coglode.com/gems/motivating-uncertainty-effect), by [@ribot](https://twitter.com/ribot)
 
 **Videos**
 
 * [Facebook F8 Engineering Sessions](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1_7FcSupSJoUe21tF12eu8), by [@fb_engineering](https://twitter.com/fb_engineering)
 * [Think Different](http://realm.io/news/saul-mora-think-different/), by [@casademora](https://twitter.com/casademora)
 * [Swift - Under the Hood](http://www.infoq.com/presentations/swift-llvm), by [@alblue](https://twitter.com/alblue)
+
+
+**Goodies**
+
+* [Apple Watch GUI for Sketch](https://designcode.io/watch), by [@MengTo](https://twitter.com/mengto)
+
