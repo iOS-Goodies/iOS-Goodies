@@ -17,7 +17,7 @@
 * [SFJumpToLine - Xcode plugin that moves the instruction pointer to the selected line](https://github.com/sferrini/SFJumpToLine), by [@Simone_Ferrini](https://twitter.com/Simone_Ferrini)
 * [Hacking with Swift](http://www.hackingwithswift.com/), by [@twostraws](https://twitter.com/twostraws)
 * [iOS Charts](https://github.com/danielgindi/ios-charts), by Daniel Gindi
-* [A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier](https://github.com/Instagram/IGInterfaceDataTable), by [@instagram](https://twitter.com/instagram)
+* [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable), by [@instagram](https://twitter.com/instagram)
 
 **Business**
 
