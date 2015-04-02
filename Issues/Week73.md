@@ -7,6 +7,8 @@
 * [Putting Mobile Back End As A Service Into Practice (Part 1)](http://www.smashingmagazine.com/2015/03/30/mobile-backend-service-practice-part1/), by [@_davidtucker\_](https://twitter.com/_davidtucker_)
 * [Visual Tests with Xcode Playgrounds](http://whoisryannystrom.com/2015/03/30/Visual-Playground-Unit-Tests/), by [@_ryannystrom](https://twitter.com/_ryannystrom)
 * [Functional notifications](http://www.jessesquires.com/functional-notifications/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Looping In Swift - Meaningful Repetition](https://medium.com/the-traveled-ios-developers-guide/looping-in-swift-c9165989e569), by [@jordanmorgan10](https://twitter.com/jordanmorgan10)
+* [Three Ways to Enumerate the Words In a String Using Swift](https://medium.com/@sorenlind/three-ways-to-enumerate-the-words-in-a-string-using-swift-7da5504f0062), by [@sorenlind](https://twitter.com/sorenlind)
 
 **Tools/Controls**
 
@@ -15,12 +17,15 @@
 * [SFJumpToLine - Xcode plugin that moves the instruction pointer to the selected line](https://github.com/sferrini/SFJumpToLine), by [@Simone_Ferrini](https://twitter.com/Simone_Ferrini)
 * [Hacking with Swift](http://www.hackingwithswift.com/), by [@twostraws](https://twitter.com/twostraws)
 * [iOS Charts](https://github.com/danielgindi/ios-charts), by Daniel Gindi
+* [IGInterfaceDataTable](https://github.com/Instagram/IGInterfaceDataTable), by [@instagram](https://twitter.com/instagram)
 
 **Business**
 
 * [What Designers can Learn from Product Managers](https://medium.com/@joulee/what-designers-can-learn-from-pms-3aa285f511bc), by [@joulee](https://twitter.com/joulee)
 * [NO DICKHEADS! - A Guide To Building Happy, Healthy, and Creative Teams.](https://medium.com/@rhysys/no-dickheads-a-guide-to-building-happy-healthy-and-creative-teams-7e9b049fc57d), by [@rhysys](https://twitter.com/rhysys)
 * [Why Remote Work Thrives in Some Companies and Fails in Others](https://hbr.org/2015/03/why-remote-work-thrives-in-some-companies-and-fails-in-others), by Sean Graber
+* [What the Experts Taught Me About Mobile Growth](https://blog.branch.io/what-the-experts-taught-me-about-mobile-growth/), by [@EvanRBarry](https://twitter.com/EvanRBarry)
+* [Test your startup idea: A list that took me 8 years to develop](http://blog.hubstaff.com/test-your-startup-idea/), by [@dnevogt](https://twitter.com/dnevogt)
 
 **UI/UX**
 
@@ -31,6 +36,8 @@
 * [Designing Wunderlist for Apple Watch](https://www.wunderlist.com/blog/designing-wunderlist-for-apple-watch-from-benedikt-lehnert/), by [@blehnert](https://twitter.com/blehnert)
 * [Motivating-Uncertainty Effect](http://coglode.com/gems/motivating-uncertainty-effect), by [@ribot](https://twitter.com/ribot)
 * [Designing the new Twitter profiles](https://blog.twitter.com/2015/designing-the-new-twitter-profiles), by [@sanarao](https://twitter.com/sanarao)
+* [MyCharlie - Bringing Boston’s public transit ticketing system one step closer to the 21st century](https://medium.com/@limegroove/mycharlie-cef6cc7fdd59), by [@limegroove](https://twitter.com/limegroove)
+* [Mobile Navigation](https://medium.com/@benjamin_berger/mobile-navigation-fb793fd05498), by [@benjamin_berger](https://twitter.com/benjamin_berger)
 
 **Videos**
 
