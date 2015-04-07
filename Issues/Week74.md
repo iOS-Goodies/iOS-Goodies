@@ -3,6 +3,8 @@
 
 **Tools/Controls**
 
+* [Sync](https://github.com/hyperoslo/Sync), by [@hyperoslo](https://twitter.com/hyperoslo)
+
 **Business**
 
 * [Artsy's Engineering Compensation Framework](http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/), [@dblockdotorg](https://twitter.com/dblockdotorg)
