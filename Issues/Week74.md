@@ -1,9 +1,11 @@
 **Articles**
+
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out), by [@maryrosecook](https://twitter.com/maryrosecook)
 
 **Tools/Controls**
 
 * [Sync](https://github.com/hyperoslo/Sync), by [@hyperoslo](https://twitter.com/hyperoslo)
+* [Swiftier](https://github.com/snej/swiftier), by [@snej](https://twitter.com/snej)
 
 **Business**
 
