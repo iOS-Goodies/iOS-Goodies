@@ -4,6 +4,7 @@
 **Tools/Controls**
 
 * [Sync](https://github.com/hyperoslo/Sync), by [@hyperoslo](https://twitter.com/hyperoslo)
+* [Swiftier, a quick and dirty Objective-C to Swift translator](https://github.com/snej/swiftier), by [@snej](https://twitter.com/snej)
 
 **Business**
 
