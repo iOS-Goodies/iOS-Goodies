@@ -1,4 +1,5 @@
 **Articles**
+
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out), by [@maryrosecook](https://twitter.com/maryrosecook)
 
 **Tools/Controls**
