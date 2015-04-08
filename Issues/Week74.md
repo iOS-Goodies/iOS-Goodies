@@ -23,3 +23,7 @@
 **Videos**
 
 * [Natural Language Processing with Swift](http://realm.io/news/natural-language-processing-with-swift/), by [@ayanonagon](https://twitter.com/ayanonagon)
+
+**Indie Apps**
+
+* [Highball](http://www.studioneat.com/blogs/main/17985764-introducing-highball), by [@studioneat](https://twitter.com/studioneat)
