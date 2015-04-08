@@ -6,6 +6,7 @@
 
 * [Sync](https://github.com/hyperoslo/Sync), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [Swiftier](https://github.com/snej/swiftier), by [@snej](https://twitter.com/snej)
+* [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
 
 **Business**
 
