@@ -14,6 +14,7 @@
 
 * [Artsy's Engineering Compensation Framework](http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/), [@dblockdotorg](https://twitter.com/dblockdotorg)
 * [The Three Phases of Consumer Products](https://medium.com/backchannel/lessons-learned-growing-consumer-products-550fc04c63c2), by [@arjunsethi](https://twitter.com/arjunsethi)
+* [How Teens Really Use Apps](http://blog.testmunk.com/how-teens-really-use-apps/), by [@mposchenrieder](https://twitter.com/mposchenrieder)
 
 
 **UI/UX**
