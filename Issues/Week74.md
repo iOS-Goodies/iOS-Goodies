@@ -27,6 +27,7 @@
 **Videos**
 
 * [Natural Language Processing with Swift](http://realm.io/news/natural-language-processing-with-swift/), by [@ayanonagon](https://twitter.com/ayanonagon)
+* [Testing in Swift](http://realm.io/news/testing-in-swift/), by [@jeffhui](https://twitter.com/jeffhui)
 
 **Indie Apps**
 
