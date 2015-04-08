@@ -2,6 +2,7 @@
 
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out), by [@maryrosecook](https://twitter.com/maryrosecook)
 * [10 Years of Git: An Interview with Git Creator Linus Torvalds](http://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds), by [@jennifercloer](https://twitter.com/jennifercloer)
+* [Text animations with Ophiuchus](http://www.ios-animations-by-emails.com/posts/2015-april), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
