@@ -3,6 +3,8 @@
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out), by [@maryrosecook](https://twitter.com/maryrosecook)
 * [10 Years of Git: An Interview with Git Creator Linus Torvalds](http://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds), by [@jennifercloer](https://twitter.com/jennifercloer)
 * [Text animations with Ophiuchus](http://www.ios-animations-by-emails.com/posts/2015-april), by [@icanzilb](https://twitter.com/icanzilb)
+* [Going Global - A Peek At Swift’s Global Functions](https://medium.com/the-traveled-ios-developers-guide/going-global-9b1002207f4f), by [@jordanmorgan10](https://twitter.com/jordanmorgan10)
+* [Failable initializers, revisited](http://www.jessesquires.com/swift-failable-initializers-revisited/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Tools/Controls**
 
@@ -25,6 +27,9 @@
 * [Fall of the Designer Part I: Fashionable Nonsense](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [How to Improve Retention With Design: 3 UX Laws to Retain Users](https://medium.com/@framedio/how-to-improve-retention-with-design-3-ux-laws-to-retain-users-cd92efb8ffed), by [@framedio](https://twitter.com/framedio)
 * [10 lesser known UX persuasion techniques](http://www.uxforthemasses.com/ux-persuasion-techniques/), by [@neilturnerux](https://twitter.com/neilturnerux)
+* [An intermediate guide to improve your Origami prototyping skills](https://medium.com/@naxum/an-intermediate-guide-to-improve-your-origami-prototyping-skills-55cc9f85de7d), by [@Naxum](https://twitter.com/Naxum)
+* [The Principles of UX Choreography](https://medium.com/@becca_u/the-principles-of-ux-choreography-69c91c2cbc2a), by [@becca_u](https://twitter.com/becca_u)
+* [Xcode as a Prototyping Tool for Designers](https://robots.thoughtbot.com/xcode-as-a-prototyping-tool-for-designers), by [@mvenetucci](https://twitter.com/mvenetucci)
 
 **Videos**
 
