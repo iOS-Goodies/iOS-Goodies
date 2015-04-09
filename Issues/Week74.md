@@ -25,6 +25,7 @@
 * [Fall of the Designer Part I: Fashionable Nonsense](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [How to Improve Retention With Design: 3 UX Laws to Retain Users](https://medium.com/@framedio/how-to-improve-retention-with-design-3-ux-laws-to-retain-users-cd92efb8ffed), by [@framedio](https://twitter.com/framedio)
 * [10 lesser known UX persuasion techniques](http://www.uxforthemasses.com/ux-persuasion-techniques/), by [@neilturnerux](https://twitter.com/neilturnerux)
+* [Designing a calendar app for millions](http://blog.sunrise.am/post/115690549164/designing-a-calendar-app-for-millions), by [@sunrise](https://twitter.com/sunrise)
 
 **Videos**
 
