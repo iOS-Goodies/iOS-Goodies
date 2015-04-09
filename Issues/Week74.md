@@ -20,6 +20,7 @@
 * [Artsy's Engineering Compensation Framework](http://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/), [@dblockdotorg](https://twitter.com/dblockdotorg)
 * [The Three Phases of Consumer Products](https://medium.com/backchannel/lessons-learned-growing-consumer-products-550fc04c63c2), by [@arjunsethi](https://twitter.com/arjunsethi)
 * [How Teens Really Use Apps](http://blog.testmunk.com/how-teens-really-use-apps/), by [@mposchenrieder](https://twitter.com/mposchenrieder)
+* [U.S. Smartphone Use in 2015](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/), by [@aaron_w_smith](https://twitter.com/aaron_w_smith/)
 
 
 **UI/UX**
@@ -32,6 +33,7 @@
 * [An intermediate guide to improve your Origami prototyping skills](https://medium.com/@naxum/an-intermediate-guide-to-improve-your-origami-prototyping-skills-55cc9f85de7d), by [@Naxum](https://twitter.com/Naxum)
 * [The Principles of UX Choreography](https://medium.com/@becca_u/the-principles-of-ux-choreography-69c91c2cbc2a), by [@becca_u](https://twitter.com/becca_u)
 * [Xcode as a Prototyping Tool for Designers](https://robots.thoughtbot.com/xcode-as-a-prototyping-tool-for-designers), by [@mvenetucci](https://twitter.com/mvenetucci)
+* [How Periscope Onboards New Users](http://www.useronboard.com/how-periscope-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 
 **Videos**
 
