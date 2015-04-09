@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Awesome iOS Libraries](https://github.com/cjwirth/awesome-ios-ui), by [@cjwirth](https://twitter.com/cjwirth)
+* [FoldingTabBar](https://github.com/Yalantis/FoldingTabBar.iOS), by [@yalantis](https://twitter.com/yalantis)
 * [Sync](https://github.com/hyperoslo/Sync), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [Swiftier](https://github.com/snej/swiftier), by [@snej](https://twitter.com/snej)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
