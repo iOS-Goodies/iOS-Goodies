@@ -21,7 +21,7 @@
 * [The Three Phases of Consumer Products](https://medium.com/backchannel/lessons-learned-growing-consumer-products-550fc04c63c2), by [@arjunsethi](https://twitter.com/arjunsethi)
 * [How Teens Really Use Apps](http://blog.testmunk.com/how-teens-really-use-apps/), by [@mposchenrieder](https://twitter.com/mposchenrieder)
 * [U.S. Smartphone Use in 2015](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/), by [@aaron_w_smith](https://twitter.com/aaron_w_smith/)
-
+* [How to Ensure Your App will be a Huge Failure](http://savvyapps.com/blog/how-to-ensure-your-app-will-be-a-huge-failure/), by [@kenyarmosh](https://twitter.com/kenyarmosh)
 
 **UI/UX**
 
