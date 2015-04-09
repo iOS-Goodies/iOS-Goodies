@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Awesome iOS Libraries](https://github.com/cjwirth/awesome-ios-ui), by [@cjwirth](https://twitter.com/cjwirth)
+* [FoldingTabBar](https://github.com/Yalantis/FoldingTabBar.iOS), by [@yalantis](https://twitter.com/yalantis)
 * [Sync](https://github.com/hyperoslo/Sync), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [Swiftier](https://github.com/snej/swiftier), by [@snej](https://twitter.com/snej)
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts)
@@ -27,6 +28,7 @@
 * [Fall of the Designer Part I: Fashionable Nonsense](http://www.elischiff.com/blog/2015/4/7/fall-of-the-designer-part-i-fashionable-nonsense), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [How to Improve Retention With Design: 3 UX Laws to Retain Users](https://medium.com/@framedio/how-to-improve-retention-with-design-3-ux-laws-to-retain-users-cd92efb8ffed), by [@framedio](https://twitter.com/framedio)
 * [10 lesser known UX persuasion techniques](http://www.uxforthemasses.com/ux-persuasion-techniques/), by [@neilturnerux](https://twitter.com/neilturnerux)
+* [Designing a calendar app for millions](http://blog.sunrise.am/post/115690549164/designing-a-calendar-app-for-millions), by [@sunrise](https://twitter.com/sunrise)
 * [An intermediate guide to improve your Origami prototyping skills](https://medium.com/@naxum/an-intermediate-guide-to-improve-your-origami-prototyping-skills-55cc9f85de7d), by [@Naxum](https://twitter.com/Naxum)
 * [The Principles of UX Choreography](https://medium.com/@becca_u/the-principles-of-ux-choreography-69c91c2cbc2a), by [@becca_u](https://twitter.com/becca_u)
 * [Xcode as a Prototyping Tool for Designers](https://robots.thoughtbot.com/xcode-as-a-prototyping-tool-for-designers), by [@mvenetucci](https://twitter.com/mvenetucci)
