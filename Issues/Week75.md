@@ -13,6 +13,11 @@
 * [Apple’s App Store review process is hurting users, but we’re not allowed to talk about it.](https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b), by [@krave](https://twitter.com/krave)
 * [The One-Minute Test](https://medium.com/@jmspool/the-one-minute-test-68738cb111ea), by [@jmspool](https://twitter.com/jmspool)
 * [Minimum Sustainable Success](http://www.lostgarden.com/2015/04/minimum-sustainable-success.html), by [@danctheduck](https://twitter.com/danctheduck)
+* [How I Learned to Write Custom Signals in Reactive Cocoa](http://yalantis.com/blog/how-i-learned-to-write-custom-signals-in-reactive-cocoa/), by [@kateabrosimova](https://twitter.com/kateabrosimova)
+
+**Business**
+
+* [How to Get Feedback on Your Mobile App](http://yalantis.com/blog/get-feedback-mobile-app/), by [@kateabrosimova](https://twitter.com/kateabrosimova)
 * [How to Get Feedback on Your Mobile App](http://yalantis.com/blog/get-feedback-mobile-app/), by [@kateabrosimova](https://twitter.com/kateabrosimova)
 
 **Tools/Controls**
