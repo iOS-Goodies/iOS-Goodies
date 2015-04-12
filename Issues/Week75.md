@@ -2,6 +2,8 @@
 
 **Business**
 
+* [Apple’s App Store review process is hurting users, but we’re not allowed to talk about it.](https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b), by [@krave](https://twitter.com/krave)
+
 **Tools/Controls**
 
 **UI/UX**
