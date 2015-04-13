@@ -3,6 +3,7 @@
 **Business**
 
 * [Apple’s App Store review process is hurting users, but we’re not allowed to talk about it.](https://medium.com/@krave/apple-s-app-store-review-process-is-hurting-users-but-we-re-not-allowed-to-talk-about-it-55d791451b), by [@krave](https://twitter.com/krave)
+* [The One-Minute Test](https://medium.com/@jmspool/the-one-minute-test-68738cb111ea), by [@jmspool](https://twitter.com/jmspool)
 
 **Tools/Controls**
 
