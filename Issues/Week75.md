@@ -25,9 +25,13 @@
 * [How to Get Feedback on Your Mobile App](http://yalantis.com/blog/get-feedback-mobile-app/), by [@kateabrosimova](https://twitter.com/kateabrosimova)
 
 **Tools/Controls**
+<<<<<<< HEAD
 * [ResearchKit](http://researchkit.github.io)
 
 * [xcode-install](https://github.com/neonichu/xcode-install), by [@NeoNacho](https://twitter.com/NeoNacho)
+=======
+* [Concorde: Download and decode progressive JPEGs](https://github.com/contentful-labs/Concorde/) 
+>>>>>>> Add Concorde
 
 **UI/UX**
 * [Fall of the Designer Part II: Pixel Pushers](http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers), by [@eli_schiff](https://twitter.com/eli_schiff)
