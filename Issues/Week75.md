@@ -7,6 +7,7 @@
 * [Minimum Sustainable Success](http://www.lostgarden.com/2015/04/minimum-sustainable-success.html), by [@danctheduck](https://twitter.com/danctheduck)
 
 **Tools/Controls**
+* [Concorde: Download and decode progressive JPEGs](https://github.com/contentful-labs/Concorde/) 
 
 **UI/UX**
 
