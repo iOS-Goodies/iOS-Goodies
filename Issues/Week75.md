@@ -18,3 +18,4 @@
 
 * [UXPin Free Resources](http://www.uxpin.com/knowledge.html), by [@uxpin](https://twitter.com/uxpin)
 * [Use React Native](http://www.reactnative.com/)
+* [WWDC 2015 announced: June 8-12](http://www.macrumors.com/2015/04/14/wwdc-2015-june-8-12/)
