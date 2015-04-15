@@ -15,6 +15,7 @@
 * [ResearchKit](http://researchkit.github.io)
 
 **UI/UX**
+* [Fall of the Designer Part II: Pixel Pushers](http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers), by [@eli_schiff](https://twitter.com/eli_schiff)
 
 **Videos**
 
