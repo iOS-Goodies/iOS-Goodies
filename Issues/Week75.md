@@ -4,6 +4,7 @@
 * [Sharing Data between WatchKit & your App, with Realm](https://realm.io/news/tutorial-sharing-data-between-watchkit-and-your-app/), by [@theandreamazz](https://twitter.com/theandreamazz)
 * [Follow These Guidelines and Never Struggle with Xcode Code Signing Again](http://blog.jaredsinclair.com/post/116436789850/follow-these-guidelines-and-never-struggle-with), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [Researching ResearchKit](http://petersteinberger.com/blog/2015/researching-researchkit/), by [@steipete](https://twitter.com/steipete)
+* [Preloading Development Data Into Your iOS App](http://corporationunknown.com/blog/2014/07/10/preloading-development-data-into-your-ios-app/), by [@pgor](https://twitter.com/pgor)
 
 * [How I Learned to Write Custom Signals in Reactive Cocoa](http://yalantis.com/blog/how-i-learned-to-write-custom-signals-in-reactive-cocoa/), by [@kateabrosimova](https://twitter.com/kateabrosimova)
 
