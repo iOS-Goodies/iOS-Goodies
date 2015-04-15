@@ -26,6 +26,7 @@
 * [Fall of the Designer Part II: Pixel Pushers](http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth), by [@drcrypt](https://twitter.com/drcrypt)
 * [Your Spring Animations Are Bad (And It’s Probably Apple’s Fault)](https://medium.com/@flyosity/your-spring-animations-are-bad-and-it-s-probably-apple-s-fault-784932e51733), by [@flyosity](https://twitter.com/flyosity)
+* [Myth #34: Simple = minimal](http://uxmyths.com/post/115783813605/myth-34-simple-minimal), by [@goczazoltan](https://twitter.com/goczazoltan)
 
 **Videos**
 
