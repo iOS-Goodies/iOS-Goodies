@@ -28,6 +28,7 @@
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu), by [@yalantis](https://twitter.com/yalantis)
 
 **UI/UX**
+* [Fall of the Designer Part II: Pixel Pushers](http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers), by [@eli_schiff](https://twitter.com/eli_schiff)
 
 * [Fall of the Designer Part II: Pixel Pushers](http://www.elischiff.com/blog/2015/4/14/fall-of-the-designer-part-ii-pixel-pushers), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [The Golden Ratio: Design's Biggest Myth](http://www.fastcodesign.com/3044877/the-golden-ratio-designs-biggest-myth), by [@drcrypt](https://twitter.com/drcrypt)
