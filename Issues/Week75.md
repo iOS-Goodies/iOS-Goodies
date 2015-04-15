@@ -16,6 +16,7 @@
 * [How to Get Feedback on Your Mobile App](http://yalantis.com/blog/get-feedback-mobile-app/), by [@kateabrosimova](https://twitter.com/kateabrosimova)
 
 **Tools/Controls**
+* [Concorde: Download and decode progressive JPEGs](https://github.com/contentful-labs/Concorde/) 
 
 * [ResearchKit](http://researchkit.github.io)
 * [xcode-install](https://github.com/neonichu/xcode-install), by [@NeoNacho](https://twitter.com/NeoNacho)
