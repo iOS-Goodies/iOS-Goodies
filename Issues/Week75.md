@@ -10,6 +10,7 @@
 * [Unmanaged](http://nshipster.com/unmanaged/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [Putting Mobile Back End As A Service Into Practice (Part 2)](http://www.smashingmagazine.com/2015/04/14/mobile-backend-service-practice-part2/), by [@_davidtucker\_](https://twitter.com/_davidtucker_)
 * [Building an Instagram-Like App with Parse and Swift](http://www.appcoda.com/instagram-app-parse-swift/), by [@reinderdevries](https://twitter.com/reinderdevries)
+* [Natalie - Storyboard Code Generator](http://blog.krzyzanowskim.com/2015/04/15/natalie-storyboard-code-generator/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **Business**
 
@@ -25,6 +26,7 @@
 * [ResearchKit](http://researchkit.github.io)
 * [xcode-install](https://github.com/neonichu/xcode-install), by [@NeoNacho](https://twitter.com/NeoNacho)
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu), by [@yalantis](https://twitter.com/yalantis)
+* [Natalie - Storyboard Code Generator](https://github.com/krzyzanowskim/Natalie), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **UI/UX**
 
