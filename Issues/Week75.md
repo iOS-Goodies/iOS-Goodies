@@ -1,5 +1,6 @@
 **Articles**
 
+* [Follow These Guidelines and Never Struggle with Xcode Code Signing Again](http://blog.jaredsinclair.com/post/116436789850/follow-these-guidelines-and-never-struggle-with), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [View Debugging in Xcode 6](http://www.raywenderlich.com/98356/view-debugging-in-xcode-6), by [@ScottBerrevoets](https://twitter.com/ScottBerrevoets)
 * [Sharing Data between WatchKit & your App, with Realm](https://realm.io/news/tutorial-sharing-data-between-watchkit-and-your-app/), by [@theandreamazz](https://twitter.com/theandreamazz)
 * [Follow These Guidelines and Never Struggle with Xcode Code Signing Again](http://blog.jaredsinclair.com/post/116436789850/follow-these-guidelines-and-never-struggle-with), by [@jaredsinclair](https://twitter.com/jaredsinclair)
