@@ -20,10 +20,6 @@
 * [3 Things Every Indie Business Owner Should Know](http://dancounsell.com/articles/3-things-every-indie-business-owner-should-know), by [@dancounsell](https://twitter.com/dancounsell)
 
 **Tools/Controls**
-<<<<<<< HEAD
-* [Concorde: Download and decode progressive JPEGs](https://github.com/contentful-labs/Concorde/) 
-=======
->>>>>>> Adds "GuillotineMenu"
 
 * [Concorde: Download and decode progressive JPEGs](https://github.com/contentful-labs/Concorde/) 
 * [ResearchKit](http://researchkit.github.io)
