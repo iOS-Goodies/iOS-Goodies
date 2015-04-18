@@ -4,7 +4,7 @@
 
 **Tools/Articles**
 
-* [Hardcover](https://github.com/xing/hardcover)
+* [Hardcover](https://github.com/xing/hardcover), by [@xingapi](https://twitter.com/xingapi)
 
 **Business**
 
