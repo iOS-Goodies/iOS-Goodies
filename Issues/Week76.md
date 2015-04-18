@@ -4,7 +4,8 @@
 
 **Tools/Articles**
 
+* [Hardcover](https://github.com/xing/hardcover)
+
 **Business**
 
 **UI/UX**
-
