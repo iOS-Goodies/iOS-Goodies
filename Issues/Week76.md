@@ -9,6 +9,8 @@
 
 **Business**
 
+* [Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/), by [@benjiweber](https://twitter.com/benjiweber)
+
 **UI/UX**
 
 * [The Next Big Thing In Design? Less Choice](http://www.fastcodesign.com/3045039/the-next-big-thing-in-design-fewer-choices), by [@amshap](https://twitter.com/amshap)
