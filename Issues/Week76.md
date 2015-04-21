@@ -13,3 +13,7 @@
 
 * [The Next Big Thing In Design? Less Choice](http://www.fastcodesign.com/3045039/the-next-big-thing-in-design-fewer-choices), by [@amshap](https://twitter.com/amshap)
 * [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b), by [@jessehausler](https://twitter.com/jessehausler)
+
+**Goodies**
+
+* [Open Sourcery](http://www.opensourcery.club/), by [@mxcl](https://twitter.com/mxcl)
