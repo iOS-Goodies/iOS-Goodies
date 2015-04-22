@@ -11,6 +11,7 @@
 
 **Business**
 
+* [The next tech bubble is about to burst](http://kernelmag.dailydot.com/issue-sections/staff-editorials/12637/tech-bubble-venture-capital/?fb=dd), by [@exercisingdrunk](https://twitter.com/exercisingdrunk)
 * [Modern Extreme Programming](http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/), by [@benjiweber](https://twitter.com/benjiweber)
 * [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/), by [@henrikwarne](https://twitter.com/henrikwarne)
 
