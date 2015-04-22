@@ -3,6 +3,7 @@
 * [Let's Build Swift.Array](https://mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html), by [@mikeash](https://twitter.com/mikeash)
 * [Fun With Scrollviews](http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews/), by [@richturton](https://twitter.com/richturton)
 * [My Biggest WatchKit Mistake](http://realm.io/news/watchkit-mistakes/), by [@realm](https://twitter.com/realm)
+* [Swift Standard Library Signaling](http://www.observationalhazard.com/2015/04/swift-standard-library-signaling.html), by [@davekopec](https://twitter.com/davekopec)
 
 **Tools/Articles**
 
