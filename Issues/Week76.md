@@ -4,6 +4,7 @@
 * [Fun With Scrollviews](http://commandshift.co.uk/blog/2015/04/19/fun-with-scrollviews/), by [@richturton](https://twitter.com/richturton)
 * [My Biggest WatchKit Mistake](http://realm.io/news/watchkit-mistakes/), by [@realm](https://twitter.com/realm)
 * [Swift Standard Library Signaling](http://www.observationalhazard.com/2015/04/swift-standard-library-signaling.html), by [@davekopec](https://twitter.com/davekopec)
+* [Design Patterns: Dependency Injection](https://code.tutsplus.com/articles/design-patterns-dependency-injection--cms-23809), by [@_bartjacobs](https://twitter.com/_bartjacobs)
 
 **Tools/Articles**
 
