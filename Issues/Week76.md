@@ -27,7 +27,6 @@
 * [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b), by [@jessehausler](https://twitter.com/jessehausler)
 * [Designing Settings](https://medium.com/@imran_parvez/designing-settings-b2a96878961b), by [@imran_parvez](https://twitter.com/imran_parvez)
 * [The Watch On My Phone: What Time Means To Us](https://medium.com/@sudeshnapantham/the-watch-on-my-phone-what-time-means-to-us-2935752a9dd1), by [@sudeshna_p](https://twitter.com/sudeshna_p)
-* [Icons for Apple Watch – The Definitive Guide](http://www.mybridge.co/view/855), by [@iconifyit](https://twitter.com/iconifyit)
 
 **Videos**
 
