@@ -36,3 +36,4 @@
 **Goodies**
 
 * [Open Sourcery](http://www.opensourcery.club/), by [@mxcl](https://twitter.com/mxcl)
+* [Apple Watch User Guide](http://help.apple.com/watch/)
