@@ -29,6 +29,9 @@
 * [The Watch On My Phone: What Time Means To Us](https://medium.com/@sudeshnapantham/the-watch-on-my-phone-what-time-means-to-us-2935752a9dd1), by [@sudeshna_p](https://twitter.com/sudeshna_p)
 * [Icons for Apple Watch – The Definitive Guide](http://www.mybridge.co/view/855), by [@iconifyit](https://twitter.com/iconifyit)
 
+**Videos**
+
+* [Design and Animation for Apple Watch](http://www.happy.watch/blog/2015/4/21/design-and-animation), by [@mrhamzasidd](https://twitter.com/mrhamzasidd)
 
 **Goodies**
 
