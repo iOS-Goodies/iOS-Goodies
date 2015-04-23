@@ -7,6 +7,7 @@
 * [Design Patterns: Dependency Injection](https://code.tutsplus.com/articles/design-patterns-dependency-injection--cms-23809), by [@_bartjacobs](https://twitter.com/_bartjacobs)
 * [Tutorial: Building an Apple Watch Notification](http://www.brianjcoleman.com/tutorial-building-a-apple-watch-notification/), by [@brianjcoleman](https://twitter.com/brianjcoleman)
 * [Specifying the Destination of an Unwind Segue Programmatically](http://spin.atomicobject.com/2015/04/23/unwind-segue-set-destination/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
+* [Intro to AsyncDisplayKit](http://www.lukeparham.com/blog/2015/3/23/asyncdisplaykit), by [@lukeparham](https://twitter.com/lukeparham)
 
 **Tools/Articles**
 
