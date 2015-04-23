@@ -19,6 +19,7 @@
 * [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/), by [@henrikwarne](https://twitter.com/henrikwarne)
 * [A good strategy to get App Ratings from your user](http://blog.retention.ai/app-ratings/), by [@amri_anand](https://twitter.com/amri_anand)
 * [9 Ways to Use iBeacons to Engage Shoppers](http://tweakyourbiz.com/technology/2015/04/21/9-ways-to-use-ibeacons-to-engage-shoppers/), by [@kimbergjohnson](https://twitter.com/kimbergjohnson)
+* [Hours, the Apple Watch, and turning an app into a business](https://medium.com/the-hours-blog/hours-the-apple-watch-and-turning-an-app-into-a-businesst-b2b218899a91), by [@jerols](https://twitter.com/jerols)
 
 **UI/UX**
 
