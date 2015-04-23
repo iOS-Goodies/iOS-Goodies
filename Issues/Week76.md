@@ -34,6 +34,7 @@
 **Videos**
 
 * [Design and Animation for Apple Watch](http://www.happy.watch/blog/2015/4/21/design-and-animation), by [@mrhamzasidd](https://twitter.com/mrhamzasidd)
+* [Ruthlessly Simple Dependency Management with Carthage](http://realm.io/news/swift-dependency-management-with-carthage/), by [@jspahrsummers](https://twitter.com/jspahrsummers)
 
 **Goodies**
 
