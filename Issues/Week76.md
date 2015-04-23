@@ -6,6 +6,7 @@
 * [Swift Standard Library Signaling](http://www.observationalhazard.com/2015/04/swift-standard-library-signaling.html), by [@davekopec](https://twitter.com/davekopec)
 * [Design Patterns: Dependency Injection](https://code.tutsplus.com/articles/design-patterns-dependency-injection--cms-23809), by [@_bartjacobs](https://twitter.com/_bartjacobs)
 * [Tutorial: Building an Apple Watch Notification](http://www.brianjcoleman.com/tutorial-building-a-apple-watch-notification/), by [@brianjcoleman](https://twitter.com/brianjcoleman)
+* [Specifying the Destination of an Unwind Segue Programmatically](http://spin.atomicobject.com/2015/04/23/unwind-segue-set-destination/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
 
 **Tools/Articles**
 
