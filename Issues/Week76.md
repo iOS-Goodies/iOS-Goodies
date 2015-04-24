@@ -9,6 +9,7 @@
 * [Specifying the Destination of an Unwind Segue Programmatically](http://spin.atomicobject.com/2015/04/23/unwind-segue-set-destination/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
 * [Intro to AsyncDisplayKit](http://www.lukeparham.com/blog/2015/3/23/asyncdisplaykit), by [@lukeparham](https://twitter.com/lukeparham)
 * [Lessons Learned in Software Development](http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/), by [@henrikwarne](https://twitter.com/henrikwarne) via [@olebegemann](https://twitter.com/olebegemann)
+* [A First Look at ReactiveCocoa 3.0 ](http://blog.scottlogic.com/2015/04/24/first-look-reactive-cocoa-3.html), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 
 **Tools/Articles**
 
