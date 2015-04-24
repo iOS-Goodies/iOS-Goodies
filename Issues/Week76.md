@@ -13,6 +13,8 @@
 **Tools/Articles**
 
 * [Hardcover](https://github.com/xing/hardcover), by [@xingapi](https://twitter.com/xingapi)
+* [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider), by [@itskathuria](https://twitter.com/itskathuria)
+* [Helium](https://github.com/JadenGeller/Helium), by [@jadengeller](https://twitter.com/jadengeller)
 
 **Business**
 
