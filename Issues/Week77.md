@@ -9,6 +9,8 @@
 
 **Business**
 
+* [Perspectives on wearables](http://solarsailer.net/2015/04/wearables), by []@solarsailer(https://twitter.com/solarsailer)
+
 
 **UI/UX**
 
