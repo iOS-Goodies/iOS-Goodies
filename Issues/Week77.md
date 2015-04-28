@@ -6,6 +6,7 @@
 * [WatchKit: Best practices for sharing data between your Watch and iOS app](http://www.kristinathai.com/watchkit-best-practices-for-sharing-data-between-your-watch-and-ios-app/) by [@kristinathai](https://twitter.com/kristinathai)
 * [Using interfaceOrientation with iOS8 transitions](http://blog.inferis.org/blog/2015/04/27/ios8-and-interfaceorientation/), by [@inferis](https://twitter.com/inferis)
 * [Are Slow Tests Killing Your Feedback Loop?](http://qualitycoding.org/slow-tests/), by [@qcoding](https://twitter.com/qcoding)
+* [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 
 
 **Tools/Controls**
