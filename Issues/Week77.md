@@ -22,6 +22,7 @@
 
 **Videos**
 
+* [Design and Animation for the WATCH](http://www.happy.watch/blog/2015/4/21/design-and-animation), by [@benmorrow](https://twitter.com/benmorrow)
 
 **Goodies**
 
