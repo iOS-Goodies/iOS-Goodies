@@ -18,6 +18,7 @@
 
 **UI/UX**
 
+* [Designing for the WATCH](http://webdesign.tutsplus.com/articles/designing-for-the-watch--cms-23818), by [@ryanallen_com](https://twitter.com/ryanallen_com)
 
 **Videos**
 
