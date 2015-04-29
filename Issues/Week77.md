@@ -6,6 +6,7 @@
 * [WatchKit: Best practices for sharing data between your Watch and iOS app](http://www.kristinathai.com/watchkit-best-practices-for-sharing-data-between-your-watch-and-ios-app/) by [@kristinathai](https://twitter.com/kristinathai)
 * [Using interfaceOrientation with iOS8 transitions](http://blog.inferis.org/blog/2015/04/27/ios8-and-interfaceorientation/), by [@inferis](https://twitter.com/inferis)
 * [Are Slow Tests Killing Your Feedback Loop?](http://qualitycoding.org/slow-tests/), by [@qcoding](https://twitter.com/qcoding)
+* [More WatchKit Mistakes](http://realm.io/news/more-watchkit-mistakes/)
 
 
 **Tools/Controls**
@@ -25,4 +26,3 @@
 
 
 **Goodies**
-
