@@ -7,7 +7,7 @@
 * [Using interfaceOrientation with iOS8 transitions](http://blog.inferis.org/blog/2015/04/27/ios8-and-interfaceorientation/), by [@inferis](https://twitter.com/inferis)
 * [Are Slow Tests Killing Your Feedback Loop?](http://qualitycoding.org/slow-tests/), by [@qcoding](https://twitter.com/qcoding)
 * [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
-
+* [iOS & Swift Tutorial: Multipeer Connectivity](http://www.ralfebert.de/tutorials/ios-swift-multipeer-connectivity/), by [@ralfebert](https://twitter.com/ralfebert)
 
 **Tools/Controls**
 * [The open source route planner GraphHopper is available for iOS](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
