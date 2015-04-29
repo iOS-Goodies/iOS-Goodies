@@ -9,6 +9,7 @@
 
 
 **Tools/Controls**
+* [The open source route planner GraphHopper is available for iOS](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
 
 
 **Business**
