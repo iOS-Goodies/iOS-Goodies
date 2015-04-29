@@ -10,8 +10,9 @@
 * [iOS & Swift Tutorial: Multipeer Connectivity](http://www.ralfebert.de/tutorials/ios-swift-multipeer-connectivity/), by [@ralfebert](https://twitter.com/ralfebert)
 
 **Tools/Controls**
-* [The open source route planner GraphHopper is available for iOS](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
 
+* [GraphHopper](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
+* [BKAsciiImage](https://github.com/bkoc/BKAsciiImage), by [@bariskoc](https://twitter.com/bariskoc)
 
 **Business**
 
