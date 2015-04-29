@@ -9,7 +9,7 @@
 
 
 **Tools/Controls**
-
+* [SwiftyStateMachine](http://macoscope.com/blog/swifty-state-machine/), by [@macoscope](https://twitter.com/macoscope/)
 
 **Business**
 
