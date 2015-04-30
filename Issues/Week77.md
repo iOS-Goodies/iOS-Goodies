@@ -14,6 +14,8 @@
 * [An Introduction to ReactiveCocoa](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa), by [@nomothetis](https://twitter.com/nomothetis)
 * [Pattern Matching in Swift](http://www.codingexplorer.com/pattern-matching-in-swift/), by [@CodingExplorer](https://twitter.com/CodingExplorer)
 * [ReactiveCocoa 3.0 - Signal Producers and API Clarity](http://blog.scottlogic.com/2015/04/28/reactive-cocoa-3-continued.html), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
+* [More WatchKit Mistakes](http://realm.io/news/more-watchkit-mistakes/)
+
 
 **Tools/Controls**
 
@@ -46,4 +48,3 @@
 
 
 **Goodies**
-
