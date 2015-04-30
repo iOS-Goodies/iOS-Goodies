@@ -8,6 +8,7 @@
 * [Are Slow Tests Killing Your Feedback Loop?](http://qualitycoding.org/slow-tests/), by [@qcoding](https://twitter.com/qcoding)
 * [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [iOS & Swift Tutorial: Multipeer Connectivity](http://www.ralfebert.de/tutorials/ios-swift-multipeer-connectivity/), by [@ralfebert](https://twitter.com/ralfebert)
+* [Continuous Integration & Deployment for iOS Projects](https://medium.com/ribot-labs/continuous-integration-deployment-for-ios-projects-7358b72ca2e9), by [@matto1990](https://twitter.com/matto1990)
 
 **Tools/Controls**
 
