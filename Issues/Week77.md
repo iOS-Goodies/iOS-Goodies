@@ -17,6 +17,7 @@
 **Business**
 
 * [Perspectives on wearables](http://solarsailer.net/2015/04/wearables), by [@solarsailer](https://twitter.com/solarsailer)
+* [To Build a Mobile App Business, Build a Growth Engine First](http://www.500.co/mobile-growth-engine-branch/), by [@susanfsu](https://twitter.com/susanfsu)
 
 
 **UI/UX**
