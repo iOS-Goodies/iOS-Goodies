@@ -14,6 +14,8 @@
 * [An Introduction to ReactiveCocoa](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa), by [@nomothetis](https://twitter.com/nomothetis)
 * [Pattern Matching in Swift](http://www.codingexplorer.com/pattern-matching-in-swift/), by [@CodingExplorer](https://twitter.com/CodingExplorer)
 * [ReactiveCocoa 3.0 - Signal Producers and API Clarity](http://blog.scottlogic.com/2015/04/28/reactive-cocoa-3-continued.html), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
+* [More WatchKit Mistakes](http://realm.io/news/more-watchkit-mistakes/)
+* [View Controllers in Cells](http://khanlou.com/2015/04/view-controllers-in-cells/), by [@khanlou](http://www.twitter.com/khanlou)
 
 **Tools/Controls**
 
@@ -25,6 +27,7 @@
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles), by [@anthonylevings](https://twitter.com/anthonylevings)
 * [FutureKit](https://github.com/FutureKit/FutureKit), by [@swiftfuturekit](https://twitter.com/swiftfuturekit)
 * [Timepiece](https://github.com/naoty/Timepiece), by Naoto Kaneko
+* [SwiftyStateMachine](http://macoscope.com/blog/swifty-state-machine/), by [@macoscope](https://twitter.com/macoscope/)
 
 **Business**
 
