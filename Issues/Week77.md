@@ -18,6 +18,7 @@
 
 **Business**
 
+* [This Guy Earned $450k last year. And he hasn't written a single line of code](https://medium.com/@CharlynKeating/if-you-re-an-app-developer-who-isn-t-making-a-decent-living-from-the-app-stores-there-s-someone-ac5082d8de47), by [@CharlynKeating](https://twitter.com/CharlynKeating)
 * [The 2048 guys stole my iPhone game](https://medium.com/ios-game-development/the-2048-guys-stole-my-iphone-game-5ba541283c4d), by [@mattalicious](https://twitter.com/mattalicious)
 * [Perspectives on wearables](http://solarsailer.net/2015/04/wearables), by [@solarsailer](https://twitter.com/solarsailer)
 * [To Build a Mobile App Business, Build a Growth Engine First](http://www.500.co/mobile-growth-engine-branch/), by [@susanfsu](https://twitter.com/susanfsu)
