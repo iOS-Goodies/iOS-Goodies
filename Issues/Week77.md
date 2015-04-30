@@ -9,6 +9,11 @@
 * [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [iOS & Swift Tutorial: Multipeer Connectivity](http://www.ralfebert.de/tutorials/ios-swift-multipeer-connectivity/), by [@ralfebert](https://twitter.com/ralfebert)
 * [Continuous Integration & Deployment for iOS Projects](https://medium.com/ribot-labs/continuous-integration-deployment-for-ios-projects-7358b72ca2e9), by [@matto1990](https://twitter.com/matto1990)
+* [Apple Watch: What can you do with it?](http://madebymany.com/blog/apple-watch-what-can-you-do-with-it), by [@alexrbarlow](https://twitter.com/alexrbarlow)
+* [Creating ASCII art in functional Swift](http://ijoshsmith.com/2015/04/29/creating-ascii-art-in-functional-swift/), by [@bach4life](https://twitter.com/bach4life)
+* [An Introduction to ReactiveCocoa](http://nomothetis.svbtle.com/an-introduction-to-reactivecocoa), by [@nomothetis](https://twitter.com/nomothetis)
+* [Pattern Matching in Swift](http://www.codingexplorer.com/pattern-matching-in-swift/), by [@CodingExplorer](https://twitter.com/CodingExplorer)
+* [ReactiveCocoa 3.0 - Signal Producers and API Clarity](http://blog.scottlogic.com/2015/04/28/reactive-cocoa-3-continued.html), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 
 **Tools/Controls**
 
@@ -17,6 +22,9 @@
 * [BKAsciiImage](https://github.com/bkoc/BKAsciiImage), by [@bariskoc](https://twitter.com/bariskoc)
 * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 * [GraphHopper](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
+* [SwiftFiles](https://github.com/sketchytech/SwiftFiles), by [@anthonylevings](https://twitter.com/anthonylevings)
+* [FutureKit](https://github.com/FutureKit/FutureKit), by [@swiftfuturekit](https://twitter.com/swiftfuturekit)
+* [Timepiece](https://github.com/naoty/Timepiece), by Naoto Kaneko
 
 **Business**
 
