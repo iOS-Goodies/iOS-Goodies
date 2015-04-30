@@ -24,6 +24,7 @@
 
 * [Fall of the Designer Part IV: Credible Threats](http://www.elischiff.com/blog/2015/4/28/fall-of-the-designer-part-iv-credible-threats), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [Designing for the WATCH](http://webdesign.tutsplus.com/articles/designing-for-the-watch--cms-23818), by [@ryanallen_com](https://twitter.com/ryanallen_com)
+* [Everything you need to design WATCH apps](http://blog.fluidui.com/design-resources-for-apple-watch/), by Eileen Coyle
 
 **Videos**
 
