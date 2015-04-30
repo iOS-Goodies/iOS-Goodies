@@ -27,6 +27,7 @@
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles), by [@anthonylevings](https://twitter.com/anthonylevings)
 * [FutureKit](https://github.com/FutureKit/FutureKit), by [@swiftfuturekit](https://twitter.com/swiftfuturekit)
 * [Timepiece](https://github.com/naoty/Timepiece), by Naoto Kaneko
+* [SwiftyStateMachine](http://macoscope.com/blog/swifty-state-machine/), by [@macoscope](https://twitter.com/macoscope/)
 
 **Business**
 
