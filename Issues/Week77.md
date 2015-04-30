@@ -11,8 +11,9 @@
 
 **Tools/Controls**
 
-* [GraphHopper](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
+* [Continu](http://www.continu.co/), by [@continu](https://twitter.com/continu)
 * [BKAsciiImage](https://github.com/bkoc/BKAsciiImage), by [@bariskoc](https://twitter.com/bariskoc)
+* [GraphHopper](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
 
 **Business**
 
