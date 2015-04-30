@@ -13,7 +13,9 @@
 **Tools/Controls**
 
 * [Continu](http://www.continu.co/), by [@continu](https://twitter.com/continu)
+* [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu), by Qitao Yang
 * [BKAsciiImage](https://github.com/bkoc/BKAsciiImage), by [@bariskoc](https://twitter.com/bariskoc)
+* [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)
 * [GraphHopper](https://github.com/graphhopper/graphhopper-ios), by [@clns](https://twitter.com/calinseciu)
 
 **Business**
