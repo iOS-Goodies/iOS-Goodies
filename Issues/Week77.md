@@ -17,6 +17,7 @@
 
 **Business**
 
+* [The 2048 guys stole my iPhone game](https://medium.com/ios-game-development/the-2048-guys-stole-my-iphone-game-5ba541283c4d), by [@mattalicious](https://twitter.com/mattalicious)
 * [Perspectives on wearables](http://solarsailer.net/2015/04/wearables), by [@solarsailer](https://twitter.com/solarsailer)
 * [To Build a Mobile App Business, Build a Growth Engine First](http://www.500.co/mobile-growth-engine-branch/), by [@susanfsu](https://twitter.com/susanfsu)
 
