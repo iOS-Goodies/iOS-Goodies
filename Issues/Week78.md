@@ -1,6 +1,7 @@
 **Articles**
 
 * [A Swift Spelling Corrector](http://airspeedvelocity.net/2015/05/02/spelling/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
+* [Nullability and Inherited Initializers in Objective-C](http://cocoa.tumblr.com/post/117719761353/nullability-and-inherited-initializers-in-objective-c), by [@paulrehkugler](https://twitter.com/paulrehkugler)
 
 **Business**
 
