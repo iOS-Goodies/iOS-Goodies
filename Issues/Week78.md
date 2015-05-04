@@ -6,7 +6,9 @@
 * [Bi-directional Data Bindings in ReactiveCocoa with RACChannel](http://spin.atomicobject.com/2015/05/04/bi-directional-data-bindings-reactivecocoa/), by [@JordanSchaenzle](https://twitter.com/JordanSchaenzle)
 
 **Tools/Controls**
+
 * [FLXView](https://github.com/robb/FLXView) by [Robb Böhnke](https://twitter.com/ceterum_censeo)
+* [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) , by [@Anyware](https://twitter.com/Anyware)
 
 **Business**
 
