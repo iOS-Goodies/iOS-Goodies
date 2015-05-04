@@ -5,6 +5,7 @@
 * [Swift: The Unused Optional Value Problem](http://natashatherobot.com/swift-unused-optional-value/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 
 **Tools/Controls**
+* [FLXView](https://github.com/robb/FLXView) by [Robb Böhnke](https://twitter.com/ceterum_censeo)
 
 **Business**
 
