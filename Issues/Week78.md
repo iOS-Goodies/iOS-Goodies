@@ -9,11 +9,13 @@
 * [Demystifying Retain Cycles in ARC](http://digitalleaves.com/blog/2015/05/demystifying-retain-cycles-in-arc/), by [@DigitalLeaves](https://twitter.com/DigitalLeaves)
 * [Inspect return values with breakpoints in Xcode](http://iosdevtips.co/post/118205216313/xcode-breakpoint-method-return-value) by [@r0unak](https://twitter.com/r0unak)
 * [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
+* [Atomics in Objective-C](http://biasedbit.com/blog/objc-atomics/), by [@biasedbit](https://twitter.com/biasedbit)
 
 **Tools/Controls**
 
 * [FLXView](https://github.com/robb/FLXView) by [Robb Böhnke](https://twitter.com/ceterum_censeo)
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) , by [@Anyware](https://twitter.com/Anyware)
+* [RxSwift](https://github.com/kzaher/RxSwift), by [@KrunoslavZaher](https://twitter.com/KrunoslavZaher)
 
 **Business**
 
