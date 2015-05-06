@@ -28,3 +28,7 @@
 
 * [Fall of the Designer Part V: Self-flagellation](http://www.elischiff.com/blog/2015/5/5/fall-of-the-designer-part-v-self-flagellation), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [The No Interface Trend](http://trendwatching.com/trends/no-interface/)
+
+**Videos**
+
+* [NSConf 7](https://vimeo.com/channels/nsconf7)
