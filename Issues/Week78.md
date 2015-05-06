@@ -8,6 +8,7 @@
 * [Bi-directional Data Bindings in ReactiveCocoa with RACChannel](http://spin.atomicobject.com/2015/05/04/bi-directional-data-bindings-reactivecocoa/), by [@JordanSchaenzle](https://twitter.com/JordanSchaenzle)
 * [Demystifying Retain Cycles in ARC](http://digitalleaves.com/blog/2015/05/demystifying-retain-cycles-in-arc/), by [@DigitalLeaves](https://twitter.com/DigitalLeaves)
 * [Inspect return values with breakpoints in Xcode](http://iosdevtips.co/post/118205216313/xcode-breakpoint-method-return-value) by [@r0unak](https://twitter.com/r0unak)
+* [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 
 **Tools/Controls**
 
