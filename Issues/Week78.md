@@ -10,6 +10,7 @@
 * [Inspect return values with breakpoints in Xcode](http://iosdevtips.co/post/118205216313/xcode-breakpoint-method-return-value) by [@r0unak](https://twitter.com/r0unak)
 * [Branching Model and CI Configuration @ Busuu](http://matteogobbi.github.io/blog/2015/04/27/branches-model-and-ci-configuration-at-busuu/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [Atomics in Objective-C](http://biasedbit.com/blog/objc-atomics/), by [@biasedbit](https://twitter.com/biasedbit)
+* [WatchKit Controller Life Cycle](http://blog.mikeswanson.com/post/118262770484/watchkit-controller-life-cycle), by [@Anyware](https://twitter.com/Anyware)
 
 **Tools/Controls**
 
@@ -26,3 +27,7 @@
 **UI/UX**
 
 * [Fall of the Designer Part V: Self-flagellation](http://www.elischiff.com/blog/2015/5/5/fall-of-the-designer-part-v-self-flagellation), by [@eli_schiff](https://twitter.com/eli_schiff)
+
+**Goodies**
+
+* [Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/)
