@@ -21,3 +21,5 @@
 
 
 **UI/UX**
+
+* [Fall of the Designer Part V: Self-flagellation](http://www.elischiff.com/blog/2015/5/5/fall-of-the-designer-part-v-self-flagellation), by [@eli_schiff](https://twitter.com/eli_schiff)
