@@ -22,12 +22,14 @@
 
 * [Making a Startup Promo Video](http://moonbase.com/making-a-startup-promo-video/), by [@alexcornell](https://twitter.com/alexcornell)
 * [Slack’s $2.8 Billion Dollar Secret Sauce](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908), by [@awilkinson](https://twitter.com/awilkinson)
-
+* [The Lessons Google Ventures Learned From Secret](http://bits.blogs.nytimes.com/2015/05/05/the-lessons-google-ventures-learned-from-secret/?_r=0), by [@mikeisaac](https://twitter.com/mikeisaac) and [@dgelles](https://twitter.com/dgelles)
+* [Well, We Failed](https://medium.com/inside-wattage/well-we-failed-77e795e16ecf), by [@jeremybell](https://twitter.com/jeremybell)
 
 **UI/UX**
 
 * [Fall of the Designer Part V: Self-flagellation](http://www.elischiff.com/blog/2015/5/5/fall-of-the-designer-part-v-self-flagellation), by [@eli_schiff](https://twitter.com/eli_schiff)
+* [The No Interface Trend](http://trendwatching.com/trends/no-interface/)
 
-**Goodies**
+**Videos**
 
-* [Watch Human Interface Guidelines](https://developer.apple.com/watch/human-interface-guidelines/)
+* [NSConf 7](https://vimeo.com/channels/nsconf7)
