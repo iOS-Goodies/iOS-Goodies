@@ -1,5 +1,7 @@
 **Articles**
 
+* [Implementing the Periscope App Pull-to-refresh Control](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/), by [@bitwaker](https://twitter.com/bitwaker)
+
 **Tools/Controls**
 
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus), by [@cesarmcferreira](https://twitter.com/cesarmcferreira)
