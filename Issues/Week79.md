@@ -1,6 +1,7 @@
 **Articles**
 
 * [Implementing the Periscope App Pull-to-refresh Control](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/), by [@bitwaker](https://twitter.com/bitwaker)
+* [objc.io #24 Audio](http://www.objc.io/issue-24/), by [@objcio](https://twitter.com/objcio)
 
 **Tools/Controls**
 
