@@ -3,10 +3,15 @@
 * [Implementing the Periscope App Pull-to-refresh Control](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/), by [@bitwaker](https://twitter.com/bitwaker)
 * [objc.io #24 Audio](http://www.objc.io/issue-24/), by [@objcio](https://twitter.com/objcio)
 * [An @import-ant Change in Xcode](http://furbo.org/2015/05/11/an-import-ant-change-in-xcode/), by [@chockenberry](https://twitter.com/chockenberry)
+* [How to take screenshots for failing tests with KIF](http://tech.just-eat.com/2015/05/11/how-to-take-screenshots-for-failing-tests-with-kif/), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Tools/Controls**
 
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus), by [@cesarmcferreira](https://twitter.com/cesarmcferreira)
+* [TagListView](https://github.com/xhacker/TagListView), by [@xhacker](https://twitter.com/xhacker)
+* [SwiftDate](https://github.com/malcommac/SwiftDate), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [SwiftCharts](https://github.com/i-schuetz/SwiftCharts), by [@i-schuetz](https://twitter.com/i_schuetz)
+
 
 **Business**
 
