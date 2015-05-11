@@ -2,6 +2,7 @@
 
 * [Implementing the Periscope App Pull-to-refresh Control](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/), by [@bitwaker](https://twitter.com/bitwaker)
 * [objc.io #24 Audio](http://www.objc.io/issue-24/), by [@objcio](https://twitter.com/objcio)
+* [An @import-ant Change in Xcode](http://furbo.org/2015/05/11/an-import-ant-change-in-xcode/), by [@chockenberry](https://twitter.com/chockenberry)
 
 **Tools/Controls**
 
