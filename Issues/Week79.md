@@ -18,6 +18,7 @@
 
 **Business**
 
+* [Letting Go As a Manager](http://blog.capwatkins.com/letting-go-as-a-manager), by [@cap](https://twitter.com/cap)
 * [Product Hunt: 192 upvotes, 3.5k visits, ZERO customers.](https://medium.com/@SergeyGoncharov/producthunt-192-upvotes-3-5k-visits-zero-customers-3d95bc0adfa2), by [@sergeygoncharov](https://twitter.com/sergeygoncharov)
 * [Here’s how Yieldmo’s Ad Format Lab is trying to reinvent the mobile ad](http://venturebeat.com/2015/05/09/heres-how-yieldmos-ad-format-lab-is-trying-to-reinvent-the-mobile-ad/), by [@xBarryLevine](https://twitter.com/xBarryLevine)
 * [No Ecosystem Is an Island: Google, Microsoft, Facebook & Adobe’s iOS Apps](http://www.macstories.net/stories/no-ecosystem-is-an-island-google-microsoft-facebook-adobes-ios-apps/), by [@greyham](https://twitter.com/greyham)
