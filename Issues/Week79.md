@@ -15,6 +15,7 @@
 * [PaintCode Plugin for Origami](http://www.paintcodeapp.com/origami), by [@PixelCutCompany](https://www.twitter.com/PixelCutCompany)
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger), by [@gilttech](https://twitter.com/gilttech)
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer), [@radexp](https://twitter.com/radexp)
+* [SCStackViewController](https://github.com/stefanceriu/SCStackViewController), [@stefanceriu](https://twitter.com/stefanceriu)
 
 **Business**
 
