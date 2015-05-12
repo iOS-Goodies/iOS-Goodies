@@ -1,5 +1,6 @@
 **Articles**
 
+* [Improving Immutable Object Initialization in Objective-C](http://holko.pl/2015/05/12/immutable-object-initialization/), by [@arekholko](https://twitter.com/arekholko)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html), by [@sahand_saba](https://twitter.com/sahand_saba)
 * [Implementing the Periscope App Pull-to-refresh Control](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/), by [@bitwaker](https://twitter.com/bitwaker)
 * [objc.io #24 Audio](http://www.objc.io/issue-24/), by [@objcio](https://twitter.com/objcio)
