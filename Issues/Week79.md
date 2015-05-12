@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus), by [@cesarmcferreira](https://twitter.com/cesarmcferreira)
+* [PaintCode Plugin for Origami](http://www.paintcodeapp.com/origami), by [@PixelCutCompany](https://www.twitter.com/PixelCutCompany)
 
 **Business**
 
