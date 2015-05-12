@@ -21,3 +21,7 @@
 
 * [Redesigning Overcast’s Apple Watch app](http://www.marco.org/2015/05/08/overcast-apple-watch-redesign), by [@marcoarment](https://twitter.com/marcoarment)
 * [How Hulu Onboards New Users](http://www.useronboard.com/how-hulu-onboards-new-users/), by [@useronboard](https://twitter.com/useronboard)
+
+**Videos**
+
+* [Using Core Data in Swift](http://realm.io/news/jesse-squires-core-data-swift/), by [@jesse_squires](https://twitter.com/jesse_squires)
