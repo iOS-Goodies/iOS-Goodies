@@ -6,6 +6,7 @@
 * [An @import-ant Change in Xcode](http://furbo.org/2015/05/11/an-import-ant-change-in-xcode/), by [@chockenberry](https://twitter.com/chockenberry)
 * [WatchKit Image Tips](http://blog.mikeswanson.com/post/118580394879/watchkit-image-tips), by [@Anyware](https://twitter.com/Anyware)
 * [Advanced WatchKit Interface Controller Techniques](http://blog.mikeswanson.com/post/118761670244/advanced-watchkit-interface-controller-techniques), by [@Anyware](https://twitter.com/Anyware)
+* [Swift Generics](http://commandshift.co.uk/blog/2015/05/11/swift-generics/), by [@richturton](https://twitter.com/richturton)
 
 **Tools/Controls**
 
