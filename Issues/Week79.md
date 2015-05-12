@@ -1,5 +1,6 @@
 **Articles**
 
+* [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html), by [@sahand_saba](https://twitter.com/sahand_saba)
 * [Implementing the Periscope App Pull-to-refresh Control](http://www.thinkandbuild.it/implementing-the-periscope-app-pull-to-refresh/), by [@bitwaker](https://twitter.com/bitwaker)
 * [objc.io #24 Audio](http://www.objc.io/issue-24/), by [@objcio](https://twitter.com/objcio)
 * [An @import-ant Change in Xcode](http://furbo.org/2015/05/11/an-import-ant-change-in-xcode/), by [@chockenberry](https://twitter.com/chockenberry)
