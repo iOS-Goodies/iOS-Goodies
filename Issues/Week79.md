@@ -20,6 +20,7 @@
 
 **Business**
 
+* [How we Built 20,000 € in Monthly Recurring Revenue for our Start Up Whitin 90 Days of Launch](http://blog.rubyandduke.com/2015/05/13/how-we-built-e20000-in-monthly-recurring-revenue-for-our-start-up-within-90-days-of-launch/), by [@niallharbison](https://twitter.com/niallharbison)
 * [Be kind](http://boz.com/articles/be-kind.html), by [@boztank](https://twitter.com/boztank)
 * [Letting Go As a Manager](http://blog.capwatkins.com/letting-go-as-a-manager), by [@cap](https://twitter.com/cap)
 * [Product Hunt: 192 upvotes, 3.5k visits, ZERO customers.](https://medium.com/@SergeyGoncharov/producthunt-192-upvotes-3-5k-visits-zero-customers-3d95bc0adfa2), by [@sergeygoncharov](https://twitter.com/sergeygoncharov)
