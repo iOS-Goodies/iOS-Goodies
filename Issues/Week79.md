@@ -9,6 +9,7 @@
 * [Advanced WatchKit Interface Controller Techniques](http://blog.mikeswanson.com/post/118761670244/advanced-watchkit-interface-controller-techniques), by [@Anyware](https://twitter.com/Anyware)
 * [Swift Generics](http://commandshift.co.uk/blog/2015/05/11/swift-generics/), by [@richturton](https://twitter.com/richturton)
 * [Avoid retain cycles in blocks without doing the strong to weak dance](http://iosdevtips.co/post/118711491198/avoid-retain-cycles-weak-strong), by [@r0unak](https://twitter.com/r0unak)
+* [Easy Way Out](https://medium.com/the-traveled-ios-developers-guide/easy-way-out-d63ede1b7a47), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 
 **Tools/Controls**
 
