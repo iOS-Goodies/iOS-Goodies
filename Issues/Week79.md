@@ -36,6 +36,7 @@
 * [How Hulu Onboards New Users](http://www.useronboard.com/how-hulu-onboards-new-users/), by [@useronboard](https://twitter.com/useronboard)
 * [Facebook Visual Identity](http://officeofbenbarry.com/project/facebook-visual-identity), by [@benbarry](https://twitter.com/benbarry)
 * [Apple Watch User Onboarding Analysis](https://medium.com/smart-watch-ux/apple-watch-user-onboarding-analysis-1f2d7bd673d0), by [@dnevozhai](https://twitter.com/dnevozhai)
+* [Design an Apple Watch App: Visual Design](http://designforwearables.com/vip/8-visual.html), by [@kennycheny](https://twitter.com/kennycheny)
 
 **Videos**
 
