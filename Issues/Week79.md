@@ -18,6 +18,7 @@
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer), [@radexp](https://twitter.com/radexp)
 * [IconMaker](https://github.com/kaphacius/IconMaker), [@z_yurii](https://twitter.com/z_yurii)
 * [RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator), by Hitesh Maidasani
+* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations), by Jeff Hurray
 
 **Business**
 
