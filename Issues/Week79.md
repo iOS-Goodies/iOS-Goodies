@@ -30,6 +30,7 @@
 * [Here’s how Yieldmo’s Ad Format Lab is trying to reinvent the mobile ad](http://venturebeat.com/2015/05/09/heres-how-yieldmos-ad-format-lab-is-trying-to-reinvent-the-mobile-ad/), by [@xBarryLevine](https://twitter.com/xBarryLevine)
 * [No Ecosystem Is an Island: Google, Microsoft, Facebook & Adobe’s iOS Apps](http://www.macstories.net/stories/no-ecosystem-is-an-island-google-microsoft-facebook-adobes-ios-apps/), by [@greyham](https://twitter.com/greyham)
 * [Why ‘Mobile First’ May Already Be Outdated](https://blog.intercom.io/why-mobile-first-may-already-be-outdated/), by [@padday](https://twitter.com/padday)
+* [How a $2.99 recipe app became a Top 2 Paid App in the App Store](https://medium.com/@andreaskam/how-a-2-99-recipe-app-became-a-top-2-paid-app-in-the-app-store-f7e83abbb40e), by [@andreaskam](https://twitter.com/andreaskam)
 
 **UI/UX**
 
