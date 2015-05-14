@@ -9,6 +9,7 @@
 * [Advanced WatchKit Interface Controller Techniques](http://blog.mikeswanson.com/post/118761670244/advanced-watchkit-interface-controller-techniques), by [@Anyware](https://twitter.com/Anyware)
 * [Swift Generics](http://commandshift.co.uk/blog/2015/05/11/swift-generics/), by [@richturton](https://twitter.com/richturton)
 * [Avoid retain cycles in blocks without doing the strong to weak dance](http://iosdevtips.co/post/118711491198/avoid-retain-cycles-weak-strong), by [@r0unak](https://twitter.com/r0unak)
+* [Turn Any iOS Task into a Background Task with ReactiveCocoa’s RACSignal](http://spin.atomicobject.com/2015/05/14/ios-background-task-reactivecocoa/), by [@patrickbacon](https://twitter.com/patrickbacon)
 
 **Tools/Controls**
 
