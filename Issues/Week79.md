@@ -27,6 +27,7 @@
 * [Product Hunt: 192 upvotes, 3.5k visits, ZERO customers.](https://medium.com/@SergeyGoncharov/producthunt-192-upvotes-3-5k-visits-zero-customers-3d95bc0adfa2), by [@sergeygoncharov](https://twitter.com/sergeygoncharov)
 * [Here’s how Yieldmo’s Ad Format Lab is trying to reinvent the mobile ad](http://venturebeat.com/2015/05/09/heres-how-yieldmos-ad-format-lab-is-trying-to-reinvent-the-mobile-ad/), by [@xBarryLevine](https://twitter.com/xBarryLevine)
 * [No Ecosystem Is an Island: Google, Microsoft, Facebook & Adobe’s iOS Apps](http://www.macstories.net/stories/no-ecosystem-is-an-island-google-microsoft-facebook-adobes-ios-apps/), by [@greyham](https://twitter.com/greyham)
+* [Why ‘Mobile First’ May Already Be Outdated](https://blog.intercom.io/why-mobile-first-may-already-be-outdated/), by [@padday](https://twitter.com/padday)
 
 **UI/UX**
 
@@ -34,6 +35,7 @@
 * [Redesigning Overcast’s Apple Watch app](http://www.marco.org/2015/05/08/overcast-apple-watch-redesign), by [@marcoarment](https://twitter.com/marcoarment)
 * [How Hulu Onboards New Users](http://www.useronboard.com/how-hulu-onboards-new-users/), by [@useronboard](https://twitter.com/useronboard)
 * [Facebook Visual Identity](http://officeofbenbarry.com/project/facebook-visual-identity), by [@benbarry](https://twitter.com/benbarry)
+* [Apple Watch User Onboarding Analysis](https://medium.com/smart-watch-ux/apple-watch-user-onboarding-analysis-1f2d7bd673d0), by [@dnevozhai](https://twitter.com/dnevozhai)
 
 **Videos**
 
