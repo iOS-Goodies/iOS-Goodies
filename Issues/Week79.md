@@ -17,6 +17,7 @@
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger), by [@gilttech](https://twitter.com/gilttech)
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer), [@radexp](https://twitter.com/radexp)
 * [IconMaker](https://github.com/kaphacius/IconMaker), [@z_yurii](https://twitter.com/z_yurii)
+* [RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator, by Hitesh Maidasani
 
 **Business**
 
