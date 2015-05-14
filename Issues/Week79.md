@@ -9,6 +9,7 @@
 * [Advanced WatchKit Interface Controller Techniques](http://blog.mikeswanson.com/post/118761670244/advanced-watchkit-interface-controller-techniques), by [@Anyware](https://twitter.com/Anyware)
 * [Swift Generics](http://commandshift.co.uk/blog/2015/05/11/swift-generics/), by [@richturton](https://twitter.com/richturton)
 * [Avoid retain cycles in blocks without doing the strong to weak dance](http://iosdevtips.co/post/118711491198/avoid-retain-cycles-weak-strong), by [@r0unak](https://twitter.com/r0unak)
+* [Easy Way Out](https://medium.com/the-traveled-ios-developers-guide/easy-way-out-d63ede1b7a47), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Turn Any iOS Task into a Background Task with ReactiveCocoa’s RACSignal](http://spin.atomicobject.com/2015/05/14/ios-background-task-reactivecocoa/), by [@patrickbacon](https://twitter.com/patrickbacon)
 
 **Tools/Controls**
@@ -19,6 +20,7 @@
 * [SwiftyTimer](https://github.com/radex/SwiftyTimer), [@radexp](https://twitter.com/radexp)
 * [IconMaker](https://github.com/kaphacius/IconMaker), [@z_yurii](https://twitter.com/z_yurii)
 * [RadialChartImageGenerator](https://github.com/hmaidasani/RadialChartImageGenerator), by Hitesh Maidasani
+* [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations), by Jeff Hurray
 
 **Business**
 
@@ -30,6 +32,7 @@
 * [Here’s how Yieldmo’s Ad Format Lab is trying to reinvent the mobile ad](http://venturebeat.com/2015/05/09/heres-how-yieldmos-ad-format-lab-is-trying-to-reinvent-the-mobile-ad/), by [@xBarryLevine](https://twitter.com/xBarryLevine)
 * [No Ecosystem Is an Island: Google, Microsoft, Facebook & Adobe’s iOS Apps](http://www.macstories.net/stories/no-ecosystem-is-an-island-google-microsoft-facebook-adobes-ios-apps/), by [@greyham](https://twitter.com/greyham)
 * [Why ‘Mobile First’ May Already Be Outdated](https://blog.intercom.io/why-mobile-first-may-already-be-outdated/), by [@padday](https://twitter.com/padday)
+* [How a $2.99 recipe app became a Top 2 Paid App in the App Store](https://medium.com/@andreaskam/how-a-2-99-recipe-app-became-a-top-2-paid-app-in-the-app-store-f7e83abbb40e), by [@andreaskam](https://twitter.com/andreaskam)
 
 **UI/UX**
 
