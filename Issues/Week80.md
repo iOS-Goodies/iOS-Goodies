@@ -23,4 +23,4 @@
 
 **Videos**
 
-[Swift Summit](http://realm.io/news/swift-summit/), by [@realm](https://twitter.com/realm)
+* [Swift Summit](http://realm.io/news/swift-summit/), by [@realm](https://twitter.com/realm)
