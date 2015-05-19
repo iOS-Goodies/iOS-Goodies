@@ -20,3 +20,7 @@
 
 * [Apple Watch UI Kit](https://ui8.net/product/apple-watch-ui-kit), by [@ui8net](https://twitter.com/ui8net)
 * [Functional Animation In UX Design](http://www.smashingmagazine.com/2015/05/14/functional-ux-design-animations/), by [@AmitDaliot](https://twitter.com/AmitDaliot)
+
+**Videos**
+
+[Swift Summit](http://realm.io/news/swift-summit/), by [@realm](https://twitter.com/realm)
