@@ -5,6 +5,7 @@
 
 **Tools/Controls**
 
+* [Applandr](http://applandr.com/), by [@joey_tawadrous](https://twitter.com/joey_tawadrous)
 * [Himotoki: A type-safe JSON decoding library purely written in Swift](https://github.com/ikesyo/Himotoki), by [@ikesyo](https://twitter.com/ikesyo)
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum), by [@arekholko](https://twitter.com/arekholko)
 
