@@ -6,6 +6,7 @@
 **Tools/Controls**
 
 * [Applandr](http://applandr.com/), by [@joey_tawadrous](https://twitter.com/joey_tawadrous)
+* [Periscope-like Permissions for iOS apps](https://medium.com/ios-os-x-development/periscope-like-permissions-for-ios-apps-5b744b4bf5ed), by [@nickoneill](https://twitter.com/nickoneill)
 * [Himotoki: A type-safe JSON decoding library purely written in Swift](https://github.com/ikesyo/Himotoki), by [@ikesyo](https://twitter.com/ikesyo)
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum), by [@arekholko](https://twitter.com/arekholko)
 
