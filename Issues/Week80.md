@@ -6,6 +6,7 @@
 **Tools/Controls**
 
 * [Himotoki: A type-safe JSON decoding library purely written in Swift](https://github.com/ikesyo/Himotoki), by [@ikesyo](https://twitter.com/ikesyo)
+* [ReflectableEnum](https://github.com/fastred/ReflectableEnum), by [@arekholko](https://twitter.com/arekholko)
 
 **UI/UX**
 
