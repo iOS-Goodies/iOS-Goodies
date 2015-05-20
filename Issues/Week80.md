@@ -2,6 +2,7 @@
 
 * [How Not to Crash #2: Mutation Exceptions](http://inessential.com/2015/05/16/how_not_to_crash_2_mutation_exceptions), by [@brentsimmons](https://twitter.com/brentsimmons)
 * [It’s Time to Use Interface Builder](http://serieslonuevo.com/ver-online/game-of-thrones-s05e06/), by [Ben Sandofsky](https://twitter.com/sandofsky)
+* [Watch OS 1.0.1 Controller Life Cycle Changes](http://blog.mikeswanson.com/post/119399948909/watch-os-1-0-1-controller-life-cycle-changes), by [@Anyware](https://twitter.com/Anyware)
 
 **Tools/Controls**
 
