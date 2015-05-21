@@ -1,7 +1,7 @@
 **Articles**
 
 * [How Not to Crash #2: Mutation Exceptions](http://inessential.com/2015/05/16/how_not_to_crash_2_mutation_exceptions), by [@brentsimmons](https://twitter.com/brentsimmons)
-* [It’s Time to Use Interface Builder](http://serieslonuevo.com/ver-online/game-of-thrones-s05e06/), by [Ben Sandofsky](https://twitter.com/sandofsky)
+* [It’s Time to Use Interface Builder](https://blog.codepath.com/2015/05/18/its-time-to-use-interface-builder/), by [Ben Sandofsky](https://twitter.com/sandofsky)
 * [Watch OS 1.0.1 Controller Life Cycle Changes](http://blog.mikeswanson.com/post/119399948909/watch-os-1-0-1-controller-life-cycle-changes), by [@Anyware](https://twitter.com/Anyware)
 * [ #2: Chainable Methods](http://littlebitesofcocoa.com/post/119369619049/2-chainable-methods-making-functions-chainable), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 * [Glue factories](http://irace.me/factories/), by [@irace](https://twitter.com/irace)
