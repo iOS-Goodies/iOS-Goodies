@@ -33,8 +33,8 @@
 **Videos**
 
 * [Swift Summit](http://realm.io/news/swift-summit/)
- * [Back to the Futures](http://realm.io/news/swift-summit-javier-soto-futures/), by [https://twitter.com/Javi](@Javi)
- * [ReactiveCocoa and Swift: Better Together](http://realm.io/news/swift-summit-colin-eberhardt-reactivecocoa/), by [https://twitter.com/ColinEberhardt](@ColinEberhardt)
+ * [Back to the Futures](http://realm.io/news/swift-summit-javier-soto-futures/), by [@Javi](https://twitter.com/Javi)
+ * [ReactiveCocoa and Swift: Better Together](http://realm.io/news/swift-summit-colin-eberhardt-reactivecocoa/), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
  * [The Monad Among Us](http://realm.io/news/swift-summit-al-skipp-monads/), by [@al_skipp](https://twitter.com/al_skipp)
 * [After 5 startups, here is Kevin Rose’s top advice for founders](https://medium.com/gv-notes/after-5-startups-here-is-kevin-rose-s-top-advice-for-founders-d26b0ec05c94) ,by [@GoogleVentures](https://twitter.com/GoogleVentures)
 
