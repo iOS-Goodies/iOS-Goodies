@@ -5,6 +5,7 @@
 * [Watch OS 1.0.1 Controller Life Cycle Changes](http://blog.mikeswanson.com/post/119399948909/watch-os-1-0-1-controller-life-cycle-changes), by [@Anyware](https://twitter.com/Anyware)
 * [ #2: Chainable Methods](http://littlebitesofcocoa.com/post/119369619049/2-chainable-methods-making-functions-chainable), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 * [Glue factories](http://irace.me/factories/), by [@irace](https://twitter.com/irace)
+* [Reducing WatchKit Traffic With View Models](http://techblog.thescore.com/2015/05/20/reducing-watchkit-traffic-with-view-models/), by [@senior](https://twitter.com/senior)
 
 **Tools/Controls**
 
