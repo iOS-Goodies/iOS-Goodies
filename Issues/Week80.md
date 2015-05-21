@@ -22,11 +22,11 @@
 * [Everything We Do in Social Media Is Wrong](http://www.socialmediatoday.com/social-networks/2015-05-17/everything-we-do-social-media-wrong), by [@torok_tomi](https://twitter.com/torok_tomi)
 * [On mobile, slow speeds kill](http://om.co/2015/05/14/on-the-mobile-web-slow-speeds-kill/), by [@om](https://twitter.com/om)
 
-
 **UI/UX**
 
 * [Apple Watch UI Kit](https://ui8.net/product/apple-watch-ui-kit), by [@ui8net](https://twitter.com/ui8net)
 * [Functional Animation In UX Design](http://www.smashingmagazine.com/2015/05/14/functional-ux-design-animations/), by [@AmitDaliot](https://twitter.com/AmitDaliot)
+* [Optical Adjustment](https://medium.com/@lukejonesme/optical-adjustment-b55492a1165c), by [@lukejones](https://twitter.com/lukejones)
 
 **Videos**
 
