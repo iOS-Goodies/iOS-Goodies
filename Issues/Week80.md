@@ -32,3 +32,11 @@
 **Videos**
 
 * [Swift Summit](http://realm.io/news/swift-summit/), by [@realm](https://twitter.com/realm)
+* [After 5 startups, here is Kevin Rose’s top advice for founders](https://medium.com/gv-notes/after-5-startups-here-is-kevin-rose-s-top-advice-for-founders-d26b0ec05c94) ,by [@GoogleVentures](https://twitter.com/GoogleVentures)
+
+
+
+
+
+
+
