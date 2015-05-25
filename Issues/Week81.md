@@ -1,3 +1,7 @@
+**Articles**
+
+* [The Responsibility we Have as Software Engineers](http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/), by [@benadida](https://twitter.com/benadida)
+
 **Videos**
 
 * [Swift Summit](http://realm.io/news/swift-summit/)
