@@ -3,7 +3,7 @@
 * [The Responsibility we Have as Software Engineers](http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/), by [@benadida](https://twitter.com/benadida)
 * [Programming Exercises to Stretch your Noodle](http://spin.atomicobject.com/2015/05/24/programming-exercises/), by John Ruble
 * [On Definitive Initialization](https://medium.com/the-traveled-ios-developers-guide/on-definitive-initialization-54284ef5c96f), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
-
+* [Introducing ReflectableEnum](http://holko.pl/2015/05/25/reflectable-enum/), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
