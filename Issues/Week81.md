@@ -2,6 +2,11 @@
 
 * [The Responsibility we Have as Software Engineers](http://benlog.com/2015/05/23/the-responsibility-we-have-as-software-engineers/), by [@benadida](https://twitter.com/benadida)
 
+**UX/UI**
+
+* [7 Mobile UX Mistakes You’re Probably Making Right Now](http://www.sitepoint.com/7-mobile-ux-mistakes/), by Lynn Wang
+
+
 **Videos**
 
 * [Swift Summit](http://realm.io/news/swift-summit/)
