@@ -14,16 +14,13 @@
 
 **Business**
 
+*  
+
 
 **UI/UX**
 
 * [How to Avoid Common Pitfalls in Mobile App Sign In Pages](https://medium.com/@scoober/how-to-avoid-common-pitfalls-in-mobile-app-sign-in-pages-7f7ec37c13ce), by [@scoober](https://twitter.com/scoober)
-
-
-**UX/UI**
-
 * [7 Mobile UX Mistakes You’re Probably Making Right Now](http://www.sitepoint.com/7-mobile-ux-mistakes/), by Lynn Wang
-
 
 **Videos**
 
