@@ -15,7 +15,7 @@
 **Business**
 
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/), by [@NickKolenda](https://twitter.com/NickKolenda)
-
+* [Noble Edge Effect](http://coglode.com/gems/noble-edge-effect), by [@ribot](https://twitter.com/ribot)
 
 **UI/UX**
 
