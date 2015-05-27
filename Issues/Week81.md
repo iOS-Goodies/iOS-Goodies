@@ -25,6 +25,9 @@
 **Videos**
 
 * [Swift Summit](http://realm.io/news/swift-summit/)
+ * [Swift All-Star Panel](http://realm.io/news/swift-summit-all-star-panel-discussion-eidhof-gesiak-ayaka-airspeed/), by [@modocache](https://twitter.com/modocache), [@chriseidhof](https://twitter.com/chriseidhof), [@ayanonagon](https://twitter.com/ayanonagon) and [@AirspeedSwift](https://twitter.com/AirspeedSwift)
+ * [Testing in Swift](http://realm.io/news/swift-summit-jan-riehn-testing/). by [@jriehn](https://twitter.com/jriehn)
+ * [Debugging in Swift: How Hard Can It Be?](http://realm.io/news/swift-summit-carola-nitz-debugging/). by [@_Caro_N](https://twitter.com/_caro_n)
  * [Compile Time vs. Run Time: Fight!](http://realm.io/news/swift-summit-airspeed-velocity-zero-cost-abstractions/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
  * [iOS GPU Programming with Metal & Swift](http://realm.io/news/swift-summit-simon-gladman-metal/), by [@FlexMonkey](https://twitter.com/flexmonkey)
  * [How Swift is Swift?](http://realm.io/news/swift-summit-joseph-lord-performance/), by [@jl_hfl](https://twitter.com/jl_hfl)
