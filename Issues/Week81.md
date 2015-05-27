@@ -11,6 +11,7 @@
 * [HardCoreData](https://github.com/Krivoblotsky/HardCoreData), by [@Krivoblotsky](https://twitter.com/Krivoblotsky)
 * [ios-flexboxkit](https://github.com/alexdrone/ios-flexboxkit), by [@alexdrone](https://twitter.com/alexdrone)
 * [Facade](https://github.com/mamaral/Facade), by [@MikeAmaral](https://twitter.com/MikeAmaral)
+* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit), by [@ricardopereiraw](https://twitter.com/ricardopereiraw)
 
 
 **Business**
