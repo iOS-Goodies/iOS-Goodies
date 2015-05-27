@@ -4,6 +4,7 @@
 * [Programming Exercises to Stretch your Noodle](http://spin.atomicobject.com/2015/05/24/programming-exercises/), by John Ruble
 * [On Definitive Initialization](https://medium.com/the-traveled-ios-developers-guide/on-definitive-initialization-54284ef5c96f), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Introducing ReflectableEnum](http://holko.pl/2015/05/25/reflectable-enum/), by [@arekholko](https://twitter.com/arekholko)
+* [Testing view controllers with Quick and Nimble](https://medium.com/@MarcioK/how-you-can-test-view-controllers-with-quick-nimble-328f895b55ee), by [@marciok](https://twitter.com/marciok)
 
 **Tools/Controls**
 
