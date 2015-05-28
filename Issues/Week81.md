@@ -25,6 +25,7 @@
 * [How to Avoid Common Pitfalls in Mobile App Sign In Pages](https://medium.com/@scoober/how-to-avoid-common-pitfalls-in-mobile-app-sign-in-pages-7f7ec37c13ce), by [@scoober](https://twitter.com/scoober)
 * [7 Mobile UX Mistakes You’re Probably Making Right Now](http://www.sitepoint.com/7-mobile-ux-mistakes/), by Lynn Wang
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/), by [@uxmovement](https://twitter.com/uxmovement)
+* [Context is the New Genre](https://medium.com/soundwave-stories/context-is-the-new-genre-b5df54ca0b5), by [@_CraigWatson](https://twitter.com/_CraigWatson)
 
 **Videos**
 
