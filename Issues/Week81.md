@@ -7,6 +7,7 @@
 * [Testing view controllers with Quick and Nimble](https://medium.com/@MarcioK/how-you-can-test-view-controllers-with-quick-nimble-328f895b55ee), by [@marciok](https://twitter.com/marciok)
 *  [How Not to Crash #6: Properties and Accessors](http://inessential.com/2015/05/27/how_not_to_crash_6_properties_and_acce), by [@brentsimmons](https://twitter.com/brentsimmons)
 *  [Deep Dive Into the WatchKit SDK](http://tech.ustwo.com/2015/05/27/deepdive-with-watchkit/), by [@antonthedev](https://twitter.com/antonthedev)
+*  [The Unofficial Guide to xcconfig files](http://pewpewthespells.com/blog/xcconfig_guide.html), by [@Dirk_Gently](https://twitter.com/Dirk_Gently)
 
 **Tools/Controls**
 
