@@ -5,6 +5,7 @@
 * [On Definitive Initialization](https://medium.com/the-traveled-ios-developers-guide/on-definitive-initialization-54284ef5c96f), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Introducing ReflectableEnum](http://holko.pl/2015/05/25/reflectable-enum/), by [@arekholko](https://twitter.com/arekholko)
 * [Testing view controllers with Quick and Nimble](https://medium.com/@MarcioK/how-you-can-test-view-controllers-with-quick-nimble-328f895b55ee), by [@marciok](https://twitter.com/marciok)
+*  [How Not to Crash #6: Properties and Accessors](http://inessential.com/2015/05/27/how_not_to_crash_6_properties_and_acce), by [@brentsimmons](https://twitter.com/brentsimmons)
 
 **Tools/Controls**
 
