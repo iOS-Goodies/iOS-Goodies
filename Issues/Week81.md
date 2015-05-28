@@ -6,6 +6,7 @@
 * [Introducing ReflectableEnum](http://holko.pl/2015/05/25/reflectable-enum/), by [@arekholko](https://twitter.com/arekholko)
 * [Testing view controllers with Quick and Nimble](https://medium.com/@MarcioK/how-you-can-test-view-controllers-with-quick-nimble-328f895b55ee), by [@marciok](https://twitter.com/marciok)
 *  [How Not to Crash #6: Properties and Accessors](http://inessential.com/2015/05/27/how_not_to_crash_6_properties_and_acce), by [@brentsimmons](https://twitter.com/brentsimmons)
+*  [Deep Dive Into the WatchKit SDK](http://tech.ustwo.com/2015/05/27/deepdive-with-watchkit/), by [@antonthedev](https://twitter.com/antonthedev)
 
 **Tools/Controls**
 
@@ -27,6 +28,7 @@
 * [7 Mobile UX Mistakes You’re Probably Making Right Now](http://www.sitepoint.com/7-mobile-ux-mistakes/), by Lynn Wang
 * [Absolute vs. Relative Timestamps: When to Use Which](http://uxmovement.com/content/absolute-vs-relative-timestamps-when-to-use-which/), by [@uxmovement](https://twitter.com/uxmovement)
 * [Context is the New Genre](https://medium.com/soundwave-stories/context-is-the-new-genre-b5df54ca0b5), by [@_CraigWatson](https://twitter.com/_CraigWatson)
+* [Improving my two favorite personal finance Apps](https://blog.onliquid.com/improving-personal-finance-apps/), by [@jmnsferreira](https://twitter.com/jmnsferreira)
 
 **Videos**
 
