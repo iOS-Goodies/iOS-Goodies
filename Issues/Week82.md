@@ -13,4 +13,4 @@
 **Indie Apps**
 
 * [Pinpoint](http://lickability.com/pinpoint/), by [@lickability](https://twitter.com/lickability)
-* [Spark](https://itunes.apple.com/app/id997102246?mt=8), by [@readdle](https://twitter.com/readdle)
+* [Spark](https://readdle.com/products/spark), by [@readdle](https://twitter.com/readdle)
