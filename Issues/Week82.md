@@ -1,5 +1,7 @@
 **Articles**
 
+* [More Swift Attributes](http://www.russbishop.net/more-swift-attributes), by [@xenadu02](https://twitter.com/xenadu02)
+
 **Tools/Controls**
 
 **Business**
