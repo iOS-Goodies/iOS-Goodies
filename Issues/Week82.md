@@ -2,6 +2,7 @@
 
 * [Why you should start using @weakify and @strongify macros](http://holko.pl/2015/05/31/weakify-strongify/), by [@arekholko](https://twitter.com/arekholko)
 * [More Swift Attributes](http://www.russbishop.net/more-swift-attributes), by [@xenadu02](https://twitter.com/xenadu02)
+* [Working With Metal On iOS 8: Know The Basics](http://teks.co.in/site/blog/working-with-metal-on-ios-8-know-the-basics/), by [@hussulinux](https://twitter.com/hussulinux)
 
 **Tools/Controls**
 
