@@ -4,11 +4,11 @@
 * [More Swift Attributes](http://www.russbishop.net/more-swift-attributes), by [@xenadu02](https://twitter.com/xenadu02)
 * [Working With Metal On iOS 8: Know The Basics](http://teks.co.in/site/blog/working-with-metal-on-ios-8-know-the-basics/), by [@hussulinux](https://twitter.com/hussulinux)
 * [Build Stability](https://corner.squareup.com/2015/06/build-stability.html), by [@squareeng](https://twitter.com/squareeng)
+* [Monads in Swift - A very short explanation](http://chris.eidhof.nl/posts/monads-in-swift.html), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Tools/Controls**
 
 * [Google APIs for iOS](https://developers.google.com/ios/cocoapods)
-* [Monads in Swift - A very short explanation](http://chris.eidhof.nl/posts/monads-in-swift.html), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Tools/Controls**
 
