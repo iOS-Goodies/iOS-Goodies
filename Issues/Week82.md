@@ -29,3 +29,4 @@
 **Videos**
 
 * [Route 85](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGQekfmV0Qk52qLG5LU2jO), by Google
+* [Building an App from Start to Finish](https://www.youtube.com/watch?v=rEkuRFO6xTw&app=desktop), by [@_davidsmith](https://twitter.com/_davidsmith)
