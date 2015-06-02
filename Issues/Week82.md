@@ -8,17 +8,26 @@
 **Tools/Controls**
 
 * [Google APIs for iOS](https://developers.google.com/ios/cocoapods)
+* [Monads in Swift - A very short explanation](http://chris.eidhof.nl/posts/monads-in-swift.html), by [@chriseidhof](https://twitter.com/chriseidhof)
+
+**Tools/Controls**
+
+* [SCXcodeEditorInset](https://github.com/stefanceriu/SCXcodeEditorInset), by [@stefanceriu](https://twitter.com/stefanceriu)
+* [SCXcodeTabSwitcher](https://github.com/stefanceriu/SCXcodeTabSwitcher), by [@stefanceriu](https://twitter.com/stefanceriu)
 * [EasyAnimation β](https://github.com/icanzilb/EasyAnimation) by [@icanzilb](https://twitter.com/icanzilb)
 
 
 **Business**
 
 * [How I almost killed my most successful app](https://medium.com/@kirualex/how-i-almost-killed-my-most-successful-app-9dbbd5a2144c), by [@alexiscreuzot](https://twitter.com/alexiscreuzot)
+* [Don’t Excuse the Price of Your App](https://medium.com/thoughts-on-thoughts/don-t-excuse-the-price-of-your-app-94e572b2a171), by [@hugocornejo](https://twitter.com/hugocornejo)
 
 
 **UI/UX**
 
 * [Design from iOS to Android (and Back Again)](http://www.google.com/design/articles/design-from-ios-to-android/), by [@romannurik](https://twitter.com/romannurik) and Viktor Persson 
+* [Modern Design Tools: Adaptive Layouts](https://medium.com/@joshpuckett/modern-design-tools-adaptive-layouts-e236070856e3), by [@joshpuckett](https://twitter.com/joshpuckett)
+* [Design user research explained for everyone](http://blog.froont.com/design-user-research-explained/), by [@amidm](https://twitter.com/amidm)
 
 
 **Indie Apps**
