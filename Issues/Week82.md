@@ -7,6 +7,8 @@
 
 **Tools/Controls**
 
+* [SCXcodeEditorInset](https://github.com/stefanceriu/SCXcodeEditorInset), by [@stefanceriu](https://twitter.com/stefanceriu)
+* [SCXcodeTabSwitcher](https://github.com/stefanceriu/SCXcodeTabSwitcher), by [@stefanceriu](https://twitter.com/stefanceriu)
 * [EasyAnimation β](https://github.com/icanzilb/EasyAnimation) by [@icanzilb](https://twitter.com/icanzilb)
 
 **Business**
