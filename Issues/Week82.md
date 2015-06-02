@@ -20,6 +20,7 @@
 
 * [Design from iOS to Android (and Back Again)](http://www.google.com/design/articles/design-from-ios-to-android/), by [@romannurik](https://twitter.com/romannurik) and Viktor Persson 
 * [Modern Design Tools: Adaptive Layouts](https://medium.com/@joshpuckett/modern-design-tools-adaptive-layouts-e236070856e3), by [@joshpuckett](https://twitter.com/joshpuckett)
+* [Design user research explained for everyone](http://blog.froont.com/design-user-research-explained/), by [@amidm](https://twitter.com/amidm)
 
 **Videos**
 
