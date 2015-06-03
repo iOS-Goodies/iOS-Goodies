@@ -7,6 +7,7 @@
 * [How To Create an Xcode Plugin: Part1/3](http://www.raywenderlich.com/94020/creating-an-xcode-plugin-part-1) [Part2/3](http://www.raywenderlich.com/97756/creating-an-xcode-plugin-part-2), by [@LOLgrep](https://twitter.com/lolgrep)
 * [Mirror​Type](http://nshipster.com/mirrortype/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [How to Make an iOS Fractal App](https://www.weheartswift.com/make-ios-fractal-app/), by Silviu Pop
+* [How to Constrain a Square View with Auto Layout in iOS](http://spin.atomicobject.com/2015/06/03/ios-square-view-auto-layout/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
 
 **Tools/Controls**
 
