@@ -8,6 +8,7 @@
 * [Mirror​Type](http://nshipster.com/mirrortype/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [How to Make an iOS Fractal App](https://www.weheartswift.com/make-ios-fractal-app/), by Silviu Pop
 * [How to Constrain a Square View with Auto Layout in iOS](http://spin.atomicobject.com/2015/06/03/ios-square-view-auto-layout/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
+* [UIScreen Bounds in iOS 8](http://useyourloaf.com/blog/2015/06/01/uiscreen-bounds-in-ios-8.html), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -25,6 +26,7 @@
 
 * [How I almost killed my most successful app](https://medium.com/@kirualex/how-i-almost-killed-my-most-successful-app-9dbbd5a2144c), by [@alexiscreuzot](https://twitter.com/alexiscreuzot)
 * [Don’t Excuse the Price of Your App](https://medium.com/thoughts-on-thoughts/don-t-excuse-the-price-of-your-app-94e572b2a171), by [@hugocornejo](https://twitter.com/hugocornejo)
+* [What Is The Cost Of An App?](https://medium.com/@LabrosGidarakos/what-is-the-cost-of-an-app-6c484b368bf8), by [@LabrosGidarakos](https://twitter.com/LabrosGidarakos)
 
 
 **UI/UX**
