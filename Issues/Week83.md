@@ -1,5 +1,7 @@
 **Articles**
 
+* [Automatic UI Updates with Value Types in Swif](http://blog.soff.es/automatic-ui-updates-with-value-types/), by [@soffes](https://twitter.com/soffes)
+
 **Tools/Controls**
 
 * [spaceship.airforce](https://spaceship.airforce), by [@KrauseFx](https://twitter.com/KrauseFx)
