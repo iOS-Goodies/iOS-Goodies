@@ -10,6 +10,7 @@
 
 **UI/UX**
 
+* [Why Users Miss Form Buttons Placed in the Action Bar](http://uxmovement.com/mobile/why-users-miss-form-buttons-placed-in-the-action-bar/), by [@uxmovement](https://twitter.com/uxmovement)
 
 **Indie Apps**
 
