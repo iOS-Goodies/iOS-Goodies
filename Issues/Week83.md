@@ -1,6 +1,7 @@
 **Articles**
 
 * [Automatic UI Updates with Value Types in Swif](http://blog.soff.es/automatic-ui-updates-with-value-types/), by [@soffes](https://twitter.com/soffes)
+* [Dependency Injection: Give Your iOS Code a Shot in the Arm](https://corner.squareup.com/2015/06/dependency-injection-in-objc.html), by [@squareeng](https://twitter.com/squareeng)
 
 **Tools/Controls**
 
