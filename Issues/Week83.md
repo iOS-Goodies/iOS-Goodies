@@ -9,6 +9,7 @@
 
 **Business**
 
+* [How I killed app sales by going freemium](https://medium.com/@shuveb/how-i-killed-app-sales-by-going-freemium-31c04c60d2f2), by [@shuveb](https://twitter.com/shuveb)
 
 **UI/UX**
 
