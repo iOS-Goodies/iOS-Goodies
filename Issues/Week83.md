@@ -3,7 +3,6 @@
 * [Automatic UI Updates with Value Types in Swif](http://blog.soff.es/automatic-ui-updates-with-value-types/), by [@soffes](https://twitter.com/soffes)
 * [Dependency Injection: Give Your iOS Code a Shot in the Arm](https://corner.squareup.com/2015/06/dependency-injection-in-objc.html), by [@squareeng](https://twitter.com/squareeng)
 * [Changes to the Swift Standard Library in 2.0 beta 1](http://airspeedvelocity.net/2015/06/09/changes-to-the-swift-standard-library-in-2-0-beta-1/), by [@airspeedswift](https://twitter.com/airspeedswift)
-* [WWDC 2015 Links](http://mjtsai.com/blog/2015/06/09/wwdc-2015-links/), by [@mjtsai](https://twitter.com/mjtsai)
 * [WWDC 2015 Keynote Reactions](http://ashfurrow.com/blog/wwdc-2015-keynote-reactions/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **Tools/Controls**
