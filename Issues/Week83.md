@@ -5,6 +5,7 @@
 * [Changes to the Swift Standard Library in 2.0 beta 1](http://airspeedvelocity.net/2015/06/09/changes-to-the-swift-standard-library-in-2-0-beta-1/), by [@airspeedswift](https://twitter.com/airspeedswift)
 * [WWDC 2015 Keynote Reactions](http://ashfurrow.com/blog/wwdc-2015-keynote-reactions/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Swift Guard Statement](http://ericcerney.com/swift-guard-statement/), by [@ecerney](https://twitter.com/ecerney)
+* [iOS9 Notifications and Text Input](http://fancypixel.github.io/blog/2015/06/11/ios9-notifications-and-text-input/), by [@theandreamazz](https://twitter.com/theandreamazz)  
 
 **Tools/Controls**
 
@@ -13,6 +14,7 @@
 * [Space Commander](https://github.com/square/spacecommander), by [@squareeng](https://twitter.com/squareeng)
 * [Cutaway](https://github.com/fabiorodella/Cutaway), by Fabio Rodella
 * [fbinfer](http://fbinfer.com/), by Facebook
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition), by [@theandreamazz](https://twitter.com/theandreamazz)  
 
 **Business**
 
