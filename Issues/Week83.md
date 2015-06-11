@@ -12,6 +12,7 @@
 * [spaceship.airforce](https://spaceship.airforce), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Space Commander](https://github.com/square/spacecommander), by [@squareeng](https://twitter.com/squareeng)
 * [Cutaway](https://github.com/fabiorodella/Cutaway), by Fabio Rodella
+* [fbinfer](http://fbinfer.com/), by Facebook
 
 **Business**
 
