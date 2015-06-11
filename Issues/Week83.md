@@ -21,6 +21,7 @@
 
 * [Re-imagining Twitter](https://medium.com/@michaeledwards/re-imaging-twitter-ea4e1139fe12), by [@michaeledwards](https://twitter.com/michaeledwards)
 * [Why Users Miss Form Buttons Placed in the Action Bar](http://uxmovement.com/mobile/why-users-miss-form-buttons-placed-in-the-action-bar/), by [@uxmovement](https://twitter.com/uxmovement)
+* [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/), by [@sarah_edo](https://twitter.com/sarah_edo)
 
 **Videos**
 
