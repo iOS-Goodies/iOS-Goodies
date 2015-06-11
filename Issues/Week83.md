@@ -21,11 +21,7 @@
 * [Re-imagining Twitter](https://medium.com/@michaeledwards/re-imaging-twitter-ea4e1139fe12), by [@michaeledwards](https://twitter.com/michaeledwards)
 * [Why Users Miss Form Buttons Placed in the Action Bar](http://uxmovement.com/mobile/why-users-miss-form-buttons-placed-in-the-action-bar/), by [@uxmovement](https://twitter.com/uxmovement)
 
-**Indie Apps**
-
-
 **Videos**
 
 * [WWDC 2015](https://developer.apple.com/videos/wwdc/2015/)
 * [UIKonf 2015](https://www.youtube.com/playlist?list=PLdr22uU_wISpW6XI1J0S7Lp-X8Km-HaQW)
-* [WWDC 2015 Videos](https://developer.apple.com/videos/wwdc/2015/)
