@@ -16,6 +16,7 @@
 **Business**
 
 * [How I killed app sales by going freemium](https://medium.com/@shuveb/how-i-killed-app-sales-by-going-freemium-31c04c60d2f2), by [@shuveb](https://twitter.com/shuveb)
+* [I quit the tech industry](http://eev.ee/blog/2015/06/09/i-quit-the-tech-industry/), by [@eevee](https://twitter.com/eevee)
 
 **UI/UX**
 
