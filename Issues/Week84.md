@@ -1,6 +1,7 @@
 **Articles**
 
 * [The Ghost of Swift Bugs Future](http://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future), by [@nomothetis](https://twitter.com/nomothetis)
+* [Swift 2 Error Handling in Practice](http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice), by [@bradlarson](https://twitter.com/bradlarson)
 
 **Tools/Controls**
 
