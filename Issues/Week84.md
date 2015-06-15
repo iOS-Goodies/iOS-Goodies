@@ -12,4 +12,6 @@
 
 **Business**
 
+* [I Do Not Agree To Your Terms](https://mikeash.com/pyblog/i-do-not-agree-to-your-terms.html), by [@mikeash](https://twitter.com/mikeash)
+
 **UI/UX**
