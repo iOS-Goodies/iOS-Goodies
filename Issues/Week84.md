@@ -5,6 +5,7 @@
 * [Thoughts on Swift 2 Errors](https://gist.github.com/nicklockwood/21495c2015fd2dda56cf), by [@nicklockwood](https://twitter.com/nicklockwood)
 * [The Current State of the Google API Client for Cocoa](http://mattwyskiel.github.io/posts/2015/06/15/google-api-objectivec-client.html), by [@mattwyskiel](https://twitter.com/mattwyskiel)
 * [Swift Mirrors and JSON](http://chris.eidhof.nl/posts/swift-mirrors-and-json.html), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [Thoughts on Swift 2 Errors](https://gist.github.com/nicklockwood/21495c2015fd2dda56cf), by [@nicklockwood](https://twitter.com/nicklockwood)
 
 **Tools/Controls**
 
