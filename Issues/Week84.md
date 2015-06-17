@@ -15,6 +15,7 @@
 
 * [plugin-ios-ota](https://github.com/onesky/plugin-ios-ota), by [@OneSkyApp](https://twitter.com/OneSkyApp)
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition), by [@theandreamazz](https://twitter.com/theandreamazz) 
+* [OAStackView](https://github.com/oarrabi/OAStackView), [@ifnottrue](https://twitter.com/ifnottrue)
 
 **Business**
 
@@ -23,3 +24,4 @@
 **UI/UX**
 
 * [Designing Moments](https://medium.com/facebook-design/designing-moments-2b5362430125), by [@alloraLaura](https://twitter.com/alloraLaura)
+* [11 Tips For Designing Apps for Apple Watch](https://medium.com/@hvost/11-tips-for-designing-apps-for-apple-watch-4b6cc2cb11d3), by [@hvost](https://twitter.com/hvost)
