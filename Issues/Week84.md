@@ -8,6 +8,7 @@
 * [Thoughts on Swift 2 Errors](https://gist.github.com/nicklockwood/21495c2015fd2dda56cf), by [@nicklockwood](https://twitter.com/nicklockwood)
 * [Do-Catch Seems Overly Cumbersome](http://owensd.io/2015/06/16/do-catch.html), by [@owensd](https://twitter.com/owensd)
 * [Converting between Result, Optionals, and Swift 2 errors](http://radex.io/swift/error-conversions/), by [@radexp](https://twitter.com/radexp)
+* [Protocol-Oriented Programming is Object-Oriented Programming](http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html), by [@mpweiher](https://twitter.com/mpweiher)
 
 **Tools/Controls**
 
