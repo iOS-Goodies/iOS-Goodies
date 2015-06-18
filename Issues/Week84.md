@@ -10,6 +10,7 @@
 * [Converting between Result, Optionals, and Swift 2 errors](http://radex.io/swift/error-conversions/), by [@radexp](https://twitter.com/radexp)
 * [Protocol-Oriented Programming is Object-Oriented Programming](http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html), by [@mpweiher](https://twitter.com/mpweiher)
 * [Under the hood: Building Moments](https://code.facebook.com/posts/498597036962415/under-the-hood-building-moments/), by Facebook
+* [Throw What Don't Throw](http://robnapier.net/throw-what-dont-throw), by [@cocoaphony](https://twitter.com/cocoaphony)
 
 **Tools/Controls**
 
