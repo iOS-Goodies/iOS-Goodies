@@ -30,6 +30,6 @@
 * [Designing Moments](https://medium.com/facebook-design/designing-moments-2b5362430125), by [@alloraLaura](https://twitter.com/alloraLaura)
 * [11 Tips For Designing Apps for Apple Watch](https://medium.com/@hvost/11-tips-for-designing-apps-for-apple-watch-4b6cc2cb11d3), by [@hvost](https://twitter.com/hvost)
 
-** Goodies **
+**Goodies**
 
 * [Teach Students How to Create iOS Apps](http://swifteducation.github.io/teaching_app_development_with_swift/)
