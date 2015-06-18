@@ -11,6 +11,7 @@
 * [Protocol-Oriented Programming is Object-Oriented Programming](http://blog.metaobject.com/2015/06/protocol-oriented-programming-is-object.html), by [@mpweiher](https://twitter.com/mpweiher)
 * [Under the hood: Building Moments](https://code.facebook.com/posts/498597036962415/under-the-hood-building-moments/), by Facebook
 * [Throw What Don't Throw](http://robnapier.net/throw-what-dont-throw), by [@cocoaphony](https://twitter.com/cocoaphony)
+* [Protocol Oriented Programming](http://owensd.io/2015/06/17/protocol-oriented-programming.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
 
