@@ -23,6 +23,7 @@
 * [OAStackView](https://github.com/oarrabi/OAStackView), [@ifnottrue](https://twitter.com/ifnottrue)
 * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert), by [@diwup](https://twitter.com/diwup)
 * [OALayoutAnchor](https://github.com/oarrabi/OALayoutAnchor), by [@ifnottrue](https://twitter.com/ifnottrue) 
+* [SyntaxKit](https://github.com/soffes/SyntaxKit), by [@soffes](https://twitter.com/soffes)
 
 **Business**
 
