@@ -12,6 +12,7 @@
 * [Under the hood: Building Moments](https://code.facebook.com/posts/498597036962415/under-the-hood-building-moments/), by Facebook
 * [Throw What Don't Throw](http://robnapier.net/throw-what-dont-throw), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [Protocol Oriented Programming](http://owensd.io/2015/06/17/protocol-oriented-programming.html), by [@owensd](https://twitter.com/owensd)
+* [Test Logs in Xcode](http://michele.io/test-logs-in-xcode), by [@micheletitolo](https://twitter.com/micheletitolo)
 
 **Tools/Controls**
 
