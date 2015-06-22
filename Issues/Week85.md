@@ -1,5 +1,6 @@
 **Articles**
 
+<<<<<<< HEAD
 * [Friday Q&A 2015-06-19: The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html), by [@mikeash](https://twitter.com/mikeash)
 * [Swift Exceptions are Swifty: Part 1](http://www.figure.ink/blog/2015/6/20/swift-exceptions-are-swifty-part-1), by [@jemmons](https://twitter.com/jemmons)
 * [Swift 2 - The overview](http://www.russbishop.net/swift-2-0), by [@xenadu02](https://twitter.com/xenadu02)
@@ -29,3 +30,18 @@
 **Goodies**
 
 * [Swift Education](http://swifteducation.github.io/)
+=======
+* [Playing With UIDynamics in iOS 9](http://fancypixel.github.io/blog/2015/06/19/playing-with-uidynamics-in-ios-9/), by [@theandreamazz](https://twitter.com/theandreamazz)
+
+**Tools/Controls**
+
+* Tropos - [Article](https://robots.thoughtbot.com/open-sourcing-tropos) and [Repo](https://github.com/thoughtbot/Tropos), by [@thoughtbot](https://twitter.com/thoughtbot)
+
+**Business**
+
+*
+
+**UI/UX**
+
+*
+>>>>>>> aad0c4c2cbc283c8f1751415f86de52f6f038410
