@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Playing With UIDynamics in iOS 9](http://fancypixel.github.io/blog/2015/06/19/playing-with-uidynamics-in-ios-9/), by [@theandreamazz](https://twitter.com/theandreamazz)
 
 **Tools/Controls**
 
