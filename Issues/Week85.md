@@ -1,6 +1,8 @@
 **Articles**
 
 * [Friday Q&A 2015-06-19: The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html), by [@mikeash](https://twitter.com/mikeash)
+* [Swift Exceptions are Swifty: Part 1](http://www.figure.ink/blog/2015/6/20/swift-exceptions-are-swifty-part-1), by [@jemmons](https://twitter.com/jemmons)
+* [Swift 2 - The overview](http://www.russbishop.net/swift-2-0), by [@xenadu02](https://twitter.com/xenadu02)
 
 
 **Tools/Controls**
