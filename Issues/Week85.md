@@ -1,6 +1,5 @@
 **Articles**
 
-
 * [Friday Q&A 2015-06-19: The Best of What's New in Swift](https://www.mikeash.com/pyblog/friday-qa-2015-06-19-the-best-of-whats-new-in-swift.html), by [@mikeash](https://twitter.com/mikeash)
 * [Swift Exceptions are Swifty: Part 1](http://www.figure.ink/blog/2015/6/20/swift-exceptions-are-swifty-part-1), by [@jemmons](https://twitter.com/jemmons)
 * [Swift 2 - The overview](http://www.russbishop.net/swift-2-0), by [@xenadu02](https://twitter.com/xenadu02)
@@ -16,15 +15,11 @@
 * [UIImageColors](https://github.com/jathu/UIImageColors), by jathu
 * [DVR](https://github.com/venmo/DVR), by [@soffes](https://twitter.com/soffes)
 
-
 **Business**
 
 * [Throw Money at It](http://robnapier.net/throw-money), by [@cocoaphony](https://twitter.com/cocoaphony)
 
 **UI/UX**
-
-
-
 
 **Videos**
 
@@ -32,8 +27,7 @@
 * [Taylor: The Most Un-Googleable Swift Library](https://realm.io/news/swift-summit-jorge-izquierdo-taylor-http-server-library/), by [@izqui9](https://twitter.com/izqui9)
 * [Extracurricular Swift](https://realm.io/news/swift-summit-sally-shepard-extracurricular-swift-programming-education/), by [@mostgood](https://twitter.com/mostgood)
 
-
-
 **Goodies**
 
 * [Swift Education](http://swifteducation.github.io/)
+* [RAC Marbles](http://neilpa.me/rac-marbles/), by [npankey](https://twitter.com/npankey)
