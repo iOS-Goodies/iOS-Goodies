@@ -13,6 +13,8 @@
 **Tools/Controls**
 
 * Tropos - [Article](https://robots.thoughtbot.com/open-sourcing-tropos) and [Repo](https://github.com/thoughtbot/Tropos), by [@thoughtbot](https://twitter.com/thoughtbot)
+* [UIImageColors](https://github.com/jathu/UIImageColors), by jathu
+* [DVR](https://github.com/venmo/DVR), by [@soffes](https://twitter.com/soffes)
 
 
 **Business**
