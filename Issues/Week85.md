@@ -9,6 +9,7 @@
 * [Combining Swift Protocols](http://www.llamagraphics.com/content/combining-swift-protocols), by Llamagraphics
 * [i​OS 9](http://nshipster.com/ios9/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [The Not-So-Complicated Complications](http://macoscope.com/blog/the-not-so-complicated-complications/), by [@justMaku](https://twitter.com/justMaku)
+* [Protocol extensions and the death of the pipe-forward operator](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/), by [@AirspeedSwift](https://twitter.com/airspeedswift)
 
 
 **Tools/Controls**
