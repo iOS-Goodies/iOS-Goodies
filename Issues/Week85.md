@@ -12,6 +12,7 @@
 * [Protocol extensions and the death of the pipe-forward operator](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/), by [@AirspeedSwift](https://twitter.com/airspeedswift)
 * [Lazy WatchKit tables](http://radex.io/watch/lazy/), by [@radexp](https://twitter.com/radexp)
 * [Serialize Asynchronous Operations with ReactiveCocoa](http://spin.atomicobject.com/2015/06/19/serialize-asynchronous-operations-reactivecocoa/), by [@patrickbacon](https://twitter.com/patrickbacon)
+* [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd), by [@xenadu02](https://twitter.com/xenadu02)
 
 
 **Tools/Controls**
