@@ -23,6 +23,7 @@
 **Business**
 
 * [Throw Money at It](http://robnapier.net/throw-money), by [@cocoaphony](https://twitter.com/cocoaphony)
+* [How would you change the App Store?](http://www.imore.com/how-would-you-change-app-store), by [@reneritchie](https://twitter.com/reneritchie)
 
 **UI/UX**
 
