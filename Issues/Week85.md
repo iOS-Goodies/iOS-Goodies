@@ -7,6 +7,11 @@
 * [Network Testing in Swift with DVR](http://blog.soff.es/network-testing-in-swift-with-dvr/), by [@soffes](https://twitter.com/soffes)
 * [C callbacks in Swift](http://oleb.net/blog/2015/06/c-callbacks-in-swift/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Combining Swift Protocols](http://www.llamagraphics.com/content/combining-swift-protocols), by Llamagraphics
+* [i​OS 9](http://nshipster.com/ios9/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
+* [The Not-So-Complicated Complications](http://macoscope.com/blog/the-not-so-complicated-complications/), by [@justMaku](https://twitter.com/justMaku)
+* [Protocol extensions and the death of the pipe-forward operator](http://airspeedvelocity.net/2015/06/23/protocol-extensions-and-the-death-of-the-pipe-forward-operator/), by [@AirspeedSwift](https://twitter.com/airspeedswift)
+* [Lazy WatchKit tables](http://radex.io/watch/lazy/), by [@radexp](https://twitter.com/radexp)
+* [Serialize Asynchronous Operations with ReactiveCocoa](http://spin.atomicobject.com/2015/06/19/serialize-asynchronous-operations-reactivecocoa/), by [@patrickbacon](https://twitter.com/patrickbacon)
 
 
 **Tools/Controls**
