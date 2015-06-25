@@ -28,6 +28,7 @@
 * [Do the simple thing first: The Engineering behind Instagram](https://www.fastcompany.com/3047642/tech-forecast/do-the-simple-thing-first-the-engineering-behind-instagram), by [@harrymccracken](https://twitter.com/harrymccracken)
 * [Launching Atmos: A Look Back](https://medium.com/@shnhrrsn/launching-atmos-a-look-back-177ef6ae370a), by [@shnhrrsn](https://twitter.com/shnhrrsn)
 * [We need to rethink employee compensation](http://www.aaronkharris.com/we-need-to-rethink-employee-compensation), by [@harris](https://twitter.com/harris)
+* [How to Submit the Perfect Bug Report](https://medium.com/ribot-labs/how-to-submit-the-perfect-bug-report-for-android-ios-41992d160bab), by [@matto1990](https://twitter.com/matto1990)
 
 **UI/UX**
 
