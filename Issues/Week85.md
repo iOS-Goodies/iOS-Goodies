@@ -34,6 +34,7 @@
 
 * [A Month Designing in VR](https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c), by [@tarngerine](https://twitter.com/tarngerine)
 * [Dropbox's new Android app is all about invisible design](http://www.wired.com/2015/06/dropboxs-new-android-app-invisible-design/), by [@belindalanks](https://twitter.com/belindalanks)
+* [How to Perform Your Own Lean Mobile Usability Testing](http://uxmag.com/articles/how-to-perform-your-own-lean-mobile-usability-testing), by [@designcaffeine](https://twitter.com/designcaffeine)
 
 **Videos**
 
