@@ -13,7 +13,7 @@
 * [Lazy WatchKit tables](http://radex.io/watch/lazy/), by [@radexp](https://twitter.com/radexp)
 * [Serialize Asynchronous Operations with ReactiveCocoa](http://spin.atomicobject.com/2015/06/19/serialize-asynchronous-operations-reactivecocoa/), by [@patrickbacon](https://twitter.com/patrickbacon)
 * [Swift 2: SIMD](http://www.russbishop.net/swift-2-simd), by [@xenadu02](https://twitter.com/xenadu02)
-
+* [UI Testing with Xcode 7](https://medium.com/@larcus94/ui-testing-with-xcode-7-221d16bad276), by [@larcus94](https://twitter.com/larcus94)
 
 **Tools/Controls**
 
