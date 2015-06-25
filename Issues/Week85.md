@@ -30,6 +30,8 @@
 
 **UI/UX**
 
+* [A Month Designing in VR](https://medium.com/facebook-design/a-month-designing-in-vr-62474aef1f1c), by [@tarngerine](https://twitter.com/tarngerine)
+
 **Videos**
 
 * [(Functional) Programming for Everyone](https://realm.io/news/swift-summit-daniel-steinberg-functional-programming-for-everyone/), by [@dimsumthinking](https://twitter.com/dimsumthinking)
