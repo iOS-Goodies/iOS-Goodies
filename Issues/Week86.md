@@ -8,7 +8,8 @@
 
 **Business**
 
-* 
+* [The Role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/, by [@googleninja](https://twitter.com/googleninja)
+* [What happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/), by [@alinelernerLLC](https://twitter.com/alinelernerLLC)
 
 **UI/UX**
 
