@@ -3,6 +3,7 @@
 * [Pattern matching over recursive values in Swift](http://antitypical.com/swift/2015/07/01/pattern-matching-over-recursive-values-in-swift/), by [@rob_rix](https://twitter.com/rob_rix)
 * [NSValue and Boxed Expressions](https://alexdenisov.github.io/blog/nsvalue-and-boxed-expressions/), by [@1101_debian](https://twitter.com/1101_debian)
 * [Design Question: Extension, Conforming Type, or Generic Type?](http://owensd.io/2015/06/25/design-question-extension.html), by [@owensd](https://twitter.com/owensd)
+* [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/), by [@joemasilotti](http://twitter.com/joemasilotti)
 
 **Tools/Controls**
 
