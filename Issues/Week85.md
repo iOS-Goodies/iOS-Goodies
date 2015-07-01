@@ -29,6 +29,7 @@
 * [Launching Atmos: A Look Back](https://medium.com/@shnhrrsn/launching-atmos-a-look-back-177ef6ae370a), by [@shnhrrsn](https://twitter.com/shnhrrsn)
 * [We need to rethink employee compensation](http://www.aaronkharris.com/we-need-to-rethink-employee-compensation), by [@harris](https://twitter.com/harris)
 * [How to Submit the Perfect Bug Report](https://medium.com/ribot-labs/how-to-submit-the-perfect-bug-report-for-android-ios-41992d160bab), by [@matto1990](https://twitter.com/matto1990)
+* [People-Focused Engineering Culture](http://blog.prolificinteractive.com/2015/06/23/people-focused-engineering-culture/), by [@weareprolific](https://twitter.com/weareprolific)
 
 **UI/UX**
 
