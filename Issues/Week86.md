@@ -30,6 +30,7 @@
 * [How Apple Music Onboards New Users](http://www.useronboard.com/how-applemusic-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 * [A true UX tool](https://medium.com/@JuliusHuijnk/a-true-ux-tool-9e892b0dc1a5), by [@Juliu](https://twitter.com/Juliu)
 * [Designing a great digital product](http://five.agency/designing-great-digital-product/), by [@ivanbjelajac](https://twitter.com/ivanbjelajac)
+* [Building a Product and Saying No to Features](http://nathanpowell.me/blog/saying-no-to-features/#.VZUkbe1Vj88), by [@nathanpowell76](https://twitter.com/nathanpowell76)
 
 
 **Videos**
