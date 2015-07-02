@@ -10,6 +10,7 @@
 * [\#28: Discovering Users in CloudKit](http://littlebitesofcocoa.tumblr.com/post/122952445533/28-discovering-users-in-cloudkit), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 * [Swift Exceptions are Swifty: Part 2](http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2), by [@jemmons](https://twitter.com/jemmons)
 * [Breaking down iOS 9 Universal Links](http://blog.hokolinks.stfi.re/how-to-implement-apple-universal-links-on-ios-9), by [@rikas](https://twitter.com/rikas)
+* [Xcode: One Weird Debugging Trick That Will Save Your Life](http://natashatherobot.com/xcode-debugging-trick/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 
 **Tools/Controls**
 
@@ -17,6 +18,7 @@
 * [Opening the Instapaper API](http://blog.instapaper.com/post/121774203371), by [@instapaper](https://twitter.com/instapaper)
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM), by [@neoneye](https://twitter.com/neoneye)
 * [GaugeKit](https://github.com/skywinder/GaugeKit), by Petr Korolev
+* [Valet](https://github.com/square/Valet), by [@square](https://twitter.com/square)
 
 **Business**
 
