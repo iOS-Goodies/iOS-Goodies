@@ -5,17 +5,29 @@
 * [Protocol-Oriented Networking](http://khanlou.com/2015/06/protocol-oriented-networking/), by [@khanlou](https://twitter.com/khanlou)
 * [Design Question: Extension, Conforming Type, or Generic Type?](http://owensd.io/2015/06/25/design-question-extension.html), by [@owensd](https://twitter.com/owensd)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/), by [@joemasilotti](http://twitter.com/joemasilotti)
+* [Cloud​Kit](http://nshipster.com/cloudkit/), by [@cr0ath](https://twitter.com/cr0ath)
+* [\#28: Discovering Users in CloudKit](http://littlebitesofcocoa.tumblr.com/post/122952445533/28-discovering-users-in-cloudkit), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
+* [Swift Exceptions are Swifty: Part 2](http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2), by [@jemmons](https://twitter.com/jemmons)
 
 **Tools/Controls**
 
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift), by [@andreacremaschi](https://twitter.com/andreacremaschi)
+* [SwiftyFORM](https://github.com/neoneye/SwiftyFORM), by [@neoneye](https://twitter.com/neoneye)
+* [GaugeKit](https://github.com/skywinder/GaugeKit), by Petr Korolev
 
 **Business**
 
 * [The Role of a Senior Developer](http://mattbriggs.net/blog/2015/06/01/the-role-of-a-senior-developer/), by [@googleninja](https://twitter.com/googleninja)
 * [What happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/), by [@alinelernerLLC](https://twitter.com/alinelernerLLC)
+* [The State of Messaging Apps, in 5 Charts](http://contently.com/strategist/2015/06/30/the-state-of-messaging-apps-in-5-charts/), by [@dillonmbaker](https://twitter.com/dillonmbaker)
+* [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/), by [@mgadams3](https://twitter.com/mgadams3)
 
 **UI/UX**
 
-* 
+* [A true UX tool](https://medium.com/@JuliusHuijnk/a-true-ux-tool-9e892b0dc1a5), by [@Juliu](https://twitter.com/Juliu)
+* [Designing a great digital product](http://five.agency/designing-great-digital-product/), by [@ivanbjelajac](https://twitter.com/ivanbjelajac)
 
+
+**Videos**
+
+* [Livecoding.tv](https://www.livecoding.tv/)
