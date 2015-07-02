@@ -5,6 +5,7 @@
 * [Protocol-Oriented Networking](http://khanlou.com/2015/06/protocol-oriented-networking/), by [@khanlou](https://twitter.com/khanlou)
 * [Design Question: Extension, Conforming Type, or Generic Type?](http://owensd.io/2015/06/25/design-question-extension.html), by [@owensd](https://twitter.com/owensd)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/), by [@joemasilotti](http://twitter.com/joemasilotti)
+* [Paragons Of Perfunctory Programs](http://xn--wxak1a.com/blog/Monadic-Computering.html), by [@CodaFi_](https://twitter.com/CodaFi_)
 
 **Tools/Controls**
 
