@@ -19,5 +19,5 @@
 
 **UI/UX**
 
-* 
+* [How Apple Music Onboards New Users](http://www.useronboard.com/how-applemusic-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 
