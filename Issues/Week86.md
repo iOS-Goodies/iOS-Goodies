@@ -26,6 +26,7 @@
 * [What happens when you stop relying on resumes](http://blog.alinelerner.com/what-happens-when-you-stop-relying-on-resumes/), by [@alinelernerLLC](https://twitter.com/alinelernerLLC)
 * [The State of Messaging Apps, in 5 Charts](http://contently.com/strategist/2015/06/30/the-state-of-messaging-apps-in-5-charts/), by [@dillonmbaker](https://twitter.com/dillonmbaker)
 * [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/), by [@mgadams3](https://twitter.com/mgadams3)
+* [Freelancing: 2 years, $230,000+ and 9 big lessons later](http://joelklettke.com/freelancing-2-years-230000-and-9-big-lessons-later/), by [@joelklettke](https://twitter.com/joelklettke)
 
 **UI/UX**
 
