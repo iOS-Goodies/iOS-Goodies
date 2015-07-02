@@ -19,6 +19,8 @@
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM), by [@neoneye](https://twitter.com/neoneye)
 * [GaugeKit](https://github.com/skywinder/GaugeKit), by Petr Korolev
 * [Valet](https://github.com/square/Valet), by [@square](https://twitter.com/square)
+* [AudioKit](https://github.com/audiokit/AudioKit), by [@AudioKit](https://twitter.com/AudioKitMan)
+
 
 **Business**
 
