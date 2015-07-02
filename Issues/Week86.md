@@ -5,6 +5,7 @@
 * [Protocol-Oriented Networking](http://khanlou.com/2015/06/protocol-oriented-networking/), by [@khanlou](https://twitter.com/khanlou)
 * [Design Question: Extension, Conforming Type, or Generic Type?](http://owensd.io/2015/06/25/design-question-extension.html), by [@owensd](https://twitter.com/owensd)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/), by [@joemasilotti](http://twitter.com/joemasilotti)
+* [Paragons Of Perfunctory Programs](http://xn--wxak1a.com/blog/Monadic-Computering.html), by [@CodaFi_](https://twitter.com/CodaFi_)
 * [Cloud​Kit](http://nshipster.com/cloudkit/), by [@cr0ath](https://twitter.com/cr0ath)
 * [\#28: Discovering Users in CloudKit](http://littlebitesofcocoa.tumblr.com/post/122952445533/28-discovering-users-in-cloudkit), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 * [Swift Exceptions are Swifty: Part 2](http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2), by [@jemmons](https://twitter.com/jemmons)
@@ -12,6 +13,7 @@
 **Tools/Controls**
 
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift), by [@andreacremaschi](https://twitter.com/andreacremaschi)
+* [Opening the Instapaper API](http://blog.instapaper.com/post/121774203371), by [@instapaper](https://twitter.com/instapaper)
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM), by [@neoneye](https://twitter.com/neoneye)
 * [GaugeKit](https://github.com/skywinder/GaugeKit), by Petr Korolev
 
@@ -24,6 +26,7 @@
 
 **UI/UX**
 
+* [How Apple Music Onboards New Users](http://www.useronboard.com/how-applemusic-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 * [A true UX tool](https://medium.com/@JuliusHuijnk/a-true-ux-tool-9e892b0dc1a5), by [@Juliu](https://twitter.com/Juliu)
 * [Designing a great digital product](http://five.agency/designing-great-digital-product/), by [@ivanbjelajac](https://twitter.com/ivanbjelajac)
 
