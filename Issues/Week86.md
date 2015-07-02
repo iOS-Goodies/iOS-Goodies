@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [GEOSwift](https://github.com/andreacremaschi/GEOSwift), by [@andreacremaschi](https://twitter.com/andreacremaschi)
+* [Opening the Instapaper API](http://blog.instapaper.com/post/121774203371), by [@instapaper](https://twitter.com/instapaper)
 
 **Business**
 
