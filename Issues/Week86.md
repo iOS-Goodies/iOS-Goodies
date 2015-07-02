@@ -9,6 +9,7 @@
 * [Cloud​Kit](http://nshipster.com/cloudkit/), by [@cr0ath](https://twitter.com/cr0ath)
 * [\#28: Discovering Users in CloudKit](http://littlebitesofcocoa.tumblr.com/post/122952445533/28-discovering-users-in-cloudkit), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 * [Swift Exceptions are Swifty: Part 2](http://www.figure.ink/blog/2015/6/29/swift-exceptions-are-swifty-part-2), by [@jemmons](https://twitter.com/jemmons)
+* [Breaking down iOS 9 Universal Links](http://blog.hokolinks.stfi.re/how-to-implement-apple-universal-links-on-ios-9), by [@rikas](https://twitter.com/rikas)
 
 **Tools/Controls**
 
