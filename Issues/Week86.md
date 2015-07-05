@@ -19,6 +19,7 @@
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM), by [@neoneye](https://twitter.com/neoneye)
 * [GaugeKit](https://github.com/skywinder/GaugeKit), by Petr Korolev
 * [Valet](https://github.com/square/Valet), by [@square](https://twitter.com/square)
+* [SwiftSequence](https://github.com/oisdk/SwiftSequence), by [@oisdk](https://twitter.com/oisdk)
 
 **Business**
 
