@@ -5,6 +5,7 @@
 * [We've Got You Covered](https://www.bignerdranch.com/blog/weve-got-you-covered/), by [@borkware](https://twitter.com/borkware)
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/), by [@drewcrawford](https://twitter.com/drewcrawford)
 * [Objective-C in 2015](https://medium.com/the-traveled-ios-developers-guide/objective-c-in-2015-3cb7dab3690c), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
+* [Exploring iOS 9: What developers need to know](http://insights.carnivalmobile.com/exploring-ios-9/), by [@samjarman](https://twitter.com/samjarman)
 
 **Tools/Controls**
 
