@@ -5,10 +5,12 @@
 * [We've Got You Covered](https://www.bignerdranch.com/blog/weve-got-you-covered/), by [@borkware](https://twitter.com/borkware)
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/), by [@drewcrawford](https://twitter.com/drewcrawford)
 * [Objective-C in 2015](https://medium.com/the-traveled-ios-developers-guide/objective-c-in-2015-3cb7dab3690c), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
+* [RE: Should I use a Swift struct or a class?](http://owensd.io/2015/07/05/re-struct-or-class.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
 
 * [Mirror](https://github.com/kostiakoval/Mirror), by [@kostiaKoval](https://twitter.com/kostiaKoval)
+* [apous](https://github.com/owensd/apous), by [@owensd](https://twitter.com/owensd)
 
 **Business**
 
