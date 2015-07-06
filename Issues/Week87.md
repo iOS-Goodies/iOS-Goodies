@@ -15,6 +15,7 @@
 **Business**
 
 * [How I Raised $120,000 with Crowdfunding](http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding), by [@dancounsell](https://twitter.com/dancounsell)
+* [Judicious Use of Shitty Code](http://blog.jaredsinclair.com/post/123277602945/judicious-use-of-shitty-code), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 
 **UI/UX**
 
