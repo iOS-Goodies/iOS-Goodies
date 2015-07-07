@@ -6,14 +6,17 @@
 * [Should I use a Swift struct or a class?](http://faq.sealedabstract.com/structs_or_classes/), by [@drewcrawford](https://twitter.com/drewcrawford)
 * [Objective-C in 2015](https://medium.com/the-traveled-ios-developers-guide/objective-c-in-2015-3cb7dab3690c), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Exploring iOS 9: What developers need to know](http://insights.carnivalmobile.com/exploring-ios-9/), by [@samjarman](https://twitter.com/samjarman)
+* [RE: Should I use a Swift struct or a class?](http://owensd.io/2015/07/05/re-struct-or-class.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
 
 * [Mirror](https://github.com/kostiakoval/Mirror), by [@kostiaKoval](https://twitter.com/kostiaKoval)
+* [apous](https://github.com/owensd/apous), by [@owensd](https://twitter.com/owensd)
 
 **Business**
 
 * [How I Raised $120,000 with Crowdfunding](http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding), by [@dancounsell](https://twitter.com/dancounsell)
+* [Judicious Use of Shitty Code](http://blog.jaredsinclair.com/post/123277602945/judicious-use-of-shitty-code), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 
 **UI/UX**
 
