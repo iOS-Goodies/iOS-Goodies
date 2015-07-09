@@ -30,6 +30,7 @@
 * [A Peek Inside (Part 1)](https://medium.com/user-experience-design-1/a-peek-inside-part-1-ee35b6338c2b), by [@gabrielvaldivia](https://twitter.com/gabrielvaldivia)
 * [Make it Spec’tacular](https://medium.com/@burgerandbrew/make-it-spec-tacular-68d075523d9c), by [@burgerandbrew](https://twitter.com/burgerandbrew)
 * [Do I really need an entire app to make a simple restaurant reservation?](https://medium.com/@robboynes/do-i-really-need-an-entire-app-to-make-a-simple-restaurant-reservation-1d8a1928af9d), by [@RobBoynes](https://twitter.com/RobBoynes)
+* [How We Changed the Facebook Friends Icon](https://medium.com/@caitlinwinner/how-we-changed-the-facebook-friends-icon-dc8526ea9ea8), by [@caitlinwinner](https://twitter.com/caitlinwinner)
 
 **Videos**
 
