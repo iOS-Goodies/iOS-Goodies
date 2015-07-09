@@ -8,6 +8,7 @@
 * [Exploring iOS 9: What developers need to know](http://insights.carnivalmobile.com/exploring-ios-9/), by [@samjarman](https://twitter.com/samjarman)
 * [RE: Should I use a Swift struct or a class?](http://owensd.io/2015/07/05/re-struct-or-class.html), by [@owensd](https://twitter.com/owensd)
 * [Fun with Gradients and Masks](http://ios-animations-by-emails.com/posts/2015-july), by [@icanzilb](https://twitter.com/icanzilb)
+* [Tutorial: iOS Reverse Engineering Part I: LLDB](http://enharmonichq.com/tutorial-ios-reverse-engineering-lldb/) and [Part II: class-dump & Hopper](http://enharmonichq.com/tutorial-ios-reverse-engineering-class-dump-hopper-dissasembler/), by [@jonmarimba](https://twitter.com/jonmarimba)
 
 **Tools/Controls**
 
