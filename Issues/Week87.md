@@ -10,6 +10,7 @@
 
 **Tools/Controls**
 
+* [BAFluidView](https://github.com/antiguab/BAFluidView), by [@brantigua](https://twitter.com/brantigua)
 * [Mirror](https://github.com/kostiakoval/Mirror), by [@kostiaKoval](https://twitter.com/kostiaKoval)
 * [apous](https://github.com/owensd/apous), by [@owensd](https://twitter.com/owensd)
 * [Presentation](https://github.com/hyperoslo/Presentation), by [@hyperoslo](https://twitter.com/hyperoslo)
