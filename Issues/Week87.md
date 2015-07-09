@@ -21,6 +21,7 @@
 * [How I Raised $120,000 with Crowdfunding](http://dancounsell.com/articles/how-i-raised-120000-dollars-with-crowdfunding), by [@dancounsell](https://twitter.com/dancounsell)
 * [Judicious Use of Shitty Code](http://blog.jaredsinclair.com/post/123277602945/judicious-use-of-shitty-code), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [Choosing the Right Pricing Model for Your App](http://dancounsell.typed.com/articles/choosing-the-right-pricing-model-for-your-app), by [@dancounsell](https://twitter.com/dancounsell)
+* [Pricing: Hourly Rates vs. Fixed Prices](https://madebysidecar.com/journal/pricing-hourly-rates-vs-fixed-prices), by [@erikreagan](https://twitter.com/erikreagan)
 
 **UI/UX**
 
