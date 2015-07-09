@@ -7,6 +7,7 @@
 * [Objective-C in 2015](https://medium.com/the-traveled-ios-developers-guide/objective-c-in-2015-3cb7dab3690c), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Exploring iOS 9: What developers need to know](http://insights.carnivalmobile.com/exploring-ios-9/), by [@samjarman](https://twitter.com/samjarman)
 * [RE: Should I use a Swift struct or a class?](http://owensd.io/2015/07/05/re-struct-or-class.html), by [@owensd](https://twitter.com/owensd)
+* [Fun with Gradients and Masks](http://ios-animations-by-emails.com/posts/2015-july), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
