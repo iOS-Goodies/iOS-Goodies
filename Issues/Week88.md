@@ -14,4 +14,4 @@
 
 **Credits**
 
-* [kostiakoval](https://github.com/kostiakoval)
+[kostiakoval](https://github.com/kostiakoval)
