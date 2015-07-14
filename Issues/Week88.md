@@ -16,5 +16,4 @@
 
 **Credits**
 
-* [kostiakoval](https://github.com/kostiakoval)
-* [@joemasilotti](https://github.com/kostiakoval)
+[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval)
