@@ -18,11 +18,12 @@
 **UI/UX**
 
 * [Designing the new Thanx App](https://medium.com/design-thanx/designing-the-new-thanx-app-77d65d3e09a2), by [@ImJasonLi](https://twitter.com/ImJasonLi)
+* [How iOS 9's Safari View Controller could completely change your app’s onboarding experience.](https://library.launchkit.io/how-ios-9-s-safari-view-controller-could-completely-change-your-app-s-onboarding-experience-2bcf2305137f), by [@rizzledizzle](https://twitter.com/rizzledizzle)
 
 
 **Videos**
 
-[AltConf 2015 Videos](https://realm.io/altconf/)
+* [AltConf 2015 Videos](https://realm.io/altconf/)
 
 **Credits**
 
