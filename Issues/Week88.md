@@ -14,6 +14,7 @@
 
 **Business**
 
+* [The Horrible Pain and Awesome Opportunity of Tech Blind Spots](https://medium.com/backchannel/the-biggest-tech-problems-so-obvious-we-aren-t-fixing-them-87f4b708a7f1), by [@scottros](https://twitter.com/scottros)
 
 **UI/UX**
 
