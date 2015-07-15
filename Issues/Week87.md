@@ -8,6 +8,7 @@
 * [Exploring iOS 9: What developers need to know](http://insights.carnivalmobile.com/exploring-ios-9/), by [@samjarman](https://twitter.com/samjarman)
 * [RE: Should I use a Swift struct or a class?](http://owensd.io/2015/07/05/re-struct-or-class.html), by [@owensd](https://twitter.com/owensd)
 * [Fun with Gradients and Masks](http://ios-animations-by-emails.com/posts/2015-july), by [@icanzilb](https://twitter.com/icanzilb)
+* [Tutorial: iOS Reverse Engineering Part I: LLDB](http://enharmonichq.com/tutorial-ios-reverse-engineering-lldb/) and [Part II: class-dump & Hopper](http://enharmonichq.com/tutorial-ios-reverse-engineering-class-dump-hopper-dissasembler/), by [@jonmarimba](https://twitter.com/jonmarimba)
 
 **Tools/Controls**
 
@@ -23,6 +24,8 @@
 * [Judicious Use of Shitty Code](http://blog.jaredsinclair.com/post/123277602945/judicious-use-of-shitty-code), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [Choosing the Right Pricing Model for Your App](http://dancounsell.typed.com/articles/choosing-the-right-pricing-model-for-your-app), by [@dancounsell](https://twitter.com/dancounsell)
 * [Pricing: Hourly Rates vs. Fixed Prices](https://madebysidecar.com/journal/pricing-hourly-rates-vs-fixed-prices), by [@erikreagan](https://twitter.com/erikreagan)
+* [App Store pricing rules](http://aplus.rs/2015/app-store-pricing-rules/), by [@radiantav](https://twitter.com/radiantav)
+* [Sustainable Indie Apps](http://nearthespeedoflight.com/article/2015_07_01_sustainable_indie_apps), by [@ospeedoflight](https://twitter.com/ospeedoflight)
 
 **UI/UX**
 

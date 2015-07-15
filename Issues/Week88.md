@@ -1,6 +1,12 @@
 **Articles**
 
 * [One Macro to Help Dependency Injection](http://masilotti.com/better-dependency-injection) by [@joemasilotti](http://twitter.com/joemasilotti)
+* [Functions As Factories](http://cocoa.tumblr.com/post/123737170023/functions-as-factories), by [@tumblr](https://twitter.com/tumblr)
+* [Swift Functors, Applicatives, and Monads in Pictures](http://www.mokacoding.com/blog/functor-applicative-monads-in-pictures/), by [@mokagio](https://twitter.com/mokagio)
+* [The journey of Apple Pay at JUST EAT](http://albertodebortoli.github.io/blog/2015/07/14/the-journey-of-apple-pay-at-just-eat/), by [@albertodebo](https://twitter.com/albertodebo)
+* [Protocols and Swift Follow-up](http://ashfurrow.com/blog/protocols-and-swift-follow-up/), by [@ashfurrow](https://twitter.com/ashfurrow)
+* [If You're Subclassing, You're Doing It Wrong](http://krakendev.io/blog/subclassing-can-suck-and-heres-why), by [@allonsykraken](https://twitter.com/allonsykraken)
+* [Key Value Coding in Swift](http://owensd.io/2015/07/14/key-value-coding-in-swift.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
 
@@ -11,9 +17,14 @@
 
 **UI/UX**
 
+* [Designing the new Thanx App](https://medium.com/design-thanx/designing-the-new-thanx-app-77d65d3e09a2), by [@ImJasonLi](https://twitter.com/ImJasonLi)
+
 
 **Videos**
 
+[AltConf 2015 Videos](https://realm.io/altconf/)
+
 **Credits**
 
-[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval)
+[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa)
+
