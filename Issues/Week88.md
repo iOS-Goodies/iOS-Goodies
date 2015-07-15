@@ -22,6 +22,8 @@
 
 **Videos**
 
+[AltConf 2015 Videos](https://realm.io/altconf/)
+
 **Credits**
 
 [kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa)
