@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * SpeedLog [Article](https://medium.com/@kostiakoval/swift-log-devil-or-why-println-is-dangerous-46390453353d) and [Repo](https://github.com/kostiakoval/SpeedLog), by [@kostiaKoval](https://twitter.com/kostiaKoval)
+* [SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) by [@stefanceriu](https://twitter.com/stefanceriu)
 
 **Business**
 
@@ -28,5 +29,4 @@
 
 **Credits**
 
-[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa)
-
+[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa), [stefanceriu](https://github.com/stefanceriu)
