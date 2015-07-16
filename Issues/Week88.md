@@ -8,6 +8,7 @@
 * [If You're Subclassing, You're Doing It Wrong](http://krakendev.io/blog/subclassing-can-suck-and-heres-why), by [@allonsykraken](https://twitter.com/allonsykraken)
 * [Key Value Coding in Swift](http://owensd.io/2015/07/14/key-value-coding-in-swift.html), by [@owensd](https://twitter.com/owensd)
 * [Heterogeneous vs Homogeneous Containers in Swift](https://medium.com/ios-os-x-development/heterogeneous-vs-homogeneous-generics-630971626b7d), by [@ifnottrue](https://twitter.com/ifnottrue)
+* [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis), by [@shinobicontrols](https://twitter.com/shinobicontrols)
 
 **Tools/Controls**
 
