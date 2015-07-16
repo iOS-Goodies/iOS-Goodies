@@ -11,6 +11,7 @@
 * [iOS: You’re Doing Settings Wrong](http://natashatherobot.com/ios-taking-the-user-to-settings/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 * [Heterogeneous vs Homogeneous Containers in Swift](https://medium.com/ios-os-x-development/heterogeneous-vs-homogeneous-generics-630971626b7d), by [@ifnottrue](https://twitter.com/ifnottrue)
 * [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis), by [@shinobicontrols](https://twitter.com/shinobicontrols)
+* [UICollectionViews Now Have Easy Reordering](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/), by [@wojteklukaszuk](https://twitter.com/wojteklukaszuk)
 
 **Tools/Controls**
 
