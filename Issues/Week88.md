@@ -32,6 +32,7 @@
 * [How iOS 9's Safari View Controller could completely change your app’s onboarding experience.](https://library.launchkit.io/how-ios-9-s-safari-view-controller-could-completely-change-your-app-s-onboarding-experience-2bcf2305137f), by [@rizzledizzle](https://twitter.com/rizzledizzle)
 * [15 Ways to Optimise Product Screens in Native Retail Apps](http://www.uxchap.com/blog/9/7/2015/15-ways-to-optimise-product-screens-in-native-retail-apps), by [@theuxchap](https://twitter.com/theuxchap)
 * [Well-designed interfaces look boring](https://medium.com/mission-log/well-designed-interfaces-look-boring-568faa4559e0), by [@ilikescience](https://twitter.com/ilikescience)
+* [Why you need design](https://medium.com/@monteiro/why-you-need-design-77dce41e0e0c), by [@monteiro](https://twitter.com/monteiro)
 
 
 **Videos**
