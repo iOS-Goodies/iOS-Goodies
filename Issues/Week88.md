@@ -7,11 +7,13 @@
 * [Protocols and Swift Follow-up](http://ashfurrow.com/blog/protocols-and-swift-follow-up/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [If You're Subclassing, You're Doing It Wrong](http://krakendev.io/blog/subclassing-can-suck-and-heres-why), by [@allonsykraken](https://twitter.com/allonsykraken)
 * [Key Value Coding in Swift](http://owensd.io/2015/07/14/key-value-coding-in-swift.html), by [@owensd](https://twitter.com/owensd)
+* [Heterogeneous vs Homogeneous Containers in Swift](https://medium.com/ios-os-x-development/heterogeneous-vs-homogeneous-generics-630971626b7d), by [@ifnottrue](https://twitter.com/ifnottrue)
 
 **Tools/Controls**
 
 * SpeedLog [Article](https://medium.com/@kostiakoval/swift-log-devil-or-why-println-is-dangerous-46390453353d) and [Repo](https://github.com/kostiakoval/SpeedLog), by [@kostiaKoval](https://twitter.com/kostiaKoval)
 * [SCSafariPageController](https://github.com/stefanceriu/SCSafariPageController) by [@stefanceriu](https://twitter.com/stefanceriu)
+* [OAStackView](https://github.com/oarrabi/OAStackView), by [@ifnottrue](https://twitter.com/ifnottrue)
 
 **Business**
 
@@ -29,4 +31,4 @@
 
 **Credits**
 
-[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa), [stefanceriu](https://github.com/stefanceriu)
+[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa), [stefanceriu](https://github.com/stefanceriu), [oarrabi](https://github.com/oarrabi)
