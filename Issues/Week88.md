@@ -12,6 +12,7 @@
 * [Heterogeneous vs Homogeneous Containers in Swift](https://medium.com/ios-os-x-development/heterogeneous-vs-homogeneous-generics-630971626b7d), by [@ifnottrue](https://twitter.com/ifnottrue)
 * [iOS9 Day-by-Day :: Day 1 :: Search APIs](https://www.shinobicontrols.com/blog/ios9-day-by-day-day1-search-apis), by [@shinobicontrols](https://twitter.com/shinobicontrols)
 * [UICollectionViews Now Have Easy Reordering](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/), by [@wojteklukaszuk](https://twitter.com/wojteklukaszuk)
+* [Put your UIViewController on a diet](http://blog.ios-developers.io/put-your-uiviewcontroller-on-a-diet/), by [@IanKay](https://twitter.com/IanKay)
 
 **Tools/Controls**
 
@@ -22,6 +23,8 @@
 **Business**
 
 * [The Horrible Pain and Awesome Opportunity of Tech Blind Spots](https://medium.com/backchannel/the-biggest-tech-problems-so-obvious-we-aren-t-fixing-them-87f4b708a7f1), by [@scottros](https://twitter.com/scottros)
+* [Why ‘Assistant-As-App’ Might Be the Next Big Tech Trend](http://www.nirandfar.com/2015/07/why-assistant-as-an-app-might-be-the-next-big-tech-trend.html), by [@nireyal](https://twitter.com/nireyal)
+* [What To Do When Someone Clones Your App](http://arkenea.com/blog/app-cloning/), by [@nthNidhi](https://twitter.com/nthNidhi)
 
 **UI/UX**
 
