@@ -30,5 +30,5 @@
 
 **Credits**
 
-[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa)
+[kostiakoval](https://github.com/kostiakoval), [joemasilotti](https://github.com/kostiakoval), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
 
