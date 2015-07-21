@@ -1,6 +1,7 @@
 **Articles**
 
 * [When to Use Swift Structs and Classes](https://mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html) by [@mikeash](https://twitter.com/mikeash)
+* [The Right Way to Write a Singleton](http://krakendev.io/blog/the-right-way-to-write-a-singleton) by [Hector Matos](https://twitter.com/allonsykraken)
 
 **Tools/Controls**
 
@@ -16,4 +17,4 @@
 
 **Credits**
 
-[tiagomnh](https://github.com/tiagomnh)
+[tiagomnh](https://github.com/tiagomnh), [Marius Constantinescu](https://github.com/mariusc)
