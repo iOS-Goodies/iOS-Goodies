@@ -27,8 +27,6 @@
 * [Apple Music App — A Heuristic Evaluation](https://medium.com/@dianam002/apple-music-app-a-heuristic-evaluation-2203297ca6e1), by [@dianam002](https://twitter.com/dianam002)
 * [Designing A Keen Home User Experience](https://medium.com/@KeenHome/designing-a-keen-home-user-experience-19eb48577828), by [@keenhome](https://twitter.com/keenhome)
 
-**Videos**
-
 **Credits**
 
 [tiagomnh](https://github.com/tiagomnh), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
