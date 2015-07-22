@@ -16,6 +16,8 @@
 **Business**
 
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/), by [@BreakoutList](https://twitter.com/BreakoutList)
+* [Threes’ Free Version Doubles Developers’ Profits](http://www.macstories.net/linked/threes-free-version-doubles-developers-profits/), by [@viticci](https://twitter.com/viticci)
+* [The Art of Quitting](http://www.atlasobscura.com/articles/the-art-of-quitting), by [@shortformernie](https://twitter.com/shortformernie)
 
 **UI/UX**
 
