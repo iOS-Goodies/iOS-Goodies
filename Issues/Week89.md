@@ -31,4 +31,4 @@
 
 **Credits**
 
-[tiagomnh](https://github.com/tiagomnh), [Marius Constantinescu](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+[tiagomnh](https://github.com/tiagomnh), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
