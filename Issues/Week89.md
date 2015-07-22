@@ -8,6 +8,7 @@
 * [Swift 2.0 Error Handling](https://www.bignerdranch.com/blog/swift-2-error-handling/), by [@matthewDmathias](https://twitter.com/matthewDmathias)
 * [Objective-C in a Swift World](https://medium.com/@sandofsky/objective-c-in-a-swift-world-650a7d685e94), by [@sandofsky](https://twitter.com/sandofsky)
 * [Function Parameters are Tuples in Swift](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/), by [Paul Robinson](https://twitter.com/paulr)
+* [Cache Me If You Can](http://khanlou.com/2015/07/cache-me-if-you-can/), by [@khanlou](https://twitter.com/khanlou)
 
 **Tools/Controls**
 
