@@ -15,6 +15,8 @@
 
 **Business**
 
+* [How Should I Think About My Career?](http://www.breakoutcareers.com/), by [@BreakoutList](https://twitter.com/BreakoutList)
+
 **UI/UX**
 
 * [4 iOS Rules to Break](http://www.nngroup.com/articles/4-ios-rules-break/), by [@nngroup](https://twitter.com/nngroup)
