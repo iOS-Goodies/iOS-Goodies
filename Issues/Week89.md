@@ -24,6 +24,7 @@
 * [Connecting with Disconnected Workers through Mobile](http://stablekernel.com/blog/connecting-with-disconnected-workers-through-mobile/), by [@AGirlNamedSEW ](https://twitter.com/agirlnamedsew)
 * [7 growth hacks to maximize the reach of your mobile app](http://www.thinkmobile.fr/blog/7-growth-hacks-to-maximize-the-reach-of-your-mobile-app), by [@AlexJubien](https://twitter.com/AlexJubien)
 * [Dissecting app virality - App k-factor and how to use emotion to drive organic app downloads](https://blog.branch.io/dissecting-app-virality-from-app-k-factor-to-how-to-use-emotion-to-drive-more-organic-app-downloads), by [@mada299](https://twitter.com/mada299)
+* [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson/), by [@paigecraig](https://twitter.com/paigecraig)
 
 **UI/UX**
 
