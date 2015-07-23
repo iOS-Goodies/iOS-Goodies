@@ -9,6 +9,7 @@
 * [Objective-C in a Swift World](https://medium.com/@sandofsky/objective-c-in-a-swift-world-650a7d685e94), by [@sandofsky](https://twitter.com/sandofsky)
 * [Function Parameters are Tuples in Swift](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/), by [Paul Robinson](https://twitter.com/paulr)
 * [Cache Me If You Can](http://khanlou.com/2015/07/cache-me-if-you-can/), by [@khanlou](https://twitter.com/khanlou)
+* [A persistent tree using indirect enums in Swift](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
 
 **Tools/Controls**
 
