@@ -9,6 +9,7 @@
 * [Objective-C in a Swift World](https://medium.com/@sandofsky/objective-c-in-a-swift-world-650a7d685e94), by [@sandofsky](https://twitter.com/sandofsky)
 * [Function Parameters are Tuples in Swift](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/), by [Paul Robinson](https://twitter.com/paulr)
 * [Cache Me If You Can](http://khanlou.com/2015/07/cache-me-if-you-can/), by [@khanlou](https://twitter.com/khanlou)
+* [A persistent tree using indirect enums in Swift](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
 
 **Tools/Controls**
 
@@ -19,6 +20,9 @@
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/), by [@BreakoutList](https://twitter.com/BreakoutList)
 * [Threes’ Free Version Doubles Developers’ Profits](http://www.macstories.net/linked/threes-free-version-doubles-developers-profits/), by [@viticci](https://twitter.com/viticci)
 * [The Art of Quitting](http://www.atlasobscura.com/articles/the-art-of-quitting), by [@shortformernie](https://twitter.com/shortformernie)
+* [Connecting with Disconnected Workers through Mobile](http://stablekernel.com/blog/connecting-with-disconnected-workers-through-mobile/), by [@AGirlNamedSEW ](https://twitter.com/agirlnamedsew)
+* [7 growth hacks to maximize the reach of your mobile app](http://www.thinkmobile.fr/blog/7-growth-hacks-to-maximize-the-reach-of-your-mobile-app), by [@AlexJubien](https://twitter.com/AlexJubien)
+* [Dissecting app virality - App k-factor and how to use emotion to drive organic app downloads](https://blog.branch.io/dissecting-app-virality-from-app-k-factor-to-how-to-use-emotion-to-drive-more-organic-app-downloads), by [@mada299](https://twitter.com/mada299)
 
 **UI/UX**
 
