@@ -36,6 +36,7 @@
 * [Apple Music App — A Heuristic Evaluation](https://medium.com/@dianam002/apple-music-app-a-heuristic-evaluation-2203297ca6e1), by [@dianam002](https://twitter.com/dianam002)
 * [Designing A Keen Home User Experience](https://medium.com/@KeenHome/designing-a-keen-home-user-experience-19eb48577828), by [@keenhome](https://twitter.com/keenhome)
 * [Stop Gratuitous UI Animation](https://medium.com/@sophie_paxtonUX/stop-gratuitous-ui-animation-9ece9aa9eb97), by [@sophie_paxtonUX](https://twitter.com/sophie_paxtonUX)
+* [Google+: A case study on App Download Interstitials](http://googlewebmastercentral.blogspot.pt/2015/07/google-case-study-on-app-download-interstitials.html), by David Morell
 
 **Credits**
 
