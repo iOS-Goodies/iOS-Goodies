@@ -10,6 +10,7 @@
 * [Function Parameters are Tuples in Swift](http://www.paulrobinson.net/function-parameters-are-tuples-in-swift/), by [Paul Robinson](https://twitter.com/paulr)
 * [Cache Me If You Can](http://khanlou.com/2015/07/cache-me-if-you-can/), by [@khanlou](https://twitter.com/khanlou)
 * [A persistent tree using indirect enums in Swift](http://airspeedvelocity.net/2015/07/22/a-persistent-tree-using-indirect-enums-in-swift/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
+* [Changes to the Swift standard library in 2.0 betas 2..<5](http://airspeedvelocity.net/2015/07/23/changes-to-the-swift-standard-library-in-2-0-betas-2-5/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
 
 **Tools/Controls**
 
