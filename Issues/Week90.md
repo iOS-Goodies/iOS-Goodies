@@ -1,5 +1,7 @@
 **Articles**
 
+* [TDD Case Study: Is Fast Better than Perfect?](http://qualitycoding.org/tdd-deferred-design/), by [@qcoding](https://twitter.com/qcoding)
+
 **Tools/Controls**
 
 **Business**
