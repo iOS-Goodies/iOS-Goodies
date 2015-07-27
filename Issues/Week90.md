@@ -1,6 +1,8 @@
 **Articles**
 
 * [TDD Case Study: Is Fast Better than Perfect?](http://qualitycoding.org/tdd-deferred-design/), by [@qcoding](https://twitter.com/qcoding)
+* [Don't let your UIViewController think for itself](http://blog.ios-developers.io/dont-let-your-uiviewcontroller-think-for-itself/), by [@IanKay](https://twitter.com/IanKay)
+* [Make your UIViewController Awesynchronous!](http://blog.ios-developers.io/make-your-uiviewcontroller-awesynchronous/), by [@IanKay](https://twitter.com/IanKay)
 
 **Tools/Controls**
 
