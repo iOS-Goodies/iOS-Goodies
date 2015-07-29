@@ -14,6 +14,7 @@
 
 * [The Rise & Fall of a Global Start-up](https://medium.com/@markkarimov/the-rise-fall-239754982fa8), by [@markkarimov](https://twitter.com/markkarimov)
 * [Working Remotely Isn’t Always a Dream](https://medium.com/digital-nomad-stories/working-remotely-isn-t-always-a-dream-151619ae45dc), by [@menichols](https://twitter.com/menichols)
+* [The insanely slow road to building a blog (and why most people give up)](http://blog.ghost.org/slow-blog-building), by [@bellebcooper](https://twitter.com/bellebcooper)
 
 **UI/UX**
 
