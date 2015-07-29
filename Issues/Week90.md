@@ -10,6 +10,10 @@
 
 **Tools/Controls**
 
+* [JazzHands](https://github.com/IFTTT/JazzHands), by IFTT
+* [jot](https://github.com/IFTTT/jot), by IFTT
+* [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel), by [@overboming](https://twitter.com/overboming)
+
 **Business**
 
 * [The Rise & Fall of a Global Start-up](https://medium.com/@markkarimov/the-rise-fall-239754982fa8), by [@markkarimov](https://twitter.com/markkarimov)
