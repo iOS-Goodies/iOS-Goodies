@@ -27,6 +27,7 @@
 * [20 Ways the Apple Watch can impact the Retail experience](https://medium.com/@jpeddycoart/20-ways-the-apple-watch-can-impact-the-retail-experience-442095859b11), by [@JPeddycoart](https://twitter.com/JPeddycoart)
 * [Spatial Interfaces](https://medium.com/elepath-exports/spatial-interfaces-886bccc5d1e9), by [@pasql](https://twitter.com/pasql)
 * [The New Generation of Prototyping Tools](https://medium.com/@kunalslab/the-new-generation-of-prototyping-tools-part-1-2-c01105310b6b), by [@kunalslab](https://twitter.com/kunalslab)
+* [Material Design is Different, Not Better](https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1), by [@MengTo](https://twitter.com/MengTo)
 
 **Credits**
 
