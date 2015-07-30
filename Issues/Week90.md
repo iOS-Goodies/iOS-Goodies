@@ -20,6 +20,7 @@
 * [Working Remotely Isn’t Always a Dream](https://medium.com/digital-nomad-stories/working-remotely-isn-t-always-a-dream-151619ae45dc), by [@menichols](https://twitter.com/menichols)
 * [The insanely slow road to building a blog (and why most people give up)](http://blog.ghost.org/slow-blog-building), by [@bellebcooper](https://twitter.com/bellebcooper)
 * [10 years project](http://10years.firstround.com/), by [@firstround](https://twitter.com/firstround)
+* [Building a product engineering culture at Pinterest](https://engineering.pinterest.com/blog/building-product-engineering-culture), by [@rands](https://twitter.com/rands)
 
 **UI/UX**
 
