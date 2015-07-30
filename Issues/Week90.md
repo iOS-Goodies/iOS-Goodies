@@ -7,6 +7,7 @@
 * [Security and Privacy Changes in iOS 9](https://nabla-c0d3.github.io/blog/2015/06/16/ios9-security-privacy/), by [@nabla_c0d3](https://twitter.com/nabla_c0d3)
 * [Collection Index and magic factor](http://blog.krzyzanowskim.com/2015/07/27/collection-index-and-magic-factor/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [Linked lists, enums, value types and identity](http://airspeedvelocity.net/2015/07/26/linked-lists-enums-value-types-and-identity/), by [@AirspeedSwift](https://twitter.com/AirspeedSwift)
+* [Handling Enums with Raw values](http://kostiakoval.github.io/posts/enum-with-raw-value/), by [@KostiaKoval](https://twitter.com/kostiakoval)
 
 **Tools/Controls**
 
