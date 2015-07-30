@@ -29,6 +29,7 @@
 * [Spatial Interfaces](https://medium.com/elepath-exports/spatial-interfaces-886bccc5d1e9), by [@pasql](https://twitter.com/pasql)
 * [The New Generation of Prototyping Tools](https://medium.com/@kunalslab/the-new-generation-of-prototyping-tools-part-1-2-c01105310b6b), by [@kunalslab](https://twitter.com/kunalslab)
 * [Material Design is Different, Not Better](https://medium.com/android-news/material-design-is-different-not-better-87909af6ffe1), by [@MengTo](https://twitter.com/MengTo)
+* [5 Tips for Mobile Ecommerce App Design](http://blog.letsalign.com/5-tips-for-mobile-ecommerce-app-design/), by [@LetsAlign](https://twitter.com/LetsAlign)
 
 **Credits**
 
