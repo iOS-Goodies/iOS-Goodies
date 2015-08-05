@@ -7,6 +7,8 @@
 * [Notorious BUG - Part 1](http://artsy.github.io/blog/2015/07/30/Notorious-BUG-Part-1/), by [@alloy](https://twitter.com/alloy)
 * [GameplayKit: State Machine for non-game Apps](https://www.invasivecode.com/weblog/gameplaykit-state-machine/), by [@vicentevicens](https://twitter.com/vicentevicens)
 * [Swift and C functions - A short look at wrapping qsort](http://chris.eidhof.nl/posts/swift-c-interop.html), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html), by [@samps](https://twitter.com/samps)
+* [\#1 Diary of a Secret App: Networking](http://codeplease.io/2015/08/05/log-of-a-secret-app-1/), by [@RuiAAPeres](https://twitter.com/RuiAAPeres)
 
 **Tools/Controls**
 
