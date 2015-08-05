@@ -19,7 +19,7 @@
 
 **Business**
 
-
+* [On Building a Daily Habit of Continuous Learning](https://medium.com/towards-a-remarkable-career/on-building-a-daily-habit-of-continuous-learning-82ef77a8aff9), by [@andrewsavikas](https://twitter.com/andrewsavikas) via [@orenellenbogen](https://twitter.com/orenellenbogen)
 
 **UI/UX**
 
