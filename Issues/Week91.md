@@ -28,9 +28,10 @@
 **UI/UX**
 
 * [Mobile:2015 UI / UX Trends](https://medium.com/interactive-mind/mobile-2015-263ab694e60e), by [@oralonur](https://twitter.com/oralonur)
+* [Crafting Icons](http://www.elischiff.com/blog/2015/8/4/crafting-icons), by [Eli Schiff](https://twitter.com/eli_schiff)
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
 
 
