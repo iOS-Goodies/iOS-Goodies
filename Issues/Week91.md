@@ -25,6 +25,8 @@
 * [On Building a Daily Habit of Continuous Learning](https://medium.com/towards-a-remarkable-career/on-building-a-daily-habit-of-continuous-learning-82ef77a8aff9), by [@andrewsavikas](https://twitter.com/andrewsavikas) via [@orenellenbogen](https://twitter.com/orenellenbogen)
 * [The 3 Business Models That Matter for Connected Hardware Startups](https://medium.com/bolt-blog/the-3-business-models-that-matter-for-connected-hardware-startups-32fbf59506e5), by [@BenEinstein](https://twitter.com/BenEinstein)
 * [The Time It Takes to Write a Buffer Blog Post](https://blog.bufferapp.com/how-to-write-a-blog-post), by [@kevanlee](https://twitter.com/kevanlee)
+* [Master working for yourself without crushing your soul](https://medium.pjrvs.com/master-working-for-yourself-without-crushing-your-soul-b8a980763d43), by [@pjrvs](https://twitter.com/pjrvs)
+* [How to Strengthen Your Willpower and Get More Shit Done](https://medium.com/the-lawtrades-publication/how-to-strengthen-your-willpower-to-get-more-shit-done-9922809fbcba), by [@R44D](https://twitter.com/R44D)
 
 **UI/UX**
 
