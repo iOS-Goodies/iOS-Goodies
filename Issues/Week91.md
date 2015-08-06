@@ -10,6 +10,7 @@
 * [\#1 Diary of a Secret App: Networking](http://codeplease.io/2015/08/05/log-of-a-secret-app-1/), by [@RuiAAPeres](https://twitter.com/RuiAAPeres)
 * [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html), by [@wilshipley](https://twitter.com/wilshipley)
 * [Improving Notification Center](http://macoscope.com/blog/improving-notification-center/), by [@arekholko](https://twitter.com/arekholko)
+* [Introduction to UIStackView](http://www.thinkandbuild.it/introduction-to-uistackview/), by [@bitwaker](https://twitter.com/bitwaker)
 
 **Tools/Controls**
 
