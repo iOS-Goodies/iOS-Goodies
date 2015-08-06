@@ -11,6 +11,7 @@
 * [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html), by [@wilshipley](https://twitter.com/wilshipley)
 * [Improving Notification Center](http://macoscope.com/blog/improving-notification-center/), by [@arekholko](https://twitter.com/arekholko)
 * [Introduction to UIStackView](http://www.thinkandbuild.it/introduction-to-uistackview/), by [@bitwaker](https://twitter.com/bitwaker)
+* [Xcode Server Tutorials: 2. Integrations](http://honzadvorsky.com/articles/2015-08-06-xcs_tutorials_2_integrations/), by [@czechboy0](https://twitter.com/czechboy0)
 
 **Tools/Controls**
 
