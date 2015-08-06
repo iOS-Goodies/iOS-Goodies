@@ -9,6 +9,8 @@
 * [Swift and C functions - A short look at wrapping qsort](http://chris.eidhof.nl/posts/swift-c-interop.html), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html), by [@samps](https://twitter.com/samps)
 * [\#1 Diary of a Secret App: Networking](http://codeplease.io/2015/08/05/log-of-a-secret-app-1/), by [@RuiAAPeres](https://twitter.com/RuiAAPeres)
+* [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html), by [@wilshipley](https://twitter.com/wilshipley)
+* [Improving Notification Center](http://macoscope.com/blog/improving-notification-center/), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
@@ -20,6 +22,8 @@
 **Business**
 
 * [On Building a Daily Habit of Continuous Learning](https://medium.com/towards-a-remarkable-career/on-building-a-daily-habit-of-continuous-learning-82ef77a8aff9), by [@andrewsavikas](https://twitter.com/andrewsavikas) via [@orenellenbogen](https://twitter.com/orenellenbogen)
+* [The 3 Business Models That Matter for Connected Hardware Startups](https://medium.com/bolt-blog/the-3-business-models-that-matter-for-connected-hardware-startups-32fbf59506e5), by [@BenEinstein](https://twitter.com/BenEinstein)
+* [The Time It Takes to Write a Buffer Blog Post](https://blog.bufferapp.com/how-to-write-a-blog-post), by [@kevanlee](https://twitter.com/kevanlee)
 
 **UI/UX**
 
@@ -27,5 +31,6 @@
 
 **Credits**
 
+* [rbarbosa](https://github.com/rbarbosa)
 
 
