@@ -15,7 +15,7 @@
 **Tools/Controls**
 
 * [7 Open Source iOS Controls that Helped us Launch the GIFpitch app](https://medium.com/ios-os-x-development/7-open-source-ios-controls-that-helped-us-launch-the-gifpitch-app-c3d6a01bb8b3), by [@716Labs](https://twitter.com/716Labs)
-[PINRemoteImage](https://github.com/pinterest/PINRemoteImage), by [@garrettmoon](https://twitter.com/garrettmoon)
+* [PINRemoteImage](https://github.com/pinterest/PINRemoteImage), by [@garrettmoon](https://twitter.com/garrettmoon)
 
 
 
@@ -29,6 +29,7 @@
 
 * [Mobile:2015 UI / UX Trends](https://medium.com/interactive-mind/mobile-2015-263ab694e60e), by [@oralonur](https://twitter.com/oralonur)
 * [Crafting Icons](http://www.elischiff.com/blog/2015/8/4/crafting-icons), by [Eli Schiff](https://twitter.com/eli_schiff)
+* [The Influence of The Apple Watch on Design](https://medium.com/designed-thought/the-apple-watch-s-influence-on-design-230a6a94fb0f), by [@CoyleAndrew](https://twitter.com/CoyleAndrew)
 
 **Credits**
 
