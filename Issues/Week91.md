@@ -12,6 +12,7 @@
 * [Improving Notification Center](http://macoscope.com/blog/improving-notification-center/), by [@arekholko](https://twitter.com/arekholko)
 * [Introduction to UIStackView](http://www.thinkandbuild.it/introduction-to-uistackview/), by [@bitwaker](https://twitter.com/bitwaker)
 * [Xcode Server Tutorials: 2. Integrations](http://honzadvorsky.com/articles/2015-08-06-xcs_tutorials_2_integrations/), by [@czechboy0](https://twitter.com/czechboy0)
+* [Open Sourcing Energy](http://artsy.github.io/blog/2015/08/06/open-sourcing-energy/), by [@orta](https://twitter.com/orta)
 
 **Tools/Controls**
 
