@@ -4,6 +4,7 @@
 * [Pimp My Code, Book 2: Replacing Loops in Swift](http://blog.wilshipley.com/2015/08/pimp-my-code-book-2-eliminating-loops.html), by [Wil Shipley](https://twitter.com/wilshipley)
 * [Type-Erased Wrappers in Swift](https://realm.io/news/type-erased-wrappers-in-swift/), by [Samuel E. Giddins](https://twitter.com/segiddins)
 * [There are no mysteries](http://khanlou.com/2015/08/there-are-no-mysteries/), by [Soroush Khanlou](https://twitter.com/khanlou)
+* [A practical introduction to functional programming - now with Swift!](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro/), by [@HarlanKellaway](https://twitter.com/HarlanKellaway)
 
 **Tools/Controls**
 * [iOS/Mac Autolayout Constraints](http://constraints.icodeforlove.com/), by [Chad Scira](https://twitter.com/icodeforlove)
