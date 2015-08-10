@@ -18,4 +18,4 @@
 
 
 **Credits**
-*[mariusc](https://github.com/mariusc)
+* [mariusc](https://github.com/mariusc)
