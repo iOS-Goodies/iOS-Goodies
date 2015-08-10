@@ -1,6 +1,7 @@
 **Articles**
 
 * [The Quick Fix](https://nickharris.wordpress.com/2015/08/10/the-quick-fix/), by [@nick_harris](https://twitter.com/nick_harris)
+* [4 Xcode Asset Catalog Secrets You Need To Know](http://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Business**
 
