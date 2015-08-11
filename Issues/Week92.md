@@ -13,6 +13,7 @@
 
 * [Five Years of Being A Full-Time Indie](http://www.paradeofrain.com/2015/08/06/five-years-of-being-a-full-time-indie/), by [@AlexOkafor](https://twitter.com/AlexOkafor)
 * [When One App Rules Them All: The Case of WeChat and Mobile in China](https://a16z.com/2015/08/06/wechat-china-mobile-first/), by Connie Chan
+* [You’re a product and your job application is a user interface](https://signalvnoise.com/posts/3904-youre-a-product-and-your-job-application-is-a-user-interface), by [@jasonzimdars](https://twitter.com/jasonzimdars)
 
 **UI/UX**
 
