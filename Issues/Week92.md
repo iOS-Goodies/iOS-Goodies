@@ -11,6 +11,7 @@
 
 **Business**
 
+* [The Making of Overland](https://medium.com/hackerpreneur-magazine/cool-picture-with-overlaid-title-and-shiittt-630c7d39f51c), by [@ADAMATOMIC](https://twitter.com/ADAMATOMIC)
 * [Five Years of Being A Full-Time Indie](http://www.paradeofrain.com/2015/08/06/five-years-of-being-a-full-time-indie/), by [@AlexOkafor](https://twitter.com/AlexOkafor)
 * [When One App Rules Them All: The Case of WeChat and Mobile in China](https://a16z.com/2015/08/06/wechat-china-mobile-first/), by Connie Chan
 * [You’re a product and your job application is a user interface](https://signalvnoise.com/posts/3904-youre-a-product-and-your-job-application-is-a-user-interface), by [@jasonzimdars](https://twitter.com/jasonzimdars)
