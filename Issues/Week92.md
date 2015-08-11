@@ -5,9 +5,13 @@
 * [Type-Erased Wrappers in Swift](https://realm.io/news/type-erased-wrappers-in-swift/), by [Samuel E. Giddins](https://twitter.com/segiddins)
 * [There are no mysteries](http://khanlou.com/2015/08/there-are-no-mysteries/), by [Soroush Khanlou](https://twitter.com/khanlou)
 * [A practical introduction to functional programming - now with Swift!](http://harlankellaway.com/blog/2015/08/10/swift-functional-programming-intro/), by [@HarlanKellaway](https://twitter.com/HarlanKellaway)
+* [Why debugging is all about understanding](http://futurice.com/blog/why-debugging-is-all-about-understanding), by [@andrestaltz](https://twitter.com/andrestaltz)
+* [Protocols - My Current Recommendations](http://owensd.io/2015/08/06/protocols.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
+
 * [iOS/Mac Autolayout Constraints](http://constraints.icodeforlove.com/), by [Chad Scira](https://twitter.com/icodeforlove)
+* [XCSnippetr](https://github.com/dzenbot/XCSnippetr), by [@_dzen](https://twitter.com/_dzen)
 
 **Business**
 
@@ -22,4 +26,5 @@
 * [Why empty states deserve more design time](https://medium.com/@InVisionApp/why-empty-states-deserve-more-design-time-44b5adc7eb52), by [@InVisionApp](https://twitter.com/InVisionApp)
 
 **Credits**
-* [mariusc](https://github.com/mariusc)
+
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
