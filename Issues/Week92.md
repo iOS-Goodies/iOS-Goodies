@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [Slack’s $2.8 Billion Dollar Secret Sauce](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908), by [Andrew Wilkinson](https://twitter.com/awilkinson)
+* [Why empty states deserve more design time](https://medium.com/@InVisionApp/why-empty-states-deserve-more-design-time-44b5adc7eb52), by [@InVisionApp](https://twitter.com/InVisionApp)
 
 **Credits**
 * [mariusc](https://github.com/mariusc)
