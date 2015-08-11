@@ -8,6 +8,7 @@
 * [Why debugging is all about understanding](http://futurice.com/blog/why-debugging-is-all-about-understanding), by [@andrestaltz](https://twitter.com/andrestaltz)
 * [Protocols - My Current Recommendations](http://owensd.io/2015/08/06/protocols.html), by [@owensd](https://twitter.com/owensd)
 * [A Stickler for Details: Implementing Sticky Input Field in iOS](https://medium.com/ios-os-x-development/a-stickler-for-details-implementing-sticky-input-fields-in-ios-f88553d36dab), by [@meiwin](https://twitter.com/meiwin)
+* [Be Mindful of Your Filters](http://owensd.io/2015/08/09/filter-performance.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
 
