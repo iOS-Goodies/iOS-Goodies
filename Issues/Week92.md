@@ -13,6 +13,7 @@
 
 * [iOS/Mac Autolayout Constraints](http://constraints.icodeforlove.com/), by [Chad Scira](https://twitter.com/icodeforlove)
 * [XCSnippetr](https://github.com/dzenbot/XCSnippetr), by [@_dzen](https://twitter.com/_dzen)
+* [Xcode Logger](https://github.com/codeFi/XcodeLogger), by [Razvan Tanase](https://twitter.com/razvan_tanase)
 
 **Business**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [codeFi](https://github.com/codeFi)
