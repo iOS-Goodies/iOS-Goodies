@@ -24,6 +24,7 @@
 * [When One App Rules Them All: The Case of WeChat and Mobile in China](https://a16z.com/2015/08/06/wechat-china-mobile-first/), by Connie Chan
 * [You’re a product and your job application is a user interface](https://signalvnoise.com/posts/3904-youre-a-product-and-your-job-application-is-a-user-interface), by [@jasonzimdars](https://twitter.com/jasonzimdars)
 * [What’s the worst professional advice you ever got?](https://deardesignstudent.com/what-s-the-worst-professional-advice-you-ever-got-b28c35b19995), by [@monteiro](https://twitter.com/monteiro)
+* [How we hire designers at GoCardless](https://medium.com/gocardless-design/how-we-hire-designers-at-gocardless-21af3accc458), by [@tp](https://twitter.com/tp)
 
 **UI/UX**
 
