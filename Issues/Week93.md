@@ -19,8 +19,7 @@
 * [Sweetercolor](https://github.com/jathu/Sweetercolor), by [@jathu](https://twitter.com/jathu)
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard/), by [@palleas](https://twitter.com/palleas)
 * [Robolayout](https://github.com/robocat/Robolayout), by [Robocat](https://twitter.com/robocat)
-
-
+* [Gloss - A shiny JSON parsing library in Swift](https://github.com/hkellaway/Gloss), by [Harlan Kellaway](https://twitter.com/HarlanKellaway)
 
 **Business**
 
@@ -31,13 +30,11 @@
 * [How Two Non-Technical Cofounders Grew & Sold Their Startup for Millions](https://medium.com/keep-learning-keep-growing/how-two-non-technical-cofounders-made-millions-edc824417878), by [@moizali](https://twitter.com/moizali)
 * [What’s the smartest piece of advice you ever got?](https://deardesignstudent.com/round-table-fb358c987c10), by [@monteiro](https://twitter.com/monteiro)
 
-
 **UI/UX**
 
 * [How To Produce Better Designs For Complex Apps](http://blog.invisionapp.com/better-designs-for-complex-apps/), by [@JessicaTiao](https://twitter.com/JessicaTiao)
 * [The Notification Problem](https://medium.com/@hopper_travel/the-notification-problem-50267cbabad2), by [@hopper](https://twitter.com/hopper)
 * [Designing the Paycrave IOS Application](https://medium.com/@michaelhorton/designing-the-paycrave-ios-application-3af6174c9232), by [@TheMikeHorton](https://twitter.com/TheMikeHorton)
-
 
 **Credits**
 
