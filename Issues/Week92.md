@@ -16,6 +16,7 @@
 * [XCSnippetr](https://github.com/dzenbot/XCSnippetr), by [@_dzen](https://twitter.com/_dzen)
 * [Xcode Logger](https://github.com/codeFi/XcodeLogger), by [Razvan Tanase](https://twitter.com/razvan_tanase)
 * [gym](https://github.com/fastlane/gym), by [@KrauseFx](https://twitter.com/KrauseFx)
+* [Carlos - A simple but flexible cache](https://github.com/WeltN24/Carlos), by [Vittorio Monaco @ WeltN24](https://twitter.com/Vittorio_Monaco)
 
 **Business**
 
