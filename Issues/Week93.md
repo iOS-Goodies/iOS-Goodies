@@ -38,4 +38,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu), [hkellaway](https://github.com/hkellaway
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu), [hkellaway](https://github.com/hkellaway)
