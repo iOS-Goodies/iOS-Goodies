@@ -23,7 +23,9 @@
 * [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/), by [@niklasmodess](https://twitter.com/niklasmodess)
 * [How to Work on Open Source at Your Company](http://engineering.ifttt.com/oss/2015/08/17/open-source-at-work/), by [@skelovenko](https://twitter.com/skelovenko)
 
+**Indie Apps**
 
+* [GitUp](http://gitup.co/), by [@swisspol](https://twitter.com/swisspol)
 
 **UI/UX**
 
@@ -33,4 +35,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu), [dkhamsing](https://github.com/dkhamsing)
