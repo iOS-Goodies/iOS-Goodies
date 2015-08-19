@@ -27,6 +27,7 @@
 **UI/UX**
 
 * [How To Produce Better Designs For Complex Apps](http://blog.invisionapp.com/better-designs-for-complex-apps/), by [@JessicaTiao](https://twitter.com/JessicaTiao)
+* [The Notification Problem](https://medium.com/@hopper_travel/the-notification-problem-50267cbabad2), by [@hopper](https://twitter.com/hopper)
 
 
 **Credits**
