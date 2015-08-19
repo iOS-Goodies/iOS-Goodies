@@ -8,6 +8,7 @@
 * [Cast-Free Arithmetic](http://foxinswift.com/2015/08/17/cast-free-arithmetic/), by [@RGfox](https://twitter.com/RGfox)
 * [Perfect smooth scrolling in UITableViews](https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5), by [@plasm_lc](https://twitter.com/plasm_lc)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [The Functional Reactive Misconception](http://sideeffects.xyz/2015/the-functional-reactive-misconception/), by [@bontoJR](https://twitter.com/bontoJR)
 
 **Tools/Controls**
 
