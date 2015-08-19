@@ -15,6 +15,7 @@
 * [Principle](http://principleformac.com/), by [@principleapp](https://twitter.com/principleapp)
 * [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy), by [@orta](https://twitter.com/orta)
 * [Sweetercolor](https://github.com/jathu/Sweetercolor), by [@jathu](https://twitter.com/jathu)
+* [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard/), by [@palleas](https://twitter.com/palleas)
 
 
 
