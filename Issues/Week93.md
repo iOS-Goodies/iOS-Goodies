@@ -14,6 +14,7 @@
 
 * [Principle](http://principleformac.com/), by [@principleapp](https://twitter.com/principleapp)
 * [Swift-at-Artsy](https://github.com/orta/Swift-at-Artsy), by [@orta](https://twitter.com/orta)
+* [Sweetercolor](https://github.com/jathu/Sweetercolor), by [@jathu](https://twitter.com/jathu)
 
 
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu)
