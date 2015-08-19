@@ -19,7 +19,7 @@
 * [Sweetercolor](https://github.com/jathu/Sweetercolor), by [@jathu](https://twitter.com/jathu)
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard/), by [@palleas](https://twitter.com/palleas)
 * [Robolayout](https://github.com/robocat/Robolayout), by [Robocat](https://twitter.com/robocat)
-* [Gloss - A shiny JSON parsing library in Swift](https://github.com/hkellaway/Gloss), by [Harlan Kellaway](https://twitter.com/HarlanKellaway)
+* [Gloss - A shiny JSON parsing library in Swift](https://github.com/hkellaway/Gloss), by [@HarlanKellaway](https://twitter.com/HarlanKellaway)
 
 **Business**
 
