@@ -37,6 +37,10 @@
 * [The Notification Problem](https://medium.com/@hopper_travel/the-notification-problem-50267cbabad2), by [@hopper](https://twitter.com/hopper)
 * [Designing the Paycrave IOS Application](https://medium.com/@michaelhorton/designing-the-paycrave-ios-application-3af6174c9232), by [@TheMikeHorton](https://twitter.com/TheMikeHorton)
 
+**Indie Apps**
+
+* [GitUp](http://gitup.co/), by [@swisspol](https://twitter.com/swisspol)
+
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu), [hkellaway](https://github.com/hkellaway)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [jathu](https://github.com/jathu), [hkellaway](https://github.com/hkellaway), [dkhamsing](https://github.com/dkhamsing)
