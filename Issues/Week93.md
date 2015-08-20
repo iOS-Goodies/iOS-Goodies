@@ -20,6 +20,8 @@
 * [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard/), by [@palleas](https://twitter.com/palleas)
 * [Robolayout](https://github.com/robocat/Robolayout), by [Robocat](https://twitter.com/robocat)
 * [Gloss - A shiny JSON parsing library in Swift](https://github.com/hkellaway/Gloss), by [@HarlanKellaway](https://twitter.com/HarlanKellaway)
+* [FillableLoaders](https://github.com/poolqf/FillableLoaders), by [@poolqf](https://twitter.com/poolqf)
+* [PullToBounce](https://github.com/entotsu/PullToBounce), by [@tk_365](https://twitter.com/tk_365)
 
 **Business**
 
