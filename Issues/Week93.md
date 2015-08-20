@@ -27,6 +27,7 @@
 * [How to Work on Open Source at Your Company](http://engineering.ifttt.com/oss/2015/08/17/open-source-at-work/), by [@skelovenko](https://twitter.com/skelovenko)
 * [The 8 Essential Resources You Need For an Epic Launch on Product Hunt](http://roy.roypovarchik.com/2015/08/launch-on-product-hunt/), by [@roypovar](https://twitter.com/roypovar)
 * [Why Software Development Time Estimation Doesn’t Work & Alternatives](https://medium.com/innoarchitech-innovation-architecture-technology/why-software-development-time-estimation-doesn-t-work-alternatives-423b9a5c4219), by [@innoarchitech](https://twitter.com/innoarchitech)
+* [How Two Non-Technical Cofounders Grew & Sold Their Startup for Millions](https://medium.com/keep-learning-keep-growing/how-two-non-technical-cofounders-made-millions-edc824417878), by [@moizali](https://twitter.com/moizali)
 
 
 **UI/UX**
