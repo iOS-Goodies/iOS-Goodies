@@ -9,6 +9,8 @@
 * [Perfect smooth scrolling in UITableViews](https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5), by [@plasm_lc](https://twitter.com/plasm_lc)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [The Functional Reactive Misconception](http://sideeffects.xyz/2015/the-functional-reactive-misconception/), by [@bontoJR](https://twitter.com/bontoJR)
+* [NSCoding And Swift Structs](http://swiftandpainless.com/nscoding-and-swift-structs/), by [@dasdom](https://twitter.com/dasdom)
+* [Type & Self](http://www.russbishop.net/type-self), by [@xenadu02](https://twitter.com/xenadu02)
 
 **Tools/Controls**
 
@@ -23,6 +25,7 @@
 
 * [One year of working remote](http://modess.io/2015/08/16/one-year-of-working-remote/), by [@niklasmodess](https://twitter.com/niklasmodess)
 * [How to Work on Open Source at Your Company](http://engineering.ifttt.com/oss/2015/08/17/open-source-at-work/), by [@skelovenko](https://twitter.com/skelovenko)
+* [The 8 Essential Resources You Need For an Epic Launch on Product Hunt](http://roy.roypovarchik.com/2015/08/launch-on-product-hunt/), by [@roypovar](https://twitter.com/roypovar)
 
 
 
@@ -30,6 +33,7 @@
 
 * [How To Produce Better Designs For Complex Apps](http://blog.invisionapp.com/better-designs-for-complex-apps/), by [@JessicaTiao](https://twitter.com/JessicaTiao)
 * [The Notification Problem](https://medium.com/@hopper_travel/the-notification-problem-50267cbabad2), by [@hopper](https://twitter.com/hopper)
+* [Designing the Paycrave IOS Application](https://medium.com/@michaelhorton/designing-the-paycrave-ios-application-3af6174c9232), by [@TheMikeHorton](https://twitter.com/TheMikeHorton)
 
 
 **Credits**
