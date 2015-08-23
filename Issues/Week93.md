@@ -38,6 +38,7 @@
 * [How To Produce Better Designs For Complex Apps](http://blog.invisionapp.com/better-designs-for-complex-apps/), by [@JessicaTiao](https://twitter.com/JessicaTiao)
 * [The Notification Problem](https://medium.com/@hopper_travel/the-notification-problem-50267cbabad2), by [@hopper](https://twitter.com/hopper)
 * [Designing the Paycrave IOS Application](https://medium.com/@michaelhorton/designing-the-paycrave-ios-application-3af6174c9232), by [@TheMikeHorton](https://twitter.com/TheMikeHorton)
+* [5 Ways Apps Ask Users for iOS Permissions](https://medium.com/product-breakdown/5-ways-to-ask-users-for-ios-permissions-a8e199cc83ad), by [@_ankitprasad](https://twitter.com/_ankitprasad)
 
 **Indie Apps**
 
