@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Flinto](https://www.flinto.com/mac), by [@flinto](https://twitter.com/flinto)
 
 
 **Business**
