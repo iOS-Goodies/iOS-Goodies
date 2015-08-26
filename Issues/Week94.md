@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Cocoa Architecture: Hybrid Apps](http://artsy.github.io/blog/2015/08/24/Cocoa-Architecture:-Hybrid-Apps/), by [Orta Therox](http://twitter.com/orta)
 
 
 **Tools/Controls**
@@ -25,4 +25,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa),
+*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
