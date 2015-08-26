@@ -1,6 +1,7 @@
 **Articles**
 
 * [Cocoa Architecture: Hybrid Apps](http://artsy.github.io/blog/2015/08/24/Cocoa-Architecture:-Hybrid-Apps/), by [Orta Therox](http://twitter.com/orta)
+* [When to Avoid Libraries](https://sandofsky.com/blog/third-party-libraries.html), by [@sandofsky](https://twitter.com/sandofsky)
 
 
 **Tools/Controls**
