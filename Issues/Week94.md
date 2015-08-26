@@ -2,11 +2,15 @@
 
 * [Cocoa Architecture: Hybrid Apps](http://artsy.github.io/blog/2015/08/24/Cocoa-Architecture:-Hybrid-Apps/), by [Orta Therox](http://twitter.com/orta)
 * [When to Avoid Libraries](https://sandofsky.com/blog/third-party-libraries.html), by [@sandofsky](https://twitter.com/sandofsky)
+* [Setting Up Carthage for the Terminal-Timid](https://www.andrewcbancroft.com/2015/07/29/setting-up-carthage-for-the-terminal-timid/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
 
 
 **Tools/Controls**
 
 * [Flinto](https://www.flinto.com/mac), by [@flinto](https://twitter.com/flinto)
+* [ABLoader](https://github.com/IQUII/ABLoader), by [@pmusolino](https://twitter.com/pmusolino)
+* [SwiftLocation](https://github.com/malcommac/SwiftLocation), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [DRDoubleTapButton](https://github.com/dgrueda/DRDoubleTapButton), by [@dgrueda](https://twitter.com/dgrueda)
 
 
 **Business**
