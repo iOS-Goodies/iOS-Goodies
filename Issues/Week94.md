@@ -22,7 +22,9 @@
 * [Unsolicited Redesign: Slack for iOS](https://blog.growth.supply/unsolicited-redesign-slack-for-ios-61f57f879a12), by [@billyroh](https://twitter.com/billyroh)
 * [How I Increased Lonely Planet’s In-App Purchase Revenue By 30% (Case Study Inside)](https://blog.growth.supply/how-i-increased-lonely-planet-s-in-app-purchase-revenue-by-30-case-study-inside-35213dd0f29a), by [@thierrymeier\_](https://twitter.com/thierrymeier_)
 
+**Videos**
 
+* [[Objective] C++: What Could Possibly Go Wrong?](https://realm.io/news/altconf-peter-steinberger-objective-c++-what-could-possibly-go-wrong/), by [@steipete](https://twitter.com/steipete)
 
 
 **Credits**
