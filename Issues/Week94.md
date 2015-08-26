@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-* 
+* [Unsolicited Redesign: Slack for iOS](https://blog.growth.supply/unsolicited-redesign-slack-for-ios-61f57f879a12), by [@billyroh](https://twitter.com/billyroh)
 
 
 
