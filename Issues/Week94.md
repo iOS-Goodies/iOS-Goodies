@@ -4,6 +4,7 @@
 * [When to Avoid Libraries](https://sandofsky.com/blog/third-party-libraries.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/), by Facebook
 * [Swift 2: Beta 6](http://www.russbishop.net/swift-2-beta-6), by [@xenadu02](https://twitter.com/xenadu02)
+* [iOS Typography: Stop Saying “No” To Designers](http://www.raizlabs.com/dev/2015/08/advanced-ios-typography/), by [@ZevEisenberg](https://twitter.com/ZevEisenberg)
 
 **Tools/Controls**
 
