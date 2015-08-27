@@ -6,6 +6,7 @@
 * [Swift 2: Beta 6](http://www.russbishop.net/swift-2-beta-6), by [@xenadu02](https://twitter.com/xenadu02)
 * [iOS Typography: Stop Saying “No” To Designers](http://www.raizlabs.com/dev/2015/08/advanced-ios-typography/), by [@ZevEisenberg](https://twitter.com/ZevEisenberg)
 * [How to pause and resume a sequence of mutating Swift structs using dispatch semaphore?](https://medium.com/@valentinkalchev/how-to-pause-and-resume-a-sequence-of-mutating-swift-structs-using-dispatch-semaphore-fc98eca55c0), by [@ValentinKalchev](https://twitter.com/ValentinKalchev)
+* [Function Composition & Swift 2.0](https://medium.com/@Ajax64/function-composition-swift-2-0-9884330cdc1b), [@Ajax64](https://twitter.com/Ajax64)
 
 **Tools/Controls**
 
