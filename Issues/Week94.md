@@ -5,6 +5,7 @@
 * [Reducing FOOMs in the Facebook iOS app](https://code.facebook.com/posts/1146930688654547/reducing-fooms-in-the-facebook-ios-app/), by Facebook
 * [Swift 2: Beta 6](http://www.russbishop.net/swift-2-beta-6), by [@xenadu02](https://twitter.com/xenadu02)
 * [iOS Typography: Stop Saying “No” To Designers](http://www.raizlabs.com/dev/2015/08/advanced-ios-typography/), by [@ZevEisenberg](https://twitter.com/ZevEisenberg)
+* [How to pause and resume a sequence of mutating Swift structs using dispatch semaphore?](https://medium.com/@valentinkalchev/how-to-pause-and-resume-a-sequence-of-mutating-swift-structs-using-dispatch-semaphore-fc98eca55c0), by [@ValentinKalchev](https://twitter.com/ValentinKalchev)
 
 **Tools/Controls**
 
