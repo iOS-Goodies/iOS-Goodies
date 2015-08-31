@@ -12,6 +12,7 @@
 **Business**
 
 * [Million Dollar Products](http://warpspire.com/posts/million-dollar-products/), by [@kneath](https://twitter.com/kneath)
+* [Teamworking](https://blog.busuu.com/teamworking/), by [Matteo Gobbi](https://twitter.com/matteo_gobbi)
 
 
 **UI/UX**
