@@ -4,6 +4,7 @@
 * [Struct Semantics in Swift](http://chris.eidhof.nl/posts/struct-semantics-in-swift.html), by [Chris Eidhof](https://twitter.com/chriseidhof)
 * [Generic UIViewControllers](http://codeplease.io/2015/08/28/generic-uiviewcontrollers/), by [Rui Peres](https://twitter.com/ruiaaperes)
 * [Protocol Oriented Programming in the Real World](http://matthewpalmer.net/blog/2015/08/30/protocol-oriented-programming-in-the-real-world/), by [@_matthewpalmer](https://twitter.com/_matthewpalmer)
+* [How to Use updateConstraints](http://oleb.net/blog/2015/08/how-to-use-updateconstraints/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
