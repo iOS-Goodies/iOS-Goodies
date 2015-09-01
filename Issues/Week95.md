@@ -20,10 +20,7 @@
 
 **UI/UX**
 
-*
-
-
-
+* [Evolving the Google Identity](https://design.google.com/articles/evolving-the-google-identity/), by [Alex Cook](https://twitter.com/gethyper) & [Jonathan Jarvis](https://twitter.com/JonathanJarvis) & [Jonathan Lee](https://twitter.com/hifromjonathan)
 
 **Credits**
 
