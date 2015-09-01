@@ -5,6 +5,7 @@
 * [Generic UIViewControllers](http://codeplease.io/2015/08/28/generic-uiviewcontrollers/), by [Rui Peres](https://twitter.com/ruiaaperes)
 * [Protocol Oriented Programming in the Real World](http://matthewpalmer.net/blog/2015/08/30/protocol-oriented-programming-in-the-real-world/), by [@_matthewpalmer](https://twitter.com/_matthewpalmer)
 * [How to Use updateConstraints](http://oleb.net/blog/2015/08/how-to-use-updateconstraints/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Statically-typed NSUserDefaults](http://radex.io/swift/nsuserdefaults/static/), by [@radexp](https://twitter.com/radexp)
 
 **Tools/Controls**
 
