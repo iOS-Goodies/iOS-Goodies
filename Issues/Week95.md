@@ -17,6 +17,7 @@
 
 **Business**
 
+* [What I’ve Learned About Venture Funding](http://www.bothsidesofthetable.com/2015/08/20/what-ive-learned-about-venture-funding/), by [@msuster](https://twitter.com/msuster)
 * [Million Dollar Products](http://warpspire.com/posts/million-dollar-products/), by [@kneath](https://twitter.com/kneath)
 * [Teamworking](https://blog.busuu.com/teamworking/), by [Matteo Gobbi](https://twitter.com/matteo_gobbi)
 
