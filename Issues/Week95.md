@@ -25,6 +25,9 @@
 * [Evolving the Google Identity](https://design.google.com/articles/evolving-the-google-identity/), by [Alex Cook](https://twitter.com/gethyper) & [Jonathan Jarvis](https://twitter.com/JonathanJarvis) & [Jonathan Lee](https://twitter.com/hifromjonathan)
 * [4 Ways to Onboard New Users to an App](https://medium.com/product-breakdown/4-ways-to-onboard-new-users-to-an-app-8011a119720a), by [@ccamarv](https://twitter.com/ccamarv)
 
+**Videos**
+* [Swift for/with Designers](https://realm.io/news/michael-helmbrecht-swift-for-with-designers/), by [Michael Helmbrecht](https://twitter.com/realm)
+
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [@IanKay](https://twitter.com/IanKay)
+*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [@IanKay](https://twitter.com/IanKay), [dFerreira](https://twitter.com/noais)
