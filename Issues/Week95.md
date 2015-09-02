@@ -8,6 +8,7 @@
 * [Statically-typed NSUserDefaults](http://radex.io/swift/nsuserdefaults/static/), by [@radexp](https://twitter.com/radexp)
 * [Reactive Swift: upgrading to ReactiveCocoa 3.0](https://alltheflow.com/reactive-swift-upgrading-to-reactivecocoa-3-0/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
 * [Core Data in Swift Part 1 - The Stack](http://themainthread.com/blog/2015/08/core-data-stack-in-swift.html), by [@jdriscoll](https://twitter.com/jdriscoll)
+* [How to Test UIAlertControllers and Control Swizzling](http://qualitycoding.org/testing-uialertcontrollers), by [@qcoding](https://twitter.com/qcoding)
 
 **Tools/Controls**
 
