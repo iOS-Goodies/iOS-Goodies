@@ -30,4 +30,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [@IanKay](https://twitter.com/IanKay)
+*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [@IanKay](https://twitter.com/IanKay), [dFerreira](https://twitter.com/noais)
