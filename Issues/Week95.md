@@ -7,6 +7,7 @@
 * [How to Use updateConstraints](http://oleb.net/blog/2015/08/how-to-use-updateconstraints/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Statically-typed NSUserDefaults](http://radex.io/swift/nsuserdefaults/static/), by [@radexp](https://twitter.com/radexp)
 * [Reactive Swift: upgrading to ReactiveCocoa 3.0](https://alltheflow.com/reactive-swift-upgrading-to-reactivecocoa-3-0/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
+* [Core Data in Swift Part 1 - The Stack](http://themainthread.com/blog/2015/08/core-data-stack-in-swift.html), by [@jdriscoll](https://twitter.com/jdriscoll)
 
 **Tools/Controls**
 
