@@ -10,7 +10,7 @@
 **Tools/Controls**
 
 * [Swiftify: Objective-C to Swift Online Converter](http://objectivec2swift.net/#/converter)
-
+* [IKAsyncable](https://github.com/IanKeen/IKAsyncable), by [@IanKay](https://twitter.com/IanKay)
 
 **Business**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [@IanKay](https://twitter.com/IanKay)
