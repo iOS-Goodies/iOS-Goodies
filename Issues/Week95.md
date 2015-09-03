@@ -30,6 +30,7 @@
 * [4 Ways to Onboard New Users to an App](https://medium.com/product-breakdown/4-ways-to-onboard-new-users-to-an-app-8011a119720a), by [@ccamarv](https://twitter.com/ccamarv)
 * [How to write a great error message](https://medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322), by [@JessicaTiao](https://twitter.com/JessicaTiao)
 * [Designing Live for Facebook Mentions](https://medium.com/facebook-design/live-for-mentions-cb91b8a59a27), by [@frankiegaw](https://twitter.com/frankiegaw)
+* [10 Exciting Trends in Mobile App Design](https://blog.growth.supply/10-exciting-trends-in-mobile-app-design-30ea9856ede0), by [@protoio](https://twitter.com/protoio)
 
 **Credits**
 
