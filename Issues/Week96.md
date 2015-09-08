@@ -1,5 +1,5 @@
 **Articles**
-
+* [Querying URL Schemes With canOpenURL](http://useyourloaf.com/blog/querying-url-schemes-with-canopenurl.html), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -18,4 +18,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa),
+*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
