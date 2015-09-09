@@ -12,11 +12,14 @@
 
 **Business**
 
+* [How to Name a Unicorn: What You Need to Know About Naming a Billion Dollar Startup](https://blog.growth.supply/how-to-name-a-unicorn-what-you-need-to-know-about-naming-a-billion-dollar-startup-e52b12cd7f77), by [@mylo_daniel](https://twitter.com/mylo_daniel)
+
 **UI/UX**
 
 * [Building the Airbnb Apple Watch App](http://nerds.airbnb.com/airbnb-watch/), by [@isaaclimdc](https://twitter.com/isaaclimdc)
 * [10 Apps We Love for the Awesome UX](https://blog.growth.supply/10-apps-we-love-for-the-awesome-ux-b57c7ba12053), by [@antzfx](https://twitter.com/antzfx)
 * [Building a more unified Twitter for iOS](https://blog.twitter.com/2015/building-a-more-unified-twitter-for-ios), by [@bdonohoe](https://twitter.com/bdonohoe)
+* [A Vision of the Future: Mobile Banking](https://medium.com/@HCI_UX_UI/a-vision-of-the-future-af1e11a79122), by [@HCI_UX_UI](https://twitter.com/HCI_UX_UI)
 
 **Videos**
 
