@@ -6,6 +6,7 @@
 * [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/), by [Alex Denisov](https://twitter.com/1101_debian)
 * [Thinking in Swift, Part 1: Saving ponies](http://alisoftware.github.io/swift/2015/09/06/thinking-in-swift-1/), by [Olivier Halligon](https://twitter.com/aligatr)
 * [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/), by [@milend](https://twitter.com/milend)
+* [An iOS Developer on React Native](https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0), by [@chalkchisel](https://twitter.com/chalkchisel)
 
 **Tools/Controls**
 
