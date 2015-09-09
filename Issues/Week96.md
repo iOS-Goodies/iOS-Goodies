@@ -3,7 +3,8 @@
 * [Querying URL Schemes With canOpenURL](http://useyourloaf.com/blog/querying-url-schemes-with-canopenurl.html), by [@kharrison](https://twitter.com/kharrison)
 * [Xcode: Trick shows how to create constraint to Top of UIViewController’s view instead of Top To Layout Guide](http://szulctomasz.com/constraint-to-top-instead-of-top-layout-guide/), by [Tomasz Szulc](https://twitter.com/tomkowz)
 * [Cocoa Architecture: Dropped Design Patterns](http://artsy.github.io/blog/2015/09/01/Cocoa-Architecture-Dropped-Design-Patterns/), by [@orta](https://twitter.com/orta)
-
+* [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/), by [Alex Denisov](https://twitter.com/1101_debian)
+* [Thinking in Swift, Part 1: Saving ponies](http://alisoftware.github.io/swift/2015/09/06/thinking-in-swift-1/), by [Olivier Halligon](https://twitter.com/aligatr)
 
 **Tools/Controls**
 
