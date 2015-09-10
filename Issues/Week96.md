@@ -12,6 +12,7 @@
 **Tools/Controls**
 
 * [Countdown](https://github.com/fastlane/countdown), by [@KrauseFx](https://twitter.com/KrauseFx)
+* [DFImageManager](https://github.com/kean/DFImageManager), by [@kean](https://twitter.com/a_grebenyuk)
 
 **Business**
 
@@ -36,4 +37,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+*  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kean](https://github.com/kean)
