@@ -16,6 +16,8 @@
 **Business**
 
 * [How to Name a Unicorn: What You Need to Know About Naming a Billion Dollar Startup](https://blog.growth.supply/how-to-name-a-unicorn-what-you-need-to-know-about-naming-a-billion-dollar-startup-e52b12cd7f77), by [@mylo_daniel](https://twitter.com/mylo_daniel)
+* [How to get more app ratings without being a pain in the ass?](http://upquire.com/blog/app-ratings-without-being-a-pain/), by [@sanketnadhani](https://twitter.com/sanketnadhani)
+* [What to do when your SaaS pricing is WRONG!](https://blog.chartmogul.com/2015/09/what-to-do-when-your-saas-pricing-is-wrong/), by [@NikkiElizDemere](https://twitter.com/NikkiElizDemere)
 
 **UI/UX**
 
