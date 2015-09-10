@@ -7,6 +7,7 @@
 * [Thinking in Swift, Part 1: Saving ponies](http://alisoftware.github.io/swift/2015/09/06/thinking-in-swift-1/), by [Olivier Halligon](https://twitter.com/aligatr)
 * [Swift Generic Protocols](http://milen.me/writings/swift-generic-protocols/), by [@milend](https://twitter.com/milend)
 * [An iOS Developer on React Native](https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0), by [@chalkchisel](https://twitter.com/chalkchisel)
+* [Auto Layout 101](https://www.weheartswift.com/auto-layout-101/), by [@andrei512](https://twitter.com/andrei512)
 
 **Tools/Controls**
 
@@ -27,6 +28,9 @@
 
 * [Reverse-Engineering iOS Apps: Hacking on Lyft](https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/), by [@conradev](https://twitter.com/conradev)
 
+**Goodies**
+
+* [tv Human Interface Guidelines](https://developer.apple.com/tvos/human-interface-guidelines/)
 
 **Credits**
 
