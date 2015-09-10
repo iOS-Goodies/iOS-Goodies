@@ -9,6 +9,7 @@
 * [An iOS Developer on React Native](https://medium.com/@chalkchisel/an-ios-developer-on-react-native-1f24786c29f0), by [@chalkchisel](https://twitter.com/chalkchisel)
 * [Auto Layout 101](https://www.weheartswift.com/auto-layout-101/), by [@andrei512](https://twitter.com/andrei512)
 * [Top Tips for iOS 9 Development](https://realm.io/news/tips-for-ios-9-development/), by [@realm](https://twitter.com/realm)
+* [tvOS SDK: An iOS Developer’s Initial Impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions), by [@cwagdev](https://twitter.com/cwagdev)
 
 **Tools/Controls**
 
