@@ -14,6 +14,7 @@
 
 * [Countdown](https://github.com/fastlane/countdown), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [DFImageManager](https://github.com/kean/DFImageManager), by [@kean](https://twitter.com/a_grebenyuk)
+* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl), by [facebook](https://github.com/facebook)
 
 **Business**
 
