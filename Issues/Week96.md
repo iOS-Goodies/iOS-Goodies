@@ -10,6 +10,7 @@
 * [Auto Layout 101](https://www.weheartswift.com/auto-layout-101/), by [@andrei512](https://twitter.com/andrei512)
 * [Top Tips for iOS 9 Development](https://realm.io/news/tips-for-ios-9-development/), by [@realm](https://twitter.com/realm)
 * [tvOS SDK: An iOS Developer’s Initial Impressions](http://www.raywenderlich.com/114313/tvos-initial-impressions), by [@cwagdev](https://twitter.com/cwagdev)
+* [Lyft Goes Swift: How (and Why) It Rewrote Its App From Scratch In Apple's New Language](http://www.fastcompany.com/3050266/tech-forecast/lyft-goes-swift-how-and-why-it-rewrote-its-app-from-scratch-in-apples-new-lang), by [@harrymccracken](https://twitter.com/harrymccracken)
 
 **Tools/Controls**
 
