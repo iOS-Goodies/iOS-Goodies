@@ -8,7 +8,6 @@
 
 **Tools/Controls**
 
-* [FBSimulatorControl](https://github.com/facebook/FBSimulatorControl), by [facebook](https://github.com/facebook)
 * [Watchdog](https://github.com/wojteklukaszuk/Watchdog), by [Wojtek Lukaszuk](https://github.com/wojteklukaszuk)
 
 **Business**
