@@ -12,7 +12,7 @@
 
 **Business**
 
-* [Minimum Viable Programmer](http://dbgrandi.github.io/minimum_viable_programmer/), by [@David Grandinetti](https://twitter.com/dbgrandi)
+* [Minimum Viable Programmer](http://dbgrandi.github.io/minimum_viable_programmer/), by [David Grandinetti](https://twitter.com/dbgrandi)
 
 
 **UI/UX**
