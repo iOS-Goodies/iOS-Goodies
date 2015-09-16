@@ -12,6 +12,7 @@
 
 **Business**
 
+* [The Problem with App Store Reviews](http://dancounsell.typed.com/articles/the-problem-with-app-store-reviews), by [@dancounsell](https://twitter.com/dancounsell)
 
 
 
@@ -19,4 +20,4 @@
 
 **Credits**
 
-*  [mariusc](https://github.com/mariusc)
+*  [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
