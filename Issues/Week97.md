@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* [Watchdog](https://github.com/wojteklukaszuk/Watchdog), by Wojtek Lukaszuk
+* [Watchdog](https://github.com/wojteklukaszuk/Watchdog), by [@wojteklukaszuk](https://twitter.com/wojteklukaszuk)
 * [Buck](https://buckbuild.com/), by [@fbOpenSource](https://twitter.com/fbOpenSource)
 * [iOSFontHelper](https://github.com/palcalde/iOSFontHelper), by [@pabloalcalde88](https://twitter.com/pabloalcalde88)
 * [STPopup](https://github.com/kevin0571/STPopup), by Kevin Lin
