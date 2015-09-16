@@ -21,6 +21,7 @@
 **UI/UX**
 
 * [UX Research Methods](https://medium.com/@jackietanner/ux-research-methods-acb80b141bdc), by [@iamjackietanner](https://twitter.com/iamjackietanner)
+* [The Psychology of Numbers in Design](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1), by [@aaronotani](https://twitter.com/aaronotani)
 
 
 **Videos**
