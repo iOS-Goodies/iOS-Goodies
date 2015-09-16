@@ -22,4 +22,4 @@
 
 **Credits**
 
-*  [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+*  [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [palcalde](https://github.com/palcalde)
