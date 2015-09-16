@@ -20,6 +20,8 @@
 
 **UI/UX**
 
+* [UX Research Methods](https://medium.com/@jackietanner/ux-research-methods-acb80b141bdc), by [@iamjackietanner](https://twitter.com/iamjackietanner)
+
 **Credits**
 
 *  [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [palcalde](https://github.com/palcalde)
