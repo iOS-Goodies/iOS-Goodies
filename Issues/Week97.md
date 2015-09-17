@@ -16,6 +16,7 @@
 **Business**
 
 * [The Problem with App Store Reviews](http://dancounsell.typed.com/articles/the-problem-with-app-store-reviews), by [@dancounsell](https://twitter.com/dancounsell)
+* [Hire People, Not Skills](http://blog.mailchimp.com/hire-people-not-skills/), by [@aarron](https://twitter.com/aarron)
 
 
 **UI/UX**
