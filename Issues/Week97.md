@@ -5,6 +5,7 @@
 * [App Transport Security](http://useyourloaf.com/blog/app-transport-security.html), by [@kharrison](https://twitter.com/kharrison)
 * [#2 Diary of a Secret App: AutoLayout](http://codeplease.io/2015/09/11/2-diary-of-a-secret-app-autolayout/), by [@ruiaaperes](https://twitter.com/ruiaaperes)
 * [Minimum Viable Programmer](http://dbgrandi.github.io/minimum_viable_programmer/), by [@dbgrandi](https://twitter.com/dbgrandi)
+* [Optimizing the Sustainable Pace](http://blog.8thlight.com/paul-pagel/2015/09/15/optimize-sustainable-pace.html), by [@paulwpagel](https://twitter.com/paulwpagel)
 
 **Tools/Controls**
 
