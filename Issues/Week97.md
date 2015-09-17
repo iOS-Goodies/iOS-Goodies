@@ -24,6 +24,7 @@
 * [UX design tips for your app](https://medium.com/@InVisionApp/ux-design-tips-for-your-app-8203107c77eb), by [@InVisionApp](https://twitter.com/InVisionApp)
 * [UX Research Methods](https://medium.com/@jackietanner/ux-research-methods-acb80b141bdc), by [@iamjackietanner](https://twitter.com/iamjackietanner)
 * [The Psychology of Numbers in Design](https://blog.growth.supply/the-psychology-of-numbers-in-design-d6a7a011e8b1), by [@aaronotani](https://twitter.com/aaronotani)
+* [Designing the Uber Cash Experience](https://medium.com/uber-design/designing-the-uber-cash-experience-649a2749b324), by [@matthewcmoore](https://twitter.com/matthewcmoore)
 
 
 **Videos**
