@@ -19,7 +19,7 @@
 
 **Videos**
 
-* 
+* [Functional Reactive Programming in an Imperative World](https://realm.io/news/nacho-soto-functional-reactive-programming/), by [@NachoSoto](https://twitter.com/NachoSoto)
 
 
 **Credits**
