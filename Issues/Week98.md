@@ -9,7 +9,7 @@
 
 **Business**
 
-*
+* [Disruption is better when it’s other people’s jobs](https://medium.com/@dhh/disruption-is-better-when-it-s-other-people-s-jobs-ad84098c3c6), by [@dhh](https://twitter.com/dhh)
 
 
 **UI/UX**
