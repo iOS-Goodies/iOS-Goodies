@@ -24,7 +24,8 @@
 
 **UI/UX**
 
-* 
+* [Why use colour in apps](https://medium.com/@nicknelo/why-use-colour-branding-in-apps-a95deba49dae), by [@nicknelo](https://twitter.com/nicknelo)
+* [Field Research at Uber - Observing what people would never think to tell us](https://medium.com/uber-design/field-research-at-uber-297a46892843), by [@DesigningUber](https://twitter.com/DesigningUber)
 
 
 **Videos**
