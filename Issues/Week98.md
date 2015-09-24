@@ -23,6 +23,7 @@
 
 * [Disruption is better when it’s other people’s jobs](https://medium.com/@dhh/disruption-is-better-when-it-s-other-people-s-jobs-ad84098c3c6), by [@dhh](https://twitter.com/dhh)
 * [The One Method I’ve Used to Eliminate Bad Tech Hires](https://medium.com/swlh/the-one-method-to-eliminate-bad-tech-hires-630d539b2e1d), by [@ayasin](https://twitter.com/ayasin)
+* [The Secret to a Successful Launch](https://medium.com/@yegg/the-secret-to-having-a-successful-launch-48e4a233a50d), by [@yegg](https://twitter.com/yegg)
 
 
 **UI/UX**
