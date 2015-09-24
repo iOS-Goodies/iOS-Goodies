@@ -11,6 +11,7 @@
 * [Swift 2: Control Flow Pattern Matching Examples](http://austinzheng.com/2015/09/23/pmatch-control-flow/), by [@austinzheng](https://twitter.com/austinzheng)
 * [Cocoa Architecture: Dependencies](http://artsy.github.io/blog/2015/09/18/Cocoa-Architecture-Dependencies/), by [@orta](https://twitter.com/orta)
 * [clang-format as a guard for Objective-C code style](https://techblog.badoo.com/blog/2015/09/21/clang-format-as-a-guard-for-objective-c-code-style/), by Vladimir Magaziy via [@BadooTech](https://twitter.com/BadooTech)
+* [Custom Helpers in XCTest](http://masilotti.com/xctest-helpers), by [Joe Masilotti](https://twitter.com/joemasilotti)
 
 **Tools/Controls**
 
