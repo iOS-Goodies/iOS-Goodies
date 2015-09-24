@@ -9,6 +9,8 @@
 * [Swift Optionals, Functional Programming, and You](http://www.mokacoding.com/blog/demistifying-swift-functor/), by [@mokacoding](https://twitter.com/mokacoding)
 * [Advanced Touch Handling in iOS9: Coalescing and Prediction](http://flexmonkey.blogspot.co.uk/2015/09/advanced-touch-handling-in-ios9.html), by [@FlexMonkey](https://twitter.com/FlexMonkey)
 * [Swift 2: Control Flow Pattern Matching Examples](http://austinzheng.com/2015/09/23/pmatch-control-flow/), by [@austinzheng](https://twitter.com/austinzheng)
+* [Cocoa Architecture: Dependencies](http://artsy.github.io/blog/2015/09/18/Cocoa-Architecture-Dependencies/), by [@orta](https://twitter.com/orta)
+* [clang-format as a guard for Objective-C code style](https://techblog.badoo.com/blog/2015/09/21/clang-format-as-a-guard-for-objective-c-code-style/), by Vladimir Magaziy via [@BadooTech](https://twitter.com/BadooTech)
 
 **Tools/Controls**
 
