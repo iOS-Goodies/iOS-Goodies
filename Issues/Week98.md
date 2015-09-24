@@ -32,6 +32,7 @@
 * [Why use colour in apps](https://medium.com/@nicknelo/why-use-colour-branding-in-apps-a95deba49dae), by [@nicknelo](https://twitter.com/nicknelo)
 * [Field Research at Uber - Observing what people would never think to tell us](https://medium.com/uber-design/field-research-at-uber-297a46892843), by [@DesigningUber](https://twitter.com/DesigningUber)
 * [Privacy is UX](http://alistapart.com/article/privacy-is-ux), by [@alexschmidt](https://twitter.com/alexschmidt)
+* [All You Need to Know about Rapid Prototyping](https://visualhierarchy.co/blog/all-you-need-to-know-about-rapid-prototyping/), by [@vhdotco](https://twitter.com/vhdotco)
 
 
 **Videos**
