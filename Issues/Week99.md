@@ -17,7 +17,7 @@
 
 **Videos**
 
-* 
+* [A Swift Introduction to Realm](https://realm.io/news/tim-oliver-swift-intro-to-realm/), by [@timoliverau](https://twitter.com/timoliverau)
 
 
 **Credits**
