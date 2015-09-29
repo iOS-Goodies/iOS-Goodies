@@ -4,6 +4,7 @@
 * [What The Heck Is A Monad](http://khanlou.com/2015/09/what-the-heck-is-a-monad/), by [@khanlou](https://twitter.com/khanlou)
 * [Ranges and Intervals in Swift](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/), by [Ole Begemann](https://twitter.com/olebegemann)
 * [MVVM in Swift](http://artsy.github.io/blog/2015/09/24/mvvm-in-swift/), by [Ash Furrow](https://twitter.com/ashfurrow)
+* ["Weak, Strong, Unowned, oh my!" - A guide to references in Swift](http://krakendev.io/blog/weak-and-unowned-references-in-swift), by [@allonsykraken](https://twitter.com/allonsykraken) via [@steipete](https://twitter.com/steipete)
 
 **Tools/Controls**
 
