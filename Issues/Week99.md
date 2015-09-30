@@ -17,6 +17,7 @@
 **Business**
 
 * [How Atomic Evaluates New Project Opportunities](http://spin.atomicobject.com/2015/09/29/how-atomic-evaluates-new-project-opportunities/), by [@dewind](https://twitter.com/dewind)
+* [Are You Building an App or a Business?](http://dancounsell.com/articles/are-you-building-an-app-or-a-business), by [Dan Counsell](https://twitter.com/dancounsell)
 
 **UI/UX**
 
