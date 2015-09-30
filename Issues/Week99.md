@@ -12,6 +12,7 @@
 **Tools/Controls**
 
 * [Neon](https://github.com/mamaral/Neon), by [Mike Amaral](https://github.com/mamaral)
+* [Xcode Logger (1.2.1)](https://github.com/codeFi/XcodeLogger), by [Razvan Tanase](https://twitter.com/razvan_tanase)
 
 **Business**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-*  [mariusc](https://github.com/mariusc),
+*  [mariusc](https://github.com/mariusc), [codeFi](https://github.com/codeFi),
