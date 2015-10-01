@@ -35,7 +35,6 @@
 
 * [A Swift Introduction to Realm](https://realm.io/news/tim-oliver-swift-intro-to-realm/), by [@timoliverau](https://twitter.com/timoliverau)
 * [Intelligent UI with AsyncDisplayKit 2.0](https://vimeo.com/140409084), by [@ScottGoodson](https://twitter.com/ScottGoodson)
-* [Let’s Play: Refactor the Mega-Controller](https://vimeo.com/140037432), by [@andy_matuschak](https://twitter.com/andy_matuschak)
 * [Humanities X Technology](https://vimeo.com/140414636), by [@ashleynh](https://twitter.com/ashleynh)
 
 
