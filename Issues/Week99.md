@@ -15,6 +15,7 @@
 **Tools/Controls**
 
 * [Neon](https://github.com/mamaral/Neon), by [Mike Amaral](https://github.com/mamaral)
+* [Blade](https://github.com/jondot/blade) and [Blade's Article](http://blog.paracode.com/2015/10/01/a-modern-ios-app-icon-and-image-workflow-with-blade/), by [@jondot](https://twitter.com/jondot)
 
 **Business**
 
