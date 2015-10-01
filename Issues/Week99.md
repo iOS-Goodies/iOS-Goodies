@@ -21,6 +21,7 @@
 * [How Atomic Evaluates New Project Opportunities](http://spin.atomicobject.com/2015/09/29/how-atomic-evaluates-new-project-opportunities/), by [@dewind](https://twitter.com/dewind)
 * [Are apps really being replaced by messaging?](https://medium.com/@arix/are-apps-really-being-replaced-by-messaging-ba62204ceb32), by [@AriX](https://twitter.com/AriX)
 * [Working Title](http://www.allenpike.com/2015/working-title/), by [Allen Pike](http://www.twitter.com/apike/)
+* [When And How To Say No To A Project](http://thenuschool.com/when-and-how-to-say-no-to-a-project/), by [@marisamorby](https://twitter.com/marisamorby)
 
 **UI/UX**
 
@@ -37,4 +38,4 @@
 
 **Credits**
 
-*  [mariusc](https://github.com/mariusc),
+*  [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
