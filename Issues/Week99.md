@@ -14,10 +14,12 @@
 **Tools/Controls**
 
 * [Neon](https://github.com/mamaral/Neon), by [Mike Amaral](https://github.com/mamaral)
+* [Xcode Logger (1.2.1)](https://github.com/codeFi/XcodeLogger), by [Razvan Tanase](https://twitter.com/razvan_tanase)
 
 **Business**
 
 * [How Atomic Evaluates New Project Opportunities](http://spin.atomicobject.com/2015/09/29/how-atomic-evaluates-new-project-opportunities/), by [@dewind](https://twitter.com/dewind)
+* [Are You Building an App or a Business?](http://dancounsell.com/articles/are-you-building-an-app-or-a-business), by [Dan Counsell](https://twitter.com/dancounsell)
 
 **UI/UX**
 
@@ -34,4 +36,4 @@
 
 **Credits**
 
-*  [mariusc](https://github.com/mariusc),
+*  [mariusc](https://github.com/mariusc), [codeFi](https://github.com/codeFi),
