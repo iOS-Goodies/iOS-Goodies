@@ -8,6 +8,8 @@
 * [Generics in Swift, Part 2](http://austinzheng.com/2015/09/29/swift-generics-pt-2/), by [@austinzheng](https://twitter.com/austinzheng)
 * [Diffing APIs with class-dump](http://modocache.io/diffing-with-classdump), by [@modocache](https://twitter.com/modocache)
 * [Swift Protocol Extensions as Mixins – And How Do You Test That?](http://christiantietze.de/posts/2015/09/swift-protocol-as-trait-testing/), by [@ctietze](https://twitter.com/ctietze)
+* [More Pattern Matching Examples](http://oleb.net/blog/2015/09/more-pattern-matching-examples/), by [Ole Begemann](https://twitter.com/olebegemann)
+* [\#93: Creating a Router for Alamofire 🔀🔥](https://littlebitesofcocoa.com/93), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 
 **Tools/Controls**
 
