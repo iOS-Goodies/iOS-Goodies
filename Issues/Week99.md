@@ -22,6 +22,7 @@
 * [Are apps really being replaced by messaging?](https://medium.com/@arix/are-apps-really-being-replaced-by-messaging-ba62204ceb32), by [@AriX](https://twitter.com/AriX)
 * [Working Title](http://www.allenpike.com/2015/working-title/), by [Allen Pike](http://www.twitter.com/apike/)
 * [When And How To Say No To A Project](http://thenuschool.com/when-and-how-to-say-no-to-a-project/), by [@marisamorby](https://twitter.com/marisamorby)
+* [Why Sweden Is Shifting To A 6-Hour Workday](http://www.fastcoexist.com/3051448/why-sweden-is-shifting-to-a-6-hour-work-day), by [@adele_peters](https://twitter.com/adele_peters)
 
 **UI/UX**
 
