@@ -28,6 +28,7 @@
 
 * [Know People - 5 Ways to Create Revolutionary Experiences](https://medium.com/greater-than/part-1-c2d48aba6659), by [@RikkiTeeters](https://twitter.com/RikkiTeeters)
 * [The Obvious, the Easy, and the Possible](https://medium.com/@jasonfried/the-obvious-the-easy-and-the-possible-a09387ad3652), by [@jasonfried](https://twitter.com/jasonfried)
+* [Refining the UX for a Continuous Video Experience](https://medium.com/ios-os-x-development/refining-the-ux-for-a-continuous-video-experience-d92fd6cb66df), by [@bdalziel](https://twitter.com/bdalziel)
 
 **Videos**
 
