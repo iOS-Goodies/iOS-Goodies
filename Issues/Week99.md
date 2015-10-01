@@ -15,7 +15,7 @@
 **Tools/Controls**
 
 * [Neon](https://github.com/mamaral/Neon), by [Mike Amaral](https://github.com/mamaral)
-* [BSForegroundNotification](https://github.com/kunass2/BSForegroundNotification), by [kunass2](https://github.com/kunass2/BSForegroundNotification)
+* [BSForegroundNotification](https://github.com/kunass2/BSForegroundNotification), by [@clerigo](https://twitter.com/clerigo)
 
 **Business**
 
