@@ -18,6 +18,7 @@
 **Business**
 
 * [How Atomic Evaluates New Project Opportunities](http://spin.atomicobject.com/2015/09/29/how-atomic-evaluates-new-project-opportunities/), by [@dewind](https://twitter.com/dewind)
+* [Are apps really being replaced by messaging?](https://medium.com/@arix/are-apps-really-being-replaced-by-messaging-ba62204ceb32), by [@AriX](https://twitter.com/AriX)
 
 **UI/UX**
 
