@@ -21,7 +21,7 @@
 
 **UI/UX**
 
-* 
+* [Know People - 5 Ways to Create Revolutionary Experiences](https://medium.com/greater-than/part-1-c2d48aba6659), by [@RikkiTeeters](https://twitter.com/RikkiTeeters)
 
 **Videos**
 
