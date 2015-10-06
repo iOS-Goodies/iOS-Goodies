@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [SwiftGo](https://github.com/Zewo/SwiftGo), by [@paulofariarl](https://twitter.com/paulofariarl)
+* [Swift Radio Pro](https://github.com/swiftcodex/swift-radio-pro), by [@goFecher](https://twitter.com/goFecher)
 
 **Business**
 
