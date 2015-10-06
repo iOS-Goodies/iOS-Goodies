@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [SwiftGo](https://github.com/Zewo/SwiftGo), by [@paulofariarl](https://twitter.com/paulofariarl)
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc),
+* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria)
