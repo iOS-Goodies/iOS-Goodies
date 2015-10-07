@@ -10,11 +10,11 @@
 
 **Business**
 
-* 
+* [What’s worse than paid app updates?](https://medium.com/swlh/what-s-worse-than-paid-app-updates-1d4f8ae22fe6), by [@de](https://twitter.com/de)
 
 **UI/UX**
 
-* 
+* [Your UI isn’t a Disney Movie](https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2), by [@sophie_paxtonUX](https://twitter.com/sophie_paxtonUX)
 
 **Videos**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria)
+* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria), [rbarbosa](https://github.com/rbarbosa)
