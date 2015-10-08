@@ -24,6 +24,7 @@
 * [Your UI isn’t a Disney Movie](https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2), by [@sophie_paxtonUX](https://twitter.com/sophie_paxtonUX)
 * [Why Designers Think Users Are Lazy: 3 Human Behaviors](http://www.nngroup.com/articles/lazy-users/), by [@KaraAnn](https://twitter.com/KaraAnn)
 * [Meet the future of design. Hint: it’s on your phone.](https://medium.com/@pixiteapps/meet-the-future-of-design-hint-it-s-on-your-phone-55e1ba30e04e), by [@pixiteapps](https://twitter.com/pixiteapps)
+* [How to Customize UX for Mobile](http://www.webdesignerdepot.com/2015/10/how-to-customize-ux-for-mobile/), by [@carriecousins](https://twitter.com/carriecousins)
 
 **Videos**
 
