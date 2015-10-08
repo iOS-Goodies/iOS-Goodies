@@ -13,6 +13,7 @@
 **Business**
 
 * [What’s worse than paid app updates?](https://medium.com/swlh/what-s-worse-than-paid-app-updates-1d4f8ae22fe6), by [@de](https://twitter.com/de)
+* [Creating apps your users will love and pay for—what to do before you write code](http://secretsaucehq.com/), by [@feifanw](https://twitter.com/feifanw)
 
 **UI/UX**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria), [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit)
