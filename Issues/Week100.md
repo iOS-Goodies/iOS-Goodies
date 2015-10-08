@@ -17,11 +17,13 @@
 
 * [What’s worse than paid app updates?](https://medium.com/swlh/what-s-worse-than-paid-app-updates-1d4f8ae22fe6), by [@de](https://twitter.com/de)
 * [Creating apps your users will love and pay for—what to do before you write code](http://secretsaucehq.com/), by [@feifanw](https://twitter.com/feifanw)
+* [Five Years of Building Instagram](https://medium.com/backchannel/war-stories-3696d00207ff), by [@mikeyk](https://twitter.com/mikeyk)
 
 **UI/UX**
 
 * [Your UI isn’t a Disney Movie](https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2), by [@sophie_paxtonUX](https://twitter.com/sophie_paxtonUX)
 * [Why Designers Think Users Are Lazy: 3 Human Behaviors](http://www.nngroup.com/articles/lazy-users/), by [@KaraAnn](https://twitter.com/KaraAnn)
+* [Meet the future of design. Hint: it’s on your phone.](https://medium.com/@pixiteapps/meet-the-future-of-design-hint-it-s-on-your-phone-55e1ba30e04e), by [@pixiteapps](https://twitter.com/pixiteapps)
 
 **Videos**
 
