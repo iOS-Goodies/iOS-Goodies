@@ -7,6 +7,7 @@
 * [guard & defer](http://nshipster.com/guard-and-defer/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [Libraries Used in the Top 100 iOS Apps](https://medium.com/@ryanolsonk/libraries-used-in-the-top-100-ios-apps-5b845ad927b7), by [@ryanolsonk](https://twitter.com/ryanolsonk)
 * [Generic Array of Int - what, why, how?](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [Lessons learned with 3D Touch](http://engineering.instagram.com/posts/465414923641286/lessons-learned-with-3D-touch), by [Ryan Nystrom](http://www.instagram.com/ryannystrom)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria), [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit)
+* [mariusc](https://github.com/mariusc), [paulofaria](https://github.com/paulofaria), [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit), [lm2s](https://github.com/lm2s)
