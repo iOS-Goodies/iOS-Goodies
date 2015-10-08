@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [Your UI isn’t a Disney Movie](https://medium.com/@sophie_paxtonUX/your-ui-isn-t-a-disney-movie-703f7fbd24d2), by [@sophie_paxtonUX](https://twitter.com/sophie_paxtonUX)
+* [Why Designers Think Users Are Lazy: 3 Human Behaviors](http://www.nngroup.com/articles/lazy-users/), by [@KaraAnn](https://twitter.com/KaraAnn)
 
 **Videos**
 
