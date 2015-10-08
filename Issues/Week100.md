@@ -4,6 +4,7 @@
 * [When to use map, flatMap, or for loops in Swift](http://www.mokacoding.com/blog/when-to-use-map-flatmap-for/), by [Giovanni Lodi](https://twitter.com/mokagio)
 * [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/), by [Soroush Khanlou](https://twitter.com/khanlou)
 * [Using ccache for Fun and Profit](https://pspdfkit.com/blog/2015/ccache-for-fun-and-profit/), by [Peter Steinberger](https://twitter.com/steipete)
+* [guard & defer](http://nshipster.com/guard-and-defer/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 
 **Tools/Controls**
 
