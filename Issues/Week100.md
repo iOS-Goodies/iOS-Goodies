@@ -5,6 +5,7 @@
 * [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/), by [Soroush Khanlou](https://twitter.com/khanlou)
 * [Using ccache for Fun and Profit](https://pspdfkit.com/blog/2015/ccache-for-fun-and-profit/), by [Peter Steinberger](https://twitter.com/steipete)
 * [guard & defer](http://nshipster.com/guard-and-defer/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
+* [Libraries Used in the Top 100 iOS Apps](https://medium.com/@ryanolsonk/libraries-used-in-the-top-100-ios-apps-5b845ad927b7), by [@ryanolsonk](https://twitter.com/ryanolsonk)
 
 **Tools/Controls**
 
