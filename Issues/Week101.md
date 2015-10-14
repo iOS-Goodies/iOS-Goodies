@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [Boris-Em](https://github.com/Boris-Em)
