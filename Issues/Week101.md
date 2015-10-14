@@ -12,6 +12,8 @@
 
 **Business**
 
+* [The Story of Pause](https://ustwo.com/blog/the-story-of-pause), by [@fredrikvvallin](https://twitter.com/fredrikvvallin)
+
 
 
 **UI/UX**
