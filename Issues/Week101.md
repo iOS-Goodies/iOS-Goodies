@@ -5,8 +5,7 @@
 * [*-Oriented Programming](http://www.sicpers.info/2015/10/oriented-programming/), by [Graham Lee](https://twitter.com/iwasleeg)
 
 **Tools/Controls**
-
-
+* [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox), by [@Boris_Em](https://twitter.com/Boris_Em)
 
 **Business**
 
