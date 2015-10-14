@@ -13,7 +13,7 @@
 **Business**
 
 * [The Story of Pause](https://ustwo.com/blog/the-story-of-pause), by [@fredrikvvallin](https://twitter.com/fredrikvvallin)
-
+* [Pragmatic App Pricing](http://www.marco.org/2015/10/13/pragmatic-pricing), by [@marcoarment](https://twitter.com/marcoarment)
 
 
 **UI/UX**
