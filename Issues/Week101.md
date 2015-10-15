@@ -21,6 +21,7 @@
 * [Pragmatic App Pricing](http://www.marco.org/2015/10/13/pragmatic-pricing), by [@marcoarment](https://twitter.com/marcoarment)
 * [How we raised $40k for Hours with a completely private crowdfunding campaign](https://medium.com/@jerols/6-things-we-learned-from-running-a-private-crowdfunding-campaign-33ac835de4dd), by [@jerols](https://medium.com/@jerols)
 * [Why Twitter’s Dying (And What You Can Learn From It)](https://medium.com/bad-words/why-twitter-s-dying-and-what-you-can-learn-from-it-9ed233e37974), by [@umairh](https://twitter.com/umairh)
+* [How To Be The Type Of Person Everyone Wants To Know](https://medium.com/the-coffeelicious/how-to-be-the-type-of-person-everyone-wants-to-know-b7e996313c39), by [@HGHypnotherapy](https://twitter.com/HGHypnotherapy)
 
 **UI/UX**
 
