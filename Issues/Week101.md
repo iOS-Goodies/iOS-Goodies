@@ -7,6 +7,7 @@
 * [How to Move Bootstrapping Code Out of AppDelegate](http://christiantietze.de/posts/2015/10/bootstrapping-appdelegate/), by [@ctietze](https://twitter.com/ctietze)
 * [Exploring Apple’s 3D Touch](https://medium.com/@rknla/exploring-apple-s-3d-touch-f5980ef45af5), by [@rknLA](https://twitter.com/rknLA)
 * [Globular: Colourful Metaballs Controlled by 3D Touch](http://flexmonkey.blogspot.pt/2015/10/globular-colourful-metaballs-controlled.html), by [@FlexMonkey](https://twitter.com/FlexMonkey)
+* [UIKit changes in iOS 9](http://www.jessesquires.com/UIKit-changes-in-iOS-9/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Tools/Controls**
 
