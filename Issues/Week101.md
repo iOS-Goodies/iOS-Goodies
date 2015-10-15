@@ -13,6 +13,7 @@
 * [CLANG WARN NULLABLE TO NONNULL CONVERSION](http://modocache.io/clang-warn-nullable-to-nonnull-conversion), by [@modocache](https://twitter.com/modocache)
 * [Decouple UI from Model with View Models and Controls](http://christiantietze.de/posts/2015/10/view-model-control/), by [@ctietze](https://twitter.com/ctietze)
 * [Xcodebuild Destination Cheatsheet](http://www.mokacoding.com/blog/xcodebuild-destination-options/), by [@mokagio](https://twitter.com/mokagio)
+* [Optional Protocol Methods in Pure Swift](http://blog.stablekernel.com/optional-protocol-methods-in-pure-swift), by [@joeconwaystk](https://twitter.com/joeconwaystk)
 
 **Tools/Controls**
 
