@@ -27,6 +27,7 @@
 * [Why Twitter’s Dying (And What You Can Learn From It)](https://medium.com/bad-words/why-twitter-s-dying-and-what-you-can-learn-from-it-9ed233e37974), by [@umairh](https://twitter.com/umairh)
 * [How To Be The Type Of Person Everyone Wants To Know](https://medium.com/the-coffeelicious/how-to-be-the-type-of-person-everyone-wants-to-know-b7e996313c39), by [@HGHypnotherapy](https://twitter.com/HGHypnotherapy)
 * [The Elephant in the Room](http://samanthabielefeld.com/journal/the-elephant-in-the-room), by [@s_bielefeld](https://twitter.com/s_bielefeld)
+* [Poaching is for animals, not employees](https://signalvnoise.com/posts/3962-poaching-is-for-animals-not-employees), by [@dhh](https://twitter.com/dhh)
 
 **UI/UX**
 
