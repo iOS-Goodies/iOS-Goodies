@@ -12,13 +12,14 @@
 
 **Tools/Controls**
 
+* [Hand Curated Libraries in Swift](http://www.ioscookies.com/), by [@bardonadam](https://twitter.com/bardonadam)
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox), by [@Boris_Em](https://twitter.com/Boris_Em)
 
 **Business**
 
 * [The Story of Pause](https://ustwo.com/blog/the-story-of-pause), by [@fredrikvvallin](https://twitter.com/fredrikvvallin)
 * [Pragmatic App Pricing](http://www.marco.org/2015/10/13/pragmatic-pricing), by [@marcoarment](https://twitter.com/marcoarment)
-
+* [How we raised $40k for Hours with a completely private crowdfunding campaign](https://medium.com/@jerols/6-things-we-learned-from-running-a-private-crowdfunding-campaign-33ac835de4dd), by [@jerols](https://medium.com/@jerols)
 
 **UI/UX**
 
