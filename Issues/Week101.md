@@ -12,6 +12,7 @@
 * [Push / Pop modal SFSafariViewController](http://www.stringcode.co.uk/push-pop-modal-sfsafariviewcontroller-hacking-swipe-from-edge-gesture/), by [@stringcode](https://twitter.com/stringcode)
 * [CLANG WARN NULLABLE TO NONNULL CONVERSION](http://modocache.io/clang-warn-nullable-to-nonnull-conversion), by [@modocache](https://twitter.com/modocache)
 * [Decouple UI from Model with View Models and Controls](http://christiantietze.de/posts/2015/10/view-model-control/), by [@ctietze](https://twitter.com/ctietze)
+* [Xcodebuild Destination Cheatsheet](http://www.mokacoding.com/blog/xcodebuild-destination-options/), by [@mokagio](https://twitter.com/mokagio)
 
 **Tools/Controls**
 
