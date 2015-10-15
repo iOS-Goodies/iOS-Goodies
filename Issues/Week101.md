@@ -19,6 +19,7 @@
 
 * [Hand Curated Libraries in Swift](http://www.ioscookies.com/), by [@bardonadam](https://twitter.com/bardonadam)
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox), by [@Boris_Em](https://twitter.com/Boris_Em)
+* [Eureka](https://github.com/xmartlabs/Eureka), by [@xmartlabs](https://twitter.com/xmartlabs)
 
 **Business**
 
