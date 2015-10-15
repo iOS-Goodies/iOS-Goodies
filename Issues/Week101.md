@@ -33,6 +33,7 @@
 **UI/UX**
 
 * [Making Learning Easy by Design](https://medium.com/google-design/designing-a-ux-for-learning-ebed4fa0a798), by [@snambomb](https://twitter.com/snambomb)
+* [Effective Prototyping](https://medium.com/@sophie_paxtonUX/effective-prototyping-ad97d2f469a0), by [@sophie_paxtonUX](https://twitter.com/sophie_paxtonUX)
 
 
 **Goodies**
