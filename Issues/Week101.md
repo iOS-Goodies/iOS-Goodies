@@ -9,6 +9,9 @@
 * [Globular: Colourful Metaballs Controlled by 3D Touch](http://flexmonkey.blogspot.pt/2015/10/globular-colourful-metaballs-controlled.html), by [@FlexMonkey](https://twitter.com/FlexMonkey)
 * [UIKit changes in iOS 9](http://www.jessesquires.com/UIKit-changes-in-iOS-9/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [No parameters](http://devetc.org/code/2015/10/14/no-parameters.html)
+* [Push / Pop modal SFSafariViewController](http://www.stringcode.co.uk/push-pop-modal-sfsafariviewcontroller-hacking-swipe-from-edge-gesture/), by [@stringcode](https://twitter.com/stringcode)
+* [CLANG WARN NULLABLE TO NONNULL CONVERSION](http://modocache.io/clang-warn-nullable-to-nonnull-conversion), by [@modocache](https://twitter.com/modocache)
+* [Decouple UI from Model with View Models and Controls](http://christiantietze.de/posts/2015/10/view-model-control/), by [@ctietze](https://twitter.com/ctietze)
 
 **Tools/Controls**
 
