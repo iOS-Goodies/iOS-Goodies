@@ -1,6 +1,7 @@
 **Articles**
 
 * [iOS Apps Caught Using Private APIs](https://sourcedna.com/blog/20151018/ios-apps-using-private-apis.html), by [@sourcedna](https://twitter.com/sourcedna)
+* [Advanced & Practical Enum usage in Swift](http://appventure.me/2015/10/17/advanced-practical-enum-examples/), by [@terhechte](https://twitter.com/terhechte)
 
 **Tools/Controls**
 
