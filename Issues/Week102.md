@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Why San Francisco](http://martiancraft.com/blog/2015/10/why-san-francisco/), by [Nick Keppol](https://twitter.com/nkeppol)
 
 
 **Goodies**
