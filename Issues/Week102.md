@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Cereal](https://github.com/Weebly/Cereal), by [@weebly](https://twitter.com/weebly)
+* [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh), by [Danil Gontovnik](https://github.com/gontovnik)
 
 **Business**
 
