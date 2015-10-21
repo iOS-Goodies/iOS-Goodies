@@ -9,6 +9,7 @@
 
 * [Cereal](https://github.com/Weebly/Cereal), by [@weebly](https://twitter.com/weebly)
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh), by [Danil Gontovnik](https://github.com/gontovnik)
+* [StarWars](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/), by [@yalantis](https://twitter.com/yalantis)
 
 **Business**
 
@@ -16,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Why San Francisco](http://martiancraft.com/blog/2015/10/why-san-francisco/), by [Nick Keppol](https://twitter.com/nkeppol)
 
 
 **Goodies**
