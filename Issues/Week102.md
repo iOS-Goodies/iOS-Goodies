@@ -15,7 +15,8 @@
 **Business**
 
 * [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html), by [@martinfowler](https://twitter.com/martinfowler)
-* [Habits of Effective Teams](http://blog.carbonfive.com/2015/10/20/habits-of-effective-teams/), by [@kelseybbrennan](https://twitter.com/kelseybbrennan), [@francessoong](https://twitter.com/francessoong) and []()
+* [Habits of Effective Teams](http://blog.carbonfive.com/2015/10/20/habits-of-effective-teams/), by [@kelseybbrennan](https://twitter.com/kelseybbrennan), [@francessoong](https://twitter.com/francessoong) and [@calexity](https://twitter.com/calexity)
+* [Best Practices for Scheduling Creative Teams](http://spin.atomicobject.com/2015/10/20/scheduling-creative-teams/), by [@mike_marsiglia](https://twitter.com/mike_marsiglia)
 * [7 Things Matt Damon Taught Me About Digital Disruption](http://macoscope.com/blog/7-things-matt-damon-taught-me-about-digital-disruption/), by [@pawelhalicki](https://twitter.com/pawelhalicki)
 
 **UI/UX**
