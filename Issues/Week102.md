@@ -28,6 +28,7 @@
 * [Exploring the Product Design of the Stripe Dashboard for iPhone](https://medium.com/swlh/exploring-the-product-design-of-the-stripe-dashboard-for-iphone-e54e14f3d87e#.ghx105nze), by [@michaelvillar](https://twitter.com/michaelvillar)
 * [My Design Challenge Week 2: The Page Scratcher App](https://medium.com/@ryan_d_lysaght/my-design-challenge-week-2-the-page-scratcher-app-ebf61985d586#.w5yvnsnab), by [@ryan_d_lysaght](https://twitter.com/ryan_d_lysaght)
 * [Why Metaphors Matter for App Designers](https://medium.com/strv-design/why-metaphors-matter-for-app-designers-2fb477854f66#.4w8fg8n88), by [@Mappletons](https://twitter.com/Mappletons)
+* [3 things poor interfaces and zombies have in common](https://medium.com/@gabelfisch/3-things-poor-interfaces-and-zombies-have-in-common-a0e9c36e5985#.l3mgsd2oo), by [@gabelfisch](https://twitter.com/gabelfisch)
 
 
 **Credits**
