@@ -20,6 +20,7 @@
 * [Best Practices for Scheduling Creative Teams](http://spin.atomicobject.com/2015/10/20/scheduling-creative-teams/), by [@mike_marsiglia](https://twitter.com/mike_marsiglia)
 * [7 Things Matt Damon Taught Me About Digital Disruption](http://macoscope.com/blog/7-things-matt-damon-taught-me-about-digital-disruption/), by [@pawelhalicki](https://twitter.com/pawelhalicki)
 * [How I Got My App Featured on Product Hunt, TechCrunch, and Business Insider](https://medium.com/@ga/when-bar-roulette-went-from-0-to-featured-on-product-hunt-techcrunch-and-business-insider-7f2865a68674#.cpquhwnby), by [@tylerswartz](https://twitter.com/tylerswartz)
+* [The mobile games market is an absolute mess, thanks to you](http://www.polygon.com/2015/10/19/9567017/the-mobile-games-market-is-an-absolute-mess-thanks-to-you), by Aksel Junkkila
 
 **UI/UX**
 
