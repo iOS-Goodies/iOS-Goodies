@@ -5,6 +5,7 @@
 * [Optional?](http://swift.ayaka.me/posts/2015/10/5/optional), by [Ayaka Nonaka](https://twitter.com/ayanonagon)
 * [Apple TV: A World Without Webviews](https://medium.com/bpxl-craft/apple-tv-a-world-without-webkit-5c428a64a6dd), by [@dlpasco](https://twitter.com/dlpasco)
 * [Interacting with the new Apple TV remote](http://www.marisibrothers.com/2015/10/interacting-with-new-apple-tv-remote.html), by [Luciano Marisi](http://www.twitter.com/lucianomarisi)
+* [Better Unit Testing with Swift](http://masilotti.com/better-swift-unit-testing/), by [@joemasilotti](https://twitter.com/joemasilotti)
 
 **Tools/Controls**
 
@@ -28,11 +29,6 @@
 * [Why Metaphors Matter for App Designers](https://medium.com/strv-design/why-metaphors-matter-for-app-designers-2fb477854f66#.4w8fg8n88), by [@Mappletons](https://twitter.com/Mappletons)
 
 
-**Goodies**
-
-* 
-
-
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc),
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [joemasilotti](https://github.com/joemasilotti)
