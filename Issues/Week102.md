@@ -18,10 +18,12 @@
 * [Habits of Effective Teams](http://blog.carbonfive.com/2015/10/20/habits-of-effective-teams/), by [@kelseybbrennan](https://twitter.com/kelseybbrennan), [@francessoong](https://twitter.com/francessoong) and [@calexity](https://twitter.com/calexity)
 * [Best Practices for Scheduling Creative Teams](http://spin.atomicobject.com/2015/10/20/scheduling-creative-teams/), by [@mike_marsiglia](https://twitter.com/mike_marsiglia)
 * [7 Things Matt Damon Taught Me About Digital Disruption](http://macoscope.com/blog/7-things-matt-damon-taught-me-about-digital-disruption/), by [@pawelhalicki](https://twitter.com/pawelhalicki)
+* [How I Got My App Featured on Product Hunt, TechCrunch, and Business Insider](https://medium.com/@ga/when-bar-roulette-went-from-0-to-featured-on-product-hunt-techcrunch-and-business-insider-7f2865a68674#.cpquhwnby), by [@tylerswartz](https://twitter.com/tylerswartz)
 
 **UI/UX**
 
 * [Why San Francisco](http://martiancraft.com/blog/2015/10/why-san-francisco/), by [Nick Keppol](https://twitter.com/nkeppol)
+* [Exploring the Product Design of the Stripe Dashboard for iPhone](https://medium.com/swlh/exploring-the-product-design-of-the-stripe-dashboard-for-iphone-e54e14f3d87e#.ghx105nze), by [@michaelvillar](https://twitter.com/michaelvillar)
 
 
 **Goodies**
