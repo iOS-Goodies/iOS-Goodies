@@ -8,6 +8,7 @@
 * [Libraries Used in the Top 100 iOS Apps](https://medium.com/@ryanolsonk/libraries-used-in-the-top-100-ios-apps-5b845ad927b7), by [@ryanolsonk](https://twitter.com/ryanolsonk)
 * [Generic Array of Int - what, why, how?](http://blog.krzyzanowskim.com/2015/10/07/generic-array-uint8/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [Lessons learned with 3D Touch](http://engineering.instagram.com/posts/465414923641286/lessons-learned-with-3D-touch), by [Ryan Nystrom](http://www.instagram.com/ryannystrom)
+* [Better Unit Testing with Swift](http://masilotti.com/better-swift-unit-testing/), by [@joemasilotti](https://twitter.com/joemasilotti)
 
 **Tools/Controls**
 
