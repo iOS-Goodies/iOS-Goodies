@@ -1,5 +1,7 @@
 **Articles**
 
+- [Is tvOS the Future of Apps?](https://realm.io/news/is-tvos-the-future-of-apps/), by [Adam Fish](https://twitter.com/adam_fish)
+ 
 **Tools/Controls**
 
 **Business**
