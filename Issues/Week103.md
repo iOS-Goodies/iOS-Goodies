@@ -12,6 +12,7 @@
 **Business**
 
 * [Turning the iPhone 6s Into a Digital Scale](https://medium.com/@warpling/turning-the-iphone-6s-into-a-digital-scale-f2197dc2b6e7#.9y397q7pv), by [@warpling](https://twitter.com/warpling)
+* [From product design to virtual reality](https://medium.com/@jmdenis/from-product-design-to-virtual-reality-be46fa793e9b#.l0fk1kkzl), by [@jm_denis](https://twitter.com/jm_denis)
 
 **UI/UX**
 
