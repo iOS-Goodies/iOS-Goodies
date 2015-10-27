@@ -11,6 +11,8 @@
 
 **Business**
 
+* [Turning the iPhone 6s Into a Digital Scale](https://medium.com/@warpling/turning-the-iphone-6s-into-a-digital-scale-f2197dc2b6e7#.9y397q7pv), by [@warpling](https://twitter.com/warpling)
+
 **UI/UX**
 
 **Videos**
