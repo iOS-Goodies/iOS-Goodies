@@ -6,6 +6,7 @@
 * [iOS Functional Testing with User Stories, UI Test and Local Server](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/), by [@bitwaker](https://twitter.com/bitwaker)
 * [Hello SIL](http://swiftc.io/post/132002781944/hello-sil), by [@kastiglione](https://twitter.com/kastiglione) and [@modocache](https://twitter.com/modocache)
 * [The Swift Reflection API and what you can do with it](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/), by [@terhechte](https://twitter.com/terhechte)
+* [iOS Functional Testing With User Stories, UI Test and Local Server](http://www.thinkandbuild.it/ios-functional-testing-with-user-stories-uitest-and-local-server/), by [@bitwaker](https://twitter.com/bitwaker)
 
 **Tools/Controls**
 
