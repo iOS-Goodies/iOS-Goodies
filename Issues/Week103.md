@@ -21,6 +21,8 @@
 
 **UI/UX**
 
+* [When Simplicity Isn’t the Answer — Designing for Vastly Different Audiences](https://medium.com/@ravenyu/when-simplicity-isn-t-the-answer-designing-for-vastly-different-audiences-aba249005d2d#.1twx1muo7), by [@ravenyu](https://twitter.com/ravenyu)
+
 **Videos**
 
 * [Library-Oriented Programming](https://www.youtube.com/watch?v=lqNUTW0F4bw), by [Justin Spahr-Summers](https://twitter.com/jspahrsummers)
