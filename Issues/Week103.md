@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [LiveGIFs](https://github.com/neonichu/LiveGIFs), by [@NeoNacho](https://twitter.com/NeoNacho)
+* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough), by [@ruipfcosta](https://twitter.com/ruipfcosta)
 
 **Business**
 
