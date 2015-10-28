@@ -7,6 +7,7 @@
 * [Hello SIL](http://swiftc.io/post/132002781944/hello-sil), by [@kastiglione](https://twitter.com/kastiglione) and [@modocache](https://twitter.com/modocache)
 * [The Swift Reflection API and what you can do with it](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/), by [@terhechte](https://twitter.com/terhechte)
 * [A Wishlist for Swift 3.0](https://realm.io/news/swift-3-wishlist/), by various via [@realm](https://twitter.com/realm)
+* [Fixing Bugs Driven By Tests in Swift](http://www.mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift/), by [@mokagio](https://twitter.com/mokagio)
 
 **Tools/Controls**
 
