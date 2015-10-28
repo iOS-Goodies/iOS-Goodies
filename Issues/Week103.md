@@ -20,6 +20,7 @@
 * [From product design to virtual reality](https://medium.com/@jmdenis/from-product-design-to-virtual-reality-be46fa793e9b#.l0fk1kkzl), by [@jm_denis](https://twitter.com/jm_denis)
 * [Engineers with Strong Soft-Skills (& Technical Ability) Build the Best Products](https://medium.com/@eventbrite/engineers-with-strong-soft-skills-technical-ability-build-the-best-products-ef7e4e6b850f#.86ms8jgwj), by [@albybarber](https://twitter.com/albybarber)
 * [How To Read a Client E-mail](https://deardesignstudent.com/how-to-read-a-client-e-mail-ea67e54171a0#.c1ghws4xi), by [@monteiro](https://twitter.com/monteiro)
+* [How I Quit My Job and Built My First App](https://medium.com/life-learning/how-i-quit-my-job-and-built-my-first-app-d2a2e1086f41#.vn1p0ych5), by [@robjama](https://twitter.com/robjama)
 
 **UI/UX**
 
