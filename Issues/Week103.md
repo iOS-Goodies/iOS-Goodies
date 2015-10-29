@@ -8,6 +8,7 @@
 * [The Swift Reflection API and what you can do with it](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/), by [@terhechte](https://twitter.com/terhechte)
 * [A Wishlist for Swift 3.0](https://realm.io/news/swift-3-wishlist/), by various via [@realm](https://twitter.com/realm)
 * [Fixing Bugs Driven By Tests in Swift](http://www.mokacoding.com/blog/fixing-bugs-driven-by-tests-in-swift/), by [@mokagio](https://twitter.com/mokagio)
+* [CloudKit: Introduction and let's build an app](http://szulctomasz.com/cloudkit-introduction-and-lets-build-an-app/), by [@tomkowz](https://twitter.com/tomkowz)
 
 **Tools/Controls**
 
@@ -35,4 +36,4 @@
 * [Library-Oriented Programming](https://www.youtube.com/watch?v=lqNUTW0F4bw), by [Justin Spahr-Summers](https://twitter.com/jspahrsummers)
 
 **Credits**
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa),
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [tomkowz](https://github.com/tomkowz)
