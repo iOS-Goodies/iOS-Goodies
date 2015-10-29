@@ -26,6 +26,7 @@
 
 * [When Simplicity Isn’t the Answer — Designing for Vastly Different Audiences](https://medium.com/@ravenyu/when-simplicity-isn-t-the-answer-designing-for-vastly-different-audiences-aba249005d2d#.1twx1muo7), by [@ravenyu](https://twitter.com/ravenyu)
 * [Developing Inspirato’s Search Tool](https://medium.com/bpxl-craft/developing-a-new-way-to-search-cf1a46d382df#.k80uw1tuk), by [@6Be](https://twitter.com/6Be)
+* [10 Things Pizza Can Teach You About Great User Experience](http://macoscope.com/blog/10-things-pizza-can-teach-you-about-great-user-experience/), by [@pawelhalicki](https://twitter.com/pawelhalicki)
 
 **Videos**
 
