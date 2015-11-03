@@ -9,6 +9,8 @@
 
 **Business**
 
+* [Developer tips: Getting app coverage that actually sells your app](http://theappfactor.com/developer-tips-getting-app-coverage-that-actually-sells-your-app/), by [Allyson Kazmucha](http://www.twitter.com/imuggle)
+
 
 **UI/UX**
 
