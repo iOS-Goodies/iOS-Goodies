@@ -1,5 +1,6 @@
 **Articles**
 
+* [What we learned from rewriting our robotic control software in Swift](http://www.sunsetlakesoftware.com/2015/11/03/what-we-learned-rewriting-our-robotic-control-software-swift), by [@bradlarson](https://twitter.com/bradlarson)
 * [iOS Apps Caught Using Private APIs](http://artsy.github.io/blog/2015/09/30/Work-Offline-More/), by [Orta Therox](https://twitter.com/orta)
 * [Favorite Explanations (Of Things That Made My Head Hurt)](http://swift.ayaka.me/posts/2015/10/27/favorite-explanations), by [Ayaka Nonaka](https://twitter.com/ayanonagon)
 * [Unwind Segues as an Alternative to Delegation](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html), by [Keith Harrison](https://twitter.com/kharrison)
@@ -26,3 +27,4 @@
 **Credits**
 
 * [mariusc](https://github.com/mariusc)
+
