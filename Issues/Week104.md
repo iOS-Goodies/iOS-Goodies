@@ -19,6 +19,7 @@
 * [How to nail your investor pitch and walk away with multiple term sheets](https://medium.com/swlh/how-to-nail-your-investor-pitch-and-walk-away-with-multiple-term-sheets-f9ada7d20909), by [@mitchellharper](https://twitter.com/mitchellharper)
 * [RECONSIDER](https://medium.com/@dhh/reconsider-41adf356857f), by [@dhh](https://twitter.com/dhh)
 * [6 iterations of an iOS math game. Making game is so hard!](https://medium.com/swlh/being-an-ios-developer-why-i-stopped-trying-to-do-design-852c5eb5b678#.cpakjcvh7), by [@thkeen](https://twitter.com/thkeen)
+* [Stop Worrying and Love Your Imposter Syndrome](http://blog.capwatkins.com/stop-worrying-and-love-your-imposter-syndrome/), by [@cap](https://twitter.com/cap)
 
 **UI/UX**
 
