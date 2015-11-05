@@ -5,6 +5,7 @@
 * [Favorite Explanations (Of Things That Made My Head Hurt)](http://swift.ayaka.me/posts/2015/10/27/favorite-explanations), by [Ayaka Nonaka](https://twitter.com/ayanonagon)
 * [Unwind Segues as an Alternative to Delegation](http://useyourloaf.com/blog/unwind-segues-as-an-alternative-to-delegation.html), by [Keith Harrison](https://twitter.com/kharrison)
 * [On-Demand Resources on tvOS](http://www.marisibrothers.com/2015/10/on-demand-resources-on-tvos.html) by [Luciano Marisi](http://www.twitter.com/lucianomarisi)
+* [A Lesson in Xcode Ghost & Third-Party Frameworks](https://possiblemobile.com/2015/11/a-lesson-in-xcode-ghost-third-party-frameworks/), by [@noir](https://twitter.com/noir)
 
 **Tools/Controls**
 
