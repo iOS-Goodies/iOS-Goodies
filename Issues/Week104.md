@@ -8,6 +8,7 @@
 * [A Lesson in Xcode Ghost & Third-Party Frameworks](https://possiblemobile.com/2015/11/a-lesson-in-xcode-ghost-third-party-frameworks/), by [@noir](https://twitter.com/noir)
 * [Shoot the Heap](http://www.russbishop.net/shoot-the-heap), by [@xenadu02](https://twitter.com/xenadu02)
 * [Thread Safety Basics on iOS/OS X](http://blog.parse.com/learn/thread-safety-basics-on-iosos-x/), by Richard Ross via [@ParseIt](https://twitter.com/ParseIt)
+* [Tutorial: Uberworks](http://ios-animations-by-emails.com/posts/2015-november), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
