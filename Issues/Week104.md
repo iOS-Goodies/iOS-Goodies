@@ -17,6 +17,7 @@
 
 * [Developer tips: Getting app coverage that actually sells your app](http://theappfactor.com/developer-tips-getting-app-coverage-that-actually-sells-your-app/), by [Allyson Kazmucha](http://www.twitter.com/imuggle)
 * [How to nail your investor pitch and walk away with multiple term sheets](https://medium.com/swlh/how-to-nail-your-investor-pitch-and-walk-away-with-multiple-term-sheets-f9ada7d20909), by [@mitchellharper](https://twitter.com/mitchellharper)
+* [RECONSIDER](https://medium.com/@dhh/reconsider-41adf356857f), by [@dhh](https://twitter.com/dhh)
 
 
 **UI/UX**
