@@ -21,6 +21,7 @@
 * [RECONSIDER](https://medium.com/@dhh/reconsider-41adf356857f), by [@dhh](https://twitter.com/dhh)
 * [6 iterations of an iOS math game. Making game is so hard!](https://medium.com/swlh/being-an-ios-developer-why-i-stopped-trying-to-do-design-852c5eb5b678#.cpakjcvh7), by [@thkeen](https://twitter.com/thkeen)
 * [Stop Worrying and Love Your Imposter Syndrome](http://blog.capwatkins.com/stop-worrying-and-love-your-imposter-syndrome/), by [@cap](https://twitter.com/cap)
+* [How Next Keyboard Became the Most Funded App on Kickstarter](https://medium.com/swlh/how-next-keyboard-became-the-most-funded-app-on-kickstarter-ada26c4384d1), by [@robjama](https://twitter.com/robjama)
 
 **UI/UX**
 
