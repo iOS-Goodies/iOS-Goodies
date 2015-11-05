@@ -43,5 +43,5 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc)
+* [mariusc](https://github.com/mariusc),  [rbarbosa](https://github.com/rbarbosa)
 
