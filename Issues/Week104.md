@@ -12,6 +12,7 @@
 
 **Tools/Controls**
 
+* [FixCode](https://github.com/neonichu/FixCode), by [@krausefx](https://twitter.com/krausefx)
 
 **Business**
 
