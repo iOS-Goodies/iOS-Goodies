@@ -15,6 +15,10 @@
 **UI/UX**
 
 
+**Videos**
+
+* [2015 LLVM Developers' Meeting](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ)
+
 **Credits**
 
 * [rbarbosa](https://github.com/rbarbosa)
