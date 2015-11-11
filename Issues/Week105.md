@@ -18,6 +18,7 @@
 
 **UI/UX**
 
+[Intro To Product Design](https://medium.com/hh-design/intro-to-product-design-c2dbbc7809d3), by [@Soengle](https://twitter.com/Soengle)
 
 **Videos**
 
