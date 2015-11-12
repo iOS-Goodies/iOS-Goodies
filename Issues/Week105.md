@@ -6,7 +6,8 @@
 * [Reference vs Value Types in Swift: Part 1/2](http://www.raywenderlich.com/112027/reference-value-types-in-swift-part-1), [Part 2/2](http://www.raywenderlich.com/112029/reference-value-types-in-swift-part-2), by [@ecerney](https://twitter.com/ecerney)
 * [Null Object Pattern in Swift](https://medium.com/swift-programming/null-object-pattern-in-swift-1b96e03b2756), by [@eofster](https://twitter.com/eofster)
 * [Storing your data on tvOS, part 2: CloudKit](http://www.marisibrothers.com/2015/11/storing-your-data-on-tvos-part-2.html), by [@nmarisi](http://www.twitter.com/nmarisi)
-*
+* [Deleted scenes from my Swift Summit talk](http://www.thomasvisser.me/2015/11/08/swiftsummit-execution-context/), by [@thomvis88](https://twitter.com/thomvis88)
+
 
 **Tools/Controls**
 
