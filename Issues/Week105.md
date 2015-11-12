@@ -21,7 +21,7 @@
 **UI/UX**
 
 * [Intro To Product Design](https://medium.com/hh-design/intro-to-product-design-c2dbbc7809d3), by [@Soengle](https://twitter.com/Soengle)
-* [Who’s Down — UX and design takeaways](https://medium.com/@adruck/who-s-down-ux-and-design-takeaways-435a0d37e870), by []()
+* [Who’s Down — UX and design takeaways](https://medium.com/@adruck/who-s-down-ux-and-design-takeaways-435a0d37e870), by [@adruck](https://twitter.com/adruck)
 
 **Videos**
 
