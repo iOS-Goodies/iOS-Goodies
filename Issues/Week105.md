@@ -13,8 +13,10 @@
 
 **Tools/Controls**
 
+* [Watchbuild](https://github.com/fastlane/watchbuild/), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Sideloading f.lux on iOS with Xcode 7](https://justgetflux.com/sideload/), by [@justgetflux](https://twitter.com/justgetflux)
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView), by [michaello](https://github.com/michaello)
+
 
 **Business**
 
