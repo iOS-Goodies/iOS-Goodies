@@ -8,6 +8,7 @@
 * [Storing your data on tvOS, part 2: CloudKit](http://www.marisibrothers.com/2015/11/storing-your-data-on-tvos-part-2.html), by [@nmarisi](http://www.twitter.com/nmarisi)
 * [Deleted scenes from my Swift Summit talk](http://www.thomasvisser.me/2015/11/08/swiftsummit-execution-context/), by [@thomvis88](https://twitter.com/thomvis88)
 * [Mixins over Inheritance](http://alisoftware.github.io/swift/protocol/2015/11/08/mixins-over-inheritance/), by [@aligatr](https://twitter.com/aligatr)
+* [Xcode Tips for the Savvy iOS Developer](http://savvyapps.com/blog/xcode-tips-for-the-savvy-ios-developer), by [@nhillyer](https://twitter.com/nhillyer)
 
 
 **Tools/Controls**
