@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-
+* [Sideloading f.lux on iOS with Xcode 7](https://justgetflux.com/sideload/), by [@justgetflux](https://twitter.com/justgetflux)
 
 **Business**
 
