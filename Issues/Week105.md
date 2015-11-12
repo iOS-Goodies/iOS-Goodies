@@ -27,6 +27,7 @@
 * [Who’s Down — UX and design takeaways](https://medium.com/@adruck/who-s-down-ux-and-design-takeaways-435a0d37e870), by [@adruck](https://twitter.com/adruck)
 * [Why you should want to be a user experience developer](https://boagworld.com/dev/why-you-should-want-to-be-a-user-experience-developer/), by [@boagworld](https://twitter.com/boagworld)
 * [If it’s not an iPhone, it’s not an iPhone - Designing for the Apple TV](https://medium.com/@MostlyCogent/if-it-s-not-an-iphone-it-s-not-an-iphone-abbbcb53b4e0), by [@MostlyCogent](https://twitter.com/MostlyCogent)
+* [The Nine States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85), by [@VinSpee](https://twitter.com/VinSpee)
 
 **Videos**
 
