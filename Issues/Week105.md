@@ -19,6 +19,7 @@
 
 * [Small is not a stepping stone](https://medium.com/@dhh/small-is-not-a-stepping-stone-dc381c5259ed), by [@dhh](https://twitter.com/dhh)
 * [Resist and Thrive](https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca), by [@ystrickler](https://twitter.com/ystrickler)
+* [A New Paradigm for the Hourly Workweek](https://medium.com/the-wtf-economy/a-new-paradigm-for-today-s-hourly-workweek-e7dc7980261f), by [@GleasonCarrie](https://twitter.com/GleasonCarrie)
 
 
 **UI/UX**
