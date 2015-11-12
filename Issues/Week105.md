@@ -15,6 +15,7 @@
 **Business**
 
 * [Small is not a stepping stone](https://medium.com/@dhh/small-is-not-a-stepping-stone-dc381c5259ed), by [@dhh](https://twitter.com/dhh)
+* [Resist and Thrive](https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca), by [@ystrickler](https://twitter.com/ystrickler)
 
 
 **UI/UX**
@@ -27,5 +28,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa)
-* [nmarisi](https://github.com/nmarisi)
+* [rbarbosa](https://github.com/rbarbosa), [nmarisi](https://github.com/nmarisi)
