@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Compass](https://github.com/hyperoslo/Compass), by [@hyperoslo](https://twitter.com/hyperoslo) 
 
 
 **Business**
