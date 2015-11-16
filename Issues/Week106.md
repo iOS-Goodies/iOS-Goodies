@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-* 
+* [Building Basecamp 3: Mobile Prototypes](https://signalvnoise.com/posts/3978-building-basecamp-3-mobile-prototypes), by [@jasonzimdars](https://twitter.com/jasonzimdars)
 
 **Videos**
 
