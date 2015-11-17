@@ -17,13 +17,9 @@
 
 * [Building Basecamp 3: Mobile Prototypes](https://signalvnoise.com/posts/3978-building-basecamp-3-mobile-prototypes), by [@jasonzimdars](https://twitter.com/jasonzimdars)
 
-**CI/DI**
-
-* [Build mobile cross-automation with Fastlane](http://www.whitesmith.co/blog/build-mobile-cross-automation-with-fastlane), by [@whitesmithco](https://twitter.com/whitesmithco)
-
 **Videos**
 
 * 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ricardopereiraw](https://github.com/ricardopereiraw), 
+* [rbarbosa](https://github.com/rbarbosa), 
