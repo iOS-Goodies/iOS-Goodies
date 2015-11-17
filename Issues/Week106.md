@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [ricardopereiraw](https://github.com/ricardopereiraw)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [ricardopereiraw](https://github.com/ricardopereiraw), [zenangst](https://github.com/zenangst)
