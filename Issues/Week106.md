@@ -20,6 +20,7 @@
 **UI/UX**
 
 * [Building Basecamp 3: Mobile Prototypes](https://signalvnoise.com/posts/3978-building-basecamp-3-mobile-prototypes), by [@jasonzimdars](https://twitter.com/jasonzimdars)
+* [What city planning can teach us about building stuff that solves real problems](https://medium.com/@benmeszaros/what-city-planning-can-teach-us-about-building-stuff-that-solves-real-problems-a5dd805a6834), by [@lungsoftheocean](https://twitter.com/lungsoftheocean)
 
 **Videos**
 
