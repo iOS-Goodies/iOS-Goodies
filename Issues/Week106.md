@@ -14,7 +14,7 @@
 
 **Business**
 
-* 
+* [A Developer’s Primer on Being a CEO (Lessons Learned, Part Two)](http://macoscope.com/blog/a-developers-primer-on-being-a-ceo-lessons-learned-part-two/), by [@zbigniew](https://twitter.com/zbigniew)
 
 
 **UI/UX**
