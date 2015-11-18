@@ -5,6 +5,7 @@
 * [Where "where" may be used?](http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/), by [Marcin Krzyzanowski](https://twitter.com/krzyzanowskim)
 * [Zero Dependencies](http://khanlou.com/2015/11/zero-dependencies/), by [Soroush Khanlou](https://twitter.com/khanlou)
 * [Build mobile cross-automation with Fastlane](http://www.whitesmith.co/blog/build-mobile-cross-automation-with-fastlane), by [@whitesmithco](https://twitter.com/whitesmithco)
+* [Dependency Injection in Swift](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab), by [@eofster](https://twitter.com/eofster)
 
 **Tools/Controls**
 
