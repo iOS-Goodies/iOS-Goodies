@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [ricardopereiraw](https://github.com/ricardopereiraw), [zenangst](https://github.com/zenangst)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [ricardopereiraw](https://github.com/ricardopereiraw), [zenangst](https://github.com/zenangst), [Ben-G](https://github.com/Ben-G)
