@@ -6,6 +6,7 @@
 * [Zero Dependencies](http://khanlou.com/2015/11/zero-dependencies/), by [Soroush Khanlou](https://twitter.com/khanlou)
 * [Build mobile cross-automation with Fastlane](http://www.whitesmith.co/blog/build-mobile-cross-automation-with-fastlane), by [@whitesmithco](https://twitter.com/whitesmithco)
 * [Dependency Injection in Swift](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab), by [@eofster](https://twitter.com/eofster)
+* [Convenient Error Handling in Swift](http://blog.benjamin-encz.de/convenient-error-handling-in-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Tools/Controls**
 
