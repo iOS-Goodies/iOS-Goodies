@@ -32,6 +32,9 @@
 
 *
 
+**Course**
+
+* [Swift Algorithms Classroom](https://github.com/gmertk/SwiftAlgorithmsClassroom)
 
 **Credits**
 
