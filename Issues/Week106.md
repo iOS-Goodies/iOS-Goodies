@@ -8,6 +8,7 @@
 * [Dependency Injection in Swift](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab), by [@eofster](https://twitter.com/eofster)
 * [Convenient Error Handling in Swift](http://blog.benjamin-encz.de/convenient-error-handling-in-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Lightweight reactive coding with Swift & VinceRP](https://blog.alltheflow.com/lightweight-reactive-coding-with-swift-and-vincerp/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
+* [Tips for Interface Builder](http://merowing.info/2015/11/tips-for-interface-builder/), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
