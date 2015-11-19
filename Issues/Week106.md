@@ -17,6 +17,7 @@
 **Business**
 
 * [A Developer’s Primer on Being a CEO (Lessons Learned, Part Two)](http://macoscope.com/blog/a-developers-primer-on-being-a-ceo-lessons-learned-part-two/), by [@zbigniew](https://twitter.com/zbigniew)
+* [Getting Your First Programming Job: Not as Hard as You Think](http://adzerk.com/blog/2015/11/getting-your-first-programming-job-not-as-hard-as-you-think/), by [@dave_yarwood](https://twitter.com/dave_yarwood)
 
 
 **UI/UX**
