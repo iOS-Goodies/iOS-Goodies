@@ -8,6 +8,7 @@
 * [Dependency Injection in Swift](https://medium.com/ios-os-x-development/dependency-injection-in-swift-a959c6eee0ab), by [@eofster](https://twitter.com/eofster)
 * [Convenient Error Handling in Swift](http://blog.benjamin-encz.de/convenient-error-handling-in-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Lightweight reactive coding with Swift & VinceRP](https://blog.alltheflow.com/lightweight-reactive-coding-with-swift-and-vincerp/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
+* [4 Xcode Asset Catalog secrets you need to know](http://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Tools/Controls**
 
