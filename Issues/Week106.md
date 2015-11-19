@@ -13,6 +13,8 @@
 **Tools/Controls**
 
 * [Compass](https://github.com/hyperoslo/Compass), by [@hyperoslo](https://twitter.com/hyperoslo) 
+* [SwiftAlgorithmsClassroom](https://github.com/gmertk/SwiftAlgorithmsClassroom), by [@gunaymertk](https://twitter.com/gunaymertk)
+
 
 
 **Business**
@@ -34,7 +36,6 @@
 
 *
 
-
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [ricardopereiraw](https://github.com/ricardopereiraw), [zenangst](https://github.com/zenangst), [Ben-G](https://github.com/Ben-G)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [ricardopereiraw](https://github.com/ricardopereiraw), [zenangst](https://github.com/zenangst), [Ben-G](https://github.com/Ben-G), [gmertk](https://github.com/gmertk)
