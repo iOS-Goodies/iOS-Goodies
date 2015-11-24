@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [IKRouter](https://github.com/IanKeen/IKRouter), by [@IanKeen](https://twitter.com/IanKay)
 
 
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), 
+* [rbarbosa](https://github.com/rbarbosa), [IanKeen](https://github.com/IanKeen)
