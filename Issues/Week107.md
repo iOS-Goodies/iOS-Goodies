@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [IanKeen](https://github.com/IanKeen)
+* [rbarbosa](https://github.com/rbarbosa), [IanKeen](https://github.com/IanKeen), [andreamazz](https://github.com/andreamazz)
