@@ -9,6 +9,7 @@
 * [Dangers of NeXTSTEP Plists](http://pewpewthespells.com/blog/dangers_of_ascii_plists.html), by [@Dirk_Gently](https://twitter.com/Dirk_Gently)
 * [Code at the end of the queue](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [iOS apps architecture with Swift in mind](https://medium.com/@DAloG/ios-apps-architecture-with-swift-in-mind-68c2329c5e97#.9az8wfe2k), [@DAlooG](https://twitter.com/DAlooG)
+* [When You Are Lazy to Rewrite Your Code but Want to Have Reactiveness](https://stanfy.com/blog/when-you-are-lazy-to-rewrite-your-code-but-want-to-have-reactiveness/), by [@TT_Kilew](https://twitter.com/TT_Kilew)
 
 **Tools/Controls**
 
