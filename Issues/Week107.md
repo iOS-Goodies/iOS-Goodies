@@ -11,6 +11,7 @@
 * [iOS apps architecture with Swift in mind](https://medium.com/@DAloG/ios-apps-architecture-with-swift-in-mind-68c2329c5e97#.9az8wfe2k), [@DAlooG](https://twitter.com/DAlooG)
 * [When You Are Lazy to Rewrite Your Code but Want to Have Reactiveness](https://stanfy.com/blog/when-you-are-lazy-to-rewrite-your-code-but-want-to-have-reactiveness/), by [@TT_Kilew](https://twitter.com/TT_Kilew)
 * [Components: taking a step back from Dependency Management](http://lowlevelbits.org/components-management/), by [@1101_debian](https://twitter.com/1101_debian)
+* [How Apple could improve Their Developer Tools](http://stanislaw.github.io/2015/11/20/how-apple-could-improve-their-developer-tools.html), by [@sbpankevich](https://twitter.com/sbpankevich)
 
 **Tools/Controls**
 
