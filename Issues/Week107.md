@@ -8,6 +8,7 @@
 * [iOS Unit Testing: Dependency Injection with Structs in Swift](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/), by [Natasha Murashev](https://twitter.com/natashatherobot)
 * [Dangers of NeXTSTEP Plists](http://pewpewthespells.com/blog/dangers_of_ascii_plists.html), by [@Dirk_Gently](https://twitter.com/Dirk_Gently)
 * [Code at the end of the queue](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [iOS apps architecture with Swift in mind](https://medium.com/@DAloG/ios-apps-architecture-with-swift-in-mind-68c2329c5e97#.9az8wfe2k), [@DAlooG](https://twitter.com/DAlooG)
 
 **Tools/Controls**
 
