@@ -13,6 +13,7 @@
 * [Components: taking a step back from Dependency Management](http://lowlevelbits.org/components-management/), by [@1101_debian](https://twitter.com/1101_debian)
 * [How Apple could improve Their Developer Tools](http://stanislaw.github.io/2015/11/20/how-apple-could-improve-their-developer-tools.html), by [@sbpankevich](https://twitter.com/sbpankevich)
 * [Apple Watch: Communication with iPhone](https://medium.com/@jackywangdeveloper/apple-watch-communication-with-iphone-af84d51ff810#.fpqcg8hks), by [@jackywang135](https://twitter.com/jackywang135)
+* [True Lazy Sequences](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/), by [@obqo](https://twitter.com/obqo)
 
 **Tools/Controls**
 
