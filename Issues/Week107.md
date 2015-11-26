@@ -20,6 +20,7 @@
 * [LLDB-Is-It-Not](https://github.com/alloy/LLDB-Is-It-Not), by [@alloy](https://twitter.com/alloy)
 * [Format](https://github.com/marmelroy/format), by [@marmelroy](https://twitter.com/marmelroy)
 * [Perfect](https://github.com/PerfectlySoft/Perfect), by [@perfectlysoft](https://twitter.com/perfectlysoft)
+* [mention-bot](https://github.com/facebook/mention-bot), by [@fbOpenSource](https://twitter.com/fbOpenSource)
 
 
 
