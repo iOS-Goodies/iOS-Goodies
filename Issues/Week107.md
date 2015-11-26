@@ -34,6 +34,7 @@
 **UI/UX**
 
 * [Design is a conversation](https://blog.intercom.io/design-is-a-conversation/), by [@thoughtwax](https://twitter.com/thoughtwax)
+* [ABC of Product Design. Part 1](http://tubikstudio.com/abc-of-product-design/) and [Part 2](http://tubikstudio.com/abc-of-product-design-part-2/), by [@myalanska](https://twitter.com/myalanska)
 
 
 **Videos**
