@@ -10,6 +10,7 @@
 * [Code at the end of the queue](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [iOS apps architecture with Swift in mind](https://medium.com/@DAloG/ios-apps-architecture-with-swift-in-mind-68c2329c5e97#.9az8wfe2k), [@DAlooG](https://twitter.com/DAlooG)
 * [When You Are Lazy to Rewrite Your Code but Want to Have Reactiveness](https://stanfy.com/blog/when-you-are-lazy-to-rewrite-your-code-but-want-to-have-reactiveness/), by [@TT_Kilew](https://twitter.com/TT_Kilew)
+* [Components: taking a step back from Dependency Management](http://lowlevelbits.org/components-management/), by [@1101_debian](https://twitter.com/1101_debian)
 
 **Tools/Controls**
 
@@ -21,7 +22,7 @@
 
 **Business**
 
-*
+* [How to Charge for your Open Source](http://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/), by [@mperham](https://twitter.com/mperham)
 
 
 **UI/UX**
