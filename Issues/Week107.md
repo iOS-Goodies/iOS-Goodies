@@ -33,7 +33,9 @@
 
 **UI/UX**
 
-* 
+* [Design is a conversation](https://blog.intercom.io/design-is-a-conversation/), by [@thoughtwax](https://twitter.com/thoughtwax)
+
+
 **Videos**
 
 *
