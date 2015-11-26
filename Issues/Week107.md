@@ -25,6 +25,7 @@
 **Business**
 
 * [How to Charge for your Open Source](http://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/), by [@mperham](https://twitter.com/mperham)
+* [The day I became a millionaire](https://medium.com/@dhh/the-day-i-became-a-millionaire-55d7dc4d8293#.1xef896nh), by [@dhh](https://twitter.com/dhh)
 
 
 **UI/UX**
