@@ -7,6 +7,7 @@
 * [Optimizing Facebook for iOS start time](https://code.facebook.com/posts/1675399786008080/optimizing-facebook-for-ios-start-time/), by [Natansh Verma](https://twitter.com/natansh)
 * [iOS Unit Testing: Dependency Injection with Structs in Swift](http://natashatherobot.com/ios-unit-testing-dependency-injection-with-structs-in-swift/), by [Natasha Murashev](https://twitter.com/natashatherobot)
 * [Dangers of NeXTSTEP Plists](http://pewpewthespells.com/blog/dangers_of_ascii_plists.html), by [@Dirk_Gently](https://twitter.com/Dirk_Gently)
+* [Code at the end of the queue](http://blog.krzyzanowskim.com/2015/11/25/code-at-the-end-of-the-queue/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **Tools/Controls**
 
