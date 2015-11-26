@@ -14,6 +14,7 @@
 * [How Apple could improve Their Developer Tools](http://stanislaw.github.io/2015/11/20/how-apple-could-improve-their-developer-tools.html), by [@sbpankevich](https://twitter.com/sbpankevich)
 * [Apple Watch: Communication with iPhone](https://medium.com/@jackywangdeveloper/apple-watch-communication-with-iphone-af84d51ff810#.fpqcg8hks), by [@jackywang135](https://twitter.com/jackywang135)
 * [True Lazy Sequences](http://www.obqo.de/blog/2015/11/25/true-lazy-sequences/), by [@obqo](https://twitter.com/obqo)
+* [Presentation Controllers and Adaptive Presentations](https://pspdfkit.com/blog/2015/presentation-controllers/), by [@qdoug](https://twitter.com/qdoug)
 
 **Tools/Controls**
 
@@ -51,4 +52,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [IanKeen](https://github.com/IanKeen), [andreamazz](https://github.com/andreamazz), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [IanKeen](https://github.com/IanKeen), [andreamazz](https://github.com/andreamazz), [mariusc](https://github.com/mariusc), [mluisbrown](https://github.com/mluisbrown)
