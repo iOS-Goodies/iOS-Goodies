@@ -31,6 +31,10 @@
 
 *
 
+**One more thing**
+
+* [What Can A Technologist Do About Climate Change? (A Personal View) ](http://worrydream.com/ClimateChange/), by [@worrydream](https://twitter.com/worrydream)
+
 **Credits**
 
 * [rbarbosa](https://github.com/rbarbosa), [IanKeen](https://github.com/IanKeen), [andreamazz](https://github.com/andreamazz), [mariusc](https://github.com/mariusc)
