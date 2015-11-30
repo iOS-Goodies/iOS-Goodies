@@ -1,6 +1,6 @@
 **Articles** 
 
-* 
+* [Schedulers](http://codeplease.io/2015/11/30/schedulers/), by [@RuiAAPeres](https://twitter.com/RuiAAPeres)
 
 **Tools/Controls**
 
@@ -25,5 +25,4 @@
 
 **Credits**
 
-* [andreamazz](https://github.com/andreamazz), 
-* [diegosanchezr](https://github.com/diegosanchezr)
+* [andreamazz](https://github.com/andreamazz), [diegosanchezr](https://github.com/diegosanchezr), [rbarbosa](https://github.com/rbarbosa),
