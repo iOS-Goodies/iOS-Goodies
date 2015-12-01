@@ -14,7 +14,7 @@
 
 **Business**
 
-* 
+* [Leaving the Mac App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store), by [@bohemiancoding](https://twitter.com/bohemiancoding)  
 
 **UI/UX**
 
@@ -26,7 +26,7 @@
 
 **One more thing**
 
-* [Leaving the Mac App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store), by [@bohemiancoding](https://twitter.com/bohemiancoding)  
+* 
 
 **Credits**
 
