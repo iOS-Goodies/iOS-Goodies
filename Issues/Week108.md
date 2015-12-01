@@ -5,11 +5,11 @@
 
 **Tools/Controls**
 
-* [Crayons](https://github.com/Sephiroth87/Crayons), by [Fabio Ritrovato](https://twitter.com/Sephiroth87)  
+* [Crayons](https://github.com/Sephiroth87/Crayons), by [@Sephiroth87](https://twitter.com/Sephiroth87)  
 * [Chatto](https://github.com/badoo/Chatto), by [@BadooTech](https://twitter.com/BadooTech)
-* [Swiftline](https://github.com/Swiftline/Swiftline), by [Omar Abdelhafith](https://twitter.com/ifnottrue)  
-* [LiquorImage](https://github.com/apleshkov/LiquorImage) by [Andrew Pleshkov](https://twitter.com/AndrewPleshkov)
-* [ImagePicker](https://github.com/hyperoslo/ImagePicker) by [Hyper Interaktiv](https://twitter.com/hyperoslo)
+* [Swiftline](https://github.com/Swiftline/Swiftline), by [@ifnottrue](https://twitter.com/ifnottrue)  
+* [LiquorImage](https://github.com/apleshkov/LiquorImage) by [@AndrewPleshkov](https://twitter.com/AndrewPleshkov)
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) by [@hyperoslo](https://twitter.com/hyperoslo)
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage), by Khaled Taha
 
 **Business**
@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-* [Selecting the optimal prototyping tool](https://medium.com/the-artificial/selecting-the-optimal-prototyping-tool-f60bc49aecf3), by [Carol Liao](https://twitter.com/thecarolizer)  
+* [Selecting the optimal prototyping tool](https://medium.com/the-artificial/selecting-the-optimal-prototyping-tool-f60bc49aecf3), by [@thecarolizer](https://twitter.com/thecarolizer)  
 
 **Videos**
 
