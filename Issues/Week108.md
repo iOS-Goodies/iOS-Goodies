@@ -10,6 +10,7 @@
 * [Swiftline](https://github.com/Swiftline/Swiftline), by [Omar Abdelhafith](https://twitter.com/ifnottrue)  
 * [LiquorImage](https://github.com/apleshkov/LiquorImage) by [Andrew Pleshkov](https://twitter.com/AndrewPleshkov)
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) by [Hyper Interaktiv](https://twitter.com/hyperoslo)
+* [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage), by Khaled Taha
 
 **Business**
 
