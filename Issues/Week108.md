@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) by [Hyper Interaktiv](https://twitter.com/hyperoslo)
 
 **Videos**
 
