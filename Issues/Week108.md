@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* [ImagePicker](https://github.com/hyperoslo/ImagePicker) by [Hyper Interaktiv](https://twitter.com/hyperoslo)
+* [Selecting the optimal prototyping tool](https://medium.com/the-artificial/selecting-the-optimal-prototyping-tool-f60bc49aecf3), by [Carol Liao](https://twitter.com/thecarolizer)  
 
 **Videos**
 
