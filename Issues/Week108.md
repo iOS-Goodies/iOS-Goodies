@@ -1,6 +1,7 @@
 **Articles** 
 
 * [Schedulers](http://codeplease.io/2015/11/30/schedulers/), by [@RuiAAPeres](https://twitter.com/RuiAAPeres)
+* [How to use LLVM API with Swift](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/), by [@1101_debian](https://twitter.com/1101_debian)
 
 **Tools/Controls**
 
