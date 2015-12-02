@@ -6,6 +6,7 @@
 * [Safer UIViewController Creation When Using Storyboards](https://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-when-using-storyboards-1915ac2b2c80#.ejpmy4khq), by [@eofster](https://twitter.com/eofster)
 * [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47#.3kje2rh4j), by [@nickoneill](https://twitter.com/nickoneill)
 * [Classes And Structs](http://swift.ayaka.me/posts/2015/11/30/classes-and-structs), by [@ayanonagon](https://twitter.com/ayanonagon)
+* [Debugging Core Animation on OS X](http://jwilling.com/blog/debugging-core-animation-on-osx/), by [@willing](https://twitter.com/willing)
 
 **Tools/Controls**
 
