@@ -15,6 +15,7 @@
 **Business**
 
 * [Leaving the Mac App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store), by [@bohemiancoding](https://twitter.com/bohemiancoding)  
+* [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), by [@firstround](https://twitter.com/firstround)
 
 **UI/UX**
 
