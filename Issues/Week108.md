@@ -2,6 +2,9 @@
 
 * [Schedulers](http://codeplease.io/2015/11/30/schedulers/), by [@RuiAAPeres](https://twitter.com/RuiAAPeres)
 * [How to use LLVM API with Swift](http://lowlevelbits.org/how-to-use-llvm-api-with-swift/), by [@1101_debian](https://twitter.com/1101_debian)
+* [Using Mapper to parse JSON in Swift](https://eng.lyft.com/using-mapper-to-parse-json-in-swift-7788d5c57d74#.1hyqh98qi), by [@SmileyKeith](https://twitter.com/SmileyKeith)
+* [Safer UIViewController Creation When Using Storyboards](https://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-when-using-storyboards-1915ac2b2c80#.ejpmy4khq), by [@eofster](https://twitter.com/eofster)
+* [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47#.3kje2rh4j), by [@nickoneill](https://twitter.com/nickoneill)
 
 **Tools/Controls**
 
@@ -11,11 +14,14 @@
 * [LiquorImage](https://github.com/apleshkov/LiquorImage) by [@AndrewPleshkov](https://twitter.com/AndrewPleshkov)
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) by [@hyperoslo](https://twitter.com/hyperoslo)
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage), by Khaled Taha
+* [mapper](https://github.com/lyft/mapper), by [@Lyft](https://twitter.com/Lyft)
+* [Pantry](https://github.com/nickoneill/Pantry), by [@nickoneill](https://twitter.com/nickoneill)
 
 **Business**
 
 * [Leaving the Mac App Store](http://blog.sketchapp.com/post/134322691555/leaving-the-mac-app-store), by [@bohemiancoding](https://twitter.com/bohemiancoding)  
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), by [@firstround](https://twitter.com/firstround)
+* [How Much Does It Cost to Develop a Messaging App Like WhatsApp?](https://yalantis.com/blog/cost-of-mobile-messaging-app-development-types-kpis-landscape-recommended-approach-and-cost-of-development/), by [@yalantis](https://twitter.com/yalantis)
 
 **UI/UX**
 
