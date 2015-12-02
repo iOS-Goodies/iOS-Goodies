@@ -5,6 +5,7 @@
 * [Using Mapper to parse JSON in Swift](https://eng.lyft.com/using-mapper-to-parse-json-in-swift-7788d5c57d74#.1hyqh98qi), by [@SmileyKeith](https://twitter.com/SmileyKeith)
 * [Safer UIViewController Creation When Using Storyboards](https://medium.com/ios-os-x-development/safer-uiviewcontroller-creation-when-using-storyboards-1915ac2b2c80#.ejpmy4khq), by [@eofster](https://twitter.com/eofster)
 * [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47#.3kje2rh4j), by [@nickoneill](https://twitter.com/nickoneill)
+* [Classes And Structs](http://swift.ayaka.me/posts/2015/11/30/classes-and-structs), by [Ayaka Nonaka](https://twitter.com/ayanonagon)
 
 **Tools/Controls**
 
@@ -29,12 +30,12 @@
 
 **Videos**
 
-*
-
+* [Swift and C](https://realm.io/news/pragma-chris-eidhof-swift-c/), by [Chris Eidhof](https://twitter.com/chriseidhof)
+* [Library-Oriented Programming](https://realm.io/news/justin-spahr-summers-library-oriented-programming/), by [Justin Spahr-Summers](http://twitter.com/jspahrsummers)
 **One more thing**
 
 * 
 
 **Credits**
 
-* [andreamazz](https://github.com/andreamazz), [diegosanchezr](https://github.com/diegosanchezr), [rbarbosa](https://github.com/rbarbosa),
+* [andreamazz](https://github.com/andreamazz), [diegosanchezr](https://github.com/diegosanchezr), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
