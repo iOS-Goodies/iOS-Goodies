@@ -32,6 +32,7 @@
 
 * [Swift and C](https://realm.io/news/pragma-chris-eidhof-swift-c/), by [Chris Eidhof](https://twitter.com/chriseidhof)
 * [Library-Oriented Programming](https://realm.io/news/justin-spahr-summers-library-oriented-programming/), by [Justin Spahr-Summers](http://twitter.com/jspahrsummers)
+
 **One more thing**
 
 * 
