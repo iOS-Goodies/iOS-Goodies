@@ -7,7 +7,7 @@
 * [The Missing Light Persistence Layer for Swift](https://medium.com/ios-os-x-development/the-missing-light-persistence-layer-for-swift-35ce75d02d47#.3kje2rh4j), by [@nickoneill](https://twitter.com/nickoneill)
 * [Classes And Structs](http://swift.ayaka.me/posts/2015/11/30/classes-and-structs), by [@ayanonagon](https://twitter.com/ayanonagon)
 * [Debugging Core Animation on OS X](http://jwilling.com/blog/debugging-core-animation-on-osx/), by [@willing](https://twitter.com/willing)
-* [How to Detect Whether an Application Is Running Inside a UI Test Environment](http://macoscope.com/blog/author/lukaszk/), [@Szakulus](https://twitter.com/Szakulus)
+* [How to Detect Whether an Application Is Running Inside a UI Test Environment](http://macoscope.com/blog/how-to-detect-whether-an-application-is-running-inside-a-ui-test-environment/#main), [@Szakulus](https://twitter.com/Szakulus)
 
 **Tools/Controls**
 
