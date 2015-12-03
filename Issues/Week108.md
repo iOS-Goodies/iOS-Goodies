@@ -33,6 +33,7 @@
 * [Selecting the optimal prototyping tool](https://medium.com/the-artificial/selecting-the-optimal-prototyping-tool-f60bc49aecf3), by [@thecarolizer](https://twitter.com/thecarolizer)  
 * [Menu Design: Checklist of 15 UX Guidelines to Help Users](http://www.nngroup.com/articles/menu-design/), by [@kwhitenton](https://twitter.com/kwhitenton)
 * [A behavioral approach to product design](https://medium.com/@aaronotani/a-behavioral-approach-to-product-design-166d22628970#.5ieqxzqw6), by [@aaronotani](https://twitter.com/aaronotani)
+* [Prototyping with Marvel and Sketch: Part 1](https://medium.com/sketch-app-sources/prototyping-with-marvel-and-sketch-part-1-of-2-e2f828141171#.jbe83im94) and [Part 2](https://medium.com/@marcandrew/prototyping-with-marvel-and-sketch-part-2-of-2-b78c0e1c2f0#.2mc82svo1) , by [@themmed](https://twitter.com/themmed)
 
 **Videos**
 
