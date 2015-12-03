@@ -30,6 +30,7 @@
 **UI/UX**
 
 * [Selecting the optimal prototyping tool](https://medium.com/the-artificial/selecting-the-optimal-prototyping-tool-f60bc49aecf3), by [@thecarolizer](https://twitter.com/thecarolizer)  
+* [Menu Design: Checklist of 15 UX Guidelines to Help Users](http://www.nngroup.com/articles/menu-design/), by [@kwhitenton](https://twitter.com/kwhitenton)
 
 **Videos**
 
