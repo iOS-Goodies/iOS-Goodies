@@ -26,6 +26,7 @@
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/), by [@firstround](https://twitter.com/firstround)
 * [How Much Does It Cost to Develop a Messaging App Like WhatsApp?](https://yalantis.com/blog/cost-of-mobile-messaging-app-development-types-kpis-landscape-recommended-approach-and-cost-of-development/), by [@yalantis](https://twitter.com/yalantis)
 * [Open Source Plagiarism](http://www.observationalhazard.com/2015/12/open-source-plagiarism.html), by [@davekopec](https://twitter.com/davekopec)
+* [Clients Don’t Care How You Do Your Work](http://thenuschool.com/clients-dont-care-how-you-do-your-work/), by [@marisamorby](https://twitter.com/marisamorby)
 
 **UI/UX**
 
