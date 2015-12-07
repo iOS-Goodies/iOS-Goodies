@@ -1,6 +1,6 @@
 **Articles** 
 
-* 
+* [Help Yourself to Some Swift](http://bandes-stor.ch/blog/2015/11/28/help-yourself-to-some-swift/), [@jtbandes](https://twitter.com/jtbandes)
 
 **Tools/Controls**
 
