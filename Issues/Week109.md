@@ -9,7 +9,7 @@
 
 **Business**
 
-* (What Xooglers Should Know When Entering the Startup World)[https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d#.5l8yncwt8], by (@andybons)[https://twitter.com/andybons]
+* [What Xooglers Should Know When Entering the Startup World](https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d#.5l8yncwt8), by [@andybons](https://twitter.com/andybons)
 
 **UI/UX**
 
