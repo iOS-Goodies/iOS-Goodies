@@ -17,7 +17,7 @@
 
 **Videos**
 
-* 
+* [Automating Your Daily iOS Developer Tasks](https://realm.io/news/felix-krause-fastlane-automating-ios-tasks/), by [@krausefx](https://twitter.com/krausefx)
 
 **One more thing**
 
