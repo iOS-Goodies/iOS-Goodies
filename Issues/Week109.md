@@ -1,11 +1,15 @@
 **Articles** 
 
 * [Help Yourself to Some Swift](http://bandes-stor.ch/blog/2015/11/28/help-yourself-to-some-swift/), [@jtbandes](https://twitter.com/jtbandes)
+* [Upgrading to RxSwift](http://artsy.github.io/blog/2015/12/08/reactive-cocoa-to-rxswift/), by [@ashfurrow](https://twitter.com/ashfurrow)
+* [How to Dereference an Unsafe Mutable Pointer in Swift](http://useyourloaf.com/blog/how-to-dereference-an-unsafe-mutable-pointer-in-swift.html), by [@kharrison](https://twitter.com/kharrison)
+* [Generic Protocols and Their Shortcomings](http://krakendev.io/blog/generic-protocols-and-their-shortcomings), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Tools/Controls**
 
 * [Erik](https://github.com/phimage/Erik), by [phimage](https://github.com/phimage)  
 * [ImageViewer](https://github.com/MailOnline/ImageViewer), by [@MailOnline](https://twitter.com/MailOnline)
+* [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole), by [@merowing_](https://twitter.com/merowing_)
 
 **Business**
 
@@ -25,4 +29,4 @@
 
 **Credits**
 
-* [andreamazz](https://github.com/andreamazz),  [rbarbosa](https://github.com/rbarbosa),  
+* [andreamazz](https://github.com/andreamazz),  [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
