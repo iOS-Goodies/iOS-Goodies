@@ -12,7 +12,8 @@
 
 * [Erik](https://github.com/phimage/Erik), by [phimage](https://github.com/phimage)  
 * [ImageViewer](https://github.com/MailOnline/ImageViewer), by [@MailOnline](https://twitter.com/MailOnline)
-* [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole), by [@merowing_](https://twitter.com/merowing_)
+* [KZLinkedConsole](https://github.com/krzysztofzablocki/KZLinkedConsole), by [@merowing_](https://twitter.com/merowing_)  
+* [Laurine](https://github.com/JiriTrecak/Laurine), by [@JiriTrecak](https://twitter.com/@JiriTrecak)  
 
 **Business**
 
