@@ -4,7 +4,8 @@
 * [Upgrading to RxSwift](http://artsy.github.io/blog/2015/12/08/reactive-cocoa-to-rxswift/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [How to Dereference an Unsafe Mutable Pointer in Swift](http://useyourloaf.com/blog/how-to-dereference-an-unsafe-mutable-pointer-in-swift.html), by [@kharrison](https://twitter.com/kharrison)
 * [Generic Protocols and Their Shortcomings](http://krakendev.io/blog/generic-protocols-and-their-shortcomings), by [@allonsykraken](https://twitter.com/allonsykraken)
-* [Writing Xcode plugin in Swift](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/), by [@merowing_](https://twitter.com/merowing_)
+* [Writing Xcode plugin in Swift](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/), by [@merowing_](https://twitter.com/merowing\_)
+* [Help Yourself to Some Swift](http://bandes-stor.ch/blog/2015/11/28/help-yourself-to-some-swift/), by [jtbandes](https://twitter.com/jtbandes)
 
 **Tools/Controls**
 
