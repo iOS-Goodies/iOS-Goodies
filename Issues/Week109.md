@@ -19,6 +19,7 @@
 
 * [What Xooglers Should Know When Entering the Startup World](https://medium.com/@andybons/what-xooglers-should-know-when-entering-the-startup-world-eac0c59f804d#.5l8yncwt8), by [@andybons](https://twitter.com/andybons)
 * [16 lessons on scaling from Eric Schmidt, Reid Hoffman, Marissa Mayer, Brian Chesky, Diane Greene, Jeff Weiner, and more](https://medium.com/notes-essays-cs183c-technology-enabled-blitzscalin/16-lessons-on-scaling-from-eric-schmidt-reid-hoffman-marissa-mayer-brian-chesky-diane-greene-3d6367e63a42#.1vkyzbqpj), by [@mccannatron](https://twitter.com/mccannatron)
+* [Mobile Commerce: Why Great Mobile UX Can't Be Ignored Anymore](https://www.shopify.com/enterprise/54333251-mobile-commerce-why-great-mobile-ux-cant-be-ignored-anymore), by [@therunningstart](https://twitter.com/therunningstart)
 
 **UI/UX**
 
