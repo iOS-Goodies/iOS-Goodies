@@ -6,6 +6,7 @@
 * [Generic Protocols and Their Shortcomings](http://krakendev.io/blog/generic-protocols-and-their-shortcomings), by [@allonsykraken](https://twitter.com/allonsykraken)
 * [Writing Xcode plugin in Swift](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/), by [@merowing_](https://twitter.com/merowing\_)
 * [Help Yourself to Some Swift](http://bandes-stor.ch/blog/2015/11/28/help-yourself-to-some-swift/), by [jtbandes](https://twitter.com/jtbandes)
+* [Higher-order functions in Swift](http://ijoshsmith.com/2015/12/09/higher-order-functions-in-swift/), by [@bach4life](https://twitter.com/bach4life)
 
 **Tools/Controls**
 
