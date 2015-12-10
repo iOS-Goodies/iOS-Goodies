@@ -24,6 +24,7 @@
 
 * [Why UX Designers Don’t Need More UX Design Tools](https://medium.com/@HelloAlexIvanov/why-ux-designers-don-t-need-more-ux-design-tools-2e2db797955e#.vdx76xyhu), by [@HelloAlexIvanov](https://twitter.com/HelloAlexIvanov)
 * [Pancake — The design adventure](https://medium.com/@rudyrosciglione/pancake-the-design-adventure-28ae01e4ab37#.957d17g7n), by [@rudyrosciglione](https://twitter.com/rudyrosciglione)
+* [Good Design](https://medium.com/the-year-of-the-looking-glass/good-design-a89c15136ba6#.2q39kisjq), by [@joulee](https://twitter.com/joulee)
 
 **Videos**
 
