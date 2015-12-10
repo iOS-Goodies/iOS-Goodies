@@ -21,7 +21,7 @@
 
 **UI/UX**
 
-* 
+* [Why UX Designers Don’t Need More UX Design Tools](https://medium.com/@HelloAlexIvanov/why-ux-designers-don-t-need-more-ux-design-tools-2e2db797955e#.vdx76xyhu), by [@HelloAlexIvanov](https://twitter.com/HelloAlexIvanov)
 
 **Videos**
 
