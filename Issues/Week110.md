@@ -12,6 +12,7 @@
 **Tools/Controls**
 
 * [match](https://krausefx.com/blog/introducing-match-a-new-approach-to-code-signing), by [@krausefx](https://twitter.com/@krausefx)
+* [SwiftyBeaver](https://github.com/skreutzberger/SwiftyBeaver), by [@skreutzb](https://twitter.com/skreutzb)
 
 **Business**
 
