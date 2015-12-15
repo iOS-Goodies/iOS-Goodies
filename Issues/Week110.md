@@ -32,4 +32,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
+* [rbarbosa](https://github.com/rbarbosa), [DarthMike](https://github.com/DarthMike), 
