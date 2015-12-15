@@ -8,6 +8,7 @@
 * [When (not) to use guard](http://radex.io/swift/guard/), by [@radexp](https://twitter.com/radexp)
 * [Transitioning iOS versions](http://www.miqu.me/blog/2015/12/14/transitioning-ios-versions/), by [@miguelquinon](https://twitter.com/miguelquinon)
 * [A Structy Model Layer](http://khanlou.com/2015/12/a-structy-model-layer/), by [@khanlou](https://twitter.com/khanlou)
+* [Interesting discussions on Swift Evolution](http://ericasadun.com/2015/12/15/interesting-discussions-on-swift-evolution/), by [@ericasadun](https://twitter.com/ericasadun)
 
 **Tools/Controls**
 
