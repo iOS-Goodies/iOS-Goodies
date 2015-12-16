@@ -27,6 +27,7 @@
 
 **UI/UX**
 
+* [Interface Animation. The Force of Motion](http://tubikstudio.com/interface-animation-the-force-of-motion/), by [@MYalanska](https://twitter.com/MYalanska)
 
 
 **Videos**
