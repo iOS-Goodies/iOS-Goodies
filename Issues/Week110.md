@@ -23,6 +23,7 @@
 * [If you don't have time to read this... read it twice](http://www.fastcompany.com/3054571/work-smart/the-better-time-management-strategy-this-googler-taught-his-coworkers), by [@jeremiahdillon](https://twitter.com/jeremiahdillon)
 * [2015 income roundup](http://spencerpieters.typed.com/blog/2015-income-roundup), by [@spencerpieters](https://twitter.com/spencerpieters)
 * [Why Does Programming Suck?](https://medium.com/@luisobo/why-does-programming-suck-6b253ebfc607#.he26lts8p), by [@luisobo](https://twitter.com/luisobo)
+* [How Product Hunt really works](https://medium.com/@benjiwheeler/how-product-hunt-really-works-d8fdcda1da74#.v3kqfbkoq), by [@benjiwheeler](https://twitter.com/benjiwheeler)
 
 
 **UI/UX**
