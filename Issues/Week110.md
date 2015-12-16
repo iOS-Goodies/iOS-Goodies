@@ -14,6 +14,7 @@
 
 * [match](https://krausefx.com/blog/introducing-match-a-new-approach-to-code-signing), by [@krausefx](https://twitter.com/@krausefx)
 * [SwiftyBeaver](https://github.com/skreutzberger/SwiftyBeaver), by [@skreutzb](https://twitter.com/skreutzb)
+* [Swift Version Manager](https://github.com/kylef/swiftenv), by [@kylefuller](https://twitter.com/kylefuller)  
 
 **Business**
 
@@ -37,4 +38,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [DarthMike](https://github.com/DarthMike), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [DarthMike](https://github.com/DarthMike), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc), [andreamazz](https://github.com/andreamazz) 
