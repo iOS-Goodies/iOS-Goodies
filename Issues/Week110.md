@@ -10,6 +10,7 @@
 * [A Structy Model Layer](http://khanlou.com/2015/12/a-structy-model-layer/), by [@khanlou](https://twitter.com/khanlou)
 * [Interesting discussions on Swift Evolution](http://ericasadun.com/2015/12/15/interesting-discussions-on-swift-evolution/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Automating TestFlight Deploys using Fastlane](http://artsy.github.io/blog/2015/12/15/Automating-Testflight-Deploys/), by [@orta](https://twitter.com/orta)
+* [Details matter - harnessing the power of Core Animation](http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation/), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
@@ -32,7 +33,7 @@
 **Videos**
 
 * [*-Oriented Programming](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/), by [@iwasleeg](https://twitter.com/iwasleeg)
-
+* [Functional Swift Conference Videos](http://2015.funswiftconf.com/)
 
 **One more thing**
 
