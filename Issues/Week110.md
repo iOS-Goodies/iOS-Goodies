@@ -11,6 +11,7 @@
 * [Interesting discussions on Swift Evolution](http://ericasadun.com/2015/12/15/interesting-discussions-on-swift-evolution/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Automating TestFlight Deploys using Fastlane](http://artsy.github.io/blog/2015/12/15/Automating-Testflight-Deploys/), by [@orta](https://twitter.com/orta)
 * [Details matter - harnessing the power of Core Animation](http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation/), by [@merowing_](https://twitter.com/merowing_)
+* [MVVM is Not Very Good](http://khanlou.com/2015/12/mvvm-is-not-very-good/), by [@khanlou](https://twitter.com/khanlou) 
 
 **Tools/Controls**
 
