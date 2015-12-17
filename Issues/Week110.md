@@ -25,6 +25,7 @@
 * [2015 income roundup](http://spencerpieters.typed.com/blog/2015-income-roundup), by [@spencerpieters](https://twitter.com/spencerpieters)
 * [Why Does Programming Suck?](https://medium.com/@luisobo/why-does-programming-suck-6b253ebfc607#.he26lts8p), by [@luisobo](https://twitter.com/luisobo)
 * [How Product Hunt really works](https://medium.com/@benjiwheeler/how-product-hunt-really-works-d8fdcda1da74#.v3kqfbkoq), by [@benjiwheeler](https://twitter.com/benjiwheeler)
+* [How did I lose my own startup](https://medium.com/@gyoridavid/how-did-i-lose-my-own-startup-d0b16221d968#.fqiizghm3), by [@gyoridavid](https://twitter.com/@gyoridavid)
 
 
 **UI/UX**
