@@ -38,6 +38,7 @@
 
 * [*Oriented Programming](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/), by [@iwasleeg](https://twitter.com/iwasleeg)
 * [Functional Swift Conference Videos](http://2015.funswiftconf.com/)
+* [Developing Killer Apple Watch Apps](https://realm.io/news/gotocph-wei-meng-lee-killer-apple-watch-apps/), by [@weimenglee](https://twitter.com/weimenglee)
 
 **One more thing**
 
