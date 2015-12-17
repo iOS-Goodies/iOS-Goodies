@@ -17,6 +17,7 @@
 * [match](https://krausefx.com/blog/introducing-match-a-new-approach-to-code-signing), by [@krausefx](https://twitter.com/@krausefx)
 * [SwiftyBeaver](https://github.com/skreutzberger/SwiftyBeaver), by [@skreutzb](https://twitter.com/skreutzb)
 * [Swift Version Manager](https://github.com/kylef/swiftenv), by [@kylefuller](https://twitter.com/kylefuller)  
+* [GBKUIButtonProgressView](https://github.com/Guidebook/gbkui-button-progress-view), by Mike Sprague
 
 **Business**
 
