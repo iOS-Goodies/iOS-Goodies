@@ -31,11 +31,12 @@
 
 * [Interface Animation. The Force of Motion](http://tubikstudio.com/interface-animation-the-force-of-motion/), by [@MYalanska](https://twitter.com/MYalanska)
 * [Designing Facebook Collage](https://medium.com/facebook-design/designing-facebook-collage-304436764ca8#.hw847keah), by [@ChrisTauziet](https://twitter.com/ChrisTauziet)
+* [8 Things My Mom Taught Me About UX](https://www.shopify.com/partners/blog/81728966-8-things-my-mom-taught-me-about-ux), by [@richlitt](https://twitter.com/richlitt)
 
 
 **Videos**
 
-* [*-Oriented Programming](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/), by [@iwasleeg](https://twitter.com/iwasleeg)
+* [*Oriented Programming](https://realm.io/news/pragma-graham-lee-oriented-programming-paradigms/), by [@iwasleeg](https://twitter.com/iwasleeg)
 * [Functional Swift Conference Videos](http://2015.funswiftconf.com/)
 
 **One more thing**
