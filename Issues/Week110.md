@@ -18,6 +18,7 @@
 * [SwiftyBeaver](https://github.com/skreutzberger/SwiftyBeaver), by [@skreutzb](https://twitter.com/skreutzb)
 * [Swift Version Manager](https://github.com/kylef/swiftenv), by [@kylefuller](https://twitter.com/kylefuller)  
 * [GBKUIButtonProgressView](https://github.com/Guidebook/gbkui-button-progress-view), by Mike Sprague
+* [Whipser - Break the silence of your UI, whispering, shouting or whistling at it](https://github.com/hyperoslo/Whisper), by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Business**
 
@@ -47,4 +48,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [DarthMike](https://github.com/DarthMike), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc), [andreamazz](https://github.com/andreamazz) 
+* [rbarbosa](https://github.com/rbarbosa), [DarthMike](https://github.com/DarthMike), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc), [andreamazz](https://github.com/andreamazz), [zenangst](https://github.com/zenangst)
