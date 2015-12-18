@@ -1,11 +1,13 @@
 #iOS Goodies
 
+[![Join the chat at https://gitter.im/iOS-Goodies/iOS-Goodies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iOS-Goodies/iOS-Goodies?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ###Why open sourcing?
 
 From the very beginning our purpose was simple: create the best iOS newsletter. This, of course, is only possible by what the community gives us back. So, let me start by saying thank you, for all the great content that you have provided us. So, this begs the question: why open sourcing and why now? 
 
-For some months now, [me](https://twitter.com/RuiAAPeres) and [Tiago](https://twitter.com/_tiagoalmeida), have been pondering about how can we improve the newsletter. We started with the following question: How can we be sure that we don't miss any content from this excelent iOS community? Although we cover a lot of what's going on, there always some bits that we miss, either because we don't spend enough time searching (you have no idea how much is going on each week), or because the author is simply a John Doe. Both issues are fundamentally related to the same problem: we are only two guys with a limited amount of time. So Open Sourcing iOS Goodies will put it where we want it to be:
+For some months now, [me](https://twitter.com/RuiAAPeres) and [Tiago](https://twitter.com/_tiagoalmeida), have been pondering about how can we improve the newsletter. We started with the following question: How can we be sure that we don't miss any content from this excellent iOS community? Although we cover a lot of what's going on, there always some bits that we miss, either because we don't spend enough time searching (you have no idea how much is going on each week), or because the author is simply a John Doe. Both problems are fundamentally the same: we are only two guys with a limited amount of time. So Open Sourcing iOS Goodies will put it where we want it to be:
 
 * Give the John and Jane Does the opportunity to show off their work.
 * Present the best content to the average busy person, that doesn't have enough time to search the web.
