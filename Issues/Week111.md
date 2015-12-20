@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Tailor - A super fast & convenient object mapper tailored for your needs](https://github.com/zenangst/Tailor), by [@zenangst](https://twitter.com/zenangst)
 
 **Business**
 
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* 
+* [zenangst](https://github.com/zenangst)
