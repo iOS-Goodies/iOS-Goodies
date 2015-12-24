@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [Tailor](https://github.com/zenangst/Tailor), by [@zenangst](https://twitter.com/zenangst)
 
 **Business**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz), [andreamazz](https://github.com/andreamazz)  
+* [lkmfz](https://github.com/lkmfz), [andreamazz](https://github.com/andreamazz), [zenangst](https://github.com/zenangst) 
