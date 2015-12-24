@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [Improving the accessibility on Spotify's iOS client](https://labs.spotify.com/2015/11/11/improving-the-accessibility-on-our-ios-client/), by [@iOSCowboy](http:s//twitter.com/iOSCowboy)
+* [The Rise Of IoT: Implications For App UX Design](https://blog.appsee.com/blog/2015/12/21/the-rise-of-iot-implications-for-app-ux-design/), by [@HannahLevenson](https://twitter.com/HannahLevenson)
 
 
 **Videos**
