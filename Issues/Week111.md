@@ -6,6 +6,7 @@
 * [Why Spinlocks Are Bad On iOS](http://engineering.postmates.com/Spinlocks-Considered-Harmful-On-iOS/), by [@eridius](https://twitter.com/eridius)
 * [Why Swift guard Should Be Avoided](https://medium.com/swift-programming/why-swift-guard-should-be-avoided-484cfc2603c5#.14aq431d1), by [@eofster](https://twitter.com/eofster)
 * [Open Source Swift on Ubuntu](https://medium.com/@duliodenis/open-source-swift-on-ubuntu-6a01f4a32e4b#.llvd4o1tg), by [@duliodenis](https://twitter.com/duliodenis)
+* [What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means), by [@laurenzlong](https://twitter.com/laurenzlong)
 
 **Tools/Controls**
 
