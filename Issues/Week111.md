@@ -1,9 +1,10 @@
 **Articles**
 
 
-* [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud) by [@lplotni](http://twitter.com/lplotni)
-* [MVVM is Exceptionally OK](https://ashfurrow.com/blog/mvvm-is-exceptionally-ok/) by [@ashfurrow](https://twitter.com/ashfurrow)
+* [BFF @ SoundCloud](https://www.thoughtworks.com/insights/blog/bff-soundcloud), by [@lplotni](http://twitter.com/lplotni)
+* [MVVM is Exceptionally OK](https://ashfurrow.com/blog/mvvm-is-exceptionally-ok/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Why Spinlocks Are Bad On iOS](http://engineering.postmates.com/Spinlocks-Considered-Harmful-On-iOS/), by [@eridius](https://twitter.com/eridius)
+* [Why Swift guard Should Be Avoided](https://medium.com/swift-programming/why-swift-guard-should-be-avoided-484cfc2603c5#.14aq431d1), by [@eofster](https://twitter.com/eofster)
 
 **Tools/Controls**
 
