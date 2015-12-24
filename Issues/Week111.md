@@ -16,13 +16,13 @@
 **Business**
 
 * [Your startup’s first iOS App](https://medium.com/ninjarobot-apps/your-new-ios-app-ed46aba15154#.b8uqhg9fn), by [@ajmarquez](https://twitter.com/ajmarquez)
+* [How to Start your Business on the App Store and Become and Indie iOS Developer](http://matteomanferdini.com/how-to-start-your-business-on-the-app-store-and-become-an-indie-ios-developer/), by [@MatManferdini](https://twitter.com/MatManferdini)
 
 
 **UI/UX**
 
 * [Improving the accessibility on Spotify's iOS client](https://labs.spotify.com/2015/11/11/improving-the-accessibility-on-our-ios-client/), by [@iOSCowboy](http:s//twitter.com/iOSCowboy)
 * [The Rise Of IoT: Implications For App UX Design](https://blog.appsee.com/blog/2015/12/21/the-rise-of-iot-implications-for-app-ux-design/), by [@HannahLevenson](https://twitter.com/HannahLevenson)
-
 
 **Videos**
 
