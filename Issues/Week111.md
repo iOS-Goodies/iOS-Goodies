@@ -7,6 +7,7 @@
 * [Why Swift guard Should Be Avoided](https://medium.com/swift-programming/why-swift-guard-should-be-avoided-484cfc2603c5#.14aq431d1), by [@eofster](https://twitter.com/eofster)
 * [Open Source Swift on Ubuntu](https://medium.com/@duliodenis/open-source-swift-on-ubuntu-6a01f4a32e4b#.llvd4o1tg), by [@duliodenis](https://twitter.com/duliodenis)
 * [What RESTful actually means](https://codewords.recurse.com/issues/five/what-restful-actually-means), by [@laurenzlong](https://twitter.com/laurenzlong)
+* [Little things that can make your life easier in 2016](http://merowing.info/2015/12/little-things-that-can-make-your-life-easier-in-2016/), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
