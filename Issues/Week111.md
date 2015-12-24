@@ -24,6 +24,7 @@
 * [Improving the accessibility on Spotify's iOS client](https://labs.spotify.com/2015/11/11/improving-the-accessibility-on-our-ios-client/), by [@iOSCowboy](http:s//twitter.com/iOSCowboy)
 * [The Rise Of IoT: Implications For App UX Design](https://blog.appsee.com/blog/2015/12/21/the-rise-of-iot-implications-for-app-ux-design/), by [@HannahLevenson](https://twitter.com/HannahLevenson)
 * [iOS App Icon Colors in the Year 2015](http://hboon.com/ios-app-icon-colors-in-the-year-2015/), by [@hboon](https://twitter.com/hboon)
+* [When a Unicorn Start-Up Stumbles, Its Employees Get Hurt](http://mobile.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html), by [@ktbenner](https://twitter.com/ktbenner)
 
 
 **Videos**
