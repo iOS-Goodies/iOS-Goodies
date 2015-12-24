@@ -13,7 +13,7 @@
 
 **Business**
 
-* 
+* [Your startup’s first iOS App](https://medium.com/ninjarobot-apps/your-new-ios-app-ed46aba15154#.b8uqhg9fn), by [@ajmarquez](https://twitter.com/ajmarquez)
 
 
 **UI/UX**
