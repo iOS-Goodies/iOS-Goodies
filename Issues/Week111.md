@@ -12,6 +12,7 @@
 **Tools/Controls**
 
 * [Tailor](https://github.com/zenangst/Tailor), by [@zenangst](https://twitter.com/zenangst)
+* [ReduxKit](https://github.com/reduxkit/reduxkit), by [@ARendtslev](https://twitter.com/ARendtslev) and [@karlbowden](https://twitter.com/karlbowden)
 
 **Business**
 
