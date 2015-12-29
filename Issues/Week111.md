@@ -12,6 +12,7 @@
 **Tools/Controls**
 
 * [Tailor](https://github.com/zenangst/Tailor), by [@zenangst](https://twitter.com/zenangst)
+* [Swift Flow](https://github.com/swift-flow/swift-flow), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Business**
 
