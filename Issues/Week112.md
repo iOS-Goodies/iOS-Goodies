@@ -1,5 +1,6 @@
 **Articles**
 
+* [Modern application architectures (Reactive programming, MVVM and beyond)](https://slack-files.com/T051G5Y6D-F0HABHKDK-8e9141e191), by [@fpillet](https://twitter.com/fpillet)
 * [Animating table row changes using changesets with MVVM](http://www.martinrichter.net/blog/2015/12/30/animating-table-row-changes-using-changesets-with-mvvm/), by [@richeterre](https://twitter.com/richeterre)
 * [Collection Indices, Slices, and Generics](http://airspeedvelocity.net/2015/12/28/collection-indices-slices-and-generics/), by [@airspeedswift](https://twitter.com/airspeedswift)
 * [GitDo: Designing the app infrastructure](https://medium.com/@gitdoapp/gitdo-designing-the-app-infrastructure-3b7710c0fd81#.v09ptshlw), by [@gitdoapp](https://twitter.com/gitdoapp)
