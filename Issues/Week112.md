@@ -11,6 +11,7 @@
 * [Swift Flow](https://github.com/swift-flow/swift-flow), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [ReduxKit](https://github.com/reduxkit/reduxkit), by [@ARendtslev](https://twitter.com/ARendtslev) and [@karlbowden](https://twitter.com/karlbowden)
 * [Filterpedia](https://github.com/FlexMonkey/Filterpedia), by [@flexmonkey](https://twitter.com/flexmonkey)
+* [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions), by [@peres](https://twitter.com/peres)
 
 **Business**
 
