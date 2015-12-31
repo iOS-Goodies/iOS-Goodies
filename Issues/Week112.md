@@ -28,6 +28,7 @@
 
 **One more thing**
 
+* [Abstraction, or, The Gift of Our Weak Brains](http://engineering.pivotal.io/post/abstraction-or-the-gift-of-our-weak-brains/), by [@flavorjones](https://twitter.com/flavorjones)
 
 **Credits**
 
