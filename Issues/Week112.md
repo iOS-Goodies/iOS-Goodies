@@ -29,7 +29,7 @@
 
 **Videos**
 
-* 
+* [Functional Reactive Programming with RxSwift](https://realm.io/news/slug-max-alexander-functional-reactive-rxswift/), by [@mbalex99](https://twitter.com/mbalex99)
 
 **One more thing**
 
