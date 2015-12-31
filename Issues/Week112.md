@@ -12,6 +12,7 @@
 **Business**
 
 * [How an idea comes together for me](https://m.signalvnoise.com/how-an-idea-comes-together-for-me-77aafef038e0#.7tw3ms9t8), by [@jasonfried](https://twitter.com/jasonfried)
+* [Manufacturing quality time](https://m.signalvnoise.com/manufacturing-quality-time-fe043fa7b7a1#.9j5ktkfe7), by [@dhh](https://twitter.com/dhh)
 
 
 **UI/UX**
