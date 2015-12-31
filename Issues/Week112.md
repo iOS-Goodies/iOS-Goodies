@@ -1,7 +1,6 @@
 **Articles**
 
-
-* 
+* [Animating table row changes using changesets with MVVM](http://www.martinrichter.net/blog/2015/12/30/animating-table-row-changes-using-changesets-with-mvvm/), by [@richeterre](https://twitter.com/richeterre)
 
 **Tools/Controls**
 
@@ -10,7 +9,7 @@
 
 **Business**
 
-* 
+* [How an idea comes together for me](https://m.signalvnoise.com/how-an-idea-comes-together-for-me-77aafef038e0#.7tw3ms9t8), by [@jasonfried](https://twitter.com/jasonfried)
 
 
 **UI/UX**
