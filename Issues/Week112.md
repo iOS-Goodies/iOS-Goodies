@@ -17,6 +17,7 @@
 **UI/UX**
 
 * [Feel-good Interfaces](https://medium.com/moments/feel-good-interfaces-9c4b9590b80d#.dtlg1025d), by [@hvpandya](https://twitter.com/hvpandya)
+* [Improving Conversion Rate for “Checkouts” App Installs](https://medium.com/@xsvfat/improving-conversion-rate-for-checkouts-app-download-9b1e2c3d1723#.758xp2k3j), by [@xsvfat](https://twitter.com/xsvfat)
 
 
 **Videos**
