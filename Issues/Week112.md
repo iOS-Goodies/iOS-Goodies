@@ -18,6 +18,7 @@
 
 * [Feel-good Interfaces](https://medium.com/moments/feel-good-interfaces-9c4b9590b80d#.dtlg1025d), by [@hvpandya](https://twitter.com/hvpandya)
 * [Improving Conversion Rate for “Checkouts” App Installs](https://medium.com/@xsvfat/improving-conversion-rate-for-checkouts-app-download-9b1e2c3d1723#.758xp2k3j), by [@xsvfat](https://twitter.com/xsvfat)
+* [Conceptual Debt is Worse than Technical Debt](https://medium.com/@nicolaerusan/conceptual-debt-is-worse-than-technical-debt-5b65a910fd46#.gfxax755w), by [@NicolaeRusan](https://twitter.com/NicolaeRusan)
 
 
 **Videos**
