@@ -1,5 +1,7 @@
 **Articles**
 
+* [Enum-Driven View Controllers](http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers/), by [ChrisMcChubs](https://twitter.com/ChrisMcChubs)
+
 **Tools/Controls**
 
 * [Fastlane Match](https://github.com/fastlane/match), by [@KrauseFx](https://twitter.com/KrauseFx)
