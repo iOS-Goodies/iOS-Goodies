@@ -2,6 +2,7 @@
 
 * [Enum-Driven View Controllers](http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers/), by [ChrisMcChubs](https://twitter.com/ChrisMcChubs)
 * [RE: Why Swift guard Should be Avoided](http://owensd.io/2016/01/04/re-why-swift-should-be-avoided.html), by [@owensd](https://twitter.com/owensd)
+* [Generic Collections, SubSequences and Overloading](http://airspeedvelocity.net/2016/01/03/generic-collections-subsequences-and-overloading/), by [@airspeedswift](https://twitter.com/airspeedswift)
 
 **Tools/Controls**
 
