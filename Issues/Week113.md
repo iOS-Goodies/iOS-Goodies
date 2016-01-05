@@ -1,6 +1,7 @@
 **Articles**
 
 * [Enum-Driven View Controllers](http://www.splinter.com.au/2016/01/03/enum-driven-viewcontrollers/), by [ChrisMcChubs](https://twitter.com/ChrisMcChubs)
+* [RE: Why Swift guard Should be Avoided](http://owensd.io/2016/01/04/re-why-swift-should-be-avoided.html), by [@owensd](https://twitter.com/owensd)
 
 **Tools/Controls**
 
@@ -19,4 +20,4 @@
 
 **Credits**
 
-* [aksswami](https://github.com/aksswami)
+* [aksswami](https://github.com/aksswami), [rbarbosa](https://github.com/rbarbosa) 
