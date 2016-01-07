@@ -13,6 +13,8 @@
 
 * [Fastlane Match](https://github.com/fastlane/match), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Atom Swift Debugger](https://atom.io/packages/swift-debugger), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [Pitchy](https://github.com/vadymmarkov/Pitchy), by [@vadymmarkov](https://twitter.com/vadymmarkov)
+* [Sugar](https://github.com/hyperoslo/Sugar), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury), by [@DianQK](https://github.com/DianQK)
 
 **Business**
@@ -27,5 +29,4 @@
 
 **Credits**
 
-* [aksswami](https://github.com/aksswami), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc)
-
+* [aksswami](https://github.com/aksswami), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc), [zenangst](https://github.com/zenangst)
