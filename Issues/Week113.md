@@ -20,6 +20,7 @@
 * [Sugar](https://github.com/hyperoslo/Sugar), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury), by [@DianQK](https://github.com/DianQK)
 * [xcpretty](https://github.com/supermarin/xcpretty), by [@_supermarin](https://twitter.com/_supermarin)
+* [danger](https://github.com/KrauseFx/danger), by [@KrauseFx](https://twitter.com/KrauseFx)
 
 **Business**
 
