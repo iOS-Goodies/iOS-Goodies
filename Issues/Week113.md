@@ -23,14 +23,15 @@
 **Business**
 
 * [People can read their manager's mind](http://yosefk.com/blog/people-can-read-their-managers-mind.html), by Yossi Kreinin
- 
+* [Why Copying The Habits Of Successful People Won’t Make You Successful](https://medium.com/life-learning/why-copying-the-habits-of-successful-people-won-t-make-you-successful-5ebcd6602073#.iwnngofp1), by [@Jonwestenberg](https://twitter.com/Jonwestenberg) 
+
 **UI/UX**
+
+* [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.wfio0j48l), by [@fabriciot](https://twitter.com/fabriciot) 
 
 **Videos**
 
 * [Scrollview for Keyboards in iOS](https://realm.io/news/tmi-scrollview-for-keyboards/), by [@mrh_is](https://twitter.com/mrh_is)
-
-**One more thing**
 
 **Credits**
 
