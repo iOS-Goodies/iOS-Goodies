@@ -11,8 +11,8 @@
 
 * [Fastlane Match](https://github.com/fastlane/match), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Atom Swift Debugger](https://atom.io/packages/swift-debugger), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
-* [Pitchy](https://github.com/vadymmarkov/Pitchy) - A simple way to get a music pitch from a frequency.
-* [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
+* [Pitchy](https://github.com/vadymmarkov/Pitchy), by [@vadymmarkov](https://twitter.com/vadymmarkov)
+* [Sugar](https://github.com/hyperoslo/Sugar), by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Business**
 
