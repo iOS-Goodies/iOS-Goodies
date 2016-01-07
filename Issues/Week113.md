@@ -31,6 +31,7 @@
 * [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.wfio0j48l), by [@fabriciot](https://twitter.com/fabriciot) 
 * [Onboarding inspiration for mobile apps](https://medium.com/muzli-design-inspiration/onboarding-inspiration-for-mobile-apps-a5fd41e40542#.homuiuwlx), by [@usemuzli](https://twitter.com/usemuzli)
 * [Designing at JUST EAT](http://tech.just-eat.com/2016/01/07/designing-at-just-eat/), by [@tasedan](https://twitter.com/tasedan)
+* [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities), by [@johnpavlus](https://twitter.com/johnpavlus)
 
 **Videos**
 
