@@ -9,6 +9,7 @@
 * [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/), by [@merowing\_](https://twitter.com/merowing\_)
 * [Delegates vs Observers](https://sandofsky.com/blog/delegates-vs-observers.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Metal: Blazing Fast Image Processing](https://www.invasivecode.com/weblog/metal-image-processing), by [@geppyp](https://twitter.com/geppyp)
+* [Using Generics to improve TableView cells](http://alisoftware.github.io/swift/generics/2016/01/06/generic-tableviewcells/), by [@aligatr](https://twitter.com/aligatr)
 
 
 **Tools/Controls**
