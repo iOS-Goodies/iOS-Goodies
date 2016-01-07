@@ -24,6 +24,7 @@
 
 * [People can read their manager's mind](http://yosefk.com/blog/people-can-read-their-managers-mind.html), by Yossi Kreinin
 * [Why Copying The Habits Of Successful People Won’t Make You Successful](https://medium.com/life-learning/why-copying-the-habits-of-successful-people-won-t-make-you-successful-5ebcd6602073#.iwnngofp1), by [@Jonwestenberg](https://twitter.com/Jonwestenberg) 
+* [How to Become the Best in the World at What You Do](https://medium.com/life-learning/how-to-become-the-best-in-the-world-at-what-you-do-fd88a7bce59#.cmn1rj3av), by [@BenjaminPHardy](https://twitter.com/BenjaminPHardy)
 
 **UI/UX**
 
