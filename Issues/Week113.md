@@ -18,9 +18,12 @@
 * [Pitchy](https://github.com/vadymmarkov/Pitchy), by [@vadymmarkov](https://twitter.com/vadymmarkov)
 * [Sugar](https://github.com/hyperoslo/Sugar), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury), by [@DianQK](https://github.com/DianQK)
+* [xcpretty](https://github.com/supermarin/xcpretty), by [@_supermarin](https://twitter.com/_supermarin)
 
 **Business**
 
+* [People can read their manager's mind](http://yosefk.com/blog/people-can-read-their-managers-mind.html), by Yossi Kreinin
+ 
 **UI/UX**
 
 **Videos**
