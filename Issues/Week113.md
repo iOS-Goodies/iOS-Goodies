@@ -6,8 +6,10 @@
 * [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/), by [@arekholko](https://twitter.com/arekholko)
 * [Reader Submissons - New Year's 2016](http://nshipster.com/new-years-2016/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [Breakpoints for UIViewController presentation warnings](http://try.zats.io/breakpoints-for-uiviewcontroller-presentation-warnings/) by [@zats](https://twitter.com/zats)
-* [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/), by [@merowing_](https://twitter.com/merowing_)
+* [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/), by [@merowing\_](https://twitter.com/merowing\_)
 * [Delegates vs Observers](https://sandofsky.com/blog/delegates-vs-observers.html), by [@sandofsky](https://twitter.com/sandofsky)
+* [Metal: Blazing Fast Image Processing](https://www.invasivecode.com/weblog/metal-image-processing), by [@geppyp](https://twitter.com/geppyp)
+
 
 **Tools/Controls**
 
