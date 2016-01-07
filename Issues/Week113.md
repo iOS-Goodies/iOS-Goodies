@@ -6,11 +6,14 @@
 * [Typed, yet Flexible Table View Controller](http://holko.pl/2016/01/05/typed-table-view-controller/), by [@arekholko](https://twitter.com/arekholko)
 * [Reader Submissons - New Year's 2016](http://nshipster.com/new-years-2016/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [Breakpoints for UIViewController presentation warnings](http://try.zats.io/breakpoints-for-uiviewcontroller-presentation-warnings/) by [@zats](https://twitter.com/zats)
+* [Improve your iOS Architecture with FlowControllers](http://merowing.info/2016/01/improve-your-ios-architecture-with-flowcontrollers/), by [@merowing_](https://twitter.com/merowing_)
+* [Delegates vs Observers](https://sandofsky.com/blog/delegates-vs-observers.html), by [@sandofsky](https://twitter.com/sandofsky)
 
 **Tools/Controls**
 
 * [Fastlane Match](https://github.com/fastlane/match), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Atom Swift Debugger](https://atom.io/packages/swift-debugger), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [TransitionTreasury](https://github.com/DianQK/TransitionTreasury), by [@DianQK](https://github.com/DianQK)
 
 **Business**
 
@@ -24,4 +27,5 @@
 
 **Credits**
 
-* [aksswami](https://github.com/aksswami), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [p4checo](https://github.com/p4checo)
+* [aksswami](https://github.com/aksswami), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [p4checo](https://github.com/p4checo), [mariusc](https://github.com/mariusc)
+
