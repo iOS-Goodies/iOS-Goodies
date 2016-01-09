@@ -20,6 +20,7 @@
 * [Sugar](https://github.com/hyperoslo/Sugar), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [TransitionTreasury](https://github.com/DianQK/TransitionTreasury), by [@DianQK](https://github.com/DianQK)
 * [xcpretty](https://github.com/supermarin/xcpretty), by [@_supermarin](https://twitter.com/_supermarin)
+* [danger](https://github.com/KrauseFx/danger), by [@KrauseFx](https://twitter.com/KrauseFx)
 
 **Business**
 
@@ -34,6 +35,7 @@
 * [Onboarding inspiration for mobile apps](https://medium.com/muzli-design-inspiration/onboarding-inspiration-for-mobile-apps-a5fd41e40542#.homuiuwlx), by [@usemuzli](https://twitter.com/usemuzli)
 * [Designing at JUST EAT](http://tech.just-eat.com/2016/01/07/designing-at-just-eat/), by [@tasedan](https://twitter.com/tasedan)
 * [The Next Phase Of UX: Designing Chatbot Personalities](http://www.fastcodesign.com/3054934/the-next-phase-of-ux-designing-chatbot-personalities), by [@johnpavlus](https://twitter.com/johnpavlus)
+* [Jedi Principles of UI Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac#.u5a29fmra), by [@fiorine](https://twitter.com/fiorine)
 
 **Videos**
 
