@@ -7,6 +7,7 @@
 * [10 Swift One Liners To Impress Your Friends](https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends/), by [@uraimo](https://twitter.com/uraimo)
 * [Automate Testing & Build Delivery with fastlane and Travis CI](http://macoscope.com/blog/automate-testing-and-build-delivery/), by [@arekholko](https://twitter.com/arekholko)
 * [Swift's mysterious Builtin module](http://ankit.im/swift/2016/01/12/swift-mysterious-builtin-module/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [Pattern Matching in an if Statement](http://kelan.io/2016/pattern-matching-in-an-if-statement/), by [@kelan](https://twitter.com/kelan)
 
 **Tools/Controls**
 
