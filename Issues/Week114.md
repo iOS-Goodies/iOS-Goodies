@@ -5,6 +5,7 @@
 * [Testing NSURLSession with Swift, Part 1: Mocking Classes You Don't Own
 ](http://masilotti.com/testing-nsurlsession-input/), by [@joemasilotti](https://twitter.com/joemasilotti)
 * [10 Swift One Liners To Impress Your Friends](https://www.uraimo.com/2016/01/06/10-Swift-One-Liners-To-Impress-Your-Friends/), by [@uraimo](https://twitter.com/uraimo)
+* [Automate Testing & Build Delivery with fastlane and Travis CI](http://macoscope.com/blog/automate-testing-and-build-delivery/), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
