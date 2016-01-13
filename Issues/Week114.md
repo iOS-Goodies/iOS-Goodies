@@ -8,6 +8,7 @@
 * [Automate Testing & Build Delivery with fastlane and Travis CI](http://macoscope.com/blog/automate-testing-and-build-delivery/), by [@arekholko](https://twitter.com/arekholko)
 * [Swift's mysterious Builtin module](http://ankit.im/swift/2016/01/12/swift-mysterious-builtin-module/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 * [Pattern Matching in an if Statement](http://kelan.io/2016/pattern-matching-in-an-if-statement/), by [@kelan](https://twitter.com/kelan)
+* [Writing A Generic Stable Sort](http://airspeedvelocity.net/2016/01/10/writing-a-generic-stable-sort/), by [@airspeedswift](https://twitter.com/airspeedswift)
 
 **Tools/Controls**
 
