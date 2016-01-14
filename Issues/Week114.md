@@ -10,6 +10,7 @@
 * [Writing A Generic Stable Sort](http://airspeedvelocity.net/2016/01/10/writing-a-generic-stable-sort/), by [@airspeedswift](https://twitter.com/airspeedswift)
 * [Why FRP?](http://codeplease.io/2016/01/08/why-frp/), by [@peres](https://twitter.com/peres)
 * [How Closures are a Better Event Handler Protocol Alternative](http://christiantietze.de/posts/2016/01/event-handler-closure-object/), by [@ctietze](https://twitter.com/ctietze)
+* [When To Use Mutating Functions in Swift Structs](https://www.natashatherobot.com/when-to-use-mutating-functions-in-swift-structs/), by [natashatherobot](https://twitter.com/natashatherobot)
 
 **Tools/Controls**
 
