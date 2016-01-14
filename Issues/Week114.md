@@ -11,6 +11,7 @@
 * [Why FRP?](http://codeplease.io/2016/01/08/why-frp/), by [@peres](https://twitter.com/peres)
 * [How Closures are a Better Event Handler Protocol Alternative](http://christiantietze.de/posts/2016/01/event-handler-closure-object/), by [@ctietze](https://twitter.com/ctietze)
 * [When To Use Mutating Functions in Swift Structs](https://www.natashatherobot.com/when-to-use-mutating-functions-in-swift-structs/), by [natashatherobot](https://twitter.com/natashatherobot)
+* [A reusable UITableViewDataSource in Swift](https://medium.com/@marinbenc/a-reusable-uitableviewdatasource-in-swift-e74d76bdda5f#.5x1pijxn6), by [@marinbenc](https://twitter.com/marinbenc)
 
 **Tools/Controls**
 
