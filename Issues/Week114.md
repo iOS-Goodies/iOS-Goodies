@@ -17,7 +17,9 @@
 
 **Business**
 
+* [Insiders say what's going on inside $11 billion Pinterest ](http://www.businessinsider.com/pinterest-worth-11-billion-valuation-revenue-grow-5x-2015), by [@larakiara](https://twitter.com/larakiara)
 * [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.9y4bpddwi), by [@jasonfried](https://twitter.com/jasonfried)
+
 
 **UI/UX**
 
