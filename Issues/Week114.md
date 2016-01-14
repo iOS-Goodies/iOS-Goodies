@@ -12,7 +12,7 @@
 
 **Tools/Controls**
 
-* 
+* [swiftydb](https://github.com/Oyvindkg/swiftydb), by Øyvind Grimnes
 
 **Business**
 
