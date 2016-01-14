@@ -26,7 +26,8 @@
 
 **UI/UX**
 
-* 
+* [How I Redesigned “World’s most friendly social media” app](https://medium.com/@nseckinoral/how-i-redesigned-world-s-most-friendly-social-media-app-6320f22ee562#.83karevgg), by [@nseckinoral](https://twitter.com/nseckinoral)
+* [Designing for mobile](https://medium.com/@kenlopez15/designing-for-mobile-dc1c4dd01cd6#.pnqxyr2vp), by [@kenlopez15](https://twitter.com/kenlopez15)
 
 **Videos**
 
