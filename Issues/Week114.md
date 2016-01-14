@@ -17,6 +17,8 @@
 **Business**
 
 * [Insiders say what's going on inside $11 billion Pinterest ](http://www.businessinsider.com/pinterest-worth-11-billion-valuation-revenue-grow-5x-2015), by [@larakiara](https://twitter.com/larakiara)
+* [Scale-up Leadership Lessons I’ve Learned Over 9 Years as HubSpot’s CEO
+](https://readthink.com/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567#.hgv1398ud), by [@bhalligan](https://twitter.com/bhalligan)
 
 **UI/UX**
 
