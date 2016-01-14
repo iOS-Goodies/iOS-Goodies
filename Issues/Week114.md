@@ -14,7 +14,6 @@
 
 **Tools/Controls**
 
-* [Sugar](https://github.com/hyperoslo/Sugar), by [@hypersolo](https://github.com/hyperoslo)
 * [swiftydb](https://github.com/Oyvindkg/swiftydb), by Øyvind Grimnes
 
 **Business**
