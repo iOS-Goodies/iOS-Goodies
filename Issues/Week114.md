@@ -15,12 +15,14 @@
 **Tools/Controls**
 
 * [Sugar](https://github.com/hyperoslo/Sugar), by [@hypersolo](https://github.com/hyperoslo)
+* [swiftydb](https://github.com/Oyvindkg/swiftydb), by Øyvind Grimnes
 
 **Business**
 
 * [Insiders say what's going on inside $11 billion Pinterest ](http://www.businessinsider.com/pinterest-worth-11-billion-valuation-revenue-grow-5x-2015), by [@larakiara](https://twitter.com/larakiara)
 * [Employee benefits at Basecamp](https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58#.9y4bpddwi), by [@jasonfried](https://twitter.com/jasonfried)
-
+* [Scale-up Leadership Lessons I’ve Learned Over 9 Years as HubSpot’s CEO
+](https://readthink.com/scale-up-leadership-lessons-i-ve-learned-over-9-years-as-hubspot-s-ceo-39521f5b7567#.hgv1398ud), by [@bhalligan](https://twitter.com/bhalligan)
 
 **UI/UX**
 
