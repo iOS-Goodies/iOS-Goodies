@@ -31,6 +31,7 @@
 * [Designing for mobile](https://medium.com/@kenlopez15/designing-for-mobile-dc1c4dd01cd6#.pnqxyr2vp), by [@kenlopez15](https://twitter.com/kenlopez15)
 * [Dissecting Motion Design with the “7 W’s”](https://medium.com/@yimingbao/dissecting-motion-design-with-the-7-w-s-dd82815e61c7#.xetbn4ait), by [@yimingbao](https://twitter.com/yimingbao)
 * [Why is motion design so important to user experience?](https://medium.com/lateral-view/why-is-motion-design-so-important-to-user-experience-50110ba4b5e1#.8oxcj49jf), by [@elimagoy](https://twitter.com/elimagoy)
+* [Social Network Design. UX for Communication](http://tubikstudio.com/social-network-design-ux-for-communication/), by [@MYalanska](https://twitter.com/MYalanska)
 
 **Videos**
 
