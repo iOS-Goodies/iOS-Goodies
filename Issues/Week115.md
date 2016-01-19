@@ -2,14 +2,16 @@
 
 * [Hipster Swift: Demystifying the Mysterious](http://krakendev.io/blog/hipster-swift), by [@allonsykraken](https://twitter.com/allonsykraken)
 * [Testing Delegates in Swift with XCTest](http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest/), by [@mokagio](https://twitter.com/mokagio)
-* [](http://christiantietze.de/posts/2016/01/table-view-identifier-view-model/), by [@ctietze](https://twitter.com/ctietze)
+* [How to Couple UITableView Cell Identifiers and View Models](http://christiantietze.de/posts/2016/01/table-view-identifier-view-model/), by [@ctietze](https://twitter.com/ctietze)
+
+
 **Tools/Controls**
 
 
 
 **Business**
 
-*[Open Expectations](http://artsy.github.io/blog/2016/01/13/OSS-Expectations/), by [@orta](https://twitter.com/orta)
+* [Open Expectations](http://artsy.github.io/blog/2016/01/13/OSS-Expectations/), by [@orta](https://twitter.com/orta)
 
 
 **UI/UX**
