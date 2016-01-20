@@ -20,11 +20,11 @@
 
 **Videos**
 
-
+* [Unidirectional Data Flow in Swift](https://realm.io/news/benji-encz-unidirectional-data-flow-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc)
+* [mariusc](https://github.com/mariusc), [lkmfz](https://github.com/lkmfz)
 
 
 
