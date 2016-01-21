@@ -4,6 +4,7 @@
 * [Testing Delegates in Swift with XCTest](http://www.mokacoding.com/blog/testing-delegates-in-swift-with-xctest/), by [@mokagio](https://twitter.com/mokagio)
 * [How to Couple UITableView Cell Identifiers and View Models](http://christiantietze.de/posts/2016/01/table-view-identifier-view-model/), by [@ctietze](https://twitter.com/ctietze)
 * [Profiling your Swift compilation times](http://irace.me/swift-profiling/), by [@irace](https://twitter.com/irace)
+* [Exploring Swift Dictionary's Implementation](http://ankit.im/swift/2016/01/20/exploring-swift-dictionary-implementation/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 
 
 **Tools/Controls**
