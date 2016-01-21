@@ -7,6 +7,7 @@
 
 **Tools/Controls**
 
+* [Zip](https://github.com/marmelroy/Zip), by [@marmelroy](https://twitter.com/marmelroy)
 
 
 **Business**
