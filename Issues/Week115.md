@@ -17,6 +17,7 @@
 * [Open Expectations](http://artsy.github.io/blog/2016/01/13/OSS-Expectations/), by [@orta](https://twitter.com/orta)
 * [How to Pitch a Project](https://deardesignstudent.com/how-to-pitch-a-project-4a391f7cf3b3#.knyxwvhve), by [@monteiro](https://twitter.com/monteiro)
 * [Why Big Companies Keep Failing: The Stack Fallacy](http://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/?ncid=rss#.fkfrrxw:Pp7T), by [@anshublog](https://twitter.com/anshublog)
+* [The Only Onboarding Timeline You’ll Need: From Offer to First Friday](http://firstround.com/review/the-only-onboarding-timeline-youll-need-from-offer-to-first-friday/), by [@firstround](https://twitter.com/firstround)
 
 
 **UI/UX**
