@@ -25,7 +25,7 @@
 
 **Videos**
 
-
+* [Design 101 for Developers](https://realm.io/news/christopher-downer-design-101-for-developers/), by [@cjdowner](https://twitter.com/cjdowner)
 
 **Credits**
 
