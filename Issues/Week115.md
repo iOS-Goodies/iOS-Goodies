@@ -14,6 +14,7 @@
 **Business**
 
 * [Open Expectations](http://artsy.github.io/blog/2016/01/13/OSS-Expectations/), by [@orta](https://twitter.com/orta)
+* [How to Pitch a Project](https://deardesignstudent.com/how-to-pitch-a-project-4a391f7cf3b3#.knyxwvhve), by [@monteiro](https://twitter.com/monteiro)
 
 
 **UI/UX**
