@@ -10,7 +10,7 @@
 **Tools/Controls**
 
 * [Zip](https://github.com/marmelroy/Zip), by [@marmelroy](https://twitter.com/marmelroy)
-
+* [Knuff](https://github.com/KnuffApp/Knuff), by [@MadeByBowtie](https://twitter.com/MadeByBowtie)
 
 **Business**
 
