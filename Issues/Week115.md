@@ -29,6 +29,10 @@
 * [Drive 47 - Experience better car rentals](https://medium.com/lets-make-good-products/drive-47-66154efed63c#.q9cwo1ard), by [@heysuganth](https://twitter.com/heysuganth)
 * [The Fidelity Curve: How to weigh the costs and benefits of creating UI mockups](https://m.signalvnoise.com/the-fidelity-curve-weighing-the-costs-and-benefits-of-interface-design-mockups-b259634807e2#.6juet1hdj), by [@rjs](https://twitter.com/rjs)
 * [2016 will be the year of conversational commerce](https://medium.com/@chrismessina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.qpw2axmk5), by [@chrismessina](https://twitter.com/chrismessina)
+* [Desktop Neo](https://www.desktopneo.com/), by [@ziburski](https://twitter.com/@ziburski)
+* [Using Proto-content for a Better User Experience](http://www.uxbooth.com/articles/using-proto-content-for-a-better-user-experience/), by [@robertmills](https://twitter.com/robertmills)
+* [What Do User Interfaces Want? : The Next 500 Years of Interaction Design](http://uxmag.com/articles/what-do-user-interfaces-want), by [@robtannen](https://twitter.com/robtannen)
+* [Motion with Meaning: Semantic Animation in Interface Design](http://alistapart.com/article/motion-with-meaning-semantic-animation-in-interface-design), by [@tobias_bernard](https://twitter.com/tobias_bernard) and [@aminalhazwani](https://twitter.com/aminalhazwani)
 
 **Videos**
 
