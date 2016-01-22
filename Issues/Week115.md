@@ -29,6 +29,7 @@
 **Videos**
 
 * [Design 101 for Developers](https://realm.io/news/christopher-downer-design-101-for-developers/), by [@cjdowner](https://twitter.com/cjdowner)
+* [Eidolon: Code Review](http://artsy.github.io/blog/2016/01/14/eidolon-code-review/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **Credits**
 
