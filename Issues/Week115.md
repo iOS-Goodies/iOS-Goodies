@@ -26,6 +26,7 @@
 * [Four Things Working at Facebook Has Taught Me About Design Critique](https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3#.6j54asduf), by [@tannerc](https://twitter.com/tannerc)
 * [Drive 47 - Experience better car rentals](https://medium.com/lets-make-good-products/drive-47-66154efed63c#.q9cwo1ard), by [@heysuganth](https://twitter.com/heysuganth)
 * [The Fidelity Curve: How to weigh the costs and benefits of creating UI mockups](https://m.signalvnoise.com/the-fidelity-curve-weighing-the-costs-and-benefits-of-interface-design-mockups-b259634807e2#.6juet1hdj), by [@rjs](https://twitter.com/rjs)
+* [2016 will be the year of conversational commerce](https://medium.com/@chrismessina/2016-will-be-the-year-of-conversational-commerce-1586e85e3991#.qpw2axmk5), by [@chrismessina](https://twitter.com/chrismessina)
 
 **Videos**
 
