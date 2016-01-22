@@ -10,6 +10,7 @@
 
 **Tools/Controls**
 
+* [BitBar](https://github.com/matryer/bitbar), by [@matryer](https://twitter.com/matryer)
 * [Zip](https://github.com/marmelroy/Zip), by [@marmelroy](https://twitter.com/marmelroy)
 * [Knuff](https://github.com/KnuffApp/Knuff), by [@MadeByBowtie](https://twitter.com/MadeByBowtie)
 * [MMNumberKeyboard](https://github.com/matmartinez/MMNumberKeyboard), by [@martinez](https://twitter.com/martinez)
