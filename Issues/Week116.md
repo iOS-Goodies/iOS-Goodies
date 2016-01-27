@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [TBRJSONMapper](https://github.com/nmarisi/TBRJSONMapper), by [@nmarisi](https://twitter.com/nmarisi)
 
 
 **Business**
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean)
+* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi) 
