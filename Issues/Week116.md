@@ -19,7 +19,7 @@
 
 * [TBRJSONMapper](https://github.com/nmarisi/TBRJSONMapper), by [@nmarisi](https://twitter.com/nmarisi)
 * [Gecco](https://github.com/yukiasai/Gecco), by [@yukiasai417](https://twitter.com/yukiasai417)
-
+* [Swift Synthesizer](http://matthewfecher.com/app-developement/swift-synth/), by [@goFecher](https://twitter.com/goFecher)
 
 **Business**
 
@@ -43,4 +43,4 @@ UI Animation. Microinteraction for Macroresult](http://tubikstudio.com/ui-animat
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc), [swiftcodex](https://github.com/swiftcodex)
