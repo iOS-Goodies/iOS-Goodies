@@ -8,7 +8,9 @@
 * [KVO](http://en.swifter.tips/kvo/), by [@onevcat](https://twitter.com/onevcat)
 * [Mobile Design: server parsing and the case of base object](https://medium.com/@laurentcerveau/mobile-design-server-parsing-and-the-case-of-base-object-4c8889e89532#.3npkf4g98), by [@laurentc27](https://twitter.com/laurentc27)
 * [Architecture Patterns in iOS: Part 1](https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-1-8d4ad146c266#.r2ite2o1f), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
-
+* [Are you a Developer or an Engineer?](http://redqueencoder.com/are-you-a-developer-or-an-engineer/), by [@RedQueenCoder](https://twitter.com/RedQueenCoder)
+* [Welcoming our new Swift 2.2 Overlords](http://ericasadun.com/2016/01/26/welcoming-our-new-swift-2-2-overlords/), by [@ericasadun](https://twitter.com/ericasadun)
+* [Async Testing with Quick and Nimble](http://www.mokacoding.com/blog/async-testing-with-quick-and-nimble/), by [@mokagio](https://twitter.com/mokagio)
 
 **Tools/Controls**
 
@@ -36,4 +38,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz)
+* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc)
