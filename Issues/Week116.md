@@ -5,6 +5,7 @@
 * [Image Caching: HTTP Cache, URL Loading System, and NSCache](http://kean.github.io/blog/programming/2016/01/26/image-caching.html), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Why you shouldn’t use delegates in Swift](https://medium.com/@marinbenc/why-you-shouldn-t-use-delegates-in-swift-7ef808a7f16b#.2v5hgks41), by [@marinbenc](https://twitter.com/marinbenc)
 * [ARC, Swift closures and weak self](http://katalisha.com/2016/01/22/ARC-Swift-closures-and-weak-self.html), by [@katalisha](https://twitter.com/katalisha)
+* [KVO](http://en.swifter.tips/kvo/), by [@onevcat](https://twitter.com/onevcat)
 
 
 **Tools/Controls**
