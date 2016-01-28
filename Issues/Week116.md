@@ -11,6 +11,8 @@
 * [Are you a Developer or an Engineer?](http://redqueencoder.com/are-you-a-developer-or-an-engineer/), by [@RedQueenCoder](https://twitter.com/RedQueenCoder)
 * [Welcoming our new Swift 2.2 Overlords](http://ericasadun.com/2016/01/26/welcoming-our-new-swift-2-2-overlords/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Async Testing with Quick and Nimble](http://www.mokacoding.com/blog/async-testing-with-quick-and-nimble/), by [@mokagio](https://twitter.com/mokagio)
+* [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/), by [@senderpath](https://twitter.com/senderpath)]
+* [iOS App Performance: Instruments & beyond](https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2), by [@mandrigin](https://twitter.com/mandrigin)
 
 **Tools/Controls**
 
