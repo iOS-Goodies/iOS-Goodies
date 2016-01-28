@@ -22,7 +22,7 @@
 
 **UI/UX**
 
-* 
+* [Ingredients for a Remarkable TV Experience](http://macoscope.com/blog/ingredients-for-a-remarkable-tv-experience/), by [@pawelhalicki](https://twitter.com/pawelhalicki) and [@tenelement](https://twitter.com/tenelement)
 
 
 **Videos**
