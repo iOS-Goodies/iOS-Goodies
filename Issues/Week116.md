@@ -13,6 +13,7 @@
 * [Async Testing with Quick and Nimble](http://www.mokacoding.com/blog/async-testing-with-quick-and-nimble/), by [@mokagio](https://twitter.com/mokagio)
 * [Seven Swift Snares & How to Avoid Them](https://developer.ibm.com/swift/2016/01/27/seven-swift-snares-how-to-avoid-them/), by [@senderpath](https://twitter.com/senderpath)
 * [iOS App Performance: Instruments & beyond](https://medium.com/@mandrigin/ios-app-performance-instruments-beyond-48fe7b7cdf2), by [@mandrigin](https://twitter.com/mandrigin)
+* [How to use LLVM API with Swift. Addendum](http://lowlevelbits.org/how-to-use-llvm-api-with-swift-addendum/), by [@1101_debian](https://twitter.com/1101_debian)
 
 **Tools/Controls**
 
