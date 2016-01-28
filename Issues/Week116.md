@@ -42,4 +42,4 @@ UI Animation. Microinteraction for Macroresult](http://tubikstudio.com/ui-animat
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc), [swiftcodex](https://github.com/swiftcodex)
