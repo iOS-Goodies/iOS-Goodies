@@ -19,6 +19,7 @@
 * [In Defense of The Native App](https://blog.orangecaffeine.com/in-defense-of-the-native-app-9e614ddf2cfa#.e2ipcy88n), by [@chandrakalle](https://twitter.com/chandrakalle)
 * [Why I Strive to be a 0.1x Engineer](http://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/), by [@benjiweber](https://twitter.com/benjiweber)
 * [The End Of App Stores as We Know Them](https://blog.intercom.io/the-end-of-app-stores-as-we-know-them/), by [@hughbeme](https://twitter.com/hughbeme)
+* [Why I work remotely (hint: it has nothing to do with productivity).](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc#.uigeezp58), by [@jasonzimdars](https://twitter.com/jasonzimdars)
 
 
 **UI/UX**
