@@ -7,6 +7,7 @@
 * [ARC, Swift closures and weak self](http://katalisha.com/2016/01/22/ARC-Swift-closures-and-weak-self.html), by [@katalisha](https://twitter.com/katalisha)
 * [KVO](http://en.swifter.tips/kvo/), by [@onevcat](https://twitter.com/onevcat)
 * [Mobile Design: server parsing and the case of base object](https://medium.com/@laurentcerveau/mobile-design-server-parsing-and-the-case-of-base-object-4c8889e89532#.3npkf4g98), by [@laurentc27](https://twitter.com/laurentc27)
+* [Architecture Patterns in iOS: Part 1](https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-1-8d4ad146c266#.r2ite2o1f), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 
 
 **Tools/Controls**
