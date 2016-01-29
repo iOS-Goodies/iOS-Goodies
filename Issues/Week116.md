@@ -20,6 +20,7 @@
 * [TBRJSONMapper](https://github.com/nmarisi/TBRJSONMapper), by [@nmarisi](https://twitter.com/nmarisi)
 * [Gecco](https://github.com/yukiasai/Gecco), by [@yukiasai417](https://twitter.com/yukiasai417)
 * [Swift Synthesizer](http://matthewfecher.com/app-developement/swift-synth/), by [@goFecher](https://twitter.com/goFecher)
+* [Swift Algorithm Club](https://github.com/hollance/swift-algorithm-club), by [@mhollemans](https://twitter.com/mhollemans)
 
 **Business**
 
