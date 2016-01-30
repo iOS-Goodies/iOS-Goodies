@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-*
+* [Hue](https://github.com/hyperoslo/Hue), by [@hyperoslo](https://twitter.com/hyperoslo)
 
 
 **Business**
@@ -24,4 +24,4 @@
 
 **Credits**
 
-*
+* [zenangst](https://github.com/zenangst)
