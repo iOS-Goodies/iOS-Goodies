@@ -21,6 +21,7 @@
 * [Gecco](https://github.com/yukiasai/Gecco), by [@yukiasai417](https://twitter.com/yukiasai417)
 * [Swift Synthesizer](http://matthewfecher.com/app-developement/swift-synth/), by [@goFecher](https://twitter.com/goFecher)
 * [Swift Algorithm Club](https://github.com/hollance/swift-algorithm-club), by [@mhollemans](https://twitter.com/mhollemans)
+* [Hue](https://github.com/hyperoslo/Hue), by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Business**
 
@@ -44,4 +45,4 @@ UI Animation. Microinteraction for Macroresult](http://tubikstudio.com/ui-animat
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc), [swiftcodex](https://github.com/swiftcodex)
+* [rbarbosa](https://github.com/rbarbosa), [kean](https://github.com/kean), [nmarisi](https://github.com/nmarisi), [lkmfz](https://github.com/lkmfz), [mariusc](https://github.com/mariusc), [swiftcodex](https://github.com/swiftcodex), [zenangst](https://github.com/zenangst)
