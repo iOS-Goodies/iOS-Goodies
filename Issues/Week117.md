@@ -1,3 +1,5 @@
+* Since Parse is down, [check out the alternatives](https://github.com/relatedcode/ParseAlternatives). 
+
 **Articles**
 
 * [It's Coming: the Great Swift API Transformation](https://swift.org/blog/swift-api-transformation/), by [@DaveAbrahams](https://twitter.com/DaveAbrahams) 
