@@ -7,6 +7,7 @@
 * [ICU Text Transforms in Cocoa](http://oleb.net/blog/2016/01/icu-text-transforms/), by [@olebegemann](https://twitter.com/@olebegemann)
 * [Being a Good OSS Citizen](http://artsy.github.io/blog/2016/01/28/being-a-good-open-source-citizen/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [A Modern Network Operation](http://www.cimgf.com/2016/01/28/a-modern-network-operation/), by [@mzarra](https://twitter.com/mzarra)
+* [dotSwift 2016](https://medium.com/swift-programming/dotswift-2016-83c45ad80616#.f9gy7frkz), by [@greg3z](https://twitter.com/greg3z)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc)
+* [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa),
