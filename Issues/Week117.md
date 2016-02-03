@@ -24,6 +24,7 @@
 
 * [The Joy of Shortcuts](http://www.allenpike.com/2016/parse-joy-of-shortcuts/), by [@apike/](http://www.twitter.com/apike/) 
 * [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/), by [@orta](https://twitter.com/orta)
+* [The Inside Story of Uber’s Radical Rebranding](http://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/), by [@jessiwrites](https://twitter.com/jessiwrites)
 
 **UI/UX**
 
