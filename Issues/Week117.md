@@ -1,4 +1,5 @@
 * Since Parse is down, [check out the alternatives](https://github.com/relatedcode/ParseAlternatives). 
+* Finally an app just for the [Swift's newsletter](https://stylemac.com/hirundo/). 🎉🎉🎉🎉🎉
 
 **Articles**
 
