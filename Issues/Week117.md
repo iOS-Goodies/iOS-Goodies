@@ -33,6 +33,7 @@
 
 * [Death to Entitlement in Design](https://medium.com/iq-design/death-to-entitlement-in-design-5dfe04e81ce5), by [@inspireUX](https://twitter.com/inspireUX)
 * [How to be the Best UX Team in the World](http://www.nodesagency.com/how-to-be-the-best-ux-team-for-app-development-in-the-world/), by [@nodesdk](https://twitter.com/nodesdk)
+* [Lessons From 5 Years of Lean UX](http://blog.invisionapp.com/5-years-lean-ux-jeff-gothelf/), by [@margaretannk](https://twitter.com/margaretannk)
 
 **Videos**
 
