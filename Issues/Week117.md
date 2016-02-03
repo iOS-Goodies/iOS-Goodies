@@ -8,6 +8,7 @@
 * [Being a Good OSS Citizen](http://artsy.github.io/blog/2016/01/28/being-a-good-open-source-citizen/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [A Modern Network Operation](http://www.cimgf.com/2016/01/28/a-modern-network-operation/), by [@mzarra](https://twitter.com/mzarra)
 * [dotSwift 2016](https://medium.com/swift-programming/dotswift-2016-83c45ad80616#.f9gy7frkz), by [@greg3z](https://twitter.com/greg3z)
+* [Elmification of Swift - Implementing the Elm architecture in Swift](https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.93931logf), by [@rheeseyb](https://twitter.com/rheeseyb)
 
 **Tools/Controls**
 
