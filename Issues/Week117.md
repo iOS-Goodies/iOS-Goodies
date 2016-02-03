@@ -30,6 +30,7 @@
 * [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews/), by [@orta](https://twitter.com/orta)
 * [The Inside Story of Uber’s Radical Rebranding](http://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/), by [@jessiwrites](https://twitter.com/jessiwrites)
 * [The collaboration curse](http://www.economist.com/news/business/21688872-fashion-making-employees-collaborate-has-gone-too-far-collaboration-curse), by [@TheEconomist](https://twitter.com/TheEconomist)
+* [10 Reasons You Have To Quit Your Job in 2016](https://medium.com/life-learning/10-reasons-you-have-to-quit-your-job-in-2016-a7c9c413c366#.yoxeujqen), by [@jaltucher](https://twitter.com/jaltucher)
 
 **UI/UX**
 
