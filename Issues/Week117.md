@@ -1,5 +1,6 @@
 * Since Parse is down, [check out the alternatives](https://github.com/relatedcode/ParseAlternatives). 
 * Finally an app just for the [Swift's newsletter](https://stylemac.com/hirundo/). 🎉🎉🎉🎉🎉
+* Ramotion, you really need to stop depressing us with [your animations](https://github.com/Ramotion/folding-cell)
 
 **Articles**
 
