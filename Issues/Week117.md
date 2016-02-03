@@ -13,6 +13,7 @@
 * [Elmification of Swift - Implementing the Elm architecture in Swift](https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.93931logf), by [@rheeseyb](https://twitter.com/rheeseyb)
 * [The Design Flaws of KVO](https://sandofsky.com/blog/kvo.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Partial functions in Swift, Part 2: Catching precondition failures](http://www.cocoawithlove.com/blog/2016/02/02/partial-functions-part-two-catching-precondition-failures.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Testing NSURLSession with Swift, Part 2: Flattening Asynchronous Tests](http://masilotti.com/testing-nsurlsession-async/), by [@joemasilotti](https://twitter.com/joemasilotti)
 
 
 **Tools/Controls**
@@ -38,4 +39,4 @@
 
 **Credits**
 
-* [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa),
+* [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [joemasilotti](https://github.com/joemasilotti),
