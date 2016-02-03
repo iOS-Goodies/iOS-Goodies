@@ -12,6 +12,8 @@
 * [dotSwift 2016](https://medium.com/swift-programming/dotswift-2016-83c45ad80616#.f9gy7frkz), by [@greg3z](https://twitter.com/greg3z)
 * [Elmification of Swift - Implementing the Elm architecture in Swift](https://medium.com/design-x-code/elmification-of-swift-af14b7f92b30#.93931logf), by [@rheeseyb](https://twitter.com/rheeseyb)
 * [The Design Flaws of KVO](https://sandofsky.com/blog/kvo.html), by [@sandofsky](https://twitter.com/sandofsky)
+* [Partial functions in Swift, Part 2: Catching precondition failures](http://www.cocoawithlove.com/blog/2016/02/02/partial-functions-part-two-catching-precondition-failures.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+
 
 **Tools/Controls**
 
