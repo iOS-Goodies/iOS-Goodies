@@ -21,6 +21,7 @@
 
 * [Hue](https://github.com/hyperoslo/Hue), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [Freddy](https://github.com/bignerdranch/Freddy), by [@bignerdranch](https://twitter.com/bignerdranch)
+* [Kifi](https://www.kifi.com/integrations/slack)
 
 **Business**
 
