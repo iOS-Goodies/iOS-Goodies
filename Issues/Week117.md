@@ -1,6 +1,7 @@
 * Since Parse is down, [check out the alternatives](https://github.com/relatedcode/ParseAlternatives). 
 * Finally an app just for the [Swift's newsletter](https://stylemac.com/hirundo/). 🎉🎉🎉🎉🎉
-* Ramotion, you really need to stop depressing us with [your animations](https://github.com/Ramotion/folding-cell)
+* Ramotion, you really need to stop depressing us with [your animations](https://github.com/Ramotion/folding-cell) 😄😄😄
+* We love Michael Hartl's *Learn Enough™ X to be Dangerous* series. This time he released [Learn Enough Git to Be Dangerous](http://www.learnenough.com/git-tutorial) enjoy! 🤓
 
 **Articles**
 
