@@ -14,6 +14,12 @@
 * [The Design Flaws of KVO](https://sandofsky.com/blog/kvo.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Partial functions in Swift, Part 2: Catching precondition failures](http://www.cocoawithlove.com/blog/2016/02/02/partial-functions-part-two-catching-precondition-failures.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Testing NSURLSession with Swift, Part 2: Flattening Asynchronous Tests](http://masilotti.com/testing-nsurlsession-async/), by [@joemasilotti](https://twitter.com/joemasilotti)
+* [Protocol Oriented Programming](https://medium.com/swift-programming/protocol-oriented-programming-a3e192f6e8f2#.vztmdb3d6), by [@greg3z](https://twitter.com/greg3z)
+* [Interface Builder Scene Dock: Extra Views](https://medium.com/@michael.ormonde/interface-builder-scene-dock-extra-views-26cef5fe363b#.uy99chq6m), by [@TheXanthanGun](https://twitter.com/TheXanthanGun)
+* [Functional Reactive Intuition - Swift edition](http://itchingpixels.com/blog/functional-reactive-intuition-swift/), by [@itchingpixels](https://twitter.com/itchingpixels)
+* [Swift final methods under the hood](https://medium.com/@MarcioK/swift-final-functions-under-the-hood-2deccd0b9437#.brkwo0wyz), by [@MarcioK](https://twitter.com/MarcioK)
+* [Protocol-Oriented Programming in Swift](https://medium.com/@andrea.prearo/protocol-oriented-programming-in-swift-daba92bc9c98#.mkao8lnp8), by [@andrea_prearo](https://twitter.com/andrea_prearo)
+* [IBDesignable Tips and tricks](https://medium.com/@derrickho_28266/ibdesignable-tips-and-tricks-54c91d43fb7f#.wx5fgwayg), by Derrick Ho
 
 
 **Tools/Controls**
@@ -21,6 +27,7 @@
 * [Hue](https://github.com/hyperoslo/Hue), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [Freddy](https://github.com/bignerdranch/Freddy), by [@bignerdranch](https://twitter.com/bignerdranch)
 * [Kifi](https://www.kifi.com/integrations/slack)
+* [TRON](https://github.com/MLSDev/TRON), by [@MLSDevCom](https://twitter.com/MLSDevCom)
 
 **Business**
 
@@ -36,11 +43,15 @@
 * [Death to Entitlement in Design](https://medium.com/iq-design/death-to-entitlement-in-design-5dfe04e81ce5), by [@inspireUX](https://twitter.com/inspireUX)
 * [How to be the Best UX Team in the World](http://www.nodesagency.com/how-to-be-the-best-ux-team-for-app-development-in-the-world/), by [@nodesdk](https://twitter.com/nodesdk)
 * [Lessons From 5 Years of Lean UX](http://blog.invisionapp.com/5-years-lean-ux-jeff-gothelf/), by [@margaretannk](https://twitter.com/margaretannk)
+* [The Complexity of Simple](https://medium.com/the-biz-stone-collection/the-complexity-of-simple-a2d4dd38bf3#.r2a9yawsu), by [@biz](https://twitter.com/biz)
 
 **Videos**
 
 * [Is it time for Swift?](https://realm.io/news/ben-sandofsky-time-for-swift/), by [@sandofsky](https://twitter.com/sandofsky)
 
+**One more thing**
+
+* [Stream-based Data Synchronization](https://medium.com/@klemen.verdnik/stream-based-data-synchronization-41ff242327ec#.n89wz3cwk), by [@chipxsd](https://twitter.com/chipxsd)
 
 **Credits**
 
