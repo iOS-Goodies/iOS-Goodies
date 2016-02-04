@@ -20,6 +20,8 @@
 * [Swift final methods under the hood](https://medium.com/@MarcioK/swift-final-functions-under-the-hood-2deccd0b9437#.brkwo0wyz), by [@MarcioK](https://twitter.com/MarcioK)
 * [Protocol-Oriented Programming in Swift](https://medium.com/@andrea.prearo/protocol-oriented-programming-in-swift-daba92bc9c98#.mkao8lnp8), by [@andrea_prearo](https://twitter.com/andrea_prearo)
 * [IBDesignable Tips and tricks](https://medium.com/@derrickho_28266/ibdesignable-tips-and-tricks-54c91d43fb7f#.wx5fgwayg), by Derrick Ho
+* [7 Things you must absolutely do before writing an iOS app](https://medium.com/@nikantvohra/7-things-you-must-absolutely-do-before-writing-an-ios-app-a8bacf710c57#.sez1y9eom), by [@nikant_vohra](https://twitter.com/nikant_vohra)
+* [Protocol oriented Flow Controllers](https://medium.com/appunite-edu-collection/protocol-oriented-flow-controllers-989c11eea759#.1hq8hl34e), by [@LukaszKasperek](https://twitter.com/LukaszKasperek)
 
 
 **Tools/Controls**
@@ -37,6 +39,7 @@
 * [The Inside Story of Uber’s Radical Rebranding](http://www.wired.com/2016/02/the-inside-story-behind-ubers-colorful-redesign/), by [@jessiwrites](https://twitter.com/jessiwrites)
 * [The collaboration curse](http://www.economist.com/news/business/21688872-fashion-making-employees-collaborate-has-gone-too-far-collaboration-curse), by [@TheEconomist](https://twitter.com/TheEconomist)
 * [10 Reasons You Have To Quit Your Job in 2016](https://medium.com/life-learning/10-reasons-you-have-to-quit-your-job-in-2016-a7c9c413c366#.yoxeujqen), by [@jaltucher](https://twitter.com/jaltucher)
+* [What are you drawing, Lily?](https://m.signalvnoise.com/what-are-you-drawing-lily-48f0683941e6#.kbel3lyqv), by [@natekontny](https://twitter.com/natekontny)
 
 **UI/UX**
 
