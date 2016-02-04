@@ -14,7 +14,6 @@
 * [The Design Flaws of KVO](https://sandofsky.com/blog/kvo.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Partial functions in Swift, Part 2: Catching precondition failures](http://www.cocoawithlove.com/blog/2016/02/02/partial-functions-part-two-catching-precondition-failures.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Testing NSURLSession with Swift, Part 2: Flattening Asynchronous Tests](http://masilotti.com/testing-nsurlsession-async/), by [@joemasilotti](https://twitter.com/joemasilotti)
-* [Partial functions in Swift, Part 2: Catching precondition failures](http://cocoawithlove.com/blog/2016/02/02/partial-functions-part-two-catching-precondition-failures.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 
 **Tools/Controls**
