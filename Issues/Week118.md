@@ -4,6 +4,7 @@
 * [The Prolific Interactive Swift Style Guide](http://blog.prolificinteractive.com/2016/02/08/the-prolific-interactive-swift-style-guide/), by [@weareprolific](https://twitter.com/weareprolific)
 * [Bond Tutorial: Bindings in Swift](http://www.raywenderlich.com/123108/bond-tutorial), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 * [Asynchronous error handling](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/), by [@aligatr](https://twitter.com/aligatr)
+* [Swift Documentation Quick Guide](http://useyourloaf.com/blog/swift-documentation-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
