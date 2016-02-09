@@ -15,6 +15,7 @@
 **UI/UX**
 
 * [Social Media Whitewash](http://www.elischiff.com/2016/2/9/social-media-whitewash), by [@eli_schiff](https://twitter.com/eli_schiff)
+* [Why do Chinese websites look so busy?](https://econsultancy.com/blog/67466-why-do-chinese-websites-look-so-busy), by [@jrajeck](https://twitter.com/jrajeck)
 
 **Videos**
 
