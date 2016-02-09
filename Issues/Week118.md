@@ -3,6 +3,7 @@
 * [Parse is Moving On, So Now Must We](https://mattwyskiel.github.io/posts/2016/02/07/parse-shutdown.html) by [@MattWyskiel](https://twitter.com/mattwyskiel)
 * [The Prolific Interactive Swift Style Guide](http://blog.prolificinteractive.com/2016/02/08/the-prolific-interactive-swift-style-guide/), by [@weareprolific](https://twitter.com/weareprolific)
 * [Bond Tutorial: Bindings in Swift](http://www.raywenderlich.com/123108/bond-tutorial), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
+* [Asynchronous error handling](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/), by [@aligatr](https://twitter.com/aligatr)
 
 **Tools/Controls**
 
@@ -18,4 +19,4 @@
 
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa)
