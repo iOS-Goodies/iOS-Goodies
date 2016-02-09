@@ -2,6 +2,7 @@
 
 * [Parse is Moving On, So Now Must We](https://mattwyskiel.github.io/posts/2016/02/07/parse-shutdown.html) by [@MattWyskiel](https://twitter.com/mattwyskiel)
 * [The Prolific Interactive Swift Style Guide](http://blog.prolificinteractive.com/2016/02/08/the-prolific-interactive-swift-style-guide/), by [@weareprolific](https://twitter.com/weareprolific)
+* [Bond Tutorial: Bindings in Swift](http://www.raywenderlich.com/123108/bond-tutorial), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 
 **Tools/Controls**
 
