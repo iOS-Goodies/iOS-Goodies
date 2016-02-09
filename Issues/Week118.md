@@ -1,6 +1,7 @@
 **Articles**
 
 * [Parse is Moving On, So Now Must We](https://mattwyskiel.github.io/posts/2016/02/07/parse-shutdown.html) by [@MattWyskiel](https://twitter.com/mattwyskiel)
+* [The Prolific Interactive Swift Style Guide](http://blog.prolificinteractive.com/2016/02/08/the-prolific-interactive-swift-style-guide/), by [@weareprolific](https://twitter.com/weareprolific)
 
 **Tools/Controls**
 
@@ -14,4 +15,4 @@
 
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway)
