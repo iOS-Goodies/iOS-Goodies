@@ -11,6 +11,8 @@
 
 **UI/UX**
 
+* [Social Media Whitewash](http://www.elischiff.com/2016/2/9/social-media-whitewash), by [@eli_schiff](https://twitter.com/eli_schiff)
+
 **Videos**
 
 **Credits**
