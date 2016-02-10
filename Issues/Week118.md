@@ -5,6 +5,7 @@
 * [Bond Tutorial: Bindings in Swift](http://www.raywenderlich.com/123108/bond-tutorial), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 * [Asynchronous error handling](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/), by [@aligatr](https://twitter.com/aligatr)
 * [Swift Documentation Quick Guide](http://useyourloaf.com/blog/swift-documentation-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
+* [How to cache view controllers in iOS](https://medium.com/@gitter/how-to-cache-view-controllers-in-ios-854be6734062#.i11cdrycj), by [@trevorah_](https://twitter.com/trevorah_)
 
 **Tools/Controls**
 
@@ -21,4 +22,6 @@
 
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), 
+[gitterHQ](https://github.com/gitterHQ/gitter)
+
