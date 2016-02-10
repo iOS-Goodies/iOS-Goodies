@@ -5,6 +5,8 @@
 * [Bond Tutorial: Bindings in Swift](http://www.raywenderlich.com/123108/bond-tutorial), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 * [Asynchronous error handling](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/), by [@aligatr](https://twitter.com/aligatr)
 * [Swift Documentation Quick Guide](http://useyourloaf.com/blog/swift-documentation-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
+* [Ruby for iOS Developers - Managing Ruby Tools with Bundler](http://www.mokacoding.com/blog/ruby-for-ios-developers-bundler/), by [@mokagio](https://twitter.com/mokagio)
+* [Adapting Images for Size Classes](http://useyourloaf.com/blog/adapting-images-for-size-classes/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -21,4 +23,4 @@
 
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
