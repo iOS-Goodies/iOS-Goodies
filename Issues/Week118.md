@@ -6,8 +6,14 @@
 * [Asynchronous error handling](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/), by [@aligatr](https://twitter.com/aligatr)
 * [Swift Documentation Quick Guide](http://useyourloaf.com/blog/swift-documentation-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
 * [How to cache view controllers in iOS](https://medium.com/@gitter/how-to-cache-view-controllers-in-ios-854be6734062#.i11cdrycj), by [@trevorah_](https://twitter.com/trevorah_)
+* [Ruby for iOS Developers - Managing Ruby Tools with Bundler](http://www.mokacoding.com/blog/ruby-for-ios-developers-bundler/), by [@mokagio](https://twitter.com/mokagio)
+* [Adapting Images for Size Classes](http://useyourloaf.com/blog/adapting-images-for-size-classes/), by [@kharrison](https://twitter.com/kharrison)
+* [A Protocol-Oriented State Machine for Layout Constraints](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844), by [@pcperini](https://twitter.com/pcperini)
+* [What every iOS Developer should be doing with Instruments](https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f), by [@kazmiekr](https://twitter.com/kazmiekr)
 
 **Tools/Controls**
+
+* [JSONUtilities](https://github.com/lucianomarisi/JSONUtilities), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 **Business**
 
@@ -17,11 +23,13 @@
 
 * [Social Media Whitewash](http://www.elischiff.com/2016/2/9/social-media-whitewash), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [Why do Chinese websites look so busy?](https://econsultancy.com/blog/67466-why-do-chinese-websites-look-so-busy), by [@jrajeck](https://twitter.com/jrajeck)
+* [Golden Rules of User Interface Design](https://medium.com/@101/golden-rules-of-user-interface-design-19282aeb06b), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
+* [Pragmatic Core Data](https://realm.io/news/cocoaheads-florian-kugler-pragmatic-core-data/), by [@floriankugler](https://twitter.com/floriankugler)
+
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), 
-[gitterHQ](https://github.com/gitterHQ/gitter)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [gitterHQ](https://github.com/gitterHQ/gitter)
 
