@@ -14,6 +14,7 @@
 **Tools/Controls**
 
 * [JSONUtilities](https://github.com/lucianomarisi/JSONUtilities), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Reel Search](https://github.com/Ramotion/reel-search), by [Ramotion](https://github.com/Ramotion)
 
 **Business**
 
