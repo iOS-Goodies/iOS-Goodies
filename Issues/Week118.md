@@ -15,6 +15,7 @@
 
 * [JSONUtilities](https://github.com/lucianomarisi/JSONUtilities), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Reel Search](https://github.com/Ramotion/reel-search), by [Ramotion](https://github.com/Ramotion)
+* [Stevia](https://github.com/s4cha/Stevia), by [@s4cha](https://github.com/s4cha)
 
 **Business**
 
