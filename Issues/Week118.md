@@ -7,6 +7,7 @@
 * [Swift Documentation Quick Guide](http://useyourloaf.com/blog/swift-documentation-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
 * [Ruby for iOS Developers - Managing Ruby Tools with Bundler](http://www.mokacoding.com/blog/ruby-for-ios-developers-bundler/), by [@mokagio](https://twitter.com/mokagio)
 * [Adapting Images for Size Classes](http://useyourloaf.com/blog/adapting-images-for-size-classes/), by [@kharrison](https://twitter.com/kharrison)
+* [A Protocol-Oriented State Machine for Layout Constraints](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844), by [@pcperini](https://twitter.com/pcperini)
 
 **Tools/Controls**
 
@@ -18,8 +19,11 @@
 
 * [Social Media Whitewash](http://www.elischiff.com/2016/2/9/social-media-whitewash), by [@eli_schiff](https://twitter.com/eli_schiff)
 * [Why do Chinese websites look so busy?](https://econsultancy.com/blog/67466-why-do-chinese-websites-look-so-busy), by [@jrajeck](https://twitter.com/jrajeck)
+* [Golden Rules of User Interface Design](https://medium.com/@101/golden-rules-of-user-interface-design-19282aeb06b), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
+
+* [Pragmatic Core Data](https://realm.io/news/cocoaheads-florian-kugler-pragmatic-core-data/), by [@floriankugler](https://twitter.com/floriankugler)
 
 **Credits**
 
