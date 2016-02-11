@@ -5,6 +5,7 @@
 * [Bond Tutorial: Bindings in Swift](http://www.raywenderlich.com/123108/bond-tutorial), by [@ColinEberhardt](https://twitter.com/ColinEberhardt)
 * [Asynchronous error handling](http://alisoftware.github.io/swift/async/error/2016/02/06/async-errors/), by [@aligatr](https://twitter.com/aligatr)
 * [Swift Documentation Quick Guide](http://useyourloaf.com/blog/swift-documentation-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
+* [How to cache view controllers in iOS](https://medium.com/@gitter/how-to-cache-view-controllers-in-ios-854be6734062), by [@trevorah_](https://twitter.com/trevorah_)
 * [Ruby for iOS Developers - Managing Ruby Tools with Bundler](http://www.mokacoding.com/blog/ruby-for-ios-developers-bundler/), by [@mokagio](https://twitter.com/mokagio)
 * [Adapting Images for Size Classes](http://useyourloaf.com/blog/adapting-images-for-size-classes/), by [@kharrison](https://twitter.com/kharrison)
 * [A Protocol-Oriented State Machine for Layout Constraints](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844), by [@pcperini](https://twitter.com/pcperini)
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kohola71](https://github.com/kohola71)
