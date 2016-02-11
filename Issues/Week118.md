@@ -8,6 +8,7 @@
 * [Ruby for iOS Developers - Managing Ruby Tools with Bundler](http://www.mokacoding.com/blog/ruby-for-ios-developers-bundler/), by [@mokagio](https://twitter.com/mokagio)
 * [Adapting Images for Size Classes](http://useyourloaf.com/blog/adapting-images-for-size-classes/), by [@kharrison](https://twitter.com/kharrison)
 * [A Protocol-Oriented State Machine for Layout Constraints](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844), by [@pcperini](https://twitter.com/pcperini)
+* [What every iOS Developer should be doing with Instruments](https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f), by [@kazmiekr](https://twitter.com/kazmiekr)
 
 **Tools/Controls**
 
