@@ -34,4 +34,4 @@
 
 **Credits**
 
-* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kohola71](https://github.com/kohola71)
+* [mattwyskiel](https://github.com/mattwyskiel),  [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kohola71](https://github.com/kohola71), [ricardopereira](https://github.com/ricardopereira)
