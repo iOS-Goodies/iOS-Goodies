@@ -11,6 +11,7 @@
 * [A Protocol-Oriented State Machine for Layout Constraints](https://medium.com/@pcperini/a-protocol-oriented-state-machine-for-layout-constraints-2c6c94bbd844), by [@pcperini](https://twitter.com/pcperini)
 * [What every iOS Developer should be doing with Instruments](https://medium.com/@kazmiekr/what-every-ios-developer-should-be-doing-with-instruments-d1661eeaf64f), by [@kazmiekr](https://twitter.com/kazmiekr)
 * [iOS Interfaces with Xcode Playgrounds](http://www.whitesmith.co/blog/ios-interfaces-with-xcode-playgrounds/), by [@ricardopereiraw](https://twitter.com/ricardopereiraw)
+* [Using Xcode Bots](http://mjtsai.com/blog/2016/02/11/using-xcode-bots/), by [@mjtsai](https://twitter.com/mjtsai)
 
 **Tools/Controls**
 
