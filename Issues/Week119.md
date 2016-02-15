@@ -1,6 +1,6 @@
 **Articles**
 
-* [Manually disposing a bag and creating a timer](http://rx-marin.com/post/rxswift-timer-sequence-manual-dispose-bag/) by [@icanzilb](https://twitter.com/icanzilb)
+* [Manually disposing a bag and creating a timer with RxSwift](http://rx-marin.com/post/rxswift-timer-sequence-manual-dispose-bag/) by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
