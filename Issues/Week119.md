@@ -14,4 +14,4 @@
 
 **Credits**
 
-* [dcordero](https://github.com/dcordero)
+* [dcordero](https://github.com/dcordero), [icanzilb][https://github.com/icanzilb]
