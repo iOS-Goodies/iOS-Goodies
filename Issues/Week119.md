@@ -1,6 +1,7 @@
 **Articles**
 
 * [Manually disposing a bag and creating a timer with RxSwift](http://rx-marin.com/post/rxswift-timer-sequence-manual-dispose-bag/) by [@icanzilb](https://twitter.com/icanzilb)
+* [Split laps timer with RxSwift and RxCocoa](http://rx-marin.com/post/rxswift-rxcocoa-sample-split-laps-timer/) by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
