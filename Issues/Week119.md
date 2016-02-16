@@ -1,5 +1,6 @@
 **Articles**
 
+* [Split laps timer with RxSwift and RxCocoa](http://rx-marin.com/post/rxswift-rxcocoa-sample-split-laps-timer/) by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
@@ -13,4 +14,4 @@
 
 **Credits**
 
-* [dcordero](https://github.com/dcordero)
+* [dcordero](https://github.com/dcordero), [icanzilb](https://github.com/icanzilb)
