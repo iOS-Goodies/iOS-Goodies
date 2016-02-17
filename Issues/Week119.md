@@ -17,6 +17,7 @@
 **Business**
 
 * [Apple’s Elephant in the Room](https://medium.com/@AlexandraMint/apple-s-elephant-in-the-room-5383a43dc413#.ju8ikf7u4), by [Alexandra Mintsopoulos](https://medium.com/@AlexandraMint)
+* [The 25 Characteristics of a Great Development Team](http://blog.scrum.org/the-25-characteristics-of-a-great-development-team/), by [@Barryovereem](https://twitter.com/Barryovereem)
 
 **UI/UX**
 
