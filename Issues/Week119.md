@@ -18,6 +18,9 @@
 
 * [Apple’s Elephant in the Room](https://medium.com/@AlexandraMint/apple-s-elephant-in-the-room-5383a43dc413#.ju8ikf7u4), by [Alexandra Mintsopoulos](https://medium.com/@AlexandraMint)
 
+**UI/UX**
+
+* [Design Details: Quartz for iOS](http://blog.brianlovin.com/design-details-quartz/), by [@brian_lovin](https://twitter.com/brian_lovin)
 
 **Credits**
 
