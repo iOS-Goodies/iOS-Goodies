@@ -16,4 +16,4 @@
 
 **Credits**
 
-* [dcordero](https://github.com/dcordero), [icanzilb](https://github.com/icanzilb), [mariusc](https://github.com/mariusc), [SandroMachado](https://github.com/SandroMachado)
+* [dcordero](https://github.com/dcordero), [icanzilb](https://github.com/icanzilb), [mariusc](https://github.com/mariusc), [SandroMachado](https://github.com/SandroMachado), [marmelroy](https://github.com/marmelroy)
