@@ -5,6 +5,7 @@
 
 **Tools/Controls**
 
+* [FileBrowser](https://github.com/marmelroy/FileBrowser), by [@marmelroy](https://twitter.com/marmelroy)
 * [SwiftChallenges](https://github.com/fellowswift/swiftchallenges), by [@fellowswift](https://github.com/fellowswift)
 * [EarlGrey](https://github.com/google/EarlGrey), by [@Google](https://github.com/google)
 
@@ -15,4 +16,4 @@
 
 **Credits**
 
-* [dcordero](https://github.com/dcordero), [icanzilb](https://github.com/icanzilb), [mariusc](https://github.com/mariusc), [SandroMachado](https://github.com/SandroMachado)
+* [dcordero](https://github.com/dcordero), [icanzilb](https://github.com/icanzilb), [mariusc](https://github.com/mariusc), [SandroMachado](https://github.com/SandroMachado), [marmelroy](https://github.com/marmelroy)
