@@ -3,13 +3,9 @@
 * [Split laps timer with RxSwift and RxCocoa](http://rx-marin.com/post/rxswift-rxcocoa-sample-split-laps-timer/) by [@icanzilb](https://twitter.com/icanzilb)
 * [Use it or lose it: why safe C is sometimes unsafe Swift](http://www.cocoawithlove.com/blog/2016/02/16/use_it_or_lose_it_why_safe_c_is_sometimes_unsafe_swift.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Sharing functionality across tvOS and iOS](https://medium.com/ribot-labs/sharing-functionality-across-tvos-and-ios-228c76b03a06#.pwykc54ol), by [@manu_marcos](https://twitter.com/manu_marcos)
-<<<<<<< HEAD
-* [iOS 9: How to Peek & Pop A Specific View Inside a UITableViewCell](https://www.natashatherobot.com/peek-pop-view-inside-tableviewcell/), by [@natashatherobot](https://twitter.com/natashatherobot)
-=======
 * [The Xcode Build System](https://pewpewthespells.com/blog/xcode_build_system.html), by [Dirk_Gently](https://twitter.com/Dirk_Gently)
 * [Enhancing UIViews Using Extensions](http://holko.pl/2016/02/16/enhancing-uiviews/), by [@arekholko](https://twitter.com/arekholko)
-
->>>>>>> upstream/master
+* [iOS 9: How to Peek & Pop A Specific View Inside a UITableViewCell](https://www.natashatherobot.com/peek-pop-view-inside-tableviewcell/), by [@natashatherobot](https://twitter.com/natashatherobot)
 
 **Tools/Controls**
 
