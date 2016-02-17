@@ -5,6 +5,7 @@
 
 **Tools/Controls**
 
+* [FileBrowser](https://github.com/marmelroy/FileBrowser), by [@marmelroy](https://twitter.com/marmelroy)
 * [SwiftChallenges](https://github.com/fellowswift/swiftchallenges), by [@fellowswift](https://github.com/fellowswift)
 * [EarlGrey](https://github.com/google/EarlGrey), by [@Google](https://github.com/google)
 
