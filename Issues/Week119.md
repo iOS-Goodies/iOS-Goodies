@@ -5,7 +5,7 @@
 * [Sharing functionality across tvOS and iOS](https://medium.com/ribot-labs/sharing-functionality-across-tvos-and-ios-228c76b03a06#.pwykc54ol), by [@manu_marcos](https://twitter.com/manu_marcos)
 * [The Xcode Build System](https://pewpewthespells.com/blog/xcode_build_system.html), by [Dirk_Gently](https://twitter.com/Dirk_Gently)
 * [Enhancing UIViews Using Extensions](http://holko.pl/2016/02/16/enhancing-uiviews/), by [@arekholko](https://twitter.com/arekholko)
-
+* [iOS 9: How to Peek & Pop A Specific View Inside a UITableViewCell](https://www.natashatherobot.com/peek-pop-view-inside-tableviewcell/), by [@natashatherobot](https://twitter.com/natashatherobot)
 
 **Tools/Controls**
 
