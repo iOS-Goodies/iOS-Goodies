@@ -23,6 +23,7 @@
 ](https://medium.com/listen-to-my-story/the-myths-of-product-management-7376eaf549a3#.iv5f31ccy), by [@cwodtke](https://twitter.com/cwodtke)
 * [Find One Person Who Gives A Shit. The Rest Is Easy.](https://medium.com/life-learning/if-you-can-make-one-person-give-a-shit-you-re-winning-fb6fd5df3bde#.1kk4n2j1b), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
 * [The Secret to Moonshots? Killing Our Projects](https://backchannel.com/the-secret-to-moonshots-killing-our-projects-49b18dc7f2d6#.39uxiu7hm), by [@astroteller](https://twitter.com/astroteller)
+* [Technical interview performance is kind of arbitrary](http://blog.interviewing.io/technical-interview-performance-is-kind-of-arbitrary-heres-the-data/), by [@alinelernerLLC](https://twitter.com/alinelernerLLC)
 
 **UI/UX**
 
