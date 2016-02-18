@@ -13,6 +13,7 @@
 * [SwiftChallenges](https://github.com/fellowswift/swiftchallenges), by [@fellowswift](https://github.com/fellowswift)
 * [EarlGrey](https://github.com/google/EarlGrey), by [@Google](https://github.com/google)
 * [Tactile](https://github.com/delba/Tactile), by [@delba](https://github.com/delba)
+* [SPTDataLoader](https://github.com/spotify/SPTDataLoader), by [@spotify](https://twitter.com/spotify)
 
 **Business**
 
