@@ -30,6 +30,7 @@
 
 * [Design Details: Quartz for iOS](http://blog.brianlovin.com/design-details-quartz/), by [@brian_lovin](https://twitter.com/brian_lovin)
 * [How Quartz Onboards New Users](http://www.useronboard.com/how-quartz-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
+* [The new Quartz app is not the future of news](http://mjparnell.com/the-new-quartz-app-is-not-the-future-of-news/), by [@Neovenator](https://twitter.com/Neovenator)
 * [Home Improvement - Modernizing the iPhone Home screen](https://medium.com/@ungrok/home-improvement-c63e5f1e07d7#.u02akpl8i), by [@ungrok](https://twitter.com/ungrok)
 
 **Credits**
