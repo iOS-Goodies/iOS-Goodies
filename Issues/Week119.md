@@ -6,6 +6,7 @@
 * [The Xcode Build System](https://pewpewthespells.com/blog/xcode_build_system.html), by [Dirk_Gently](https://twitter.com/Dirk_Gently)
 * [Enhancing UIViews Using Extensions](http://holko.pl/2016/02/16/enhancing-uiviews/), by [@arekholko](https://twitter.com/arekholko)
 * [iOS 9: How to Peek & Pop A Specific View Inside a UITableViewCell](https://www.natashatherobot.com/peek-pop-view-inside-tableviewcell/), by [@natashatherobot](https://twitter.com/natashatherobot)
+* [iOS: How to store your users’ last network request for seamless app launch with Swift](https://medium.com/cobe-mobile/ios-how-to-store-your-users-last-network-request-for-seamless-app-launch-with-swift-8ecdf119db4a), by [@marinbenc](https://twitter.com/marinbenc)
 
 **Tools/Controls**
 
