@@ -20,6 +20,10 @@
 * [Unflatenning Design](https://blog.intercom.io/unflattening-design/), by [@zmiro](https://twitter.com/zmiro)
 
 
+**Videos**
+
+* [dotSwift 2016](http://www.thedotpost.com/conference/dotswift-2016), by [@dotSwift](https://twitter.com/dotSwift)
+
 **Credits**
 
 * [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
