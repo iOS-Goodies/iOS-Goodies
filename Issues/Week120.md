@@ -3,7 +3,7 @@
 
 * [Architecture Patterns in iOS: Model-View-Controller](https://medium.com/the-traveled-ios-developers-guide/architecture-patterns-in-ios-part-3-231f82cbb781), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [What is NSUserDefaults?](http://dscoder.com/defaults.html), by [@Catfish_Man](https://twitter.com/Catfish_Man)
-
+* [Split laps timer with RxSwift and RxCocoa: Part 2](http://rx-marin.com/post/rxswift-rxcocoa-timer-app-useWithLatest-bindings/), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb)
