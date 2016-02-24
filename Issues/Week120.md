@@ -6,6 +6,8 @@
 * [Split laps timer with RxSwift and RxCocoa: Part 2](http://rx-marin.com/post/rxswift-rxcocoa-timer-app-useWithLatest-bindings/), by [@icanzilb](https://twitter.com/icanzilb)
 * [It's easy to write imperative](http://staltz.com/its-easy-to-write-imperative.html), by [@andrestaltz](https://twitter.com/andrestaltz)
 * [How I Write Swift Specs With Quick](http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [Hello Server Side Swift](https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7#.uf56fnbmh), by [@LogMaestro](https://twitter.com/LogMaestro)
+
 
 **Tools/Controls**
 
@@ -28,4 +30,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb), [Ben-G](https://github.com/Ben-G)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz)
