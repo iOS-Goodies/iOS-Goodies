@@ -5,6 +5,7 @@
 * [What is NSUserDefaults?](http://dscoder.com/defaults.html), by [@Catfish_Man](https://twitter.com/Catfish_Man)
 * [Split laps timer with RxSwift and RxCocoa: Part 2](http://rx-marin.com/post/rxswift-rxcocoa-timer-app-useWithLatest-bindings/), by [@icanzilb](https://twitter.com/icanzilb)
 * [It's easy to write imperative](http://staltz.com/its-easy-to-write-imperative.html), by [@andrestaltz](https://twitter.com/andrestaltz)
+* [How I Write Swift Specs With Quick](http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb), [Ben-G](https://github.com/Ben-G)
