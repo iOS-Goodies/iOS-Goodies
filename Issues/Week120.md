@@ -28,6 +28,7 @@
 **Videos**
 
 * [dotSwift 2016](http://www.thedotpost.com/conference/dotswift-2016), by [@dotSwift](https://twitter.com/dotSwift)
+* [Apple TV Tech Talks](https://developer.apple.com/videos/techtalks-apple-tv/)
 
 **Credits**
 
