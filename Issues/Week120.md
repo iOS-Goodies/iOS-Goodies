@@ -28,6 +28,7 @@
 * [5 Main Things to Remember When Designing Mobile Apps](http://www.nodesagency.com/5-main-things-to-remember-designing-mobile-apps/), by [@nodesdk](https://twitter.com/nodesdk)
 * [Designing for the Apple TV](https://medium.com/@flarup/designing-for-the-apple-tv-5992c3aab1e4), by [@flarup](https://twitter.com/flarup)
 * [Unflatenning Design](https://blog.intercom.io/unflattening-design/), by [@zmiro](https://twitter.com/zmiro)
+* [Reactions: Not everything in life is Likable](https://medium.com/facebook-design/reactions-not-everything-in-life-is-likable-5c403de72a3f), by [@gt](https://twitter.com/gt)
 
 
 **Videos**
