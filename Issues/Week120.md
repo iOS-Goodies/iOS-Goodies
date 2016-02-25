@@ -25,6 +25,7 @@
 * [The Future of Work Will Be Distributed](http://johnmk.tumblr.com/post/139914311352/the-future-of-work-will-be-distributed), by [@jmelaskyriazi](https://twitter.com/jmelaskyriazi)
 * [Building New Features ≠ Creating More Value](https://medium.com/@WdeB/building-new-features-creating-more-value-85b2be7410ec), by [@wdeb](https://twitter.com/wdeb)
 * [Freelancing Is All About The Benjamins](https://medium.com/life-learning/it-s-all-about-the-fucking-benjamins-df6c9494eff3), by [@jonwestenberg](https://twitter.com/jonwestenberg)
+* [The Most Powerful Lesson I’ve Ever Learned In Business](https://medium.com/@mmccue/the-most-powerful-lesson-i-ve-ever-learned-in-business-4d89e95ab250), by [@mmccue](https://twitter.com/mmccue)
 
 **UI/UX**
 
