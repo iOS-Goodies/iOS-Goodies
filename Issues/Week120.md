@@ -7,11 +7,12 @@
 * [It's easy to write imperative](http://staltz.com/its-easy-to-write-imperative.html), by [@andrestaltz](https://twitter.com/andrestaltz)
 * [How I Write Swift Specs With Quick](http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Hello Server Side Swift](https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7#.uf56fnbmh), by [@LogMaestro](https://twitter.com/LogMaestro)
-
+* [Validated: A Swift μ-Library for Somewhat Dependent Types](http://blog.benjamin-encz.de/validated-a-swift-m-library-for-somewhat-dependent-types/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Tools/Controls**
 
 * [Kitura](https://github.com/IBM-Swift/Kitura), by IBM
+* [Validated](https://github.com/Ben-G/Validated), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 
 **Business**
