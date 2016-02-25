@@ -12,7 +12,8 @@
 * [3 Steps to marry Xcode with Swift Package Manager](https://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/), by [@czechboy0](https://twitter.com/czechboy0)
 * [Pattern Matching in Swift](http://andybargh.com/2016/02/25/pattern-matching-in-swift/), by [@abargh](https://twitter.com/abargh)
 * [RxSwift by Examples #1 – The basics](http://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/), by Łukasz Mróz
-
+* [Understanding git for real by exploring the .git directory](https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.74qo35tv3), by [@PierreDeWulf](https://twitter.com/PierreDeWulf)
+* 
 **Tools/Controls**
 
 * [Kitura](https://github.com/IBM-Swift/Kitura), by IBM
