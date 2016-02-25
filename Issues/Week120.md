@@ -13,7 +13,7 @@
 
 * [Kitura](https://github.com/IBM-Swift/Kitura), by IBM
 * [Validated](https://github.com/Ben-G/Validated), by [@benjaminencz](https://twitter.com/benjaminencz)
-
+* [QuickActions](https://github.com/ricardopereira/QuickActions), by [@ricardopereiraw](https://twitter.com/ricardopereiraw)
 
 **Business**
 
