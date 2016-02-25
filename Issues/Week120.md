@@ -6,9 +6,10 @@
 * [Split laps timer with RxSwift and RxCocoa: Part 2](http://rx-marin.com/post/rxswift-rxcocoa-timer-app-useWithLatest-bindings/), by [@icanzilb](https://twitter.com/icanzilb)
 * [It's easy to write imperative](http://staltz.com/its-easy-to-write-imperative.html), by [@andrestaltz](https://twitter.com/andrestaltz)
 * [How I Write Swift Specs With Quick](http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/), by [@benjaminencz](https://twitter.com/benjaminencz)
-* [Hello Server Side Swift](https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7#.uf56fnbmh), by [@LogMaestro](https://twitter.com/LogMaestro)
+* [Hello Server Side Swift](https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7), by [@LogMaestro](https://twitter.com/LogMaestro)
 * [Validated: A Swift μ-Library for Somewhat Dependent Types](http://blog.benjamin-encz.de/validated-a-swift-m-library-for-somewhat-dependent-types/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [From Objective-C to Swift: Approaches to decoding JSON](http://www.marisibrothers.com/2016/02/from-objective-c-to-swift-approaches-to.html), by [@nmarisi](https://twitter.com/nmarisi)
+* [3 Steps to marry Xcode with Swift Package Manager](https://honzadvorsky.com/articles/2016-02-25-14-00-3_steps_to_marry_xcode_with_swift_package_manager/), by [@czechboy0](https://twitter.com/czechboy0)
 
 **Tools/Controls**
 
