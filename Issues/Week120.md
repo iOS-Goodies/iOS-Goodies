@@ -22,6 +22,7 @@
 
 **Business**
 
+* [The Future of Work Will Be Distributed](http://johnmk.tumblr.com/post/139914311352/the-future-of-work-will-be-distributed), by [@jmelaskyriazi](https://twitter.com/jmelaskyriazi)
 
 **UI/UX**
 
