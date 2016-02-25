@@ -8,6 +8,7 @@
 * [How I Write Swift Specs With Quick](http://blog.benjamin-encz.de/how-i-write-swift-specs-with-quick/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Hello Server Side Swift](https://medium.com/@LogMaestro/server-side-swift-c965b7ebe6e7#.uf56fnbmh), by [@LogMaestro](https://twitter.com/LogMaestro)
 * [Validated: A Swift μ-Library for Somewhat Dependent Types](http://blog.benjamin-encz.de/validated-a-swift-m-library-for-somewhat-dependent-types/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [From Objective-C to Swift: Approaches to decoding JSON](http://www.marisibrothers.com/2016/02/from-objective-c-to-swift-approaches-to.html), by [@nmarisi](https://twitter.com/nmarisi)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [icanzilb](https://github.com/icanzilb), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz), [nmarisi](https://github.com/nmarisi)
