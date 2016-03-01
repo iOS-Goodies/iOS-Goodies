@@ -2,6 +2,8 @@
 
 * [WWDC Wish List](http://blog.steventroughtonsmith.com/post/140141855080/wwdc-wish-list), by [@stroughtonsmith](https://twitter.com/stroughtonsmith)
 * [Swift Abstract Syntax Tree](http://ankit.im/swift/2016/02/29/swift-abstract-syntax-tree/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [Tracking tasks with stack traces in Swift](http://www.cocoawithlove.com/blog/2016/02/28/stack-traces-in-swift.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Custom convenience operators with RxSwift, Part 1](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part1/), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
@@ -28,4 +30,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71)
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc)
