@@ -9,6 +9,10 @@
 
 **Business**
 
+* [Valuing high-tech companies](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/valuing-high-tech-companies), by [@DavidWWessels](https://twitter.com/DavidWWessels), [@koller_tim](https://twitter.com/koller_tim) and Marc Goedhart
+* [7 Lessons From a Failed Tech Startup](https://thinkfaster.co/2016/02/7-lessons-from-a-failed-tech-startup/), by [@williamsonross](https://twitter.com/williamsonross)
+* [Just Landed Is Shutting Down](https://medium.com/@jongrall/just-landed-is-shutting-down-629765cbe1d7), by [@jongrall](https://twitter.com/jongrall)
+* [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith-29166d022228), by [@dhh](https://twitter.com/dhh)
 
 **UI/UX**
 
