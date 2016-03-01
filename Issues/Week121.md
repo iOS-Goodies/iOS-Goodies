@@ -3,7 +3,6 @@
 * [WWDC Wish List](http://blog.steventroughtonsmith.com/post/140141855080/wwdc-wish-list), by [@stroughtonsmith](https://twitter.com/stroughtonsmith)
 * [Swift Abstract Syntax Tree](http://ankit.im/swift/2016/02/29/swift-abstract-syntax-tree/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 
-
 **Tools/Controls**
 
 
@@ -23,8 +22,9 @@
 **Goodies**
 
 * [Free Logo Designs For Your Projects, Added Every Tuesday](http://www.logodust.com/), by [Fairpixels](http://fairpixels.co/)
+* [Best Gitter channels for iOS developers](https://medium.com/@gitter/best-gitter-channels-for-ios-developers-173b32627ce1#.502hzixtc), by [@koholaa](https://twitter.com/koholaa)
 
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), 
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71)
