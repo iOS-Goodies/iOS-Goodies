@@ -8,6 +8,7 @@
 
 **Business**
 
+* [Developers: Apple’s App Review Needs Big Improvements](https://www.macstories.net/stories/developers-apples-app-review-needs-big-improvements/), by [@greyham](https://twitter.com/greyham)
 * [Valuing high-tech companies](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/valuing-high-tech-companies), by [@DavidWWessels](https://twitter.com/DavidWWessels), [@koller_tim](https://twitter.com/koller_tim) and Marc Goedhart
 * [7 Lessons From a Failed Tech Startup](https://thinkfaster.co/2016/02/7-lessons-from-a-failed-tech-startup/), by [@williamsonross](https://twitter.com/williamsonross)
 * [Just Landed Is Shutting Down](https://medium.com/@jongrall/just-landed-is-shutting-down-629765cbe1d7), by [@jongrall](https://twitter.com/jongrall)
