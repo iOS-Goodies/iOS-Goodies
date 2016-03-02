@@ -18,6 +18,8 @@
 
 **UI/UX**
 
+* [14 Biggest Challenges in Design Today](http://www.creativebloq.com/graphic-design/14-biggest-challenges-design-today-31619475), by [@juliasagar](https://twitter.com/juliasagar)
+
 
 **Videos**
 
