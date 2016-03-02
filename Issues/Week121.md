@@ -8,7 +8,7 @@
 
 
 **Tools/Controls**
-
+* [Swift Express](https://github.com/crossroadlabs/Express), by Crossroadlabs, via [@sofia_husak](https://twitter.com/sofia_husak) 
 
 **Business**
 
@@ -34,4 +34,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [mluisbrown](https://github.com/mluisbrown)
