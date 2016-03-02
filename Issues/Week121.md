@@ -4,7 +4,7 @@
 * [Swift Abstract Syntax Tree](http://ankit.im/swift/2016/02/29/swift-abstract-syntax-tree/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 * [Tracking tasks with stack traces in Swift](http://www.cocoawithlove.com/blog/2016/02/28/stack-traces-in-swift.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Custom convenience operators with RxSwift, Part 1](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part1/), by [@icanzilb](https://twitter.com/icanzilb)
-* [Simulating signals in Swift, part 1](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-1.html) [part 2](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-2.html) by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* Simulating signals in Swift, [part 1](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-1.html) and [part 2](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-2.html) by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 
 **Tools/Controls**
