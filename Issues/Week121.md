@@ -6,7 +6,7 @@
 * [Custom convenience operators with RxSwift, Part 1](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part1/), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
-
+* [Advance](https://github.com/storehouse/Advance), by [@storehouse](https://github.com/storehouse)
 
 **Business**
 
@@ -32,4 +32,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [NSMyself](https://github.com/NSMyself)
