@@ -35,6 +35,7 @@
 
 * [Free Logo Designs For Your Projects, Added Every Tuesday](http://www.logodust.com/), by [Fairpixels](http://fairpixels.co/)
 * [Best Gitter channels for iOS developers](https://medium.com/@gitter/best-gitter-channels-for-ios-developers-173b32627ce1#.502hzixtc), by [@koholaa](https://twitter.com/koholaa)
+* [Ink UI Kit](http://greatsimple.ru/ink/)
 
 
 **Credits**
