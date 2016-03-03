@@ -14,6 +14,8 @@
 * [Advance](https://github.com/storehouse/Advance), by [@storehouse](https://github.com/storehouse)
 * [xcbuild](https://github.com/facebook/xcbuild), by [@facebook](https://github.com/facebook)
 * [ReverseJson](https://github.com/tomquist/ReverseJson), by [@tomqueue](https://github.com/tomquist/ReverseJson)
+* [Greedo Layout](https://github.com/500px/greedo-layout-for-ios), by [@500px](https://twitter.com/500px)
+* [Localizations](https://github.com/athiercelin/localizations), by [@athiercelin](https://twitter.com/athiercelin)
 
 **Business**
 
