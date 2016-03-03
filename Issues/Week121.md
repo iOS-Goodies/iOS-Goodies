@@ -6,6 +6,7 @@
 * [Custom convenience operators with RxSwift, Part 1](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part1/), by [@icanzilb](https://twitter.com/icanzilb)
 * Simulating signals in Swift, [part 1](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-1.html) and [part 2](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-2.html) by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Open sourcing the Storehouse animation engine](https://medium.com/@tdonnelly/open-sourcing-the-storehouse-animation-engine-7af754f21ffb), by [@tdonnelly](https://twitter.com/tdonnelly)
+* [dotSwift 2016 Highlights, part 1](https://medium.com/swift-programming/dotswift-2016-highlights-part-1-c5deab80166f), by [@joanromano](https://twitter.com/joanromano) via [@devluckyness](https://twitter.com/devluckyness)
 
 
 **Tools/Controls**
