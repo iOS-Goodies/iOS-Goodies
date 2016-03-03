@@ -8,6 +8,8 @@
 
 
 **Tools/Controls**
+
+* [Swift Express](https://github.com/crossroadlabs/Express), by Crossroadlabs, via [@sofia_husak](https://twitter.com/sofia_husak) 
 * [Advance](https://github.com/storehouse/Advance), by [@storehouse](https://github.com/storehouse)
 * [ReverseJson](https://github.com/tomquist/ReverseJson), by [@tomqueue](https://github.com/tomquist/ReverseJson)
 
@@ -35,4 +37,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [NSMyself](https://github.com/NSMyself), [tomquist](https://github.com/tomquist)
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [NSMyself](https://github.com/NSMyself), [mluisbrown](https://github.com/mluisbrown), [tomquist](https://github.com/tomquist)
