@@ -20,6 +20,7 @@
 
 **Business**
 
+* [Career Advice No One Tells You](https://medium.com/life-learning/career-advice-no-one-tells-you-8be1bcd330cb#.jqwfhmhn5), by [@RaghavHaran](https://twitter.com/RaghavHaran)
 * [Developers: Apple’s App Review Needs Big Improvements](https://www.macstories.net/stories/developers-apples-app-review-needs-big-improvements/), by [@greyham](https://twitter.com/greyham)
 * [Valuing high-tech companies](http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/valuing-high-tech-companies), by [@DavidWWessels](https://twitter.com/DavidWWessels), [@koller_tim](https://twitter.com/koller_tim) and Marc Goedhart
 * [7 Lessons From a Failed Tech Startup](https://thinkfaster.co/2016/02/7-lessons-from-a-failed-tech-startup/), by [@williamsonross](https://twitter.com/williamsonross)
@@ -29,7 +30,8 @@
 **UI/UX**
 
 * [14 Biggest Challenges in Design Today](http://www.creativebloq.com/graphic-design/14-biggest-challenges-design-today-31619475), by [@juliasagar](https://twitter.com/juliasagar)
-
+* [On chat as interface](https://medium.com/@acroll/on-chat-as-interface-92a68d2bf854#.3sqcd26rf), by [@acroll](https://twitter.com/acroll)
+* [Empty State: Mobile App “Nice-to-Have” Essential](https://medium.com/ux-planet/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3#.mdkp9w66c), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
