@@ -32,7 +32,7 @@
 * [14 Biggest Challenges in Design Today](http://www.creativebloq.com/graphic-design/14-biggest-challenges-design-today-31619475), by [@juliasagar](https://twitter.com/juliasagar)
 * [On chat as interface](https://medium.com/@acroll/on-chat-as-interface-92a68d2bf854#.3sqcd26rf), by [@acroll](https://twitter.com/acroll)
 * [Empty State: Mobile App “Nice-to-Have” Essential](https://medium.com/ux-planet/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3#.mdkp9w66c), by [@101babich](https://twitter.com/101babich)
-* [Microinteractions in mobile banking](https://medium.com/uber-design/how-we-design-on-the-uber-growth-team-f1aef966d4a7), by [@RafaelQuesada](https://twitter.com/RafaelQuesada)
+* [Microinteractions in mobile banking](https://medium.com/@rafaelquesada/micro-interactions-in-mobile-banking-9d49a3510f03#.cdsx9v8au), by [@RafaelQuesada](https://twitter.com/RafaelQuesada)
 * [How We Design on The Uber Growth Team](https://medium.com/uber-design/how-we-design-on-the-uber-growth-team-f1aef966d4a7), by [@paulclaytnsmith](https://twitter.com/paulclaytnsmith)
 
 **Videos**
