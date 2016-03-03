@@ -5,10 +5,12 @@
 * [Tracking tasks with stack traces in Swift](http://www.cocoawithlove.com/blog/2016/02/28/stack-traces-in-swift.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Custom convenience operators with RxSwift, Part 1](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part1/), by [@icanzilb](https://twitter.com/icanzilb)
 * Simulating signals in Swift, [part 1](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-1.html) and [part 2](http://www.marisibrothers.com/2016/02/simulating-signals-in-swift-part-2.html) by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Open sourcing the Storehouse animation engine](https://medium.com/@tdonnelly/open-sourcing-the-storehouse-animation-engine-7af754f21ffb), by [@tdonnelly](https://twitter.com/tdonnelly)
 
 
 **Tools/Controls**
 * [Advance](https://github.com/storehouse/Advance), by [@storehouse](https://github.com/storehouse)
+* [xcbuild](https://github.com/facebook/xcbuild), by [@facebook](https://github.com/facebook)
 
 **Business**
 
