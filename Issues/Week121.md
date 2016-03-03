@@ -9,8 +9,11 @@
 
 
 **Tools/Controls**
+
+* [Swift Express](https://github.com/crossroadlabs/Express), by Crossroadlabs, via [@sofia_husak](https://twitter.com/sofia_husak) 
 * [Advance](https://github.com/storehouse/Advance), by [@storehouse](https://github.com/storehouse)
 * [xcbuild](https://github.com/facebook/xcbuild), by [@facebook](https://github.com/facebook)
+* [ReverseJson](https://github.com/tomquist/ReverseJson), by [@tomqueue](https://github.com/tomquist/ReverseJson)
 
 **Business**
 
@@ -36,4 +39,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [NSMyself](https://github.com/NSMyself)
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [NSMyself](https://github.com/NSMyself), [mluisbrown](https://github.com/mluisbrown), [tomquist](https://github.com/tomquist)
