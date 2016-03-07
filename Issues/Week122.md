@@ -5,6 +5,7 @@
 
 **Tools/Controls**
 
+* [Log](https://github.com/delba/Log), by [delba](https://github.com/delba)
 
 **Business**
 
@@ -21,7 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
-
-
-
+* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba)
