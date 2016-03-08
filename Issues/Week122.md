@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [Log](https://github.com/delba/Log), by [delba](https://github.com/delba)
+* [Cichlid](https://github.com/dealforest/Cichlid), by [@dealforest](https://twitter.com/dealforest)
 
 **Business**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [lkmfz](https://github.com/lkmfz)
