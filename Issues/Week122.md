@@ -21,6 +21,7 @@
 
 **Videos**
 
+* [Embrace Immutability](https://realm.io/news/slug-keith-smiley-embrace-immutability/), by [@SmileyKeith](https://twitter.com/SmileyKeith)
 
 **Credits**
 
