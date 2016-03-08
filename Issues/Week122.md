@@ -14,6 +14,7 @@
 
 * [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0), by [@cduhigg](https://twitter.com/cduhigg)
 * [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat-744659addf7d), by [@jasonfried](https://twitter.com/jasonfried)
+* [We Hire the Best, Just Like Everyone Else](https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/), by [@codinghorror](https://twitter.com/codinghorror)
 
 **UI/UX**
 
