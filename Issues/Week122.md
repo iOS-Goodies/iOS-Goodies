@@ -9,6 +9,7 @@
 
 * [Log](https://github.com/delba/Log), by [delba](https://github.com/delba)
 * [Cichlid](https://github.com/dealforest/Cichlid), by [@dealforest](https://twitter.com/dealforest)
+* [SubtleVolume](https://github.com/andreamazz/SubtleVolume), by [@theandreamazz](https://twitter.com/theandreamazz)
 
 **Business**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [lkmfz](https://github.com/lkmfz)
+* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [lkmfz](https://github.com/lkmfz), [andreamazz](https://github.com/andreamazz)
