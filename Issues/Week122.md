@@ -1,5 +1,6 @@
 **Articles**
 
+* [View controller lifecycle behaviors](http://irace.me/lifecycle-behaviors), by [@irace](https://twitter.com/irace)
 * [\#8 VIPER to be or not to be?](https://swifting.io/blog/2016/03/07/8-viper-to-be-or-not-to-be/), by [swifting.io](https://swifting.io/)
 * [Swift Asserts](https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html), by [@mikeash](https://twitter.com/mikeash)
 * [Code Injection for Xcode](http://artsy.github.io/blog/2016/03/05/iOS-Code-Injection/), by [@orta](https://twitter.com/orta)
