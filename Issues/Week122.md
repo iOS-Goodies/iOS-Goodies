@@ -4,6 +4,7 @@
 * [Swift Asserts](https://www.mikeash.com/pyblog/friday-qa-2016-03-04-swift-asserts.html), by [@mikeash](https://twitter.com/mikeash)
 * [Code Injection for Xcode](http://artsy.github.io/blog/2016/03/05/iOS-Code-Injection/), by [@orta](https://twitter.com/orta)
 * [Custom convenience operators with RxSwift, Part 2](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part2/), by [@icanzilb](https://twitter.com/icanzilb)
+* [The State of tvOS Development](https://blackpixel.com/writing/2016/03/the-state-of-tvos-development.html), interview of [@jaredsinclair](https://twitter.com/jaredsinclair) by [@rebekahwolf](https://twitter.com/rebekahwolf)
 
 **Tools/Controls**
 
