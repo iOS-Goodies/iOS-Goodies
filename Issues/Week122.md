@@ -26,6 +26,7 @@
 * [Microinteractions: The Secret of Great App Design](http://babich.biz/microinteractions-the-secret-of-great-app-design/), by [@101babich](https://twitter.com/101babich)
 * [The Most Creative Mobile Navigation Patterns](https://medium.com/ux-planet/the-most-creative-mobile-navigation-patterns-3dc6f506504#.4qfdb78d5), by [@101babich](https://twitter.com/101babich)
 * [How to Manufacture Desire](https://medium.com/behavior-design/how-to-manufacture-desire-3011c82a2b28#.iju5hn1f2), by [@nireyal](https://twitter.com/nireyal)
+* [Mobile App User Engagement: Breaking the Wall](http://babich.biz/mobile-app-user-engagement-breaking-the-wall/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
