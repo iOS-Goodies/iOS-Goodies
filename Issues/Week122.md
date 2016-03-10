@@ -7,6 +7,7 @@
 * [Custom convenience operators with RxSwift, Part 2](http://rx-marin.com/post/rxswift-rxcocoa-custom-convenience-operators-part2/), by [@icanzilb](https://twitter.com/icanzilb)
 * [The State of tvOS Development](https://blackpixel.com/writing/2016/03/the-state-of-tvos-development.html), interview of [@jaredsinclair](https://twitter.com/jaredsinclair) by [@rebekahwolf](https://twitter.com/rebekahwolf)
 * [Using Xcode and Swift Package Manager Together](http://cjwirth.com/2016/03/07/using-xcode-and-spm-together/), [@cjwirth](https://twitter.com/cjwirth)
+* [Building Popular Projects](https://ashfurrow.com/blog/building-popular-projects/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **Tools/Controls**
 
