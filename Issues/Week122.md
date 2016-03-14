@@ -15,8 +15,6 @@
 * [Cichlid](https://github.com/dealforest/Cichlid), by [@dealforest](https://twitter.com/dealforest)
 * [SubtleVolume](https://github.com/andreamazz/SubtleVolume), by [@theandreamazz](https://twitter.com/theandreamazz)
 * [GrandCentralBoard](https://github.com/macoscope/GrandCentralBoard), by [@nsmeme](https://twitter.com/nsmeme)
-* [Walker](https://github.com/RamonGilabert/Walker), by [@RamonGilabert](https://twitter.com/RamonGilabert)
-* [Morgan](https://github.com/RamonGilabert/Morgan), by [@RamonGilabert](https://twitter.com/RamonGilabert)
 
 **Business**
 
@@ -37,4 +35,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [lkmfz](https://github.com/lkmfz), [andreamazz](https://github.com/andreamazz), [RamonGilabert](https://github.com/RamonGilabert)
+* [rbarbosa](https://github.com/rbarbosa), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [lkmfz](https://github.com/lkmfz), [andreamazz](https://github.com/andreamazz)
