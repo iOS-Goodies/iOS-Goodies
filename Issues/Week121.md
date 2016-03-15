@@ -9,6 +9,7 @@
 
 **Tools/Controls**
 * [Advance](https://github.com/storehouse/Advance), by [@storehouse](https://github.com/storehouse)
+* [Obtaining raw iOS battery data using private IOKit APIs](https://gist.github.com/marcoarment/92d58159943240d6ba47), by [@marcoarment](https://twitter.com/marcoarment)
 
 **Business**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [NSMyself](https://github.com/NSMyself)
+* [rbarbosa](https://github.com/rbarbosa), [kohola71](https://github.com/kohola71), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://twitter.com/lucianomarisi), [NSMyself](https://github.com/NSMyself), [mluisbrown](https://github.com/mluisbrown)
