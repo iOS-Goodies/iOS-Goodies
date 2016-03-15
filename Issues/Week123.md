@@ -21,7 +21,7 @@
 
 **Videos**
 
-* [Challenges Building a Swift Framework](https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_78) by [@mrackwitz](https://twitter.com/mrackwitz)
+* [Challenges Building a Swift Framework](https://realm.io/news/marius-rackwitz-challenges-building-swift-framework/) by [@mrackwitz](https://twitter.com/mrackwitz)
 
 **Credits**
 
