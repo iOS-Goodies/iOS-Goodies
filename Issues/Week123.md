@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist)
+* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy)
