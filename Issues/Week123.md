@@ -1,6 +1,7 @@
 **Articles**
 
-*
+* [Scrolling Stack Views](http://useyourloaf.com/blog/scrolling-stack-views/), by [@kharrison](https://twitter.com/kharrison)
+* [Gathering system information in Swift with sysctl](http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist)
+* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [mariusc](https://github.com/mariusc)
