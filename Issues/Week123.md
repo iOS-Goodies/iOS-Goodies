@@ -16,7 +16,7 @@
 
 **Business**
 
-*
+* [An Indie's Guide to the Press](http://blog.curtisherbert.com/an-indies-guide-to-the-press/), by [@parrots](https://twitter.com/parrots)
 
 **UI/UX**
 
