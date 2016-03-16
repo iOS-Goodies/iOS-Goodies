@@ -20,7 +20,7 @@
 
 **UI/UX**
 
-*
+* [The Do’s and Don’ts of Mobile App Notifications](https://blog.prototypr.io/the-do-s-and-don-ts-of-mobile-app-notifications-7252241b418#.81rense88), by [@oldClockMedia](https://twitter.com/oldClockMedia)
 
 **Videos**
 
