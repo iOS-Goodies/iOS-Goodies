@@ -4,6 +4,7 @@
 * [Gathering system information in Swift with sysctl](http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [dotSwift 2016 Highlights, part 2](https://medium.com/swift-programming/dotswift-2016-highlights-part-2-f2dc0f091106), by [@joanromano](https://twitter.com/joanromano)
 * [Swift Function Generics Under the Hood](https://medium.com/@lljump/swift-function-generics-under-the-hood-5da1320766b8), by [@longlongjump](https://twitter.com/longlongjump)
+* [Extending Swift generic types](http://www.marisibrothers.com/2016/03/extending-swift-generic-types.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [@lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc)
+* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [@lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://github.com/lucianomarisi)
