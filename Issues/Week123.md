@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [@lkmfz](https://github.com/lkfmz)
+* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [@lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc)
