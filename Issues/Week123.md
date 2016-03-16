@@ -17,6 +17,7 @@
 **Business**
 
 * [An Indie's Guide to the Press](http://blog.curtisherbert.com/an-indies-guide-to-the-press/), by [@parrots](https://twitter.com/parrots)
+* [Monetizing Github Issues](http://thenextweb.com/dd/2016/03/14/codemill-monetizing-github-issues-pull-requests-freelance-developers/), by [@NateSwanner](https://twitter.com/NateSwanner)
 
 **UI/UX**
 
