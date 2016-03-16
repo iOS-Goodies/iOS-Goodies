@@ -2,6 +2,7 @@
 
 * [Scrolling Stack Views](http://useyourloaf.com/blog/scrolling-stack-views/), by [@kharrison](https://twitter.com/kharrison)
 * [Gathering system information in Swift with sysctl](http://www.cocoawithlove.com/blog/2016/03/08/swift-wrapper-for-sysctl.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [dotSwift 2016 Highlights, part 2](https://medium.com/swift-programming/dotswift-2016-highlights-part-2-f2dc0f091106), by [@joanromano](https://twitter.com/joanromano)
 
 **Tools/Controls**
 
