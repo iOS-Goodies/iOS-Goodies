@@ -30,6 +30,7 @@
 * [Real Fixes for Workplace Bias](http://www.wsj.com/articles/real-fixes-for-workplace-bias-1457713338), by [@garyrosenwsj](https://twitter.com/garyrosenwsj)
 * [Building an MVP](http://git2go.com/blog/2016/03/12/Building-an-MVP.html), by [@pietbrauer](https://twitter.com/pietbrauer)
 * [The product before the business](https://medium.com/@bramk/the-product-before-the-business-f399aae7a2a0), by [@bramk](https://twitter.com/bramk)
+* [Toward Fair Pay – Evolving how we Evaluate & Compensate Employees](https://spin.atomicobject.com/2016/03/16/toward-fair-pay/), by [@mike_marsiglia](https://twitter.com/mike_marsiglia)
 
 **UI/UX**
 
