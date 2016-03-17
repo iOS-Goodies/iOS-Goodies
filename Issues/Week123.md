@@ -29,6 +29,7 @@
 * [10 Amazing Lessons From Being an Entrepreneur](https://medium.com/life-learning/10-amazing-lessons-from-being-an-entrepreneur-ef636db72797#.ior0q8zfj), by [@larrykim](https://twitter.com/larrykim)
 * [Real Fixes for Workplace Bias](http://www.wsj.com/articles/real-fixes-for-workplace-bias-1457713338), by [@garyrosenwsj](https://twitter.com/garyrosenwsj)
 * [Building an MVP](http://git2go.com/blog/2016/03/12/Building-an-MVP.html), by [@pietbrauer](https://twitter.com/pietbrauer)
+* [The product before the business](https://medium.com/@bramk/the-product-before-the-business-f399aae7a2a0), by [@bramk](https://twitter.com/bramk)
 
 **UI/UX**
 
