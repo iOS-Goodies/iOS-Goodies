@@ -20,6 +20,7 @@
 * [PeekPop](https://github.com/marmelroy/PeekPop), by [@marmelroy](https://twitter.com/marmelroy)
 * [Walker](https://github.com/RamonGilabert/Walker), by [@RamonGilabert](https://twitter.com/RamonGilabert)
 * [Obtaining raw iOS battery data using private IOKit APIs](https://gist.github.com/marcoarment/92d58159943240d6ba47), by [@marcoarment](https://twitter.com/marcoarment)
+* [sweetcorn](https://github.com/FlexMonkey/sweetcorn), by [@FlexMonkey](https://twitter.com/FlexMonkey)
 
 **Business**
 
