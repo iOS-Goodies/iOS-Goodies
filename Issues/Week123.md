@@ -9,6 +9,7 @@
 * [How To Use Swiftgen To Generate an Enum From Your Asset Catalog](https://metova.com/blog/dev/how-to-use-swiftgen/), by [@metova](https://twitter.com/metova)
 * [Kindly Closing Pull Requests](https://github.com/blog/2124-kindly-closing-pull-requests), by [@MikeMcQuaid](https://twitter.com/MikeMcQuaid)
 * [Stupid Swift Tricks #4 - Writing A Big App In It](http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html), by [@wooji](https://twitter.com/wooji)
+* [In Praise of Coordinators](https://www.bipsync.com/blog/in-praise-of-coordinators/), by [@craigmarvelley](https://twitter.com/craigmarvelley)
 
 **Tools/Controls**
 
