@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [SPTPersistentCache](https://github.com/spotify/SPTPersistentCache), by [@spotify](https://github.com/spotify)
+* [BugLife](https://www.buglife.com), by [@buglifeapp](https://twitter.com/buglifeapp)
 * [Equals](https://github.com/tomquist/Equals), by [@tomqueue](https://twitter.com/tomqueue)
 * [Morgan](https://github.com/RamonGilabert/Morgan), by [@RamonGilabert](https://twitter.com/RamonGilabert)
 * [PeekPop](https://github.com/marmelroy/PeekPop), by [@marmelroy](https://twitter.com/marmelroy)
@@ -20,12 +21,14 @@
 
 * [An Indie's Guide to the Press](http://blog.curtisherbert.com/an-indies-guide-to-the-press/), by [@parrots](https://twitter.com/parrots)
 * [Monetizing Github Issues](http://thenextweb.com/dd/2016/03/14/codemill-monetizing-github-issues-pull-requests-freelance-developers/), by [@NateSwanner](https://twitter.com/NateSwanner)
+* [10 Amazing Lessons From Being an Entrepreneur](https://medium.com/life-learning/10-amazing-lessons-from-being-an-entrepreneur-ef636db72797#.ior0q8zfj), by [@larrykim](https://twitter.com/larrykim)
+* [Real Fixes for Workplace Bias](http://www.wsj.com/articles/real-fixes-for-workplace-bias-1457713338), by [@garyrosenwsj](https://twitter.com/garyrosenwsj)
 
 **UI/UX**
 
 * [The Do’s and Don’ts of Mobile App Notifications](https://blog.prototypr.io/the-do-s-and-don-ts-of-mobile-app-notifications-7252241b418#.81rense88), by [@oldClockMedia](https://twitter.com/oldClockMedia)
 * [The Myths of UX Design/ Product Design](https://medium.com/@cwodtke/the-myths-of-ux-design-product-design-whatever-they-call-it-this-week-ef37a39cac6b#.ht8scc9vz), by [@cwodtke](https://twitter.com/cwodtke)
-* [Real Fixes for Workplace Bias](http://www.wsj.com/articles/real-fixes-for-workplace-bias-1457713338), by [@garyrosenwsj](https://twitter.com/garyrosenwsj)
+* [8 Unintuitive Lessons on Being a Designer](https://medium.com/the-year-of-the-looking-glass/8-unintuitive-lessons-on-being-a-designer-ca7e97a572ee#.swzcjmlxv), by [@joulee](https://twitter.com/joulee)
 
 **Videos**
 
