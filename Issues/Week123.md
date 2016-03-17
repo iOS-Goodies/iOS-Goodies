@@ -10,6 +10,7 @@
 * [Kindly Closing Pull Requests](https://github.com/blog/2124-kindly-closing-pull-requests), by [@MikeMcQuaid](https://twitter.com/MikeMcQuaid)
 * [Stupid Swift Tricks #4 - Writing A Big App In It](http://www.wooji-juice.com/blog/stupid-swift-tricks-4.html), by [@wooji](https://twitter.com/wooji)
 * [In Praise of Coordinators](https://www.bipsync.com/blog/in-praise-of-coordinators/), by [@craigmarvelley](https://twitter.com/craigmarvelley)
+* [Testing NSURLSession with Swift, a 3 Part Series](http://masilotti.com/testing-nsurlsession/), by [@joemasilotti](https://twitter.com/joemasilotti)
 
 **Tools/Controls**
 
@@ -48,4 +49,4 @@
 
 **Credits**
 
-* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://github.com/lucianomarisi), [rbarbosa](https://github.com/rbarbosa)
+* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://github.com/lucianomarisi), [rbarbosa](https://github.com/rbarbosa), [joemasilotti](https://github.com/joemasilotti)
