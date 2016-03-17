@@ -7,6 +7,7 @@
 * [Extending Swift generic types](http://www.marisibrothers.com/2016/03/extending-swift-generic-types.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Creating Custom Walkthroughs for Your Apps](http://www.thinkandbuild.it/creating-custom-walkthroughs-for-your-apps/), by [@bitwaker](https://twitter.com/bitwaker)
 * [How To Use Swiftgen To Generate an Enum From Your Asset Catalog](https://metova.com/blog/dev/how-to-use-swiftgen/), by [@metova](https://twitter.com/metova)
+* [Kindly Closing Pull Requests](https://github.com/blog/2124-kindly-closing-pull-requests), by [@MikeMcQuaid](https://twitter.com/MikeMcQuaid)
 
 **Tools/Controls**
 
