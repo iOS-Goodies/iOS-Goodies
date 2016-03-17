@@ -28,8 +28,11 @@
 **UI/UX**
 
 * [The Do’s and Don’ts of Mobile App Notifications](https://blog.prototypr.io/the-do-s-and-don-ts-of-mobile-app-notifications-7252241b418#.81rense88), by [@oldClockMedia](https://twitter.com/oldClockMedia)
+* [The Unbearable Homogeneity of Design](https://medium.com/@morgane/the-unbearable-homogeneity-of-design-fe1a44d48f3d#.b0llk1pay), by [@morgan_e_](https://twitter.com/morgan_e_)
+* [Mobile UX Design: User-Friendly Search](https://uxplanet.org/mobile-ux-design-user-friendly-search-51e5f78f5a1e#.qvy4lpn58), by [@101babich](https://twitter.com/101babich)
 * [The Myths of UX Design/ Product Design](https://medium.com/@cwodtke/the-myths-of-ux-design-product-design-whatever-they-call-it-this-week-ef37a39cac6b#.ht8scc9vz), by [@cwodtke](https://twitter.com/cwodtke)
 * [8 Unintuitive Lessons on Being a Designer](https://medium.com/the-year-of-the-looking-glass/8-unintuitive-lessons-on-being-a-designer-ca7e97a572ee#.swzcjmlxv), by [@joulee](https://twitter.com/joulee)
+* [Mobile Onboarding: Interact, Don’t Tell](https://uxplanet.org/mobile-onboarding-interact-don-t-tell-f0c35da2b2b4#.mat70tmdl), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
