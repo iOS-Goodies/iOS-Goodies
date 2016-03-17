@@ -33,6 +33,7 @@
 * [The Myths of UX Design/ Product Design](https://medium.com/@cwodtke/the-myths-of-ux-design-product-design-whatever-they-call-it-this-week-ef37a39cac6b#.ht8scc9vz), by [@cwodtke](https://twitter.com/cwodtke)
 * [8 Unintuitive Lessons on Being a Designer](https://medium.com/the-year-of-the-looking-glass/8-unintuitive-lessons-on-being-a-designer-ca7e97a572ee#.swzcjmlxv), by [@joulee](https://twitter.com/joulee)
 * [Mobile Onboarding: Interact, Don’t Tell](https://uxplanet.org/mobile-onboarding-interact-don-t-tell-f0c35da2b2b4#.mat70tmdl), by [@101babich](https://twitter.com/101babich)
+* [Light and Darkness in UI Design](https://medium.com/@tubikstudio/light-and-darkness-in-ui-design-matter-of-choice-954e47c92ce7), by [@MYalanska](https://twitter.com/MYalanska)
 
 **Videos**
 
@@ -40,4 +41,4 @@
 
 **Credits**
 
-* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://github.com/lucianomarisi)
+* [RamonGilabert](https://github.com/RamonGilabert), [tomquist](https://github.com/tomquist), [@marmelroy](https://github.com/marmelroy), [mluisbrown](https://github.com/mluisbrown), [lkmfz](https://github.com/lkfmz), [mariusc](https://github.com/mariusc), [@lucianomarisi](https://github.com/lucianomarisi), [rbarbosa](https://github.com/rbarbosa)
