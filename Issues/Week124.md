@@ -21,7 +21,8 @@
 
 **Videos**
 
+* [Contributing to Open Source Swift](https://realm.io/news/tryswift-jesse-squires-contributing-open-source-swift/), by [@jesse_squires](https://twitter.com/jesse_squires) 
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba)
+* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa)
