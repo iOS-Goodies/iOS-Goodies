@@ -10,6 +10,7 @@
 
 **Tools/Controls**
 
+* [Permission](https://github.com/delba/Permission), by [@delba](https://github.com/delba)
 
 **Business**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc),
+* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba)
