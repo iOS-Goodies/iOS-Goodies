@@ -5,6 +5,7 @@
 * [Units](http://khanlou.com/2016/03/units/), by [@khanlou](http://www.twitter.com/khanlou)
 * [When your Swift code breaks the compiler](https://medium.com/swift-programming/when-your-swift-code-breaks-the-compiler-d2639e1b2bc8), by [@devluckyness](https://twitter.com/devluckyness)
 * [Swift: Caveats for Structs as data models](https://medium.com/swift-programming/swift-caveats-for-structs-as-data-models-8299d84b49dc), by [@AndyyHope](https://twitter.com/AndyyHope)
+* [Swift 2.2 Released!](https://swift.org/blog/swift-2-2-released/), by [@tkremenek](https://twitter.com/tkremenek)
 
 
 **Tools/Controls**
