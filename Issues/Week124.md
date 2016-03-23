@@ -9,6 +9,7 @@
 * [Outlets: Strong! Or Weak?](http://scottberrevoets.com/2016/03/21/outlets-strong-or-weak/), by [@ScottBerrevoets](https://twitter.com/ScottBerrevoets)
 * [Improved Protocol-Oriented Programming with Untyped Type Aliases (part 1)](https://medium.com/capital-one-developers/improved-protocol-oriented-programming-with-untyped-type-aliases-part-1-625484ca1f9d), by [@michikono](https://twitter.com/michikono)
 * [Errors: unexpected, composite, non-pure, external](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Swift: Selector syntax sugar](https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3), by [@AndyyHope](https://twitter.com/AndyyHope)
 
 **Tools/Controls**
 
