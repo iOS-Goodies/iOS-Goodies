@@ -7,6 +7,7 @@
 * [Swift: Caveats for Structs as data models](https://medium.com/swift-programming/swift-caveats-for-structs-as-data-models-8299d84b49dc), by [@AndyyHope](https://twitter.com/AndyyHope)
 * [Swift 2.2 Released!](https://swift.org/blog/swift-2-2-released/), by [@tkremenek](https://twitter.com/tkremenek)
 * [Outlets: Strong! Or Weak?](http://scottberrevoets.com/2016/03/21/outlets-strong-or-weak/), by [@ScottBerrevoets](https://twitter.com/ScottBerrevoets)
+* [Improved Protocol-Oriented Programming with Untyped Type Aliases (part 1)](https://medium.com/capital-one-developers/improved-protocol-oriented-programming-with-untyped-type-aliases-part-1-625484ca1f9d), by [@michikono](https://twitter.com/michikono)
 
 **Tools/Controls**
 
