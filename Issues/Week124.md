@@ -19,6 +19,7 @@
 **Business**
 
 * [Simple Just Isn’t That Important](https://m.signalvnoise.com/simple-just-isn-t-that-important-79a364937c47#.kulgjixxr), by [@dhh](https://twitter.com/dhh)
+* [Agile Is The New Waterfall — A Followup](https://medium.com/swlh/agile-is-the-new-waterfall-a-followup-f1c0bcd2162e#.yg2criigu), by [@ayasin](https://twitter.com/ayasin)
 
 
 **UI/UX**
