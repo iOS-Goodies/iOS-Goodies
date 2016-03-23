@@ -15,6 +15,8 @@
 
 **Business**
 
+* [Simple Just Isn’t That Important](https://m.signalvnoise.com/simple-just-isn-t-that-important-79a364937c47#.kulgjixxr), by [@dhh](https://twitter.com/dhh)
+
 
 **UI/UX**
 
@@ -25,4 +27,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz)
