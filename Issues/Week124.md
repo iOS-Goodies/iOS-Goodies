@@ -11,6 +11,7 @@
 
 **Tools/Controls**
 
+* [Neonto](http://neonto.com/), by [@NeontoStudio](https://twitter.com/@NeontoStudio)
 * [Reactor](https://github.com/MailOnline/Reactor), by [MailOnline](https://github.com/MailOnline)
 * [Permission](https://github.com/delba/Permission), by [@delba](https://github.com/delba)
 
@@ -20,6 +21,9 @@
 
 
 **UI/UX**
+
+* [7 Types of Animations for Your Mobile App](https://yalantis.com/blog/-seven-types-of-animations-for-mobile-apps/), by [@monadiform](https://twitter.com/monadiform)
+* [Fitting Animations into Your UX Strategy](https://medium.com/lukibear-stories/fitting-animations-into-your-ux-strategy-a9e3ac79f8e5#.758ww59or), by [@kieranpblack](https://twitter.com/kieranpblack)
 
 
 **Videos**
