@@ -12,6 +12,7 @@
 * [Swift: Selector syntax sugar](https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3), by [@AndyyHope](https://twitter.com/AndyyHope)
 * [iOS Bubble Animation Tutorial](http://www.jackrabbitmobile.com/design/ios-bubble-animation-tutorial/), by [@carleihar](https://twitter.com/carleihar)
 * [Translate Optional Delegate Protocol Methods to Swift Block-based Event Handlers Using Nested Objects](https://christiantietze.de/posts/2016/03/block-event-handler-subclass/), by [@ctietze](https://twitter.com/ctietze)
+* [Architecturing A/B Experiments](http://matteogobbi.github.io/blog/2016/03/24/architecturing-a-slash-b-experiments/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 
 **Tools/Controls**
 
