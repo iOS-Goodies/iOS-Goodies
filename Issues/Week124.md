@@ -15,6 +15,7 @@
 * [Architecturing A/B Experiments](http://matteogobbi.github.io/blog/2016/03/24/architecturing-a-slash-b-experiments/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 * [Utilizing On-Demand Resources](http://blog.prolificinteractive.com/2016/03/24/utilizing-on-demand-resources/), by [@weareprolific](https://twitter.com/weareprolific)
 * [XCTestExpectation Gotchas](https://jeremywsherman.com/blog/2016/03/19/xctestexpectation-gotchas/), by [@jeremywsherman](https://twitter.com/jeremywsherman/)
+* [Linking Objective-C Code](http://pewpewthespells.com/blog/objc_linker_flags.html), by [@queersorceress](https://twitter.com/queersorceress)
 
 **Tools/Controls**
 
