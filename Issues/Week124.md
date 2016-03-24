@@ -32,7 +32,7 @@
 * [Fitting Animations into Your UX Strategy](https://medium.com/lukibear-stories/fitting-animations-into-your-ux-strategy-a9e3ac79f8e5#.758ww59or), by [@kieranpblack](https://twitter.com/kieranpblack)
 * [Following Apple’s Design Dogma With Stunning Illustrations](https://stories.uplabs.com/meeting-apple-s-design-principles-with-stunning-illustrations-9a8a4e7053f3), by [@mattaussaguel](https://twitter.com/mattaussaguel)
 * [UX Design for Mobile: Bottom Navigation](http://babich.biz/perfect-bottom-navigation-for-mobile-app/), by [@101babich](https://twitter.com/101babich)
-
+* [macOS: It’s time to take the next step.](https://medium.com/@ajambrosino/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.bac95rszt), by [ajambrosino](https://twitter.com/ajambrosino)
 
 **Videos**
 
