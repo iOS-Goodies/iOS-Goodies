@@ -23,8 +23,6 @@
 
 * [Simple Just Isn’t That Important](https://m.signalvnoise.com/simple-just-isn-t-that-important-79a364937c47#.kulgjixxr), by [@dhh](https://twitter.com/dhh)
 * [Agile Is The New Waterfall — A Followup](https://medium.com/swlh/agile-is-the-new-waterfall-a-followup-f1c0bcd2162e#.yg2criigu), by [@ayasin](https://twitter.com/ayasin)
-* [Top 3 Ways to Promote Your Mobile App](https://medium.com/@sasha.zinevych/top-3-ways-to-promote-your-mobile-app-d7b884d86c94), by [@nezabyvaemo](https://twitter.com/nezabyvaemo)
-* [Make Your Mobile App Marketing a Triumph](https://medium.com/@sasha.zinevych/make-your-mobile-app-marketing-a-triumph-ec978e90f303), by [@nezabyvaemo](https://twitter.com/nezabyvaemo)
 * [10 Styles of App Store Screenshots](https://dancounsell.com/articles/10-styles-of-app-store-screenshots), by [@dancounsell](https://twitter.com/dancounsell)
 
 
@@ -34,7 +32,6 @@
 * [Fitting Animations into Your UX Strategy](https://medium.com/lukibear-stories/fitting-animations-into-your-ux-strategy-a9e3ac79f8e5#.758ww59or), by [@kieranpblack](https://twitter.com/kieranpblack)
 * [Following Apple’s Design Dogma With Stunning Illustrations](https://stories.uplabs.com/meeting-apple-s-design-principles-with-stunning-illustrations-9a8a4e7053f3), by [@mattaussaguel](https://twitter.com/mattaussaguel)
 * [UX Design for Mobile: Bottom Navigation](http://babich.biz/perfect-bottom-navigation-for-mobile-app/), by [@101babich](https://twitter.com/101babich)
-* [The Science Behind Push Notifications and Intro Screens](https://medium.com/@sasha.zinevych/the-science-behind-push-notifications-and-intro-screens-65971c66c62b), by [@nezabyvaemo](https://twitter.com/nezabyvaemo)
 
 
 **Videos**
