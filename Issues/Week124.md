@@ -42,4 +42,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [@matteo_gobbi](https://twitter.com/matteo_gobbi), [@weareprolific](https://github.com/prolificinteractive)
+* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [@matteo_gobbi](https://twitter.com/matteo_gobbi), [prolificinteractive](https://github.com/prolificinteractive)
