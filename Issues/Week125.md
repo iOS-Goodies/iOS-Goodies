@@ -1,6 +1,7 @@
 **Articles**
 
 * [Improving system modules support in swiftpm](http://ankit.im/swift/2016/03/26/improving-system-modules-support-in-swiftpm/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [Underground location tracking](https://medium.com/snips-ai/underground-location-tracking-3ea56803dddc), by [@JoDureau](https://twitter.com/jodureau)
 
 **Tools/Controls**
 
