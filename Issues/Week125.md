@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkfmz)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkfmz), [NSMyself](https://github.com/NSMyself)
