@@ -1,6 +1,7 @@
 **Articles**
 
 * [Improving system modules support in swiftpm](http://ankit.im/swift/2016/03/26/improving-system-modules-support-in-swiftpm/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [Architecturing A/B Experiments](http://matteogobbi.github.io/blog/2016/03/24/architecturing-a-slash-b-experiments/), by [@matteo_gobbi](https://twitter.com/matteo_gobbi)
 
 **Tools/Controls**
 
