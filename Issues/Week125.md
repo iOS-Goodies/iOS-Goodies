@@ -9,7 +9,7 @@
 * [Using Swift Extensions The “Wrong” Way](https://www.natashatherobot.com/using-swift-extensions/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 * [Adapting Auto Layout Without Interface Builder](http://useyourloaf.com/blog/adapting-auto-layout-without-interface-builder/), by [@kharrison](https://twitter.com/kharrison)
 * [Surprises with Swift Extensions](https://pspdfkit.com/blog/2016/surprises-with-swift-extensions/), by [@steipete](https://twitter.com/steipete)
-
+* [Breaking Swift with reference counted structs](http://www.cocoawithlove.com/blog/2016/03/27/on-delete.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
