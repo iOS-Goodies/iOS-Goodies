@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* [Design Details: Shorts](http://www.brianlovin.com/design-details/shorts-for-ios), by [https://twitter.com/brian_lovin](@brian_lovin)
+* [Design Details: Shorts](http://www.brianlovin.com/design-details/shorts-for-ios), by [@brian_lovin](https://twitter.com/brian_lovin)
 
 **Videos**
 
