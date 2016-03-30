@@ -4,6 +4,7 @@
 * [Underground location tracking](https://medium.com/snips-ai/underground-location-tracking-3ea56803dddc), by [@JoDureau](https://twitter.com/jodureau)
 * [Developer Anarchy](http://dawilson.co.uk/blog/developer-anarchy/), by [David Wilson](http://twitter.com/mrdawilson)
 * [Storyboards and Their (Better) Alternatives](http://macoscope.com/blog/storyboards-and-their-better-alternatives/), by [@arekholko](https://twitter.com/arekholko)
+* [SwiftLint](https://swifting.io/blog/2016/03/29/11-swiftlint/), by [@swiftingio](https://twitter.com/swiftingio)
 
 **Tools/Controls**
 
