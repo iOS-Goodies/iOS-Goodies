@@ -2,7 +2,6 @@
 
 * [Improving system modules support in swiftpm](http://ankit.im/swift/2016/03/26/improving-system-modules-support-in-swiftpm/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 * [Underground location tracking](https://medium.com/snips-ai/underground-location-tracking-3ea56803dddc), by [@JoDureau](https://twitter.com/jodureau)
-* [Developer Anarchy](http://dawilson.co.uk/blog/developer-anarchy/), by [David Wilson](http://twitter.com/mrdawilson)
 * [Storyboards and Their (Better) Alternatives](http://macoscope.com/blog/storyboards-and-their-better-alternatives/), by [@arekholko](https://twitter.com/arekholko)
 * [SwiftLint](https://swifting.io/blog/2016/03/29/11-swiftlint/), by [@swiftingio](https://twitter.com/swiftingio)
 * [Swift: The 😎 Case of An Enum With No Cases](https://www.natashatherobot.com/swift-enum-no-cases/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
@@ -17,12 +16,16 @@
 
 **Business**
 
-*
-
+* [Developer Anarchy](http://dawilson.co.uk/blog/developer-anarchy/), by [David Wilson](http://twitter.com/mrdawilson)
+* [Constructive Laziness](http://hilton.org.uk/blog/constructive-laziness), by [@PeterHilton](https://twitter.com/PeterHilton)
+* [Why Culture Doesn’t Just Happen](https://readthink.com/why-culture-doesn-t-just-happen-a1692139b04d#.m5r50iqba), by [@katieburkie](katieburkie)
+* [The Hierarchy of Engagement](https://medium.com/greylock-perspectives/the-hierarchy-of-engagement-5803bf4e6cfa#.l5eg3lmuy), by [@sarahtavel](https://twitter.com/sarahtavel)
 
 **UI/UX**
 
 * [Design Details: Shorts](http://www.brianlovin.com/design-details/shorts-for-ios), by [@brian_lovin](https://twitter.com/brian_lovin)
+* [Designing smart notifications](https://medium.com/@intercom/designing-smart-notifications-36336b9c58fb#.pegph6e4j), by [@intercom](https://twitter.com/intercom)
+* [macOS: It’s time to take the next step.](https://medium.com/swlh/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.ixktu2dyx), by [@ajambrosino](https://twitter.com/ajambrosino)
 
 **Videos**
 
