@@ -13,7 +13,7 @@
 
 **Tools/Controls**
 
-* 
+* [Cache](https://github.com/hyperoslo/Cache), by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Business**
 
@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkfmz), [NSMyself](https://github.com/NSMyself), [hugocf](https://github.com/hugocf), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkfmz), [NSMyself](https://github.com/NSMyself), [hugocf](https://github.com/hugocf), [mariusc](https://github.com/mariusc), [zenangst](https://github.com/zenangst)
