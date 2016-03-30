@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkfmz), [NSMyself](https://github.com/NSMyself), [hugocf](https://github.com/hugocf)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkfmz), [NSMyself](https://github.com/NSMyself), [hugocf](https://github.com/hugocf), [mariusc](https://github.com/mariusc)
