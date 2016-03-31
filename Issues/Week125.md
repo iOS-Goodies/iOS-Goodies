@@ -23,6 +23,7 @@
 * [Constructive Laziness](http://hilton.org.uk/blog/constructive-laziness), by [@PeterHilton](https://twitter.com/PeterHilton)
 * [Why Culture Doesn’t Just Happen](https://readthink.com/why-culture-doesn-t-just-happen-a1692139b04d#.m5r50iqba), by [@katieburkie](katieburkie)
 * [The Hierarchy of Engagement](https://medium.com/greylock-perspectives/the-hierarchy-of-engagement-5803bf4e6cfa#.l5eg3lmuy), by [@sarahtavel](https://twitter.com/sarahtavel)
+* [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b), by [@joulee](https://twitter.com/joulee)
 
 **UI/UX**
 
