@@ -10,6 +10,7 @@
 * [Surprises with Swift Extensions](https://pspdfkit.com/blog/2016/surprises-with-swift-extensions/), by [@steipete](https://twitter.com/steipete)
 * [Breaking Swift with reference counted structs](http://www.cocoawithlove.com/blog/2016/03/27/on-delete.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Improved Protocol-Oriented Programming with Untyped Type Aliases (part 2)](https://medium.com/capital-one-developers/improved-protocol-oriented-programming-with-untyped-type-aliases-part-2-3f0e2eadee73), by [@michikono](https://twitter.com/michikono)
+* [Unit Testing in Swift — Part 1: The Philosophy](https://medium.com/cobe-mobile/unit-testing-in-swift-part-1-the-philosophy-9bc85ed5001b), by [@marinbenc](https://twitter.com/marinbenc)
 
 **Tools/Controls**
 
