@@ -30,6 +30,7 @@
 * [Design Details: Shorts](http://www.brianlovin.com/design-details/shorts-for-ios), by [@brian_lovin](https://twitter.com/brian_lovin)
 * [Designing smart notifications](https://medium.com/@intercom/designing-smart-notifications-36336b9c58fb#.pegph6e4j), by [@intercom](https://twitter.com/intercom)
 * [macOS: It’s time to take the next step.](https://medium.com/swlh/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.ixktu2dyx), by [@ajambrosino](https://twitter.com/ajambrosino)
+* [Back to the Future of Handwriting Recognition](https://jackschaedler.github.io/handwriting-recognition/), by [@jackschaedler](https://twitter.com/jackschaedler)
 
 **Videos**
 
