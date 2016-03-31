@@ -17,6 +17,7 @@
 **Tools/Controls**
 
 * [Cache](https://github.com/hyperoslo/Cache), by [@hyperoslo](https://twitter.com/hyperoslo)
+* [BFRImageViewer](https://github.com/bufferapp/buffer-ios-image-viewer), by [@buffer](https://twitter.com/buffer)
 
 **Business**
 
@@ -32,6 +33,7 @@
 * [Designing smart notifications](https://medium.com/@intercom/designing-smart-notifications-36336b9c58fb#.pegph6e4j), by [@intercom](https://twitter.com/intercom)
 * [macOS: It’s time to take the next step.](https://medium.com/swlh/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.ixktu2dyx), by [@ajambrosino](https://twitter.com/ajambrosino)
 * [Back to the Future of Handwriting Recognition](https://jackschaedler.github.io/handwriting-recognition/), by [@jackschaedler](https://twitter.com/jackschaedler)
+* [A Design Exploration of 3D Touch: Feedback](https://medium.com/usable-or-not/a-design-exploration-of-3d-touch-feedback-1a64408f6fe5#.fwoa50aie), by [@stoosepp](https://twitter.com/stoosepp)
 
 **Videos**
 
