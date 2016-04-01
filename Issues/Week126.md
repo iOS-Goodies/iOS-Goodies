@@ -4,9 +4,9 @@
 
 **Tools/Controls**
 
-* 
+* [Caishen](https://github.com/prolificinteractive/Caishen), by [@weareprolific](https://twitter.com/weareprolific)
 
-**Business**
+*Business**
 
 * [Developers, Being Treated Poorly? You Are Not Alone!](http://fredwu.me/post/142289849178/developers-being-treated-poorly-you-are-not), by [@fredwu](https://twitter.com/fredwu)
 
@@ -21,3 +21,4 @@
 **Credits**
 
 * [mluisbrown](https://github.com/mluisbrown)
+* [prolificinteractive](https://github.com/prolificiinteractive)
