@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Caishen](https://github.com/prolificinteractive/Caishen), by [@weareprolific](https://twitter.com/weareprolific)
 
 **Business**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown)
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive)
