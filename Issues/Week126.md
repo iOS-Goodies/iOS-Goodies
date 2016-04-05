@@ -20,5 +20,4 @@
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown)
-* [prolificinteractive](https://github.com/prolificiinteractive)
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive)
