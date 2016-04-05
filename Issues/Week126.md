@@ -8,7 +8,7 @@
 
 **Business**
 
-* 
+* [Developers, Being Treated Poorly? You Are Not Alone!](http://fredwu.me/post/142289849178/developers-being-treated-poorly-you-are-not), by [@fredwu](https://twitter.com/fredwu)
 
 **UI/UX**
 
