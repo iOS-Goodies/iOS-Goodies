@@ -6,6 +6,10 @@
 * [Implementing state with scan in RxSwift](http://rx-marin.com/post/rxswift-state-with-scan/), by [@icanzilb](https://twitter.com/icanzilb)
 * [Bridges of Siracusa County](http://www.russbishop.net/bridges-of-siracusa-county), by [@xenadu02](https://twitter.com/xenadu02)
 * [Populating views with data, from zero to \<Hero\>](http://www.marisibrothers.com/2016/03/populating-views-with-data-from-zero-to.html), by [@ lucianomarisi](https://twitter.com/lucianomarisi)
+* [UITableView & UICollectionView: Killing stringly typed cells with Swift](http://techblog.thescore.com/2016/04/04/typed-uitableview-uicollectionview-dequeuing-in-swift/), by [@tapi](https://twitter.com/tapi)
+* [Using Xcode's Schemes to run a subset of your tests](http://artsy.github.io/blog/2016/04/06/Testing-Schemes/), by [@orta](https://twitter.com/orta)
+* [Compiling and interpolating C using the Swift Package Manager](http://ankit.im/swift/2016/04/06/compiling-and-interpolating-C-using-swift-package-manager/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [How Do Alamofire Routers Work?](https://grokswift.com/how-alamofire-router/), by [@GrokSwift](https://twitter.com/GrokSwift)
 
 **Tools/Controls**
 
@@ -21,7 +25,7 @@
 
 **UI/UX**
 
-* 
+* [Progress Indicators in Mobile UX Design](https://uxplanet.org/progress-indicators-in-mobile-ux-design-a141e22f3ea0), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
