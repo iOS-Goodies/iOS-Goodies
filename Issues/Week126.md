@@ -12,6 +12,7 @@
 * [Developers, Being Treated Poorly? You Are Not Alone!](http://fredwu.me/post/142289849178/developers-being-treated-poorly-you-are-not), by [@fredwu](https://twitter.com/fredwu)
 * [Improving Our Engineering Interview Process](http://engineering.foursquare.com/2016/04/04/improving-our-engineering-interview-process/), by [@JeffWJenkins](https://twitter.com/JeffWJenkins) and [@dotdpark](https://twitter.com/dotdpark)
 * [Fake Ads as a Business Model](http://oleb.net/blog/2016/03/fake-ads-as-a-business-model/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Everything is possible but nothing is free](https://m.signalvnoise.com/everything-is-possible-but-nothing-is-free-714b835e8db3), by [@dhh](https://twitter.com/dhh)
 
 **UI/UX**
 
