@@ -5,6 +5,7 @@
 * [Unit Testing iOS in Swift — Part 2: A Testable Architecture](https://medium.com/cobe-mobile/unit-testing-ios-in-swift-part-2-a-testable-architecture-9048aca52e0a), by [@cobeisfresh](https://twitter.com/cobeisfresh)
 * [Implementing state with scan in RxSwift](http://rx-marin.com/post/rxswift-state-with-scan/), by [@icanzilb](https://twitter.com/icanzilb)
 * [Bridges of Siracusa County](http://www.russbishop.net/bridges-of-siracusa-county), by [@xenadu02](https://twitter.com/xenadu02)
+* [Populating views with data, from zero to \<Hero\>](http://www.marisibrothers.com/2016/03/populating-views-with-data-from-zero-to.html), by [@ lucianomarisi](https://twitter.com/lucianomarisi)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi)
