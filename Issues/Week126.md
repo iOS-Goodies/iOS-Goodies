@@ -1,6 +1,7 @@
 **Articles**
 
 * [How to maintain a git remote fork](https://rhonabwy.com/2016/04/04/how-to-maintain-a-git-remote-fork/), by [@heckj](https://twitter.com/heckj)
+* [The Non-Reactive Solution](http://inessential.com/2016/04/04/the_non-reactive_solution), by [@brentsimmons](https://twitter.com/brentsimmons)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive)
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa),
