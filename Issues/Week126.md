@@ -2,6 +2,7 @@
 
 * [How to maintain a git remote fork](https://rhonabwy.com/2016/04/04/how-to-maintain-a-git-remote-fork/), by [@heckj](https://twitter.com/heckj)
 * [The Non-Reactive Solution](http://inessential.com/2016/04/04/the_non-reactive_solution), by [@brentsimmons](https://twitter.com/brentsimmons)
+* [Unit Testing iOS in Swift — Part 2: A Testable Architecture](https://medium.com/cobe-mobile/unit-testing-ios-in-swift-part-2-a-testable-architecture-9048aca52e0a), by [@cobeisfresh](https://twitter.com/cobeisfresh)
 
 **Tools/Controls**
 
