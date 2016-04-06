@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa),
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [GergelyOrosz](https://github.com/gergelyorosz)
