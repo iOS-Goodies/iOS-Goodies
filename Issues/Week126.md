@@ -10,6 +10,7 @@
 * [Using Xcode's Schemes to run a subset of your tests](http://artsy.github.io/blog/2016/04/06/Testing-Schemes/), by [@orta](https://twitter.com/orta)
 * [Compiling and interpolating C using the Swift Package Manager](http://ankit.im/swift/2016/04/06/compiling-and-interpolating-C-using-swift-package-manager/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 * [How Do Alamofire Routers Work?](https://grokswift.com/how-alamofire-router/), by [@GrokSwift](https://twitter.com/GrokSwift)
+* [Younger self](http://codeplease.io/2016/04/04/what-i-wished-younger-me-knew/), by [@peres](https://twitter.com/peres)
 
 **Tools/Controls**
 
