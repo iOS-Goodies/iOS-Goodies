@@ -14,6 +14,7 @@
 **Tools/Controls**
 
 * [Caishen](https://github.com/prolificinteractive/Caishen), by [@weareprolific](https://twitter.com/weareprolific)
+* [SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField), by [@rumori](https://twitter.com/rumori), [@GergelyOrosz](https://twitter.com/GergelyOrosz) & [@wolffan](https://twitter.com/wolffan)
 
 **Business**
 
@@ -29,8 +30,8 @@
 
 **Videos**
 
-* 
+*
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi)
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [GergelyOrosz](https://github.com/gergelyorosz)
