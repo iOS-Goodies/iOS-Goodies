@@ -31,8 +31,10 @@
 
 **Videos**
 
-*
+* [Ready for the Future: Writing Better Swift](https://realm.io/news/doios-daniel-steinberg-ready-for-the-future/), by [@dimsumthinking](https://twitter.com/dimsumthinking)
+* [Exploring MVC-N in Swift](https://realm.io/news/slug-marcus-zarra-exploring-mvcn-swift/), by [@mzarra](https://twitter.com/mzarra)
+* [Practical Cross-Platform Swift](https://realm.io/news/tryswift-jp-simard-practical-cross-platform-swift/), by [@simjp](https://twitter.com/simjp)
 
 **Credits**
 
-* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [GergelyOrosz](https://github.com/gergelyorosz)
+* [mluisbrown](https://github.com/mluisbrown), [prolificinteractive](https://github.com/prolificiinteractive), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [GergelyOrosz](https://github.com/gergelyorosz), [lkmfz](https://github.com/lkmfz)
