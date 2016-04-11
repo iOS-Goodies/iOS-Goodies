@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [PresenterKit](https://github.com/jessesquires/PresenterKit), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [TextAttributes](https://github.com/delba/TextAttributes), by [@delba](https://github.com/delba)
 
 **Business**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba)
