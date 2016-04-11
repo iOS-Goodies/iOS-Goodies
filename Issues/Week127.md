@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [PresenterKit](https://github.com/jessesquires/PresenterKit), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), 
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz)
