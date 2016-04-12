@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-* 
+* [Spots](https://github.com/hyperoslo) - by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Videos**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [zenangst](https://github.com/zenangst)
