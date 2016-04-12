@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* [Spots](https://github.com/hyperoslo) - by [@hyperoslo](https://twitter.com/hyperoslo)
+* [Spots](https://github.com/hyperoslo/Spots) - by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Videos**
 
