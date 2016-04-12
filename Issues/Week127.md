@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-* 
+* [Fashion](https://github.com/vadymmarkov/Fashion), by [@vadymmarkov](https://github.com/vadymmarkov)
 
 **Videos**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [vadymmarkov](https://github.com/vadymmarkov)
