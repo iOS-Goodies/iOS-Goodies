@@ -5,6 +5,8 @@
 * [Swift And C: Everything You Need to Know](https://www.uraimo.com/2016/04/07/swift-and-c-everything-you-need-to-know/), by [@uraimo](https://twitter.com/uraimo)
 * [Type Erasure](http://www.russbishop.net/type-erasure), by [@xenadu02](https://twitter.com/xenadu02)
 * [Natural Text Alignment for RTL Languages](http://useyourloaf.com/blog/natural-text-alignment-for-rtl-languages/), by [@kharrison](https://twitter.com/kharrison)
+* [Reading Plists into a typed Dictionary](https://medium.com/@IanKeen/reading-plists-into-a-typed-dictionary-fa74b47317ac#.j1afsdtth), by [Ian Keen](http://twitter.com/IanKay)
+* [Hitting the sweet spot of inspiration](https://medium.com/@zenangst/hitting-the-sweet-spot-of-inspiration-637d387bc629), by [@zenangst](https://twitter.com/zenangst)
 
 **Tools/Controls**
 
@@ -17,7 +19,7 @@
 
 **UI/UX**
 
-* 
+* [Spots](https://github.com/hyperoslo/Spots) - by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Videos**
 
@@ -25,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [Ian Keen](http://twitter.com/IanKay), [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc)
