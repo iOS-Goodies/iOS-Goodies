@@ -12,14 +12,21 @@
 
 * [PresenterKit](https://github.com/jessesquires/PresenterKit), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [TextAttributes](https://github.com/delba/TextAttributes), by [@delba](https://github.com/delba)
+* [Spots](https://github.com/hyperoslo/Spots) - by [@hyperoslo](https://twitter.com/hyperoslo)
 
 **Business**
 
 * [A little thing about release notes](https://slackhq.com/a-little-thing-about-release-notes-997d2e06842d), by [@annapickard](https://twitter.com/annapickard)
+* [Congratulations! You’ve Been Fired](http://www.nytimes.com/2016/04/10/opinion/sunday/congratulations-youve-been-fired.html), by [@realdanlyons](https://twitter.com/realdanlyons)
+* [Our software must get better](http://sethgodin.typepad.com/seths_blog/2016/04/our-software-must-get-better.html), by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
+* [Everything the tech world says about marketing is wrong](http://techcrunch.com/2016/04/12/everything-the-tech-world-says-about-marketing-is-wrong/), by [@samueljscott](https://twitter.com/samueljscott)
+
 
 **UI/UX**
 
-* [Spots](https://github.com/hyperoslo/Spots) - by [@hyperoslo](https://twitter.com/hyperoslo)
+* [Why I love ugly, messy interfaces — and you probably do too](https://m.signalvnoise.com/why-i-love-ugly-messy-interfaces-and-you-probably-do-too-edff4a896a83#.a71p0cyms), by [@jonasdowney](https://twitter.com/jonasdowney)
+* [Typography tips for a better user experience](https://medium.com/studio-function/typography-tips-for-a-better-user-experience-30a1a48371e6#.m3zu336go), by [@studiofunction](https://twitter.com/studiofunction)
+* [Design for Humanity](https://medium.com/swlh/the-future-of-design-is-emotional-5789ccde17aa#.r7u69k2gg), by [@daniel_eckler](https://twitter.com/daniel_eckler)
 
 **Videos**
 
