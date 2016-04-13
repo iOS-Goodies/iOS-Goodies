@@ -1,3 +1,5 @@
+* [Swift in Android](http://thenextweb.com/dd/2016/04/07/google-facebook-uber-swift/)? 😮 
+
 **Articles**
 
 * [Decoding JSON in Swift](http://khanlou.com/2016/04/decoding-json/), by [@khanlou](https://twitter.com/khanlou)
