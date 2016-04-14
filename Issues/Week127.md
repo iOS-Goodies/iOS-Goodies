@@ -9,6 +9,7 @@
 * [Natural Text Alignment for RTL Languages](http://useyourloaf.com/blog/natural-text-alignment-for-rtl-languages/), by [@kharrison](https://twitter.com/kharrison)
 * [Reading Plists into a typed Dictionary](https://medium.com/@IanKeen/reading-plists-into-a-typed-dictionary-fa74b47317ac#.j1afsdtth), by [Ian Keen](http://twitter.com/IanKay)
 * [Hitting the sweet spot of inspiration](https://medium.com/@zenangst/hitting-the-sweet-spot-of-inspiration-637d387bc629), by [@zenangst](https://twitter.com/zenangst)
+* [Generics and the Art of Inference - Part 1 of 3](http://foxinswift.com/2016/04/12/generics-and-the-art-of-inference-part-1-of-3/), by [@RGfox](https://twitter.com/RGfox)
 
 **Tools/Controls**
 
