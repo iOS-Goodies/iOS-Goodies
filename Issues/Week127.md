@@ -37,4 +37,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [Ian Keen](http://twitter.com/IanKay), [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [Ian Keen](http://twitter.com/IanKay), [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc), [dmcrodrigues](https://github.com/dmcrodrigues)
