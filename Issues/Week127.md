@@ -18,8 +18,9 @@
 * [PresenterKit](https://github.com/jessesquires/PresenterKit), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [TextAttributes](https://github.com/delba/TextAttributes), by [@delba](https://github.com/delba)
 * [Spots](https://github.com/hyperoslo/Spots), by [@hyperoslo](https://twitter.com/hyperoslo)
-* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler), by [@Facebook](https://github.com/facebook)
+* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler), by [@fbOpenSource](https://twitter.com/fbOpenSource)
 * [Fashion](https://github.com/vadymmarkov/Fashion), by [@vadymmarkov](https://github.com/vadymmarkov)
+* [Remodel](https://code.facebook.com/posts/1154141864616569), by [@fbOpenSource](https://twitter.com/fbOpenSource)
 
 **Business**
 
