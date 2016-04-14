@@ -35,7 +35,8 @@
 
 **Videos**
 
-*
+* [Blending Cultures](https://realm.io/news/tryswift-daniel-steinberg-blending-cultures/), by [@dimsumthinking](https://twitter.com/dimsumthinking)
+* [Real World Mocking in Swift](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/), by [@nerdonica](https://twitter.com/nerdonica)
 
 **Credits**
 
