@@ -15,6 +15,7 @@
 * [PresenterKit](https://github.com/jessesquires/PresenterKit), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [TextAttributes](https://github.com/delba/TextAttributes), by [@delba](https://github.com/delba)
 * [Spots](https://github.com/hyperoslo/Spots) - by [@hyperoslo](https://twitter.com/hyperoslo)
+* [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler), by [@Facebook](https://github.com/facebook)
 
 **Business**
 
