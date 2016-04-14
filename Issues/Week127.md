@@ -11,6 +11,7 @@
 * [Hitting the sweet spot of inspiration](https://medium.com/@zenangst/hitting-the-sweet-spot-of-inspiration-637d387bc629), by [@zenangst](https://twitter.com/zenangst)
 * [Generics and the Art of Inference - Part 1 of 3](http://foxinswift.com/2016/04/12/generics-and-the-art-of-inference-part-1-of-3/), by [@RGfox](https://twitter.com/RGfox)
 * [A Pragmatic Approach to Cross-Platform](https://pspdfkit.com/blog/2016/a-pragmatic-approach-to-cross-platform/), by [@steipete](https://twitter.com/steipete)
+* [Using Xcode's Schemes to run a subset of your tests](http://artsy.github.io/blog/2016/04/06/Testing-Schemes/), by [@orta](https://twitter.com/orta)
 
 **Tools/Controls**
 
