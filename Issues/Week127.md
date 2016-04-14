@@ -1,4 +1,4 @@
-* [Swift in Android](http://thenextweb.com/dd/2016/04/07/google-facebook-uber-swift/)? 😮 
+* [Swift in Android](http://thenextweb.com/dd/2016/04/07/google-facebook-uber-swift/)? 😮
 
 **Articles**
 
@@ -17,6 +17,7 @@
 * [TextAttributes](https://github.com/delba/TextAttributes), by [@delba](https://github.com/delba)
 * [Spots](https://github.com/hyperoslo/Spots), by [@hyperoslo](https://twitter.com/hyperoslo)
 * [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler), by [@Facebook](https://github.com/facebook)
+* [Fashion](https://github.com/vadymmarkov/Fashion), by [@vadymmarkov](https://github.com/vadymmarkov)
 
 **Business**
 
@@ -38,4 +39,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [Ian Keen](http://twitter.com/IanKay), [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc), [dmcrodrigues](https://github.com/dmcrodrigues)
+* [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [Ian Keen](http://twitter.com/IanKay), [zenangst](https://github.com/zenangst), [mariusc](https://github.com/mariusc), [dmcrodrigues](https://github.com/dmcrodrigues), [vadymmarkov](https://github.com/vadymmarkov)
