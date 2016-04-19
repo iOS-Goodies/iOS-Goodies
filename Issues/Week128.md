@@ -19,7 +19,7 @@
 
 
 **Videos**
-
+* [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Credits**
 * [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues)
