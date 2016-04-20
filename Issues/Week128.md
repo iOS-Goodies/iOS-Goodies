@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [A Quick Design Exploration of Bots within the Apple Ecosystem](https://medium.com/@jbchaykowsky/agentkit-a-design-exploration-of-bots-within-the-apple-ecosystem-103c4b29a3c7), by [@jbchaykowsky](https://twitter.com/jbchaykowsky)
+* [HOW. CAN. I. HELP. YOU?](https://medium.com/@jockking/how-can-i-help-you-f3f1ffce4973), [@jockking](https://twitter.com/jockking)
 
 **Videos**
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
