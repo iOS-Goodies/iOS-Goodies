@@ -20,6 +20,8 @@
 
 * [A Quick Design Exploration of Bots within the Apple Ecosystem](https://medium.com/@jbchaykowsky/agentkit-a-design-exploration-of-bots-within-the-apple-ecosystem-103c4b29a3c7), by [@jbchaykowsky](https://twitter.com/jbchaykowsky)
 * [HOW. CAN. I. HELP. YOU?](https://medium.com/@jockking/how-can-i-help-you-f3f1ffce4973), [@jockking](https://twitter.com/jockking)
+* [Tabs for Mobile UX Design](http://babich.biz/tabs-for-mobile-ux-design-2/), by  [@101babich](https://twitter.com/101babich)
+* [http://babich.biz/notifications-for-mobile-apps/](http://babich.biz/notifications-for-mobile-apps/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
