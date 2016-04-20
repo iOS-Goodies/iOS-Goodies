@@ -11,7 +11,9 @@
 * [Coding as writing paragraphs](http://www.upbeat.it/2016/04/12/coding-as-writing-paragraphs/), by [@_funkyboy](https://twitter.com/_funkyboy)
 
 **Tools/Controls**
+
 * [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton), by [@manuelescrig](https://twitter.com/manuelescrig)
+* [Peek](https://github.com/shaps80/Peek), by [@shaps](https://twitter.com/shaps)
 
 **Business**
 
@@ -28,4 +30,4 @@
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Credits**
-* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz)  
+* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz), [lucianomarisi](https://twitter.com/lucianomarisi)
