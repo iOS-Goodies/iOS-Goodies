@@ -10,7 +10,7 @@
 * [Compile Time vs. Run Time Type Checking in Swift](http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Tools/Controls**
-
+* [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton), by [@manuelescrig](https://twitter.com/manuelescrig)
 
 **Business**
 
