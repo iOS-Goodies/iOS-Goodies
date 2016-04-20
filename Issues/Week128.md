@@ -10,7 +10,7 @@
 * [Compile Time vs. Run Time Type Checking in Swift](http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Tools/Controls**
-
+* [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton), by [@manuelescrig](https://twitter.com/manuelescrig)
 
 **Business**
 
@@ -27,4 +27,4 @@
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Credits**
-* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig)  
