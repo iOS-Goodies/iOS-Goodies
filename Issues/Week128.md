@@ -18,9 +18,10 @@
 
 **UI/UX**
 
+* [A Quick Design Exploration of Bots within the Apple Ecosystem](https://medium.com/@jbchaykowsky/agentkit-a-design-exploration-of-bots-within-the-apple-ecosystem-103c4b29a3c7), by [@jbchaykowsky](https://twitter.com/jbchaykowsky)
 
 **Videos**
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Credits**
-* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G)
+* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa)
