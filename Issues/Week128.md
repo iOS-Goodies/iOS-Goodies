@@ -8,6 +8,7 @@
 * [The Trouble with Manager Objects](https://sandofsky.com/blog/manager-classes.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Presenting unanticipated errors to users](http://www.cocoawithlove.com/blog/2016/04/14/error-recovery-attempter.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Compile Time vs. Run Time Type Checking in Swift](http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [Coding as writing paragraphs](http://www.upbeat.it/2016/04/12/coding-as-writing-paragraphs/), by [@_funkyboy](https://twitter.com/_funkyboy)
 
 **Tools/Controls**
 * [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton), by [@manuelescrig](https://twitter.com/manuelescrig)
@@ -27,4 +28,4 @@
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Credits**
-* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig)  
+* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz)  
