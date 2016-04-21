@@ -28,6 +28,7 @@
 
 * [A Quick Design Exploration of Bots within the Apple Ecosystem](https://medium.com/@jbchaykowsky/agentkit-a-design-exploration-of-bots-within-the-apple-ecosystem-103c4b29a3c7), by [@jbchaykowsky](https://twitter.com/jbchaykowsky)
 * [HOW. CAN. I. HELP. YOU?](https://medium.com/@jockking/how-can-i-help-you-f3f1ffce4973), [@jockking](https://twitter.com/jockking)
+* [Bots won't replace apps. Better apps will replace apps](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html), by [@DanGrover](https://twitter.com/DanGrover)
 * [Tabs for Mobile UX Design](http://babich.biz/tabs-for-mobile-ux-design-2/), by  [@101babich](https://twitter.com/101babich)
 * [Notifications for Mobile Apps](http://babich.biz/notifications-for-mobile-apps/), by [@101babich](https://twitter.com/101babich)
 
