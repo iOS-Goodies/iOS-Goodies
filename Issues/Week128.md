@@ -10,6 +10,7 @@
 * [Compile Time vs. Run Time Type Checking in Swift](http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Coding as writing paragraphs](http://www.upbeat.it/2016/04/12/coding-as-writing-paragraphs/), by [@_funkyboy](https://twitter.com/_funkyboy)
 * [Upgrade your TableViews with Loading State in Swift](https://medium.com/swift-programming/upgrade-your-tableviews-with-loading-state-in-swift-1fdce34ada77), by [@nickoneill](https://twitter.com/nickoneill)
+* [CoreAnimation is pure love](https://medium.com/@caiobzen/coreanimation-is-pure-love-️-7925664d1311), by [@caiobzen](https://twitter.com/caiobzen)
 
 **Tools/Controls**
 
