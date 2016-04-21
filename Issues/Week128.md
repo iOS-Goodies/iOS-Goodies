@@ -14,6 +14,7 @@
 * [Swift Enums as namespace](https://medium.com/@sergey.gavrilyuk/swift-enums-as-namespace-7df63a17f36f), by [@octogavrix](https://twitter.com/octogavrix)
 * [Charlie and the Factory Method Pattern](https://medium.com/falzia-swift/charlie-and-the-factory-method-pattern-b3b8e9d38b1e), by [@dadederk](https://twitter.com/dadederk)
 * [Swift tip: Currying](https://medium.com/@trinhngocthuyen/swift-tip-currying-4eeebcd2dbf2), by [@trinhngocthuyen](https://twitter.com/trinhngocthuyen)
+* [Shaving Our Image Size](http://engineering.dollarshaveclub.com/shaving-our-image-size/), by [@daltoniam](https://twitter.com/daltoniam)
 
 **Tools/Controls**
 
