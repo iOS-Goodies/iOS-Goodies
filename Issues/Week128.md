@@ -41,4 +41,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz), [lucianomarisi](https://twitter.com/lucianomarisi)
+* [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz), [lucianomarisi](https://twitter.com/lucianomarisi), [delba](https://github.com/delba)
