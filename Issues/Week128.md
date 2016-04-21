@@ -9,6 +9,7 @@
 * [Presenting unanticipated errors to users](http://www.cocoawithlove.com/blog/2016/04/14/error-recovery-attempter.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Compile Time vs. Run Time Type Checking in Swift](http://blog.benjamin-encz.de/post/compile-time-vs-runtime-type-checking-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Coding as writing paragraphs](http://www.upbeat.it/2016/04/12/coding-as-writing-paragraphs/), by [@_funkyboy](https://twitter.com/_funkyboy)
+* [Upgrade your TableViews with Loading State in Swift](https://medium.com/swift-programming/upgrade-your-tableviews-with-loading-state-in-swift-1fdce34ada77), by [@nickoneill](https://twitter.com/nickoneill)
 
 **Tools/Controls**
 
@@ -28,7 +29,9 @@
 * [Notifications for Mobile Apps](http://babich.biz/notifications-for-mobile-apps/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
+
 * [Hipster Swift](https://realm.io/news/tryswift-hector-matos-hipster-swift/), by [@allonsykraken](https://twitter.com/allonsykraken)
 
 **Credits**
+
 * [mariusc](https://github.com/mariusc), [renatorodrigues](https://github.com/renatorodrigues), [Ben-G](https://github.com/Ben-G), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz), [lucianomarisi](https://twitter.com/lucianomarisi)
