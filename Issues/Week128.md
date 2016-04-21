@@ -22,6 +22,7 @@
 **Business**
 
 * [The end of app stores(as we know them)](https://medium.com/intercom-inside/the-end-of-app-stores-dd379e754033), by [@intercom](https://twitter.com/intercom)
+* [Our software must get better](http://sethgodin.typepad.com/seths_blog/2016/04/our-software-must-get-better.html), by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
 
 **UI/UX**
 
