@@ -23,7 +23,7 @@
 
 **Business**
 
-* [The end of app stores(as we know them)](https://medium.com/intercom-inside/the-end-of-app-stores-dd379e754033), by [@intercom](https://twitter.com/intercom)
+* [The end of app stores (as we know them)](https://medium.com/intercom-inside/the-end-of-app-stores-dd379e754033), by [@intercom](https://twitter.com/intercom)
 * [Our software must get better](http://sethgodin.typepad.com/seths_blog/2016/04/our-software-must-get-better.html), by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
 
 **UI/UX**
@@ -33,6 +33,7 @@
 * [Bots won't replace apps. Better apps will replace apps](http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html), by [@DanGrover](https://twitter.com/DanGrover)
 * [Tabs for Mobile UX Design](http://babich.biz/tabs-for-mobile-ux-design-2/), by  [@101babich](https://twitter.com/101babich)
 * [Notifications for Mobile Apps](http://babich.biz/notifications-for-mobile-apps/), by [@101babich](https://twitter.com/101babich)
+* [Designing complex products](https://medium.com/truth-labs/designing-complex-products-8f9289ab26c9#.k8k6huevb), by [@eklimcz](https://twitter.com/eklimcz)
 
 **Videos**
 
