@@ -11,6 +11,7 @@
 * [Coding as writing paragraphs](http://www.upbeat.it/2016/04/12/coding-as-writing-paragraphs/), by [@_funkyboy](https://twitter.com/_funkyboy)
 * [Upgrade your TableViews with Loading State in Swift](https://medium.com/swift-programming/upgrade-your-tableviews-with-loading-state-in-swift-1fdce34ada77), by [@nickoneill](https://twitter.com/nickoneill)
 * [CoreAnimation is pure love](https://medium.com/@caiobzen/coreanimation-is-pure-love-️-7925664d1311), by [@caiobzen](https://twitter.com/caiobzen)
+* [Swift Enums as namespace](https://medium.com/@sergey.gavrilyuk/swift-enums-as-namespace-7df63a17f36f), by [@octogavrix](https://twitter.com/octogavrix)
 
 **Tools/Controls**
 
