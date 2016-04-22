@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [CoreStore](https://github.com/JohnEstropia/CoreStore), by [@JohnEstropia](https://twitter.com/JohnEstropia)
 
 **Business**
 
