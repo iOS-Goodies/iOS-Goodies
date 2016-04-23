@@ -9,7 +9,7 @@
 
 **Business**
 
-* 
+* [On paid App Store search results](https://marco.org/2016/04/21/paid-app-store-search), by [@marcoarment](https://twitter.com/marcoarment)
 
 **UI/UX**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [JohnEstropia](https://twitter.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues)
+* [JohnEstropia](https://twitter.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz)
