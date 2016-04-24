@@ -5,7 +5,8 @@
 * [The GCD Handbook](http://khanlou.com/2016/04/the-GCD-handbook/), by [@khanlou](https://twitter.com/khanlou)
 * [Static Tables and Dynamic Type](http://useyourloaf.com/blog/static-tables-and-dynamic-type/), by [@kharrison](https://twitter.com/kharrison)
 * [Xcode Search: the Hidden Gems](http://holko.pl/2016/04/26/xcode-search/), by [@arekholko](https://twitter.com/arekholko)
-
+* [Separation of concerns: UI Edition](https://medium.com/@IanKeen/separation-of-concerns-ui-edition-1916a35a6899#.q821pjvhg) by [Ian Keen](https://twitter.com/IanKay)
+ 
 **Tools/Controls**
 
 * [CoreStore](https://github.com/JohnEstropia/CoreStore), by [@JohnEstropia](https://twitter.com/JohnEstropia)
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [JohnEstropia](https://twitter.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [ott_max](https://twitter.com/ott_max), [gautgaut](https://twitter.com/gautgaut)
+* [JohnEstropia](https://twitter.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [ott_max](https://twitter.com/ott_max), [gautgaut](https://twitter.com/gautgaut), [Ian Keen](https://twitter.com/IanKay)
