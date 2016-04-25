@@ -18,7 +18,7 @@
 
 **Videos**
 
-* 
+* [An Artsy Testing Tour](https://realm.io/news/tryswift-ash-furrow-artsy-testing-tour/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **Credits**
 
