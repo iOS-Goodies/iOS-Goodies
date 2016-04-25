@@ -2,6 +2,7 @@
 **Articles**
 
 * [How to show the duration of builds in Xcode](http://tonyarnold.com/2016/04/20/xcode-build-duration.html), by [@tonyarnold](https://twitter.com/tonyarnold)
+* [The GCD Handbook](http://khanlou.com/2016/04/the-GCD-handbook/), by [@khanlou](https://twitter.com/khanlou)
  
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [JohnEstropia](https://twitter.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz)
+* [JohnEstropia](https://twitter.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa),
