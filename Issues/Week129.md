@@ -3,6 +3,7 @@
 
 * [How to show the duration of builds in Xcode](http://tonyarnold.com/2016/04/20/xcode-build-duration.html), by [@tonyarnold](https://twitter.com/tonyarnold)
 * [The GCD Handbook](http://khanlou.com/2016/04/the-GCD-handbook/), by [@khanlou](https://twitter.com/khanlou)
+* [Static Tables and Dynamic Type](http://useyourloaf.com/blog/static-tables-and-dynamic-type/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
