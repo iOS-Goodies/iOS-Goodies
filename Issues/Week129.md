@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [Hexacon](https://github.com/gautier-gdx/Hexacon), by [@gautgaut](https://twitter.com/gautgaut)
 
 **Videos**
 
