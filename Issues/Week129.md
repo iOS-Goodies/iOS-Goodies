@@ -14,6 +14,7 @@
 **Business**
 
 * [On paid App Store search results](https://marco.org/2016/04/21/paid-app-store-search), by [@marcoarment](https://twitter.com/marcoarment)
+* [Being A Developer After 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c), by [@akosma](https://twitter.com/akosma)
 
 **UI/UX**
 
