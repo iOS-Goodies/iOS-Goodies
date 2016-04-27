@@ -13,6 +13,7 @@
 * [Construction](https://github.com/onmyway133/Construction) by [@onmyway133](https://twitter.com/onmyway133)
 * [Transporter](https://transporterapp.io), by [@ott_max](https://twitter.com/ott_max)
 * [Hexacon](https://github.com/gautier-gdx/Hexacon), by [@gautgaut](https://twitter.com/gautgaut)
+* [Reductio](https://github.com/fdzsergio/Reductio), by [@fdzsergio](https://twitter.com/fdzsergio)
 
 **Business**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [JohnEstropia](https://github.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [max-ott](https://github.com/max-ott), [gautier-gdx](https://github.com/gautier-gdx), [IanKeen](https://github.com/IanKeen)
+* [JohnEstropia](https://github.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [max-ott](https://github.com/max-ott), [gautier-gdx](https://github.com/gautier-gdx), [IanKeen](https://github.com/IanKeen), [fdzsergio](https://github.com/fdzsergio)
