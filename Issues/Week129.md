@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [JohnEstropia](https://github.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [max-ott](https://github.com/max-ott), [gautier-gdx](https://github.com/gautier-gdx), [IanKeen](https://github.com/IanKeen)
+* [JohnEstropia](https://github.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [max-ott](https://github.com/max-ott), [gautier-gdx](https://github.com/gautier-gdx), [IanKeen](https://github.com/IanKeen), [fdzsergio](https://github.com/fdzsergio)
