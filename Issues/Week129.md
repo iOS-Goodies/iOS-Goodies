@@ -6,6 +6,10 @@
 * [Static Tables and Dynamic Type](http://useyourloaf.com/blog/static-tables-and-dynamic-type/), by [@kharrison](https://twitter.com/kharrison)
 * [Xcode Search: the Hidden Gems](http://holko.pl/2016/04/26/xcode-search/), by [@arekholko](https://twitter.com/arekholko)
 * [Separation of concerns: UI Edition](https://medium.com/@IanKeen/separation-of-concerns-ui-edition-1916a35a6899) by [@IanKay](https://twitter.com/IanKay)
+* [Coordinators with Storyboards](http://www.apokrupto.com/blog-1/2016/3/17/coordinators-with), by [@Apokrupto](https://twitter.com/Apokrupto)
+* [UIText​Checker](http://nshipster.com/uitextchecker/), by [@cr0ath](https://twitter.com/cr0ath)
+* [ReactiveCocoa vs RxSwift](https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift), by [@peres](https://twitter.com/peres)
+* [Change your API endpoint/environment using Xcode Configurations in Swift](https://medium.com/@danielgalasko/change-your-api-endpoint-environment-using-xcode-configurations-in-swift-c1ad2722200e), by [@danielgalasko](https://twitter.com/danielgalasko)
  
 **Tools/Controls**
 
@@ -19,10 +23,13 @@
 
 * [On paid App Store search results](https://marco.org/2016/04/21/paid-app-store-search), by [@marcoarment](https://twitter.com/marcoarment)
 * [Being A Developer After 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c), by [@akosma](https://twitter.com/akosma)
+* [The end of Nextr and what we’ve learned from being our own client.](https://medium.com/@oberhaeuser/the-end-of-nextr-and-what-weve-learned-from-being-our-own-client-518b1d0e77c8),  by [@oberhaeuserinfo](https://twitter.com/oberhaeuserinfo)
+* [My 8 Rules Of Great Products](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058), by [@mitchellharper](https://twitter.com/mitchellharper)
 
 **UI/UX**
 
-* 
+* [5 Mistakes to Avoid When Designing Micro-interactions](https://medium.com/@ux_in_motion/5-mistakes-to-avoid-when-designing-micro-interactions-a6f638ee6a86), by [@UX_in_Motion](https://twitter.com/UX_in_Motion)
+* [Facebook Camera - iOS App Concept and Prototype](https://blog.prototypr.io/facebook-camera-2f7e962d6b6b), by [@DamjanStankovic](https://twitter.com/DamjanStankovic)
 
 **Videos**
 
