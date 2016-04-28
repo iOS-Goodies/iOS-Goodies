@@ -11,7 +11,6 @@
 * [ReactiveCocoa vs RxSwift](https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift), by [@peres](https://twitter.com/peres)
 * [Change your API endpoint/environment using Xcode Configurations in Swift](https://medium.com/@danielgalasko/change-your-api-endpoint-environment-using-xcode-configurations-in-swift-c1ad2722200e), by [@danielgalasko](https://twitter.com/danielgalasko)
 * [Speeding Up Slow Swift Build Times](https://thatthinginswift.com/debug-long-compile-times-swift/), by [@nickoneill](https://twitter.com/nickoneill)
-* [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c), by [@akosma](https://twitter.com/akosma)
  
 **Tools/Controls**
 
