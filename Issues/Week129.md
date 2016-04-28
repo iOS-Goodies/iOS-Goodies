@@ -10,6 +10,8 @@
 * [UIText​Checker](http://nshipster.com/uitextchecker/), by [@cr0ath](https://twitter.com/cr0ath)
 * [ReactiveCocoa vs RxSwift](https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift), by [@peres](https://twitter.com/peres)
 * [Change your API endpoint/environment using Xcode Configurations in Swift](https://medium.com/@danielgalasko/change-your-api-endpoint-environment-using-xcode-configurations-in-swift-c1ad2722200e), by [@danielgalasko](https://twitter.com/danielgalasko)
+* [Speeding Up Slow Swift Build Times](https://thatthinginswift.com/debug-long-compile-times-swift/), by [@nickoneill](https://twitter.com/nickoneill)
+* [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c), by [@akosma](https://twitter.com/akosma)
  
 **Tools/Controls**
 
@@ -37,4 +39,4 @@
 
 **Credits**
 
-* [JohnEstropia](https://github.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [max-ott](https://github.com/max-ott), [gautier-gdx](https://github.com/gautier-gdx), [IanKeen](https://github.com/IanKeen), [fdzsergio](https://github.com/fdzsergio)
+* [JohnEstropia](https://github.com/JohnEstropia), [renatorodrigues](https://github.com/renatorodrigues), [lkmfz](https://github.com/lkmfz), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [max-ott](https://github.com/max-ott), [gautier-gdx](https://github.com/gautier-gdx), [IanKeen](https://github.com/IanKeen), [fdzsergio](https://github.com/fdzsergio), [mariusc](https://github.com/mariusc)
