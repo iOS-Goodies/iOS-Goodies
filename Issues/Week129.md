@@ -26,6 +26,7 @@
 * [Being A Developer After 40](https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c), by [@akosma](https://twitter.com/akosma)
 * [The end of Nextr and what we’ve learned from being our own client.](https://medium.com/@oberhaeuser/the-end-of-nextr-and-what-weve-learned-from-being-our-own-client-518b1d0e77c8),  by [@oberhaeuserinfo](https://twitter.com/oberhaeuserinfo)
 * [My 8 Rules Of Great Products](https://medium.com/@mitchellharper/my-8-rules-of-great-products-1aaa30487058), by [@mitchellharper](https://twitter.com/mitchellharper)
+* [FIRING PEOPLE](https://zachholman.com/talk/firing-people), by [@holman](https://twitter.com/holman) via [@icanzilb](https://twitter.com/icanzilb)
 
 **UI/UX**
 
