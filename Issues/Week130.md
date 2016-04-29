@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [CareKit](https://github.com/carekit-apple/CareKit), by [Apple](https://github.com/carekit-apple)
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [uraimo](https://github.com/uraimo),
+* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc)
