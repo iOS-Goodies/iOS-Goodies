@@ -17,6 +17,7 @@
 * [Github.swift](https://github.com/onmyway133/github.swift) Unofficial GitHub API client in Swift, by [onmyway133](https://twitter.com/onmyway133)
 * [Interpolate](https://github.com/marmelroy/Interpolate), by [marmelroy](https://twitter.com/marmelroy)
 * [Boombox.io](https://boombox.io) Sign up TestFlight testers with an embeddable HTML form, by [Feifan Wang](http://secretsaucehq.com)
+* [Outlets](https://github.com/phatblat/Outlets), by [@phatblat](https://twitter.com/phatblat)
 
 **Business**
 
