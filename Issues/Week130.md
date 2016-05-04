@@ -16,6 +16,7 @@
 * [CareKit](https://github.com/carekit-apple/CareKit), by [Apple](https://github.com/carekit-apple)
 * [Github.swift](https://github.com/onmyway133/github.swift) Unofficial GitHub API client in Swift, by [onmyway133](https://twitter.com/onmyway133)
 * [Interpolate](https://github.com/marmelroy/Interpolate), by [marmelroy](https://twitter.com/marmelroy)
+* [Boombox.io](https://boombox.io) Sign up TestFlight testers with an embeddable HTML form, by [Feifan Wang](http://secretsaucehq.com)
 
 **Business**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G),  [rbarbosa](https://github.com/rbarbosa)
+* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G),  [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit)
