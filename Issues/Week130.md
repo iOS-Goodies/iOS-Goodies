@@ -9,7 +9,7 @@
 * [What Does a Senior Developer Do?](http://ctarda.com/2016/05/what-does-a-senior-developer-do/), by [@ctarda](https://twitter.com/ctarda)
 * [Managing Build Settings and Avoiding pbxproj Conflicts](http://pewpewthespells.com/blog/pbxproj_management.html), by [@queersorceress](https://twitter.com/queersorceress)
 * [Testing with Swift – Approaches & Useful Libraries](https://spin.atomicobject.com/2016/05/02/testing-swift-code/), by Matt Nedrich
-
+* [Testing your RxSwift code, part 1](http://rx-marin.com/post/rxswift-rxtests-unit-tests/), by [@icanzilb](http://www.twitter.com/icanzilb)
 
 **Tools/Controls**
 
