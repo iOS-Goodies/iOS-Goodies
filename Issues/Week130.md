@@ -5,6 +5,7 @@
 * [Wrapping API's Using the Builder Pattern](http://nshint.io/blog/2016/05/02/wrapping-apis-using-the-builder-pattern/), by [@rakaramos](https://www.twitter.com/rakaramos)
 * [Swift's nonmutating Keyword](http://jasdev.me/nonmutating), by [@jasdev](https://twitter.com/jasdev)
 * [Protocol-Oriented Logging, or: Default Arguments in Swift Protocols](http://oleb.net/blog/2016/05/default-arguments-in-protocols/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Decoding Heterogeneous Collections in Swift](http://blog.benjamin-encz.de/post/decoding-heterogeneous-collections-in-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 
 **Tools/Controls**
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy)
+* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G)
