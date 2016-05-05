@@ -23,6 +23,7 @@
 
 * [This is why most mobile development projects fail](http://clean-swift.com/mobile-development-projects-fail/), by [@rayvinly](https://twitter.com/rayvinly)
 * [Building A New Social App Today is Insane](https://medium.com/@mhkt/building-a-new-social-app-today-is-insane-b5fe7b81e76), by [@mhkt](https://twitter.com/mhkt)
+* [You need to transform who your customers are](https://medium.com/life-learning/you-need-to-transform-who-your-customers-are-a26d0fc5aa9), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
 
 **UI/UX**
 
