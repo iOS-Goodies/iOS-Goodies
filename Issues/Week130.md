@@ -25,7 +25,7 @@
 
 **UI/UX**
 
-*
+* [Usability Heuristics for Bots](https://medium.com/chat-bots/usability-heuristics-for-bots-7075132d2c92), by [@thekevinscott](https://twitter.com/thekevinscott)
 
 **Videos**
 
