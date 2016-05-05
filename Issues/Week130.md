@@ -33,8 +33,8 @@
 
 **Videos**
 
-*
+* [Parser Combinators in Swift](https://realm.io/news/tryswift-yasuhiro-inami-parser-combinator/), by [@inamiy](https://twitter.com/inamiy)
 
 **Credits**
 
-* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G),  [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit), [NSMyself](https://twitter.com/NSMyself)
+* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G),  [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit), [NSMyself](https://twitter.com/NSMyself), [lkmfz](https://github.com/lkmfz)
