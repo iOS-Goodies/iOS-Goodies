@@ -21,7 +21,7 @@
 
 **Business**
 
-*
+* [This is why most mobile development projects fail](http://clean-swift.com/mobile-development-projects-fail/), by [@rayvinly](https://twitter.com/rayvinly)
 
 **UI/UX**
 
@@ -33,4 +33,4 @@
 
 **Credits**
 
-* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G),  [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit)
+* [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133), [marmelroy](https://github.com/marmelroy), [Ben-G](https://github.com/Ben-G),  [rbarbosa](https://github.com/rbarbosa), [4thethrillofit](https://github.com/4thethrillofit), [NSMyself](https://twitter.com/NSMyself)
