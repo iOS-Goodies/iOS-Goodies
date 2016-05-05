@@ -12,6 +12,7 @@
 * [Testing your RxSwift code, part 1](http://rx-marin.com/post/rxswift-rxtests-unit-tests/), by [@icanzilb](http://www.twitter.com/icanzilb)
 * [Regarding Swift build time optimizations](https://medium.com/@RobertGummesson/regarding-swift-build-time-optimizations-fc92cdd91e31), by [@RobertGummesson](https://twitter.com/RobertGummesson)
 * [Doubling Down on Protocol-Oriented Programming](http://khanlou.com/2016/05/protocol-oriented-programming/), by [@khanlou](https://twitter.com/khanlou)
+* [Swift Assertions](http://andybargh.com/swift-assertions), by [@abargh](https://twitter.com/abargh)
 
 **Tools/Controls**
 
