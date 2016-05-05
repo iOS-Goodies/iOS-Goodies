@@ -22,6 +22,7 @@
 **Business**
 
 * [This is why most mobile development projects fail](http://clean-swift.com/mobile-development-projects-fail/), by [@rayvinly](https://twitter.com/rayvinly)
+* [Building A New Social App Today is Insane](https://medium.com/@mhkt/building-a-new-social-app-today-is-insane-b5fe7b81e76), by [@mhkt](https://twitter.com/mhkt)
 
 **UI/UX**
 
