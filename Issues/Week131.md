@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [paper-onboarding](https://github.com/Ramotion/paper-onboarding), by [@Ramotion](https://twitter.com/Ramotion)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rbarbosa](https://github.com/rbarbosa),
