@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Comparing Swift to C++ for parsing](http://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html), by [@ cocoawithlove](https://twitter.com/cocoawithlove)
 
 
 **Tools/Controls**
