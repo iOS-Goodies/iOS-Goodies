@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-*
+* [XD Essentials: Card-Based User Interfaces](http://blogs.adobe.com/creativecloud/card-based-user-interfaces/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
