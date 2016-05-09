@@ -12,7 +12,7 @@
 
 **Business**
 
-*
+* [Will The Real Apple Watch Developers Please Stand Up?](https://medium.com/@akosma/will-the-real-apple-watch-developers-stand-up-c9e449f08d7d#.merazau1o) by [@akosma](https://twitter.com/akosma)
 
 **UI/UX**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio),
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio),[uraimo](https://github.com/uraimo)
