@@ -2,6 +2,7 @@
 **Articles**
 
 * [Comparing Swift to C++ for parsing](http://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html), by [@ cocoawithlove](https://twitter.com/cocoawithlove)
+* [Creating an iOS Wizard UI in Swift](https://ijoshsmith.com/2016/05/08/creating-an-ios-wizard-ui-in-swift/), by [@bach4life](https://twitter.com/bach4life)
 
 
 **Tools/Controls**
