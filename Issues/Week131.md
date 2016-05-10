@@ -12,6 +12,7 @@
 
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding), by [@Ramotion](https://twitter.com/Ramotion)
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift), by [@LarryNatalicio](https://twitter.com/LarryNatalicio)
+* [100DaysOfSwift](https://github.com/khuong291/100DaysOfSwift), by [@khuong291](https://twitter.com/khuong291)
 
 **Business**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133)
