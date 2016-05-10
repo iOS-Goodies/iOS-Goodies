@@ -14,7 +14,8 @@
 **Business**
 
 * [I Can’t Tell You Why Our Business Is Growing](https://medium.com/swlh/kill-your-conversion-funnel-9367e461a46f#.3e81q3doj), by [@meseali](https://twitter.com/meseali)
-* [Will The Real Apple Watch Developers Please Stand Up?](https://medium.com/@akosma/will-the-real-apple-watch-developers-stand-up-c9e449f08d7d#.merazau1o) by [@akosma](https://twitter.com/akosma)
+* [Will The Real Apple Watch Developers Please Stand Up?](https://medium.com/@akosma/will-the-real-apple-watch-developers-stand-up-c9e449f08d7d#.merazau1o), by [@akosma](https://twitter.com/akosma)
+* [The Daily Routines of 15 Successful Entrepreneurs](https://medium.com/product-hunt/the-daily-routines-of-15-successful-entrepreneurs-5d946754ce58), by [@ProductHunt](https://twitter.com/ProductHunt)
 
 **UI/UX**
 
@@ -22,8 +23,8 @@
 
 **Videos**
 
-*
+* [Boundaries in Practice](https://realm.io/news/tryswift-ayaka-nonaka-boundaries-in-practice/), by [@ayanonagon](https://twitter.com/ayanonagon)
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio),[uraimo](https://github.com/uraimo)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc)
