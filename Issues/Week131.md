@@ -5,6 +5,7 @@
 * [Comparing Swift to C++ for parsing](http://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html), by [@ cocoawithlove](https://twitter.com/cocoawithlove)
 * [Creating an iOS Wizard UI in Swift](https://ijoshsmith.com/2016/05/08/creating-an-ios-wizard-ui-in-swift/), by [@bach4life](https://twitter.com/bach4life)
 * [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/), by [@kharrison](https://twitter.com/kharrison)
+* [Type-safe styles in Swift](http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 
 **Tools/Controls**
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi)
