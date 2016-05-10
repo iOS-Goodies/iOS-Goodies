@@ -3,6 +3,7 @@
 
 * [Comparing Swift to C++ for parsing](http://www.cocoawithlove.com/blog/2016/05/01/swift-name-demangling.html), by [@ cocoawithlove](https://twitter.com/cocoawithlove)
 * [Creating an iOS Wizard UI in Swift](https://ijoshsmith.com/2016/05/08/creating-an-ios-wizard-ui-in-swift/), by [@bach4life](https://twitter.com/bach4life)
+* [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/), by [@kharrison](https://twitter.com/kharrison)
 
 
 **Tools/Controls**
