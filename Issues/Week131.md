@@ -1,4 +1,5 @@
 * [CocoaPods 1.0](http://blog.cocoapods.org/CocoaPods-1.0/)
+* [Farewell to FRP](http://elm-lang.org/blog/farewell-to-frp)
 
 **Articles**
 
