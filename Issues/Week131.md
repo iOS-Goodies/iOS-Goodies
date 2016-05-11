@@ -21,6 +21,7 @@
 * [I Can’t Tell You Why Our Business Is Growing](https://medium.com/swlh/kill-your-conversion-funnel-9367e461a46f#.3e81q3doj), by [@meseali](https://twitter.com/meseali)
 * [Will The Real Apple Watch Developers Please Stand Up?](https://medium.com/@akosma/will-the-real-apple-watch-developers-stand-up-c9e449f08d7d#.merazau1o), by [@akosma](https://twitter.com/akosma)
 * [The Daily Routines of 15 Successful Entrepreneurs](https://medium.com/product-hunt/the-daily-routines-of-15-successful-entrepreneurs-5d946754ce58), by [@ProductHunt](https://twitter.com/ProductHunt)
+* [What it takes to launch an app](http://www.hailpixel.com/articles/what-it-takes-to-launch-an-app), by [@hailpixel](https://twitter.com/hailpixel)
 
 **UI/UX**
 
