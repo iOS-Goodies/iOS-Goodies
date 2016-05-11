@@ -15,6 +15,7 @@
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding), by [@Ramotion](https://twitter.com/Ramotion)
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift), by [@LarryNatalicio](https://twitter.com/LarryNatalicio)
 * [100DaysOfSwift](https://github.com/khuong291/100DaysOfSwift), by [@khuong291](https://twitter.com/khuong291)
+* [SwiftTweaks](https://github.com/khan/SwiftTweaks), by [@KAEngineering](https://twitter.com/KAEngineering)
 
 **Business**
 
