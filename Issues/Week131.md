@@ -7,6 +7,7 @@
 * [Creating an iOS Wizard UI in Swift](https://ijoshsmith.com/2016/05/08/creating-an-ios-wizard-ui-in-swift/), by [@bach4life](https://twitter.com/bach4life)
 * [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/), by [@kharrison](https://twitter.com/kharrison)
 * [Type-safe styles in Swift](http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 
 **Tools/Controls**
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G)
