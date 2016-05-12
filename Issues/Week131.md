@@ -28,6 +28,7 @@
 * [Will The Real Apple Watch Developers Please Stand Up?](https://medium.com/@akosma/will-the-real-apple-watch-developers-stand-up-c9e449f08d7d#.merazau1o), by [@akosma](https://twitter.com/akosma)
 * [The Daily Routines of 15 Successful Entrepreneurs](https://medium.com/product-hunt/the-daily-routines-of-15-successful-entrepreneurs-5d946754ce58), by [@ProductHunt](https://twitter.com/ProductHunt)
 * [What it takes to launch an app](http://www.hailpixel.com/articles/what-it-takes-to-launch-an-app), by [@hailpixel](https://twitter.com/hailpixel)
+* [Developers, Learn To Say No.](https://medium.com/@akosma/developers-learn-to-say-no-777fe571b38d), by [Adrian Kosmaczewski](https://twitter.com/akosma)
 
 **UI/UX**
 
@@ -42,4 +43,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba), [dmcrodrigues](https://github.com/dmcrodrigues)
