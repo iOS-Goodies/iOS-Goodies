@@ -29,6 +29,7 @@
 * [The Daily Routines of 15 Successful Entrepreneurs](https://medium.com/product-hunt/the-daily-routines-of-15-successful-entrepreneurs-5d946754ce58), by [@ProductHunt](https://twitter.com/ProductHunt)
 * [What it takes to launch an app](http://www.hailpixel.com/articles/what-it-takes-to-launch-an-app), by [@hailpixel](https://twitter.com/hailpixel)
 * [Developers, Learn To Say No.](https://medium.com/@akosma/developers-learn-to-say-no-777fe571b38d), by [Adrian Kosmaczewski](https://twitter.com/akosma)
+* [My Advice for First-Time Entrepreneurs](https://medium.com/@garyvee/my-advice-for-first-time-entrepreneurs-efb45e69967d#.idf8rq9w7), by [@garyvee](https://twitter.com/garyvee)
 
 **UI/UX**
 
