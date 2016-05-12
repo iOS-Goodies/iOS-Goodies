@@ -20,6 +20,7 @@
 * [100DaysOfSwift](https://github.com/khuong291/100DaysOfSwift), by [@khuong291](https://twitter.com/khuong291)
 * [SwiftTweaks](https://github.com/khan/SwiftTweaks), by [@KAEngineering](https://twitter.com/KAEngineering)
 * [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator), by [@POSSIBLEmobile](https://twitter.com/POSSIBLEmobile)
+* [SwiftyOAuth](https://github.com/delba/SwiftyOAuth), by [@delba](https://github.com/delba)
 
 **Business**
 
@@ -41,4 +42,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz), [delba](https://github.com/delba)
