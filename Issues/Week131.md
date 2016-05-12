@@ -10,6 +10,7 @@
 * [Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Recursive Tail Calls and Trampolines in Swift](https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift/), by [@uraimo](https://twitter.com/uraimo)
 * [Taking Control of Xcode Issue Navigator with XcodeIssueGenerator](https://possiblemobile.com/2016/05/xcode-issue-generator/), by [@soolwan](https://twitter.com/soolwan)
+* [Continuous iOS Code Coverage With Jenkins and Slather](https://pspdfkit.com/blog/2016/continuous-ios-code-coverage-with-jenkins-and-slather/), by [@bukovinski](https://twitter.com/bukovinski)
 
 
 **Tools/Controls**
