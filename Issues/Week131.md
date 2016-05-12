@@ -8,6 +8,7 @@
 * [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/), by [@kharrison](https://twitter.com/kharrison)
 * [Type-safe styles in Swift](http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [Recursive Tail Calls and Trampolines in Swift](https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift/), by [@uraimo](https://twitter.com/uraimo)
 
 
 **Tools/Controls**
@@ -36,4 +37,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G)
+* [rbarbosa](https://github.com/rbarbosa), [larrynatalicio](https://github.com/larrynatalicio), [uraimo](https://github.com/uraimo), [mariusc](https://github.com/mariusc), [lucianomarisi](https://github.com/lucianomarisi), [onmyway133](https://github.com/onmyway133), [Ben-G](https://github.com/Ben-G), [lkmfz](https://github.com/lkmfz)
