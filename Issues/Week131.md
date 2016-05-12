@@ -9,6 +9,7 @@
 * [Type-safe styles in Swift](http://www.marisibrothers.com/2016/05/type-safe-styles-in-swift.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Investigating the Cause of Quadratic Time Complexity When Adding Subviews in UIKit](http://blog.benjamin-encz.de/post/disassembling-uikit-tintcolor-visitor/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Recursive Tail Calls and Trampolines in Swift](https://www.uraimo.com/2016/05/05/recursive-tail-calls-and-trampolines-in-swift/), by [@uraimo](https://twitter.com/uraimo)
+* [Taking Control of Xcode Issue Navigator with XcodeIssueGenerator](https://possiblemobile.com/2016/05/xcode-issue-generator/), by [@soolwan](https://twitter.com/soolwan)
 
 
 **Tools/Controls**
@@ -17,6 +18,7 @@
 * [15 Days of Animations in Swift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift), by [@LarryNatalicio](https://twitter.com/LarryNatalicio)
 * [100DaysOfSwift](https://github.com/khuong291/100DaysOfSwift), by [@khuong291](https://twitter.com/khuong291)
 * [SwiftTweaks](https://github.com/khan/SwiftTweaks), by [@KAEngineering](https://twitter.com/KAEngineering)
+* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator), by [@POSSIBLEmobile](https://twitter.com/POSSIBLEmobile)
 
 **Business**
 
