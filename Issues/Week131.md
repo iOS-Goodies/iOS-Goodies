@@ -1,5 +1,5 @@
-* [CocoaPods 1.0](http://blog.cocoapods.org/CocoaPods-1.0/)
-* [Farewell to FRP](http://elm-lang.org/blog/farewell-to-frp)
+* Congratulations [CocoaPods](http://blog.cocoapods.org/CocoaPods-1.0/) for the v1 🎉🎉
+* [Farewell to FRP](http://elm-lang.org/blog/farewell-to-frp)? The Elm community going one step further.
 
 **Articles**
 
