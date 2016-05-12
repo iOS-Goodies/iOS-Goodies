@@ -36,6 +36,7 @@
 * [XD Essentials: Card-Based User Interfaces](http://blogs.adobe.com/creativecloud/card-based-user-interfaces/), by [@101babich](https://twitter.com/101babich)
 * [How to Use Images to Improve Mobile App UX](https://uxplanet.org/how-to-use-images-to-improve-ux-for-mobile-apps-1fe3ff83bc8b),  by [@101babich](https://twitter.com/101babich)
 * [Designing a New Look for Instagram, Inspired by the Community](https://medium.com/@ianspalter/designing-a-new-look-for-instagram-inspired-by-the-community-84530eb355e3), by [@ianspalter](https://twitter.com/ianspalter)
+* [Design at 1x—It’s a Fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536#.lqwq6qgkf), by [@kurtvarner](https://twitter.com/kurtvarner)
 
 
 **Videos**
