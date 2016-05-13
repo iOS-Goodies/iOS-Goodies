@@ -12,15 +12,15 @@
 
 **Business**
 
-*
+* 
 
 **UI/UX**
 
-*
+* 
 
 **Videos**
 
-*
+* [Building Fabric.app in Swift](https://realm.io/news/slug-javi-soto-building-fabric-in-swift/), by [@Javi](https://twitter.com/Javi)
 
 **Credits**
 
