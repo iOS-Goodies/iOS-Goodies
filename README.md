@@ -18,6 +18,6 @@ Finally there is the question: why now? We feel this is the right time to do it,
 
 ###How can I contribute?
 
-Please [read](https://github.com/iOS-Goodies/Contributing-Guidelines/blob/master/README.md) the following. :) 
+Please read our[contributing guidelines](https://github.com/iOS-Goodies/Contributing-Guidelines/blob/master/README.md) and our [code of conduct](https://github.com/iOS-Goodies/Contributing-Guidelines/blob/master/CODE_OF_CONDUCT.md). 😄
 
 We are quite happy when you share articles that you have seen here, if that happens, spread the love and mention us ([@iOSGoodies](https://twitter.com/iosgoodies))
