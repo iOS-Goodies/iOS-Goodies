@@ -2,7 +2,7 @@
 **Articles**
 
 * [Protocol-Oriented-Networking in Swift](https://www.natashatherobot.com/protocol-oriented-networking-in-swift/), by [@natashatherobot](https://twitter.com/natashatherobot)
-
+* [Packing Bytes in Swift](http://www.russbishop.net/packing-bytes-in-swift), by [@xenadu02](https://twitter.com/xenadu02)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [3lvis](https://github.com/3lvis)
+* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis)
