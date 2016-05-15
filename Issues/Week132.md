@@ -10,6 +10,7 @@
 * [PMAlertController](https://github.com/Codeido/PMAlertController), by [@pmusolino](https://twitter.com/pmusolino)
 * [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://github.com/alexdrone)
 * [Networking](https://github.com/3lvis/Networking), by [@3lvis](https://twitter.com/3lvis)
+* [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts), by [@manuelescrig](https://twitter.com/manuelescrig)
 
 **Business**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis), [rbarbosa](https://github.com/rbarbosa),
+* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis), [rbarbosa](https://github.com/rbarbosa), [manuelescrig](https://github.com/manuelescrig)
