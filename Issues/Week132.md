@@ -25,6 +25,7 @@
 **Videos**
 
 * [Building Fabric.app in Swift](https://realm.io/news/slug-javi-soto-building-fabric-in-swift/), by [@Javi](https://twitter.com/Javi)
+* [Table View Controllers in Swift](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Credits**
 
