@@ -11,6 +11,7 @@
 * [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://github.com/alexdrone)
 * [Networking](https://github.com/3lvis/Networking), by [@3lvis](https://twitter.com/3lvis)
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView), by [@gskbyte](https://twitter.com/gskbyte)
+* [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts), by [@manuelescrig](https://twitter.com/manuelescrig)
 
 **Business**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis), [rbarbosa](https://github.com/rbarbosa), [gskbyte](https://github.com/gskbyte)
+* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis), [rbarbosa](https://github.com/rbarbosa), [gskbyte](https://github.com/gskbyte), [manuelescrig](https://github.com/manuelescrig)
