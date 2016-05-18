@@ -6,6 +6,7 @@
 * [The Tension of Swift](http://inessential.com/2016/05/14/the_tension_of_swift), by [@brentsimmons](https://twitter.com/brentsimmons)
 * [Swift 3 Features Highlight](https://medium.com/the-traveled-ios-developers-guide/swift-3-feature-highlight-c38f94359731#.it6sex1iw), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [10 Thousand Times Faster Swift](https://medium.com/@icex33/10-thousand-times-faster-swift-737b1accd973#.g0slzoc2u), by [@iceX33](https://twitter.com/iceX33)
+* [Peeking into a Black Box - The Effect of Dependency Structure on iOS Launch Times](https://engineering.tumblr.com/post/144507330193/peeking-into-a-black-box-the-effect-of), by [@sozorogami](https://twitter.com/sozorogami)
 
 **Tools/Controls**
 
