@@ -32,7 +32,8 @@
 
 * [Building Fabric.app in Swift](https://realm.io/news/slug-javi-soto-building-fabric-in-swift/), by [@Javi](https://twitter.com/Javi)
 * [Table View Controllers in Swift](https://realm.io/news/tryswift-chris-eidhof-table-view-controllers-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [Intro to Coding with Swift (40+ Free Videos)](http://swiftschool.io/course/intro-to-coding-with-swift/), by [@goFecher](https://twitter.com/goFecher)
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis), [rbarbosa](https://github.com/rbarbosa), [gskbyte](https://github.com/gskbyte), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz), [onmyway133](https://github.com/onmyway133)
+* [Codeido](https://github.com/Codeido), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [3lvis](https://github.com/3lvis), [rbarbosa](https://github.com/rbarbosa), [gskbyte](https://github.com/gskbyte), [manuelescrig](https://github.com/manuelescrig), [lkmfz](https://github.com/lkmfz), [onmyway133](https://github.com/onmyway133), [SwiftCodeX](https://github.com/swiftcodex)
