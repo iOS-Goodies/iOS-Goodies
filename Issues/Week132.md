@@ -21,7 +21,7 @@
 
 **Business**
 
-* 
+* [Words are hard](https://slackhq.com/words-are-hard-aabafc490d04), by [@annapickard](https://twitter.com/annapickard)
 
 **UI/UX**
 
