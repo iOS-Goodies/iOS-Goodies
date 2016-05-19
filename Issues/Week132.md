@@ -25,7 +25,7 @@
 
 **UI/UX**
 
-* 
+* [Getting from ⭐️⭐️ to ⭐️⭐️⭐️⭐️⭐️](https://m.signalvnoise.com/getting-from-️-️-to-️-️-️-️-️-c65cc3bb7cb1), by [@dylanginsburg](https://twitter.com/dylanginsburg)
 
 **Videos**
 
