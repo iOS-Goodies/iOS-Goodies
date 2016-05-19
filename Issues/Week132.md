@@ -23,6 +23,7 @@
 
 * [Words are hard](https://slackhq.com/words-are-hard-aabafc490d04), by [@annapickard](https://twitter.com/annapickard)
 * [On Product Strategy](http://pivot.uk.com/on-product-strategy/), by [@pivotservices](https://twitter.com/pivotservices)
+* [How Our Remote Engineering Team Stays Agile](https://www.helpscout.net/blog/agile-remote-teams/), by [@chrisbrookins](https://twitter.com/chrisbrookins)
 
 **UI/UX**
 
