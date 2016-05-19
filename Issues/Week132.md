@@ -17,6 +17,7 @@
 * [MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts), by [@manuelescrig](https://twitter.com/manuelescrig)
 * [XcodeColorSense](https://github.com/onmyway133/XcodeColorSense), by [@onmyway133](https://twitter.com/onmyway133)
 * [PrediKit](https://github.com/TheKrakenDev/PrediKit), by [@allonsykraken](https://twitter.com/allonsykraken)
+* [ParticlesLoadingView](https://github.com/BalestraPatrick/ParticlesLoadingView), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
 
 **Business**
 
