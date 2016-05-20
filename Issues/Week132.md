@@ -8,7 +8,8 @@
 * [10 Thousand Times Faster Swift](https://medium.com/@icex33/10-thousand-times-faster-swift-737b1accd973#.g0slzoc2u), by [@iceX33](https://twitter.com/iceX33)
 * [Peeking into a Black Box - The Effect of Dependency Structure on iOS Launch Times](https://engineering.tumblr.com/post/144507330193/peeking-into-a-black-box-the-effect-of), by [@sozorogami](https://twitter.com/sozorogami)
 * [ABI Compatibility: Whoopdty Do, What Does It All Mean?](http://www.bensnider.com/abi-compatibility-whoopdty-do-what-does-it-all-mean.html), by [@benatbensnider](https://twitter.com/benatbensnider)
-
+* [SwiftPM Packages on GitHub: Statistics](https://github.com/czechboy0/swiftpm-packages-statistics), by [@czechboy0](https://twitter.com/czechboy0)
+ 
 **Tools/Controls**
 
 * [PMAlertController](https://github.com/Codeido/PMAlertController), by [@pmusolino](https://twitter.com/pmusolino)
