@@ -8,7 +8,8 @@
 **Tools/Controls**
 
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView), by [@gskbyte](https://twitter.com/gskbyte)
-*
+* [Scrolling GraphView](https://github.com/philackm/Scrollable-GraphView), by [philackm](https://twitter.com/philackm)
+* 
 
 **Business**
 
