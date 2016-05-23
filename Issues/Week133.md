@@ -8,7 +8,7 @@
 **Tools/Controls**
 
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView), by [@gskbyte](https://twitter.com/gskbyte)
-*
+* [fantastic-ios-animation](https://github.com/onmyway133/fantastic-ios-animation), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius)
+* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133)
