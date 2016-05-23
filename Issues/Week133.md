@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius)
+* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [nunogoncalves](https://github.com/nunogoncalves)
