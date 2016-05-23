@@ -2,6 +2,7 @@
 **Articles**
 
 * [Swift Documentation](http://www.jessesquires.com/swift-documentation), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Building on Auto Layout](http://bridgermaxwell.com/blog/building-on-auto-layout/), by [@bridgermax](https://twitter.com/bridgermax)
 
 
 **Tools/Controls**
