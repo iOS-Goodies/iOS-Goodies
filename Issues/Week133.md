@@ -6,6 +6,7 @@
 
 **Tools/Controls**
 
+* [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView), by [@gskbyte](https://twitter.com/gskbyte)
 *
 
 **Business**
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz)
+* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte)
