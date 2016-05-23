@@ -1,9 +1,12 @@
 
 **Articles**
 
+<<<<<<< HEAD
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
+=======
 * [Swift Documentation](http://www.jessesquires.com/swift-documentation), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Building on Auto Layout](http://bridgermaxwell.com/blog/building-on-auto-layout/), by [@bridgermax](https://twitter.com/bridgermax)
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
+>>>>>>> iOS-Goodies/master
 
 
 **Tools/Controls**
