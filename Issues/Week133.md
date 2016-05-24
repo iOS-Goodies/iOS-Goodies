@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
+* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [johnpatrickmorgan](https://github.com/johnpatrickmorgan)
