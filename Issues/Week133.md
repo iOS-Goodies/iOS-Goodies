@@ -22,7 +22,7 @@
 
 **Videos**
 
-*
+* [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik), by [@spolsky](https://twitter.com/spolsky)
 
 **Credits**
 
