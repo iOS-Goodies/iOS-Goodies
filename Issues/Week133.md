@@ -3,6 +3,7 @@
 
 * [Swift Documentation](http://www.jessesquires.com/swift-documentation), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Building on Auto Layout](http://bridgermaxwell.com/blog/building-on-auto-layout/), by [@bridgermax](https://twitter.com/bridgermax)
+* [Detecting low power mode](http://useyourloaf.com/blog/detecting-low-power-mode/), by [@kharrison](https://twitter.com/kharrison)
 
 
 **Tools/Controls**
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133)
+* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
