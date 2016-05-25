@@ -25,7 +25,7 @@
 
 **UI/UX**
 
-*
+* [Building a Visual Language](http://airbnb.design/building-a-visual-language/), by [@karrisaarinen](https://twitter.com/karrisaarinen)
 
 **Videos**
 
