@@ -9,6 +9,8 @@
 * [URL pattern-matching in Swift](http://johnpatrickmorgan.github.io/2016/05/11/URLPatternMatching/), by [@jpmmusic](https://twitter.com/jpmmusic)
 * [Swift 3.0 for Core Image Developers](http://flexmonkey.blogspot.pt/2016/05/swift-30-for-core-image-developers.html), by [@FlexMonkey](https://twitter.com/FlexMonkey)
 * [Speeding up Carthage builds with Bamboo](https://medium.com/@Jeef/speeding-up-carthage-builds-with-bamboo-90391917426b), by Jeff Stein
+* [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html), by [@smdiehl](https://twitter.com/smdiehl)
+* [Going with the flow](http://subjc.com/going-with-the-flow), by [@subjc](https://twitter.com/subjc)
 
 **Tools/Controls**
 
@@ -18,6 +20,8 @@
 **Business**
 
 * [“We only hire the best”](https://m.signalvnoise.com/we-only-hire-the-best-c711c330fc2e), by [@dhh](https://twitter.com/dhh)
+* [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5#.cuhbvpwig), by [@dankim](https://twitter.com/dankim)
+* [How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist](https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qk0234tb0), by [@tristanharris](https://twitter.com/tristanharris)
 
 **UI/UX**
 
