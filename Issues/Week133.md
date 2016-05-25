@@ -1,6 +1,7 @@
 
 **Articles**
 
+* [CAShapeLayer in Depth, Part I](http://calayer.com/core-animation/2016/05/22/cashapelayer-in-depth.html), by [@lucastizma](https://twitter.com/lucastizma)
 * [Swift Documentation](http://www.jessesquires.com/swift-documentation), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Building on Auto Layout](http://bridgermaxwell.com/blog/building-on-auto-layout/), by [@bridgermax](https://twitter.com/bridgermax)
 * [Detecting low power mode](http://useyourloaf.com/blog/detecting-low-power-mode/), by [@kharrison](https://twitter.com/kharrison)
