@@ -7,7 +7,7 @@
 * [Random number generators in Swift](http://www.cocoawithlove.com/blog/2016/05/19/random-numbers.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [URL pattern-matching in Swift](http://johnpatrickmorgan.github.io/2016/05/11/URLPatternMatching/), by [@jpmmusic](https://twitter.com/jpmmusic)
 * [Swift 3.0 for Core Image Developers](http://flexmonkey.blogspot.pt/2016/05/swift-30-for-core-image-developers.html), by [@FlexMonkey](https://twitter.com/FlexMonkey)
-* [Speeding up Carthage builds with Bamboo](https://medium.com/@Jeef/speeding-up-carthage-builds-with-bamboo-90391917426b#.3pv0hg183) by [@Jeef](https://medium.com/@Jeef)
+* [Speeding up Carthage builds with Bamboo](https://medium.com/@Jeef/speeding-up-carthage-builds-with-bamboo-90391917426b#.3pv0hg183), by [@Jeef](https://medium.com/@Jeef)
 
 
 **Tools/Controls**
@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [johnpatrickmorgan](https://github.com/johnpatrickmorgan)
+* [lkmfz](https://github.com/lkmfz), [gskbyte](https://github.com/gskbyte), [mariusc](https://github.com/marius), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [johnpatrickmorgan](https://github.com/johnpatrickmorgan), [jeeftor](https://github.com/jeeftor)
