@@ -13,6 +13,7 @@
 * [Going with the flow](http://subjc.com/going-with-the-flow), by [@subjc](https://twitter.com/subjc)
 * [Six months of Swift](http://khanlou.com/2016/05/six-months-of-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Swift: Configuring a Constant Using Shorthand Argument Names](https://www.natashatherobot.com/swift-configuring-a-constant-using-shorthand-argument-names/), by [@NatashaTheRobot](https://twitter.com/natashatherobot)
+* [Dynamic Swift](http://chris.eidhof.nl/post/dynamic-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Tools/Controls**
 
