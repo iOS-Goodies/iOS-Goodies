@@ -26,6 +26,7 @@
 * [“We only hire the best”](https://m.signalvnoise.com/we-only-hire-the-best-c711c330fc2e), by [@dhh](https://twitter.com/dhh)
 * [“Eat, sleep, code, repeat” is such bullshit](https://m.signalvnoise.com/eat-sleep-code-repeat-is-such-bullshit-c2a4d9beaaf5#.cuhbvpwig), by [@dankim](https://twitter.com/dankim)
 * [How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist](https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qk0234tb0), by [@tristanharris](https://twitter.com/tristanharris)
+* [Monument Valley in Numbers: Year 2](https://medium.com/@ustwogames/monument-valley-in-numbers-year-2-440cf5562fe#.xm5r1oxgu), by [@ustwogames](https://twitter.com/ustwogames)
 
 **UI/UX**
 
