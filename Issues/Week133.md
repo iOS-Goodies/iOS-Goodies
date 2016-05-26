@@ -11,6 +11,7 @@
 * [Speeding up Carthage builds with Bamboo](https://medium.com/@Jeef/speeding-up-carthage-builds-with-bamboo-90391917426b), by Jeff Stein
 * [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html), by [@smdiehl](https://twitter.com/smdiehl)
 * [Going with the flow](http://subjc.com/going-with-the-flow), by [@subjc](https://twitter.com/subjc)
+* [Six months of Swift](http://khanlou.com/2016/05/six-months-of-swift/), by [@khanlou](https://twitter.com/khanlou)
 
 **Tools/Controls**
 
