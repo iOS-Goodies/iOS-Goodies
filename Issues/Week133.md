@@ -15,6 +15,7 @@
 * [Swift: Configuring a Constant Using Shorthand Argument Names](https://www.natashatherobot.com/swift-configuring-a-constant-using-shorthand-argument-names/), by [@NatashaTheRobot](https://twitter.com/natashatherobot)
 * [Dynamic Swift](http://chris.eidhof.nl/post/dynamic-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [A Design-First Approach to Mobile App Architecture for iOS](https://spin.atomicobject.com/2016/05/24/design-first-mobile-app-architecture-ios/), by [@JordanSchaenzle](https://twitter.com/JordanSchaenzle)
+* [Swifty Objective-C](https://pspdfkit.com/blog/2016/swifty-objective-c/), by [@steipete](https://twitter.com/steipete)
 
 **Tools/Controls**
 
