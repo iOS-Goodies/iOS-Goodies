@@ -37,6 +37,7 @@
 **Videos**
 
 * [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik), by [@spolsky](https://twitter.com/spolsky)
+* [Advanced Graphics with Core Animation](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/), by [@TimOliverAU](https://twitter.com/TimOliverAU)
 
 **Credits**
 
