@@ -3,6 +3,7 @@
 
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
 * [Undo History in Swift](http://chris.eidhof.nl/post/undo-history-in-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [Good Swift, Bad Swift — Part 1](https://medium.com/@ksmandersen/good-swift-bad-swift-part-1-f58f71da3575), by [@ksmandersen](https://twitter.com/ksmandersen)
 
 
 **Tools/Controls**
@@ -21,6 +22,7 @@
 **Videos**
 
 * [Turbolinks 5: I Can’t Believe It’s Not Native!](https://www.youtube.com/watch?v=SWEts0rlezA), by [@sstephenson](https://twitter.com/sstephenson)
+* [Live Design](https://realm.io/news/tryswift-maxim-cramer-live-design/), by [@mennenia](https://twitter.com/mennenia)
 
 **Credits**
 
