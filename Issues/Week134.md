@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [Mobile UX Design: The Right Ways to Ask Users for Permissions](http://babich.biz/mobile-ux-design-the-right-ways-to-ask-users-for-permissions/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo)
+* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [rbarbosa](https://github.com/rbarbosa),
