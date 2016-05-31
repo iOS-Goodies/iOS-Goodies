@@ -4,6 +4,7 @@
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
 * [Undo History in Swift](http://chris.eidhof.nl/post/undo-history-in-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [Good Swift, Bad Swift — Part 1](https://medium.com/@ksmandersen/good-swift-bad-swift-part-1-f58f71da3575), by [@ksmandersen](https://twitter.com/ksmandersen)
+* [Swift: Attempting to Understand Type Erasure](https://www.natashatherobot.com/swift-type-erasure/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 
 
 **Tools/Controls**
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc)
+* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo)
