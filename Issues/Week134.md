@@ -11,6 +11,7 @@
 
 * [Alembic](https://github.com/ra1028/Alembic), by ra1028
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth), by [delba](https://github.com/delba)
+* [ExpandingCollection](https://github.com/Ramotion/expanding-collection), by [@Ramotion](https://twitter.com/Ramotion)
 
 **Business**
 
