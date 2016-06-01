@@ -15,7 +15,7 @@
 
 **Business**
 
-*
+* [How to Skip The App Review Process and Update Your App Instantly](https://medium.com/@ophir_rollout/how-to-skip-the-app-review-process-and-update-your-app-instantly-76565b519c2d#.snz1lagvn), by [@prutwo](https://twitter.com/prutwo)
 
 **UI/UX**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [rbarbosa](https://github.com/rbarbosa),
+* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz)
