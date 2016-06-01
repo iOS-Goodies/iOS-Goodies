@@ -6,6 +6,7 @@
 * [Good Swift, Bad Swift — Part 1](https://medium.com/@ksmandersen/good-swift-bad-swift-part-1-f58f71da3575), by [@ksmandersen](https://twitter.com/ksmandersen)
 * [Swift: Attempting to Understand Type Erasure](https://www.natashatherobot.com/swift-type-erasure/), by [@NatashaTheRobot](https://twitter.com/NatashaTheRobot)
 * [Dealing with Localization of Plural Nouns in iOS](http://macoscope.com/blog/effective-localization-when-working-with-language-plural-rules/), by [@RaAugustyniak](https://twitter.com/RaAugustyniak)
+* [Swift rewrite challenge](http://ericasadun.com/2016/05/31/swift-rewrite-challenge/), by [@ericasadun](https://twitter.com/ericasadun)
 
 
 **Tools/Controls**
