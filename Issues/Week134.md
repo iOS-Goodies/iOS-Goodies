@@ -8,6 +8,7 @@
 * [Dealing with Localization of Plural Nouns in iOS](http://macoscope.com/blog/effective-localization-when-working-with-language-plural-rules/), by [@RaAugustyniak](https://twitter.com/RaAugustyniak)
 * [Swift rewrite challenge](http://ericasadun.com/2016/05/31/swift-rewrite-challenge/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Testing Dictionaries with Swift and XCTest](http://masilotti.com/testing-dictionaries/), by [@joemasilotti](https://twitter.com/joemasilotti)
+* [Creating a Custom XCTest Assertion](https://www.bignerdranch.com/blog/creating-a-custom-xctest-assertion/), by [@jeremywsherman](https://twitter.com/jeremywsherman)
 
 
 **Tools/Controls**
