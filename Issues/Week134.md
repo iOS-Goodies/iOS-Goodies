@@ -16,6 +16,7 @@
 * [Alembic](https://github.com/ra1028/Alembic), by [ra1028](https://github.com/ra1028)
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth), by [delba](https://github.com/delba)
 * [ExpandingCollection](https://github.com/Ramotion/expanding-collection), by [@Ramotion](https://twitter.com/Ramotion)
+* [Scrolling GraphView](https://github.com/philackm/Scrollable-GraphView), by [philackm](https://twitter.com/philackm)
 
 **Business**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz)
+* [ra1028](https://github.com/ra1028), [delba](https://github.com/delba), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz), [nunogoncalves](https://github.com/nunogoncalves)
