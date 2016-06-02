@@ -30,6 +30,7 @@
 
 **UI/UX**
 
+* [Starter's Guide to iOS Design](http://taybenlor.com/2013/05/21/designing-for-ios.html), by [@taybenlor ](https://twitter.com/taybenlor)
 * [Mobile UX Design: The Right Ways to Ask Users for Permissions](http://babich.biz/mobile-ux-design-the-right-ways-to-ask-users-for-permissions/), by [@101babich](https://twitter.com/101babich)
 * [The evolution of UX challenges](https://uxdesign.cc/the-evolution-of-ux-challenges-5e1748b82ede?ref=hackingui#.z61cns41m), by [@kollinz](https://twitter.com/kollinz)
 * [Notifications Are Broken. Here's How Google Plans To Fix Them](http://www.fastcodesign.com/3060092/notifications-are-broken-heres-how-google-plans-to-fix-them), by [@drcrypt](https://twitter.com/drcrypt)
