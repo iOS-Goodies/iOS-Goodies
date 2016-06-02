@@ -1,4 +1,6 @@
 
+* Apple released [Swift 3.0 Preview 1](http://9to5mac.com/2016/06/01/swift-3-0-preview-1-released/)!! The beer is on us today! 🍺🍺🍺🍺
+
 **Articles**
 
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
