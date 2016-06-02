@@ -36,6 +36,8 @@
 
 * [Turbolinks 5: I Can’t Believe It’s Not Native!](https://www.youtube.com/watch?v=SWEts0rlezA), by [@sstephenson](https://twitter.com/sstephenson)
 * [Live Design](https://realm.io/news/tryswift-maxim-cramer-live-design/), by [@mennenia](https://twitter.com/mennenia)
+* [Being A Developer After 40](http://blog.appbuilders.ch/2016/05/26/adrian-being-developer-after-40.html), by [@akosma](https://twitter.com/akosma)
+* [Non-technical ways to becoming a better developer](http://blog.appbuilders.ch/2016/06/02/marin.html), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Credits**
 
