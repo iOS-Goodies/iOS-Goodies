@@ -11,6 +11,7 @@
 * [Swift rewrite challenge](http://ericasadun.com/2016/05/31/swift-rewrite-challenge/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Testing Dictionaries with Swift and XCTest](http://masilotti.com/testing-dictionaries/), by [@joemasilotti](https://twitter.com/joemasilotti)
 * [Creating a Custom XCTest Assertion](https://www.bignerdranch.com/blog/creating-a-custom-xctest-assertion/), by [@jeremywsherman](https://twitter.com/jeremywsherman)
+* [Minimizing your app's Memory Footprint](https://developer.apple.com/library/ios/technotes/tn2434/_index.html#//apple_ref/doc/uid/DTS40017252), by Apple
 
 
 **Tools/Controls**
