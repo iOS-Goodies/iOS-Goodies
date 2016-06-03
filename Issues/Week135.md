@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
+* [rbarbosa](https://github.com/rbarbosa), [tomkowz](https://github.com/tomkowz)
