@@ -2,6 +2,7 @@
 **Articles**
 
 * [Custom View Controller Transition by expanding view](http://szulctomasz.com/2016/05/14/ios-custom-view-controller-transtion-by-expanding-view.html), by [@tomkowz](https://twitter.com/tomkowz)
+* [Responder Chain Alternatives](http://chris.eidhof.nl/post/responder-chain-alternative/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 
 **Tools/Controls**
