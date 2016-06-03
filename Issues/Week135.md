@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [Swish](https://github.com/thoughtbot/Swish), by [@thoughtbot](https://twitter.com/thoughtbot)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rbarbosa](https://github.com/rbarbosa),
