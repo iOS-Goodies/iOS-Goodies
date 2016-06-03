@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Swish](https://github.com/thoughtbot/Swish), by [@thoughtbot](https://twitter.com/thoughtbot)
+* [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://github.com/alexdrone)
 
 **Business**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [tomkowz](https://github.com/tomkowz)
+* [rbarbosa](https://github.com/rbarbosa), [tomkowz](https://github.com/tomkowz), [lkmfz](https://github.com/lkmfz)
