@@ -9,6 +9,7 @@
 
 * [Swish](https://github.com/thoughtbot/Swish), by [@thoughtbot](https://twitter.com/thoughtbot)
 * [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://github.com/alexdrone)
+* [Wave](https://github.com/onmyway133/Wave), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [tomkowz](https://github.com/tomkowz), [lkmfz](https://github.com/lkmfz)
+* [rbarbosa](https://github.com/rbarbosa), [tomkowz](https://github.com/tomkowz), [lkmfz](https://github.com/lkmfz), [onmyway133](https://github.com/onmyway133)
