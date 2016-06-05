@@ -5,6 +5,7 @@
 * [Responder Chain Alternatives](http://chris.eidhof.nl/post/responder-chain-alternative/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [Mutexes and closure capture in Swift](http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Queues are not bound to any specific thread](http://blog.krzyzanowskim.com/2016/06/03/queues-are-not-bound-to-any-specific-thread/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [Avoiding the overuse of @objc in Swift](http://www.jessesquires.com/avoiding-objc-in-swift/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 
 **Tools/Controls**
