@@ -3,6 +3,7 @@
 
 * [Custom View Controller Transition by expanding view](http://szulctomasz.com/2016/05/14/ios-custom-view-controller-transtion-by-expanding-view.html), by [@tomkowz](https://twitter.com/tomkowz)
 * [Responder Chain Alternatives](http://chris.eidhof.nl/post/responder-chain-alternative/), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [Mutexes and closure capture in Swift](http://www.cocoawithlove.com/blog/2016/06/02/threads-and-mutexes.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 
 **Tools/Controls**
