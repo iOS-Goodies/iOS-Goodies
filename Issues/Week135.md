@@ -16,7 +16,7 @@
 
 **Business**
 
-*
+* [Hiring a programmer? Ditch the coding interview and get back to basics](https://m.signalvnoise.com/hiring-a-programmer-ditch-the-coding-interview-and-get-back-to-basics-f5c43e369eaf), by [@dankim](https://twitter.com/dankim)
 
 **UI/UX**
 
