@@ -10,9 +10,9 @@
 **Tools/Controls**
 
 * [Swish](https://github.com/thoughtbot/Swish), by [@thoughtbot](https://twitter.com/thoughtbot)
-* [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://github.com/alexdrone)
+* [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://twitter.com/alexdrone)
 * [Wave](https://github.com/onmyway133/Wave), by [@onmyway133](https://twitter.com/onmyway133)
-* [Restofire](https://github.com/Restofire/Restofire), by [rahulkatariya](https://github.com/rahulkatariya)
+* [Restofire](https://github.com/Restofire/Restofire), by [@rahulkatariya91](https://twitter.com/rahulkatariya91)
 
 **Business**
 
