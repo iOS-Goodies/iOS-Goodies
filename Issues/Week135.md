@@ -9,6 +9,7 @@
 * [GCD's Main Queue vs. Main Thread](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Easy Namespacing In Swift](http://khanlou.com/2016/06/easy-namespacing-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Limiting concurrent execution using GCD](http://dx13.co.uk/articles/2016/6/4/limiting-concurrent-execution-using-gcd.html), by [@mikerhodes](https://twitter.com/mikerhodes)
+* [How iOS Apps on the Mac Could Work](https://medium.com/@sandofsky/how-ios-apps-on-the-mac-could-work-13aa32a2647b), by [@sandofsky](https://twitter.com/sandofsky)
 
 
 **Tools/Controls**
