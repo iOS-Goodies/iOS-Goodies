@@ -8,6 +8,7 @@
 * [Avoiding the overuse of <code>@objc</code> in Swift](http://www.jessesquires.com/avoiding-objc-in-swift/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [GCD's Main Queue vs. Main Thread](http://blog.benjamin-encz.de/post/main-queue-vs-main-thread/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Easy Namespacing In Swift](http://khanlou.com/2016/06/easy-namespacing-in-swift/), by [@khanlou](https://twitter.com/khanlou)
+* [Limiting concurrent execution using GCD](http://dx13.co.uk/articles/2016/6/4/limiting-concurrent-execution-using-gcd.html), by [@mikerhodes](https://twitter.com/mikerhodes)
 
 
 **Tools/Controls**
