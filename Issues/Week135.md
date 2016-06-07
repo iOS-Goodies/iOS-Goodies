@@ -10,6 +10,7 @@
 * [Easy Namespacing In Swift](http://khanlou.com/2016/06/easy-namespacing-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Limiting concurrent execution using GCD](http://dx13.co.uk/articles/2016/6/4/limiting-concurrent-execution-using-gcd.html), by [@mikerhodes](https://twitter.com/mikerhodes)
 * [How iOS Apps on the Mac Could Work](https://medium.com/@sandofsky/how-ios-apps-on-the-mac-could-work-13aa32a2647b), by [@sandofsky](https://twitter.com/sandofsky)
+* [Configuration In Swift](http://khanlou.com/2016/06/configuration-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 
 
 **Tools/Controls**
