@@ -35,6 +35,7 @@
 
 * [Onboarding for Mobile Apps: Do’s and Don’ts](http://www.userzoom.com/mobile-usability-testing-blog/onboarding-mobile-apps-dos-and-donts/), by [@101babich](https://twitter.com/101babich)
 * [Mobile App UX Design: Making a Great First Impression](http://babich.biz/mobile-app-ux-design-making-a-great-first-impression/), by [@101babich](https://twitter.com/101babich)
+* [Designing in color](https://medium.freecodecamp.com/designing-in-color-abd358660a7b), by [@JonathanZWhite](https://twitter.com/JonathanZWhite)
 
 **Videos**
 
