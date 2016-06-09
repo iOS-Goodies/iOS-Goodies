@@ -36,7 +36,7 @@
 
 **Videos**
 
-*
+* [UIKonf videos](https://www.youtube.com/watch?v=AksIrgPFSgY&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k), by [@uikonf](twitter.com/uikonf)
 
 **One more thing**
 
