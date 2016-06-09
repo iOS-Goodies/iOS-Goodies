@@ -30,6 +30,7 @@
 
 * [Hiring a programmer? Ditch the coding interview and get back to basics](https://m.signalvnoise.com/hiring-a-programmer-ditch-the-coding-interview-and-get-back-to-basics-f5c43e369eaf), by [@dankim](https://twitter.com/dankim)
 * [App Store 2.0](http://www.theverge.com/2016/6/8/11880730/apple-app-store-subscription-update-phil-schiller-interview), by [@LaurenGoode](https://twitter.com/LaurenGoode)
+* [The freelancer and the entrepreneur](https://medium.com/swlh/the-freelancer-and-the-entrepreneur-c79d2bbb52b2), by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
 
 **UI/UX**
 
