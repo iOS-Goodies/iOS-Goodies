@@ -1,3 +1,6 @@
+* Some news about the AppStore before the WWDC [AppStore](http://www.theverge.com/2016/6/8/11880730/apple-app-store-subscription-update-phil-schiller-interview)
+* Spotlight had a date with Siri. The result? [Lacona](http://www.lacona.io/). 
+
 
 **Articles**
 
@@ -13,10 +16,12 @@
 * [Configuration In Swift](http://khanlou.com/2016/06/configuration-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Exploring Hidden Constraints in the Public Interface of UITabBar](http://www.augustyniak.me/post/Exploring-Hidden-Constraints-in-the-Public-Interface-of-UITabBar/), by [@RaAugustyniak](https://twitter.com/RaAugustyniak)
 * [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414/), by [@KentBeck](https://twitter.com/KentBeck)
+* [End–to–End Testing: What, Why, and How?](https://pspdfkit.com/blog/2016/e2e-testing/), by [@PSPDFKit](https://twitter.com/PSPDFKit)
 
 
 **Tools/Controls**
 
+* [IconMaker](https://github.com/kaphacius/IconMaker), by [@kaphacius](https://github.com/kaphacius)
 * [Swish](https://github.com/thoughtbot/Swish), by [@thoughtbot](https://twitter.com/thoughtbot)
 * [Render](https://github.com/alexdrone/Render), by [@alexdrone](https://twitter.com/alexdrone)
 * [Wave](https://github.com/onmyway133/Wave), by [@onmyway133](https://twitter.com/onmyway133)
@@ -29,8 +34,8 @@
 **Business**
 
 * [Hiring a programmer? Ditch the coding interview and get back to basics](https://m.signalvnoise.com/hiring-a-programmer-ditch-the-coding-interview-and-get-back-to-basics-f5c43e369eaf), by [@dankim](https://twitter.com/dankim)
-* [App Store 2.0](http://www.theverge.com/2016/6/8/11880730/apple-app-store-subscription-update-phil-schiller-interview), by [@LaurenGoode](https://twitter.com/LaurenGoode)
 * [The freelancer and the entrepreneur](https://medium.com/swlh/the-freelancer-and-the-entrepreneur-c79d2bbb52b2), by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
+* [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.b0c3em3zm), by [@joulee](https://twitter.com/joulee)
 
 **UI/UX**
 
@@ -41,6 +46,7 @@
 **Videos**
 
 * [UIKonf videos](https://www.youtube.com/watch?v=AksIrgPFSgY&list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k), by [@uikonf](twitter.com/uikonf)
+* [Getting Started with Firebase on iOS - Firecasts](https://www.youtube.com/watch?v=iMkifTEaefE&index=1&list=PLl-K7zZEsYLnJVX_0zbKytptZGugPIbJR), by [@Firebase](https://twitter.com/Firebase)
 
 **One more thing**
 
