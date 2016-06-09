@@ -24,6 +24,7 @@
 * [OOD-Principles-In-Swift](https://github.com/ochococo/OOD-Principles-In-Swift), by [@nsmeme](https://twitter.com/nsmeme)
 * [xcknife](https://github.com/square/xcknife), by [@metaphysicaldev](https://twitter.com/metaphysicaldev)
 * [SwiftDoc.vim](https://github.com/aciidb0mb3r/SwiftDoc.vim), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [WWDC unofficial app](https://github.com/insidegui/WWDC), by [@_inside](https://twitter.com/_inside)
 
 **Business**
 
