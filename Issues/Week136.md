@@ -3,6 +3,7 @@
 
 * [Themes in Modern iOS Architectures](http://blog.prolificinteractive.com/2016/06/10/themes-in-modern-ios-architectures/), by [@weareprolific](https://twitter.com/weareprolific)
 * [What’s New in Swift 3?](https://www.raywenderlich.com/135655/whats-new-swift-3), by [@benmorrow](https://twitter.com/benmorrow)
+* [Xcode Extensions](http://www.russbishop.net/xcode-extensions), by [@xenadu02](https://twitter.com/xenadu02)
 
 **Tools/Controls**
 
