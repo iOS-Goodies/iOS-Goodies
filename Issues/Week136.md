@@ -44,4 +44,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [dkhamsing](https://github.com/dkhamsing), [mariusc](https://github.com/mariusc), [hkellaway](https://github.com/hkellaway), [rbarbosa](https://github.com/rbarbosa)
