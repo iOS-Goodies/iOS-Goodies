@@ -11,6 +11,7 @@
 * [Xcode Extensions](http://www.russbishop.net/xcode-extensions), by [@xenadu02](https://twitter.com/xenadu02)
 * [\#18 Do pure Swift objects have load() method?](https://swifting.io/blog/2016/06/13/18-do-pure-swift-objects-have-load-method/), by [@swiftingio](https://twitter.com/swiftingio)
 * [Objective-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties), [@armadsen](https://twitter.com/armadsen)
+* [Migrating to Swift 2.3 or Swift 3 from Swift 2.2](https://swift.org/migration-guide/), by Apple
 
 **Tools/Controls**
 
