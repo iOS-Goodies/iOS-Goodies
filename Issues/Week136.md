@@ -23,6 +23,7 @@
 * [Anonymous feedback breeds a culture of distrust](https://m.signalvnoise.com/anonymous-feedback-is-evil-17ef2be54e47), by [@cjlew23](https://twitter.com/cjlew23)
 * [From Creek Week To Final Product: A Tale of Two Projects](http://blog.fogcreek.com/from-creek-week-to-final-product-a-tale-of-two-projects/), by [@fogcreek](https://twitter.com/fogcreek/)
 * [Valistration](http://www.brianlovin.com/journal/575ee225781b270e00666c9a), by [@brian_lovin](https://twitter.com/brian_lovin)
+* [Lazy Leadership](https://medium.com/the-modern-team/lazy-leadership-8ba19e34f959#.me2ffnqqh), by [@awilkinson](https://twitter.com/awilkinson)
 
 **UI/UX**
 
