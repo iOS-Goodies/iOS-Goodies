@@ -20,6 +20,7 @@
 * [VTMagic](https://github.com/tianzhuo112/VTMagic), by Victor Tian
 * [AppDevKit](https://github.com/yahoo/AppDevKit), by [@ydn](https://twitter.com/ydn)
 * [PinPointKit](https://github.com/Lickability/PinpointKit), by [@lickability](https://twitter.com/lickability)
+* [SuperDelegate](https://github.com/Square/SuperDelegate), by [@TheFederman](https://twitter.com/TheFederman)
 
 **Business**
 
