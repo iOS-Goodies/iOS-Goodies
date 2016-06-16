@@ -28,6 +28,9 @@
 **UI/UX**
 
 * [Neubible - A Design Details Exploration](http://www.brianlovin.com/design-details/neubible-for-ios), by [@brian_lovin](https://twitter.com/brian_lovin)
+* [UX Lessons in Game Design](https://ia.net/know-how/game-design), by [@iA](https://twitter.com/iA)
+* [How Zendesk Onboards New Users](http://www.useronboard.com/how-zendesk-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
+* [Inclusive Design: A Case For Greater Identity Representation](http://www.uxbooth.com/articles/inclusive-design-greater-identity-representation/), by [@tuckerfitzg](https://twitter.com/tuckerfitzg)
 
 **Videos**
 
