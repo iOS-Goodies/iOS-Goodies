@@ -12,10 +12,14 @@
 * [\#18 Do pure Swift objects have load() method?](https://swifting.io/blog/2016/06/13/18-do-pure-swift-objects-have-load-method/), by [@swiftingio](https://twitter.com/swiftingio)
 * [Objective-C Class Properties](http://blog.andrewmadsen.com/post/145919242155/objective-c-class-properties), [@armadsen](https://twitter.com/armadsen)
 * [Migrating to Swift 2.3 or Swift 3 from Swift 2.2](https://swift.org/migration-guide/), by Apple
+* [WWDC16 - New in Notifications](http://fichek.com/blog/wwdc16-notifications/), by [@fichek](https://twitter.com/fichek)
 
 **Tools/Controls**
 
 * [PJFDataSource](https://github.com/square/PJFDataSource), by [@mikethole](https://twitter.com/mikethole)
+* [VTMagic](https://github.com/tianzhuo112/VTMagic), by Victor Tian
+* [AppDevKit](https://github.com/yahoo/AppDevKit), by [@ydn](https://twitter.com/ydn)
+* [PinPointKit](https://github.com/Lickability/PinpointKit), by [@lickability](https://twitter.com/lickability)
 
 **Business**
 
@@ -31,6 +35,8 @@
 * [UX Lessons in Game Design](https://ia.net/know-how/game-design), by [@iA](https://twitter.com/iA)
 * [How Zendesk Onboards New Users](http://www.useronboard.com/how-zendesk-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 * [Inclusive Design: A Case For Greater Identity Representation](http://www.uxbooth.com/articles/inclusive-design-greater-identity-representation/), by [@tuckerfitzg](https://twitter.com/tuckerfitzg)
+* [10 reasons why placeholders are problematic
+](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.6bj09i17v), by [@adambsilver](https://twitter.com/adambsilver/)
 
 **Videos**
 
