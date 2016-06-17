@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-*
+* [Iconic](https://github.com/dzenbot/Iconic), by [@_dzen](https://twitter.com/_dzen)
 
 **UI/UX**
 
