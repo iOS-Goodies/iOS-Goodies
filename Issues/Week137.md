@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [Iconic](https://github.com/dzenbot/Iconic), by [@_dzen](https://twitter.com/_dzen)
+* [iOS Tools Landscape](http://tools.transporterapp.io/landscape), by [@ott_max](https://twitter.com/ott_max)
 
 **UI/UX**
 
