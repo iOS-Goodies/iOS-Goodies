@@ -1,6 +1,7 @@
 **Articles**
 
 * [UICollectionView: Unjustly Maligned](https://ashfurrow.com/blog/uicollectionview-unjustly-maligned/), by [@ashfurrow](https://twitter.com/ashfurrow)
+* [Good Swift, Bad Swift — Part 2](https://medium.com/@ksmandersen/good-swift-bad-swift-part-2-d6daebf53a5), by [@ksmandersen](https://twitter.com/ksmandersen)
 
 **Tools/Controls**
 
