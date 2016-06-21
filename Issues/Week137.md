@@ -8,6 +8,7 @@
 * [Iconic](https://github.com/dzenbot/Iconic), by [@_dzen](https://twitter.com/_dzen)
 * [iOS Tools Landscape](http://tools.transporterapp.io/landscape), by [@ott_max](https://twitter.com/ott_max)
 * [SuggestionsBox](https://github.com/manuelescrig/SuggestionsBox), by [@manuelescrig](https://twitter.com/manuelescrig)
+* [Preheat](https://github.com/kean/Preheat), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 
 **Business**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig)
+* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean)
