@@ -1,6 +1,6 @@
 **Articles**
 
-*
+* [UICollectionView: Unjustly Maligned](https://ashfurrow.com/blog/uicollectionview-unjustly-maligned/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **Tools/Controls**
 
