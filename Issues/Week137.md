@@ -2,6 +2,7 @@
 
 * [UICollectionView: Unjustly Maligned](https://ashfurrow.com/blog/uicollectionview-unjustly-maligned/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Good Swift, Bad Swift — Part 2](https://medium.com/@ksmandersen/good-swift-bad-swift-part-2-d6daebf53a5), by [@ksmandersen](https://twitter.com/ksmandersen)
+* [WWDC 2016: Increased Safety in Swift 3.0](https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/), by [@matthewDmathias](https://twitter.com/matthewDmathias)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean)
+* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean), [rbarbosa](https://github.com/rbarbosa)
