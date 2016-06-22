@@ -3,6 +3,7 @@
 * [UICollectionView: Unjustly Maligned](https://ashfurrow.com/blog/uicollectionview-unjustly-maligned/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Good Swift, Bad Swift — Part 2](https://medium.com/@ksmandersen/good-swift-bad-swift-part-2-d6daebf53a5), by [@ksmandersen](https://twitter.com/ksmandersen)
 * [WWDC 2016: Increased Safety in Swift 3.0](https://www.bignerdranch.com/blog/wwdc-2016-increased-safety-in-swift-3/), by [@matthewDmathias](https://twitter.com/matthewDmathias)
+* [Animating Blur radius](http://fichek.com/blog/animating-blur-radius/), by [@fichek](https://twitter.com/fichek)
 
 **Tools/Controls**
 
