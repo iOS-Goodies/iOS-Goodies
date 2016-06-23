@@ -1,5 +1,6 @@
 
 * [Peter Steinberger being awesome, as usual](https://github.com/AFNetworking/AFNetworking/issues/2572#issuecomment-227895102). 
+* [TWL (today we learned)](https://twitter.com/jaredsinclair/status/746046447552856065). Thanks for sharing [Jared](https://twitter.com/jaredsinclair)!! 
 
 **Articles**
 
