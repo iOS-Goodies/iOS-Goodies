@@ -15,6 +15,7 @@
 * [Preheat](https://github.com/kean/Preheat), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator), by [@AntonTheDev](https://twitter.com/AntonTheDev)
 * [SuperDelegate](https://github.com/Square/SuperDelegate), by [@TheFederman](https://twitter.com/TheFederman)
+* [Szimpla](https://github.com/pepibumur/szimpla), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Business**
 
