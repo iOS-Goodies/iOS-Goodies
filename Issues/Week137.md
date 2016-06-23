@@ -6,6 +6,7 @@
 * [Animating Blur radius](http://fichek.com/blog/animating-blur-radius/), by [@fichek](https://twitter.com/fichek)
 * [WWDC 2016, the Developer Perspective](https://realm.io/news/wwdc-2016-developer-perspective/), by [@realm](https://twitter.com/realm)
 * [Falsiness In Swift](http://khanlou.com/2016/06/falsiness-in-swift/), by [@khanlou](https://twitter.com/khanlou)
+* [Open Sourcing Ello's iOS app](https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew), by [@sdougherty](https://twitter.com/sdougherty)
 
 **Tools/Controls**
 
