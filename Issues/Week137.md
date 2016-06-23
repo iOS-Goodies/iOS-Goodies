@@ -13,6 +13,8 @@
 * [iOS Tools Landscape](http://tools.transporterapp.io/landscape), by [@ott_max](https://twitter.com/ott_max)
 * [SuggestionsBox](https://github.com/manuelescrig/SuggestionsBox), by [@manuelescrig](https://twitter.com/manuelescrig)
 * [Preheat](https://github.com/kean/Preheat), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator), by [@AntonTheDev](https://twitter.com/AntonTheDev)
+* [SuperDelegate](https://github.com/Square/SuperDelegate), by [@TheFederman](https://twitter.com/TheFederman)
 
 **Business**
 
@@ -31,4 +33,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean), [rbarbosa](https://github.com/rbarbosa)
+* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean), [rbarbosa](https://github.com/rbarbosa), [dfed](https://github.com/dfed)
