@@ -24,7 +24,7 @@
 
 **UI/UX**
 
-*
+* [Mobile UX Design: Product Screen](http://babich.biz/mobile-ux-design-product-screen/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
