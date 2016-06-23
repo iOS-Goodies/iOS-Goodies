@@ -10,6 +10,7 @@
 * [WWDC 2016, the Developer Perspective](https://realm.io/news/wwdc-2016-developer-perspective/), by [@realm](https://twitter.com/realm)
 * [Falsiness In Swift](http://khanlou.com/2016/06/falsiness-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Open Sourcing Ello's iOS app](https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew), by [@sdougherty](https://twitter.com/sdougherty)
+* [Favorite Swift 3.0 Features](http://swift.ayaka.me/posts/2016/6/18/favorite-swift-30-features), by [@ayanonagon](https://twitter.com/ayanonagon)
 
 **Tools/Controls**
 
