@@ -1,3 +1,6 @@
+
+* [Peter Steinberger being awesome, as usual](https://github.com/AFNetworking/AFNetworking/issues/2572#issuecomment-227895102). 
+
 **Articles**
 
 * [UICollectionView: Unjustly Maligned](https://ashfurrow.com/blog/uicollectionview-unjustly-maligned/), by [@ashfurrow](https://twitter.com/ashfurrow)
