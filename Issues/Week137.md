@@ -13,6 +13,7 @@
 * [Open Sourcing Ello's iOS app](https://ello.co/sean/post/eobkyhj79p8yzol7it_1ew), by [@sdougherty](https://twitter.com/sdougherty)
 * [Favorite Swift 3.0 Features](http://swift.ayaka.me/posts/2016/6/18/favorite-swift-30-features), by [@ayanonagon](https://twitter.com/ayanonagon)
 * [GraphQL for iOS Developers](http://artsy.github.io/blog/2016/06/19/graphql-for-mobile/), by [@orta](https://twitter.com/orta)
+* [Concurrent Core Data, Now Easier Than Ever](http://holko.pl/2016/06/23/core-data/), by [@arekholko](https://twitter.com/arekholko)
 
 
 **Tools/Controls**
