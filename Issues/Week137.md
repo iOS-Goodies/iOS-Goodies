@@ -42,4 +42,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [max-ott](https://github.com/max-ott), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean), [rbarbosa](https://github.com/rbarbosa), [dfed](https://github.com/dfed)
+* [dkhamsing](https://github.com/dkhamsing), [mariusc](https://github.com/mariusc), [manuelescrig](https://github.com/manuelescrig), [kean](https://github.com/kean), [rbarbosa](https://github.com/rbarbosa), [dfed](https://github.com/dfed)
