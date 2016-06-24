@@ -19,7 +19,6 @@
 **Tools/Controls**
 
 * [Iconic](https://github.com/dzenbot/Iconic), by [@_dzen](https://twitter.com/_dzen)
-* [iOS Tools Landscape](http://tools.transporterapp.io/landscape), by [@ott_max](https://twitter.com/ott_max)
 * [SuggestionsBox](https://github.com/manuelescrig/SuggestionsBox), by [@manuelescrig](https://twitter.com/manuelescrig)
 * [Preheat](https://github.com/kean/Preheat), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator), by [@AntonTheDev](https://twitter.com/AntonTheDev)
