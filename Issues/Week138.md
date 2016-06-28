@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [tailec](https://github.com/tailec)
