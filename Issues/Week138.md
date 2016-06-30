@@ -15,6 +15,7 @@
 **Business**
 
 * [Mobile Ratings: The Good, the Bad, and the Ugly](http://www.apptentive.com/blog/mobile-ratings-good-bad-ugly/), by [@ashseff](https://twitter.com/ashseff)
+* [My condolences, you’re now the maintainer of a popular open source project](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/), by [@runcommand](https://twitter.com/runcommand)
 
 **UI/UX**
 
