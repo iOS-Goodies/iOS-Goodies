@@ -10,7 +10,8 @@
 
 **Tools/Controls**
 
-* 
+* [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview), by [@leocardz](https://twitter.com/leocardz)
+* [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator), by [@antonthedev](https://twitter.com/antonthedev)
 
 **Business**
 
@@ -22,6 +23,7 @@
 **UI/UX**
 
 * [The Designer’s Guide to AI — a $70 Billion industry by 2020](https://uxdesign.cc/the-designers-ai-study-guide-26dbfebf6c2a#.3awrrdjsh), by [@AnyMate](https://twitter.com/AnyMate)
+* [The Psychology of Color in Marketing and Branding](https://medium.com/swlh/the-psychology-of-color-in-marketing-and-branding-ebb2320a2b0#.wgqldda3k), by [@GregoryCiotti](https://twitter.com/GregoryCiotti)
 
 **Videos**
 
