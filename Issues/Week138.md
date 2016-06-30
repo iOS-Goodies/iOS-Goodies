@@ -16,6 +16,8 @@
 
 * [Mobile Ratings: The Good, the Bad, and the Ugly](http://www.apptentive.com/blog/mobile-ratings-good-bad-ugly/), by [@ashseff](https://twitter.com/ashseff)
 * [My condolences, you’re now the maintainer of a popular open source project](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/), by [@runcommand](https://twitter.com/runcommand)
+* [Why Disconnecting From The Internet Improves Your Focus](https://medium.com/the-mission/why-disconnecting-from-the-internet-improves-your-focus-167a824c3bb5#.bzlwlred4), by [@DariusForoux](https://twitter.com/DariusForoux)
+* [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.hf9rsk6n3), by [@BillSourour](https://twitter.com/BillSourour)
 
 **UI/UX**
 
