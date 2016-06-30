@@ -10,15 +10,15 @@
 
 **Tools/Controls**
 
-*
+* 
 
 **Business**
 
-*
+* [Mobile Ratings: The Good, the Bad, and the Ugly](http://www.apptentive.com/blog/mobile-ratings-good-bad-ugly/), by [@ashseff](https://twitter.com/ashseff)
 
 **UI/UX**
 
-*
+* [The Designer’s Guide to AI — a $70 Billion industry by 2020](https://uxdesign.cc/the-designers-ai-study-guide-26dbfebf6c2a#.3awrrdjsh), by [@AnyMate](https://twitter.com/AnyMate)
 
 **Videos**
 
