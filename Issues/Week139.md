@@ -14,7 +14,7 @@
 
 **UI/UX**
 
-*
+* [Motion in UX Design](http://babich.biz/motion-in-ux-design/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
