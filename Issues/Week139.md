@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Adding Modal Views and Popovers in Swift 3.0](https://makeapppie.com/2016/06/30/adding-modal-views-and-popovers-in-swift-3-0/), [@Steve_Lipton](https://twitter.com/Steve_Lipton)
 
 
 **Tools/Controls**
