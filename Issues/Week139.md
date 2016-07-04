@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Using Nuclide as an IDE for Swift Compiler Development](http://modocache.io/using-nuclide-for-swift-compiler-development), by [@modocache](https://twitter.com/modocache)
+* [WSTagsField](https://github.com/whitesmith/WSTagsField) by [@whitesmithco](https://twitter.com/whitesmithco)
 
 **Business**
 
