@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [Using Nuclide as an IDE for Swift Compiler Development](http://modocache.io/using-nuclide-for-swift-compiler-development), [@modocache](https://twitter.com/modocache)
 
 **Business**
 
