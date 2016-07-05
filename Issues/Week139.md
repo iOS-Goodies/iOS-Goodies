@@ -19,6 +19,7 @@
 
 * [Motion in UX Design](http://babich.biz/motion-in-ux-design/), by [@101babich](https://twitter.com/101babich)
 * [Widgetisation of Apps](https://medium.com/@_kolodziejczyk/widgetisation-of-apps-99513ebeb5), by [@_kolodziejczyk](https://twitter.com/_kolodziejczyk)
+* [XD Essentials: The What, When and How of App Walkthroughs in Onboarding](http://blogs.adobe.com/creativecloud/onboarding-the-what-when-and-how-of-app-walkthroughs/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
