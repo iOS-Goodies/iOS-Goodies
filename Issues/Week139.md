@@ -25,7 +25,7 @@
 
 **Videos**
 
-*
+* [Good iOS Application Architecture](http://slideslive.com/38897361/good-ios-application-architecture-en), by [@merowing_](https://twitter.com/merowing_)
 
 **Credits**
 
