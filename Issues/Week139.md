@@ -16,13 +16,16 @@
 
 **Business**
 
-* [Organizational Size Classes](http://www.allenpike.com/2016/organizational-size-classes/), by [@apike](http://www.twitter.com/apike/)
+* [Work/Life balance is bullshit](https://medium.com/desk-of-van-schneider/work-life-balance-is-bullshit-f51bf8b3767#.g98oo4nlo), by [@vanschneider](https://twitter.com/vanschneider)
 * [Like it or not, Apple is right about Spotify (and is bending the rules for it)](http://thenextweb.com/apple/2016/07/03/apple-spotify-app-store-rules/), by [@NateSwanner](https://twitter.com/NateSwanner)
+* [Organizational Size Classes](http://www.allenpike.com/2016/organizational-size-classes/), by [@apike](http://www.twitter.com/apike/)
+
 
 **UI/UX**
 
 * [Rethinking the Chat User Interface](http://prabros.com/design/projects/rethinking-chat-ui), by [@prabros](https://twitter.com/prabros)
 * [Facebook Stories](http://www.gabrielvaldivia.com/case-studies/facebook-stories/), by [@gabrielvaldivia](https://twitter.com/gabrielvaldivia)
+* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.no15lc79u), by [@CoyleAndrew](https://twitter.com/CoyleAndrew)
 * [Motion in UX Design](http://babich.biz/motion-in-ux-design/), by [@101babich](https://twitter.com/101babich)
 * [Widgetisation of Apps](https://medium.com/@_kolodziejczyk/widgetisation-of-apps-99513ebeb5), by [@_kolodziejczyk](https://twitter.com/_kolodziejczyk)
 * [XD Essentials: The What, When and How of App Walkthroughs in Onboarding](http://blogs.adobe.com/creativecloud/onboarding-the-what-when-and-how-of-app-walkthroughs/), by [@101babich](https://twitter.com/101babich)
