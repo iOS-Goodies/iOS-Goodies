@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Protocol oriented loading of resources from a network service in Swift](http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 
 **Tools/Controls**
@@ -23,5 +23,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028)
-*
+* [ra1028](https://github.com/ra1028), [lucianomarisi](https://github.com/lucianomarisi)
