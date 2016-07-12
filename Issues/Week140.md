@@ -7,7 +7,7 @@
 **Tools/Controls**
 
 * [Alembic](https://github.com/ra1028/Alembic), by ra1028
-* [NightView]https://github.com/Boris-Em/NightView, by Boris-Em
+* [NightView](https://github.com/Boris-Em/NightView), by Boris-Em
 
 **Business**
 
