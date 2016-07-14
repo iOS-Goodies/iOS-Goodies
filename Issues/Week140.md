@@ -8,6 +8,7 @@
 
 * [Alembic](https://github.com/ra1028/Alembic), by ra1028
 * [NightView](https://github.com/Boris-Em/NightView), by [@Boris_Em](https://twitter.com/Boris_Em)
+* [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar), by JayT
 
 **Business**
 
