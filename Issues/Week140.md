@@ -2,6 +2,7 @@
 **Articles**
 
 * [Protocol oriented loading of resources from a network service in Swift](http://www.marisibrothers.com/2016/07/protocol-oriented-loading-of-resources.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Reference and Value Types in Swift](https://medium.com/capital-one-developers/reference-and-value-types-in-swift-de792db330b2), by [@andrea_prearo](https://twitter.com/andrea_prearo)
 
 
 **Tools/Controls**
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [lucianomarisi](https://github.com/lucianomarisi), [Boris-Em](https://github.com/Boris-Em), [patchthecode](https://github.com/patchthecode)
+* [ra1028](https://github.com/ra1028), [lucianomarisi](https://github.com/lucianomarisi), [Boris-Em](https://github.com/Boris-Em), [patchthecode](https://github.com/patchthecode), [rbarbosa](https://github.com/rbarbosa)
