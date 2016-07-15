@@ -14,7 +14,8 @@
 * [Alembic](https://github.com/ra1028/Alembic), by ra1028
 * [NightView](https://github.com/Boris-Em/NightView), by [@Boris_Em](https://twitter.com/Boris_Em)
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar), by JayT
-
+* [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller), by [@kahopoon](https://github.com/kahopoon)
+@
 **Business**
 
 * [What makes PokémonGo so Addictive?](https://medium.com/@chrisnheu/what-makes-pokémongo-so-addictive-a6a841bb5286), by [@chrisnheu](https://twitter.com/chrisnheu)
