@@ -23,6 +23,7 @@
 
 * [What we can learn from Pokemon GO](https://medium.com/desk-of-van-schneider/what-we-can-learn-from-pokemon-go-adf413fc2eb0), by [@vanschneider](https://twitter.com/vanschneider)
 * [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960), by [@dustin](https://twitter.com/dustin)
+* [UI in Action. 15 Animated Design Concepts of Mobile UI](http://tubikstudio.com/ui-in-action-15-animated-design-concepts-of-mobile-ui/), by [@MYalanska](https://twitter.com/MYalanska)
 
 **Videos**
 
