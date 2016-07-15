@@ -6,6 +6,7 @@
 * [Hannibal #selector](https://www.bignerdranch.com/blog/hannibal-selector/), by [@borkware](https://twitter.com/borkware)
 * [Xcode Extensions](https://medium.com/appnroll-publication/xcode-extensions-db289d8230b), by [@appnroll](https://twitter.com/appnroll)
 * [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [What Makes A Great Software Engineer?](https://elliot.land/what-makes-a-great-software-engineer), by [@elliotchance](https://twitter.com/elliotchance)
 
 
 **Tools/Controls**
