@@ -17,7 +17,7 @@
 
 **Business**
 
-*
+* [What makes PokémonGo so Addictive?](https://medium.com/@chrisnheu/what-makes-pokémongo-so-addictive-a6a841bb5286), by [@chrisnheu](https://twitter.com/chrisnheu)
 
 **UI/UX**
 
