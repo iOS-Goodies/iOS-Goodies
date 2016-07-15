@@ -20,7 +20,7 @@
 
 **UI/UX**
 
-*
+* [What we can learn from Pokemon GO](https://medium.com/desk-of-van-schneider/what-we-can-learn-from-pokemon-go-adf413fc2eb0), by [@vanschneider](https://twitter.com/vanschneider)
 
 **Videos**
 
