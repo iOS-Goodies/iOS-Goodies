@@ -5,6 +5,7 @@
 * [Reference and Value Types in Swift](https://medium.com/capital-one-developers/reference-and-value-types-in-swift-de792db330b2), by [@andrea_prearo](https://twitter.com/andrea_prearo)
 * [Hannibal #selector](https://www.bignerdranch.com/blog/hannibal-selector/), by [@borkware](https://twitter.com/borkware)
 * [Xcode Extensions](https://medium.com/appnroll-publication/xcode-extensions-db289d8230b), by [@appnroll](https://twitter.com/appnroll)
+* [Real World Flux Architecture on iOS](http://blog.benjamin-encz.de/post/real-world-flux-ios/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 
 **Tools/Controls**
