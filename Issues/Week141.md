@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [Swift Nightly](http://swiftnightly.com/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
+* [PopupDialog](https://github.com/Orderella/PopupDialog), by [@theMWFire](https://twitter.com/theMWFire)
 
 **Business**
 
