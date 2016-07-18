@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [Swift Nightly](http://swiftnightly.com/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 
 **Business**
 
@@ -23,4 +23,5 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc)
+* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+
