@@ -15,7 +15,7 @@
 
 **Business**
 
-*
+* [The New 'Must Haves' for Mobile Apps to Succeed Today](http://firstround.com/review/the-new-must-haves-for-mobile-apps-to-succeed-today/), by [@scmoatti](https://twitter.com/scmoatti)
 
 **UI/UX**
 
