@@ -5,6 +5,7 @@
 * [Logging in Swift](http://merowing.info/2016/07/logging-in-swift/), by [@merowing_](https://twitter.com/merowing_)
 * [Slow App Startup Times](http://useyourloaf.com/blog/slow-app-startup-times/), by [@kharrison](https://twitter.com/kharrison)
 * [Swift Either enum](http://www.mokacoding.com/blog/swift-either/), by [@mokagio](https://twitter.com/mokagio)
+* [Micro Features Architecture for iOS](https://medium.com/@pepibumur/micro-features-architecture-for-ios-f81ca18f03ac), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Tools/Controls**
 
