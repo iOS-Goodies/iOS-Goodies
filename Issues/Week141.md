@@ -19,7 +19,7 @@
 
 **UI/UX**
 
-*
+* [What makes PokémonGo so Addictive?- A Mobile Product Manager’s Perspective](https://medium.com/startup-grind/what-makes-pokémongo-so-addictive-a6a841bb5286), by [@chrisnheu](https://twitter.com/chrisnheu)
 
 **Videos**
 
