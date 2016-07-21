@@ -7,6 +7,7 @@
 * [Swift Either enum](http://www.mokacoding.com/blog/swift-either/), by [@mokagio](https://twitter.com/mokagio)
 * [Micro Features Architecture for iOS](https://medium.com/@pepibumur/micro-features-architecture-for-ios-f81ca18f03ac), by [@pepibumur](https://twitter.com/pepibumur)
 * [SE-0117 - The Proposal of Doom](http://owensd.io/blog/se-0117---the-proposal-of-doom/), by [@owensd](https://twitter.com/owensd)
+* [MVVM and ReactiveKit](https://medium.com/@diegomarcon/mvvm-and-reactive-kit-2dbbb94f48bc), by [@DMMarcon](https://twitter.com/DMMarcon)
 
 **Tools/Controls**
 
