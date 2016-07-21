@@ -20,6 +20,7 @@
 
 * [The New 'Must Haves' for Mobile Apps to Succeed Today](http://firstround.com/review/the-new-must-haves-for-mobile-apps-to-succeed-today/), by [@scmoatti](https://twitter.com/scmoatti)
 * [How we generated $712,076.64 in revenue with two people in a little over two years](https://m.signalvnoise.com/how-we-generated-712-076-64-in-revenue-with-two-people-in-a-little-over-two-years-8c4af36ed1f1#.t8ib5y89y), by [@cjlew23](https://twitter.com/cjlew23)
+* [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83#.4l8g1wmzq), by [@erikduindam](https://twitter.com/erikduindam)
 
 **UI/UX**
 
