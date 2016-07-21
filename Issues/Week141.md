@@ -15,16 +15,19 @@
 
 * [Swift Nightly](http://swiftnightly.com/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r)
 * [PopupDialog](https://github.com/Orderella/PopupDialog), by [@theMWFire](https://twitter.com/theMWFire)
+* [Live](https://github.com/ltebean/Live), by [@ltebean](https://github.com/ltebean)
 
 **Business**
 
 * [The New 'Must Haves' for Mobile Apps to Succeed Today](http://firstround.com/review/the-new-must-haves-for-mobile-apps-to-succeed-today/), by [@scmoatti](https://twitter.com/scmoatti)
 * [How we generated $712,076.64 in revenue with two people in a little over two years](https://m.signalvnoise.com/how-we-generated-712-076-64-in-revenue-with-two-people-in-a-little-over-two-years-8c4af36ed1f1#.t8ib5y89y), by [@cjlew23](https://twitter.com/cjlew23)
 * [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83#.4l8g1wmzq), by [@erikduindam](https://twitter.com/erikduindam)
+* [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.lmdhom1x8), by [@hosseeb](https://twitter.com/hosseeb)
 
 **UI/UX**
 
 * [Designing an in-app Survey](https://medium.com/budi-brain/designing-in-app-survey-6163304e88dd#.3rcjy61wq), by [@buditanrim](https://twitter.com/buditanrim)
+* [Design Is Mainly About Empathy](https://trackchanges.postlight.com/design-is-mainly-about-empathy-c9d51ccb208a#.udoxtla8t), by [@tinystride](https://twitter.com/tinystride)
 
 **Videos**
 
@@ -33,5 +36,5 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo)
+* [mariusc](https://github.com/mariusc), [dkhamsing](https://github.com/dkhamsing), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo)
 
