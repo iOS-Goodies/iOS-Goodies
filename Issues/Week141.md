@@ -29,6 +29,7 @@
 **Videos**
 
 * [Contributing to Swift: From Proposal to Shipped](https://realm.io/news/slug-russ-bishop-contributing-open-source-swift-proposal/), by [@xenadu02](https://twitter.com/xenadu02)
+* [Swifty? Emerging patterns and idioms](http://cutting.io/posts/swifty-emerging-patterns-and-idioms/), by [@dcutting](https://twitter.com/dcutting)
 
 **Credits**
 
