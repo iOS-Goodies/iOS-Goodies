@@ -9,6 +9,7 @@
 * [SE-0117 - The Proposal of Doom](http://owensd.io/blog/se-0117---the-proposal-of-doom/), by [@owensd](https://twitter.com/owensd)
 * [MVVM and ReactiveKit](https://medium.com/@diegomarcon/mvvm-and-reactive-kit-2dbbb94f48bc), by [@DMMarcon](https://twitter.com/DMMarcon)
 * [Be Reactive my friend](https://medium.com/@pepibumur/be-reactive-my-friend-715310e4e32e), by [@pepibumur](https://twitter.com/pepibumur)
+* [Preventing Popovers on Popovers](https://pspdfkit.com/blog/2016/popovers-on-popovers/), by [@qdoug](https://twitter.com/qdoug)
 
 **Tools/Controls**
 
