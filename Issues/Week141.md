@@ -19,10 +19,12 @@
 **Business**
 
 * [The New 'Must Haves' for Mobile Apps to Succeed Today](http://firstround.com/review/the-new-must-haves-for-mobile-apps-to-succeed-today/), by [@scmoatti](https://twitter.com/scmoatti)
+* [How we generated $712,076.64 in revenue with two people in a little over two years](https://m.signalvnoise.com/how-we-generated-712-076-64-in-revenue-with-two-people-in-a-little-over-two-years-8c4af36ed1f1#.t8ib5y89y), by [@cjlew23](https://twitter.com/cjlew23)
 
 **UI/UX**
 
 * [What makes PokémonGo so Addictive?- A Mobile Product Manager’s Perspective](https://medium.com/startup-grind/what-makes-pokémongo-so-addictive-a6a841bb5286), by [@chrisnheu](https://twitter.com/chrisnheu)
+* [Designing an in-app Survey](https://medium.com/budi-brain/designing-in-app-survey-6163304e88dd#.3rcjy61wq), by [@buditanrim](https://twitter.com/buditanrim)
 
 **Videos**
 
