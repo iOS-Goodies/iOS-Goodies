@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Migrating to Swift 3](http://www.jessesquires.com/migrating-to-swift-3/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rbarbosa](https://github.com/rbarbosa)
