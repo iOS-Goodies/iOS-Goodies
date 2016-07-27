@@ -7,7 +7,7 @@
 **Tools/Controls**
 
 * [EmojiTextView](https://github.com/fastred/EmojiTextView), by [@arekholko](https://twitter.com/arekholko)
-* [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets)
+* [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets), by [@hyperoslo](https://github.com/hyperoslo)
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133)
