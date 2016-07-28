@@ -15,6 +15,9 @@
 **Business**
 
 * [Ideas aren’t worthless](https://medium.com/the-mission/ideas-arent-worthless-2c8b366f6f75), by [@stefanobernardi](https://twitter.com/stefanobernardi)
+* [I’ve never had a goal](https://m.signalvnoise.com/ive-never-had-a-goal-c89219aedddf), by [@jasonfried](https://twitter.com/jasonfried)
+* [There’s more to life than being a fucking entrepreneur](https://medium.com/hi-my-name-is-jon/theres-more-to-life-than-being-a-fucking-entrepreneur-332bce126731), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
+* [Resisting the lure of unicorn culture](https://m.signalvnoise.com/resisting-the-lure-of-unicorn-culture-fc5126b57fbb), by [@dhh](https://twitter.com/dhh)
 
 **UI/UX**
 
