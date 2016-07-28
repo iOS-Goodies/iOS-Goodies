@@ -5,6 +5,7 @@
 * [Xcode Visual Memory Debugger](http://useyourloaf.com/blog/xcode-visual-memory-debugger/), by [@kharrison](https://twitter.com/kharrison)
 * [Simultaneous Xcode 7 and Xcode 8 compatibility](http://radex.io/xcode7-xcode8/), by [@radexp](http://twitter.com/radexp)
 * [A composable pattern for pure state machines with effects](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2), by [@andy_matuschak](https://twitter.com/andy_matuschak)
+* [Measurements and Units in Foundation](http://oleb.net/blog/2016/07/measurements-and-units/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
