@@ -3,6 +3,7 @@
 
 * [Migrating to Swift 3](http://www.jessesquires.com/migrating-to-swift-3/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Xcode Visual Memory Debugger](http://useyourloaf.com/blog/xcode-visual-memory-debugger/), by [@kharrison](https://twitter.com/kharrison)
+* [Simultaneous Xcode 7 and Xcode 8 compatibility](http://radex.io/xcode7-xcode8/), by [@radexp](http://twitter.com/radexp)
 
 **Tools/Controls**
 
