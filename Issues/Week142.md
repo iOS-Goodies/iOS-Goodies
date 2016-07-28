@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [4 ways I’ve fucked up as a designer](https://medium.com/@geometrieva/here-are-some-of-the-ways-ive-fucked-up-as-a-designer-d6b1d430a750), by [@geometrieva](https://twitter.com/geometrieva)
 
 **Videos**
 
