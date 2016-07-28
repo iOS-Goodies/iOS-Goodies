@@ -14,11 +14,14 @@
 
 **Business**
 
-*
+* [Ideas aren’t worthless](https://medium.com/the-mission/ideas-arent-worthless-2c8b366f6f75), by [@stefanobernardi](https://twitter.com/stefanobernardi)
 
 **UI/UX**
 
 * [4 ways I’ve fucked up as a designer](https://medium.com/@geometrieva/here-are-some-of-the-ways-ive-fucked-up-as-a-designer-d6b1d430a750), by [@geometrieva](https://twitter.com/geometrieva)
+* [Buttons in UI Design: The Evolution of Style and Best Practices](http://babich.biz/buttons-in-ui-design-the-evolution-of-style-and-best-practices/), by [@101babich](https://twitter.com/101babich)
+* [Mobile First: Insights from going Mobile Only](https://medium.com/the-mission/mobile-first-design-insights-from-a-month-without-a-computer-c18e7ada25d), by [@realjoet](https://twitter.com/realjoet)
+* [Great Products Don’t Happen By Accident](https://medium.com/@jlax/great-products-dont-happen-by-accident-f46323d8ad94), by [@jlax](https://twitter.com/jlax)
 
 **Videos**
 
