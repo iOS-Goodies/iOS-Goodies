@@ -11,6 +11,7 @@
 
 * [EmojiTextView](https://github.com/fastred/EmojiTextView), by [@arekholko](https://twitter.com/arekholko)
 * [SwiftSnippets](https://github.com/hyperoslo/SwiftSnippets), by [@hyperoslo](https://github.com/hyperoslo)
+* [GRDB](https://github.com/groue/GRDB.swift), by [@groue](https://twitter.com/groue)
 
 **Business**
 
