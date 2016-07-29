@@ -28,7 +28,7 @@
 
 **Videos**
 
-*
+* [Reactive Programming with RxSwift](https://realm.io/news/altconf-scott-gardner-reactive-programming-with-rxswift/), by [@scotteg](https://twitter.com/scotteg)
 
 **Credits**
 
