@@ -6,6 +6,7 @@
 * [Exposing view model properties in ReactiveCocoa](http://www.martinrichter.net/blog/2016/07/30/exposing-view-model-properties-in-rac/), by [@richeterre](https://twitter.com/richeterre)
 * [Looking Back on Swift 3 and Ahead to Swift 4](http://mjtsai.com/blog/2016/07/30/looking-back-on-swift-3-and-ahead-to-swift-4/), by [@mjtsai](https://twitter.com/mjtsai)
 * [Xcode 8: New Build Settings and Analyzer Improvements](http://www.miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements/), by [@miguelquinon](https://twitter.com/miguelquinon)
+* [How do I build a Network Layer](http://szulctomasz.com/how-do-I-build-a-network-layer/), by [@tomkowz](https://twitter.com/tomkowz)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike)
+* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike), [tomkowz](https://github.com/tomkowz)
