@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em)
+* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike)
