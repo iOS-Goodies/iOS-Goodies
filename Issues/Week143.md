@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [PushNotificationHandler](https://github.com/gtsif21/PushNotificationHandler), by [@gtsif21](https://github.com/gtsif21)
+* [Cloudy](https://github.com/Boris-Em/Cloudy), by [@Boris_Em](https://twitter.com/Boris_Em)
 * 
 
 **Business**
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa),
+* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em)
