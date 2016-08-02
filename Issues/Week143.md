@@ -8,6 +8,7 @@
 * [Xcode 8: New Build Settings and Analyzer Improvements](http://www.miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements/), by [@miguelquinon](https://twitter.com/miguelquinon)
 * [How do I build a Network Layer](http://szulctomasz.com/how-do-I-build-a-network-layer/), by [@tomkowz](https://twitter.com/tomkowz)
 * [Static versus dynamic](http://justtesting.org/post/148297302871/static-versus-dynamic), by [@TacticalGrace](https://twitter.com/TacticalGrace)
+* [Creating a game using iOS 10's Messages framework](https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-1-messages), by [@sam_burnstone](https://twitter.com/sam_burnstone)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike), [tomkowz](https://github.com/tomkowz)
+* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike), [tomkowz](https://github.com/tomkowz), [samburnstone](https://github.com/samburnstone)
