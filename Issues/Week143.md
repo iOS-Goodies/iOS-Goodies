@@ -7,6 +7,7 @@
 * [Looking Back on Swift 3 and Ahead to Swift 4](http://mjtsai.com/blog/2016/07/30/looking-back-on-swift-3-and-ahead-to-swift-4/), by [@mjtsai](https://twitter.com/mjtsai)
 * [Xcode 8: New Build Settings and Analyzer Improvements](http://www.miqu.me/blog/2016/07/31/xcode-8-new-build-settings-and-analyzer-improvements/), by [@miguelquinon](https://twitter.com/miguelquinon)
 * [How do I build a Network Layer](http://szulctomasz.com/how-do-I-build-a-network-layer/), by [@tomkowz](https://twitter.com/tomkowz)
+* [Static versus dynamic](http://justtesting.org/post/148297302871/static-versus-dynamic), by [@TacticalGrace](https://twitter.com/TacticalGrace)
 
 **Tools/Controls**
 
