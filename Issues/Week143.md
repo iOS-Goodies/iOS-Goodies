@@ -14,6 +14,7 @@
 
 * [PushNotificationHandler](https://github.com/gtsif21/PushNotificationHandler), by [@gtsif21](https://github.com/gtsif21)
 * [Cloudy](https://github.com/Boris-Em/Cloudy), by [@Boris_Em](https://twitter.com/Boris_Em)
+* [Skiathos](https://github.com/albertodebortoli/Skiathos) & [Skopelos](https://github.com/albertodebortoli/Skopelos), by [@albertodebo](https://twitter.com/albertodebo)
 
 **Business**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike), [tomkowz](https://github.com/tomkowz), [samburnstone](https://github.com/samburnstone)
+* [Codeido](https://github.com/Codeido), [rbarbosa](https://github.com/rbarbosa), [Boris-Em](https://github.com/Boris-Em), [DarthMike](https://github.com/DarthMike), [tomkowz](https://github.com/tomkowz), [samburnstone](https://github.com/samburnstone), [albertodebortoli](https://github.com/albertodebortoli)
