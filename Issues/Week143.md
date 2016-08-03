@@ -9,6 +9,7 @@
 * [How do I build a Network Layer](http://szulctomasz.com/how-do-I-build-a-network-layer/), by [@tomkowz](https://twitter.com/tomkowz)
 * [Static versus dynamic](http://justtesting.org/post/148297302871/static-versus-dynamic), by [@TacticalGrace](https://twitter.com/TacticalGrace)
 * [Creating a game using iOS 10's Messages framework](https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-1-messages), by [@sam_burnstone](https://twitter.com/sam_burnstone)
+* [Promises In Swift](http://khanlou.com/2016/08/promises-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 
 **Tools/Controls**
 
