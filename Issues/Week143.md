@@ -14,6 +14,7 @@
 
 * [PushNotificationHandler](https://github.com/gtsif21/PushNotificationHandler), by [@gtsif21](https://github.com/gtsif21)
 * [Cloudy](https://github.com/Boris-Em/Cloudy), by [@Boris_Em](https://twitter.com/Boris_Em)
+* [Skiathos](https://github.com/albertodebortoli/Skiathos) & [Skopelos](https://github.com/albertodebortoli/Skopelos), by [@albertodebo](https://twitter.com/albertodebo)
 
 **Business**
 
