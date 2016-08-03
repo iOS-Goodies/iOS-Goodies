@@ -17,7 +17,7 @@
 
 **Business**
 
-*
+* [Product Development Cycle Fundamentals](http://themacro.com/articles/2016/08/product-development-cycle-fundamentals/), by [@mwseibel](https://twitter.com/mwseibel)
 
 **UI/UX**
 
