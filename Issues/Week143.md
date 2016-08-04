@@ -11,6 +11,7 @@
 * [Creating a game using iOS 10's Messages framework](https://www.shinobicontrols.com/blog/ios-10-day-by-day-day-1-messages), by [@sam_burnstone](https://twitter.com/sam_burnstone)
 * [Promises In Swift](http://khanlou.com/2016/08/promises-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Self Signed Certificates in iOS Simulator](https://jitsusamablog.wordpress.com/2016/08/03/self-signed-certificates-in-ios-simulator/), by [@Jitsusama](https://twitter.com/Jitsusama)
+* [Setting up pre-commit hook for iOS](http://merowing.info/2016/08/setting-up-pre-commit-hook-for-ios/), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
@@ -24,7 +25,7 @@
 
 **UI/UX**
 
-*
+* [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c#.jloajouzt), by [@lovejessiecat](https://uxdesign.cc/@lovejessiecat)
 
 **Videos**
 
