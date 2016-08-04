@@ -22,10 +22,12 @@
 **Business**
 
 * [Product Development Cycle Fundamentals](http://themacro.com/articles/2016/08/product-development-cycle-fundamentals/), by [@mwseibel](https://twitter.com/mwseibel)
+* [Life as an impatient programmer](https://m.signalvnoise.com/life-as-an-impatient-programmer-114c5a2f677f#.v77ey8184), by [@dankim](https://twitter.com/dankim)
 
 **UI/UX**
 
 * [How Netflix does A/B Testing](https://uxdesign.cc/how-netflix-does-a-b-testing-87df9f9bf57c#.jloajouzt), by [@lovejessiecat](https://uxdesign.cc/@lovejessiecat)
+* [Making a case for letter case](https://medium.com/@jsaito/making-a-case-for-letter-case-19d09f653c98#.93a82fhap), by [@jsaito](https://medium.com/@jsaito)
 
 **Videos**
 
