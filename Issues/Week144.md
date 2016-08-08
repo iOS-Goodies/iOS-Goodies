@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers), by [@merowing_](https://twitter.com/merowing_)
 
 **Business**
 
