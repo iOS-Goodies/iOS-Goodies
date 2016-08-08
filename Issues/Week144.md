@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Common Patterns With Promises](http://khanlou.com/2016/08/common-patterns-with-promises/), by [@khanlou](https://twitter.com/khanlou)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rbarbosa](https://github.com/rbarbosa),
