@@ -12,6 +12,7 @@
 
 * [Why I'm not a big fan of Scrum](http://okigiveup.net/not-big-fan-of-scrum/), by [@afroisalreadyin](https://twitter.com/afroisalreadyin)
 * [I Don’t Care How Well You Code, Understand Your Compensation](https://hackernoon.com/i-dont-care-how-well-you-code-understand-your-compensation-a1e810973c5e#.x9vb7mpqw), by [@Alevy1511](https://twitter.com/Alevy1511)
+* [I Want to Know What Code Is Running Inside My Body](https://backchannel.com/i-want-to-know-what-code-is-running-inside-my-body-ff9a159da34b#.amdlxchcx), by [@mcgowankat](https://twitter.com/mcgowankat)
 
 **UI/UX**
 
