@@ -14,7 +14,7 @@
 
 **UI/UX**
 
-*
+* [Instagram Stories versus Snapchat Stories](https://chriswharton.me/2016/08/instagram-stories-versus-snapchat-stories/), by [@cdwharton](https://twitter.com/cdwharton)
 
 **Videos**
 
