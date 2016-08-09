@@ -17,6 +17,7 @@
 
 * [Instagram Stories versus Snapchat Stories](https://chriswharton.me/2016/08/instagram-stories-versus-snapchat-stories/), by [@cdwharton](https://twitter.com/cdwharton)
 * [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256#.2jldqsgs2), by [@jsaito](https://medium.com/@jsaito)
+* [Key Design Principles Behind User Interface](http://thenextweb.com/dd/2016/08/09/design-principles-behind-user-interface/), by Kaylan Smith
 
 **Videos**
 
