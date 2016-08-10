@@ -5,6 +5,7 @@
 * [The Easiest Core Data](http://albertodebortoli.com/blog/2016/08/05/the-easiest-core-data/), by [@albertodebo](https://twitter.com/albertodebo)
 * [Your App Has One Feature](https://blog.benroux.me/your-app-has-one-feature/), by [@liquidise](https://twitter.com/liquidise)
 * [Developer Variants](http://sedimental.org/developer_variants.html), by [@mhashemi](https://twitter.com/mhashemi)
+* [The iOS bug chase](http://allegro.tech/2016/08/the-ios-bug-chase.html), by [@kam800](https://twitter.com/kam800)
 
 **Tools/Controls**
 
