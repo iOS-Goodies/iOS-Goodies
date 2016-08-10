@@ -3,7 +3,7 @@
 
 * [Common Patterns With Promises](http://khanlou.com/2016/08/common-patterns-with-promises/), by [@khanlou](https://twitter.com/khanlou)
 * [The Easiest Core Data](http://albertodebortoli.com/blog/2016/08/05/the-easiest-core-data/), by [@albertodebo](https://twitter.com/albertodebo)
-
+* [Your App Has One Feature](https://blog.benroux.me/your-app-has-one-feature/), by [@liquidise](https://twitter.com/liquidise)
 
 **Tools/Controls**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [albertodebortoli](https://github.com/albertodebortoli)
+* [rbarbosa](https://github.com/rbarbosa), [albertodebortoli](https://github.com/albertodebortoli), [NSMyself](https://github.com/NSMyself)
