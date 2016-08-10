@@ -4,6 +4,7 @@
 * [Common Patterns With Promises](http://khanlou.com/2016/08/common-patterns-with-promises/), by [@khanlou](https://twitter.com/khanlou)
 * [The Easiest Core Data](http://albertodebortoli.com/blog/2016/08/05/the-easiest-core-data/), by [@albertodebo](https://twitter.com/albertodebo)
 * [Your App Has One Feature](https://blog.benroux.me/your-app-has-one-feature/), by [@liquidise](https://twitter.com/liquidise)
+* [Developer Variants](http://sedimental.org/developer_variants.html), by [@mhashemi](https://twitter.com/mhashemi)
 
 **Tools/Controls**
 
