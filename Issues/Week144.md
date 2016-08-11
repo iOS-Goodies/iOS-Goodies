@@ -6,6 +6,7 @@
 * [Your App Has One Feature](https://blog.benroux.me/your-app-has-one-feature/), by [@liquidise](https://twitter.com/liquidise)
 * [Developer Variants](http://sedimental.org/developer_variants.html), by [@mhashemi](https://twitter.com/mhashemi)
 * [The iOS bug chase](http://allegro.tech/2016/08/the-ios-bug-chase.html), by [@kam800](https://twitter.com/kam800)
+* [MVVM Is Quite Okay at What It Is Supposed to Do](http://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/), [@ctietze](https://twitter.com/ctietze)
 
 **Tools/Controls**
 
