@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [How we use Fastlane](https://www.whitesmith.co/blog/how-we-use-fastlane), by [@whitesmithco](https://twitter.com/whitesmithco)
 
 **Tools/Controls**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [@dkhamsing](https://twitter.com/dkhamsing)
+* [@dkhamsing](https://twitter.com/dkhamsing), [@ricardopereiraw](https://twitter.com/ricardopereiraw)
