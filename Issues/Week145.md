@@ -2,6 +2,7 @@
 **Articles**
 
 * [How we use Fastlane](https://www.whitesmith.co/blog/how-we-use-fastlane), by [@whitesmithco](https://twitter.com/whitesmithco)
+* [Structs and mutation in Swift](http://chris.eidhof.nl/post/structs-and-mutation-in-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Tools/Controls**
 
