@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [@dkhamsing](https://twitter.com/dkhamsing), [@ricardopereiraw](https://twitter.com/ricardopereiraw)
+* [@rbarbosa](https://twitter.com/rbarbosa/), [@dkhamsing](https://twitter.com/dkhamsing), [@ricardopereiraw](https://twitter.com/ricardopereiraw), [@marius_const](https://twitter.com/marius_const)
