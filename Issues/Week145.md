@@ -24,6 +24,7 @@
 
 * [Building SoundCloud](http://www.michaelevensen.com/), by [@michaelnevensen](https://twitter.com/michaelnevensen/)
 * [Minimize Design Risk by Focusing on Outcomes not Features](https://www.nngroup.com/articles/outcomes-vs-features/), by [@hoalorange](https://twitter.com/hoalorange)
+* [Communicating Animation](http://alistapart.com/article/communicating-animation), by [@rachelnabors](https://twitter.com/rachelnabors)
 
 **Videos**
 
