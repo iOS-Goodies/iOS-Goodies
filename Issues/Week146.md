@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [relayout](https://github.com/stevestreza/relayout), by [@stevestreza](https://twitter.com/stevestreza)
 
 **Business**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-*
+* [dkhamsing](https://github.com/dkhamsing)
