@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Pattern Matching in Swift](https://www.raywenderlich.com/134844/pattern-matching-in-swift), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing)
+* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun)
