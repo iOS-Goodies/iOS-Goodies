@@ -5,6 +5,7 @@
 * [Building Compassionate Software](https://ashfurrow.com/blog/building-compassionate-software/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [My Least Favorite Thing About Swift](http://khanlou.com/2016/08/my-least-favorite-thing-about-swift/), by [@khanlou](http://www.twitter.com/khanlou)
 * [Immutable models and data consistency in our iOS App](https://engineering.pinterest.com/blog/immutable-models-and-data-consistency-our-ios-app), by [@wendyluwho](https://twitter.com/wendyluwho)
+* [Measurements and Units with Phantom Types](https://oleb.net/blog/2016/08/measurements-and-units-with-phantom-types/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun), [mariusc](https://github.com/mariusc)
+* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
