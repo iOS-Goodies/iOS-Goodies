@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [relayout](https://github.com/stevestreza/relayout), by [@stevestreza](https://twitter.com/stevestreza)
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat), by [@nicklockwood](https://twitter.com/nicklockwood)
 
 **Business**
 
