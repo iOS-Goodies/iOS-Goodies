@@ -7,6 +7,7 @@
 * [Immutable models and data consistency in our iOS App](https://engineering.pinterest.com/blog/immutable-models-and-data-consistency-our-ios-app), by [@wendyluwho](https://twitter.com/wendyluwho)
 * [Measurements and Units with Phantom Types](https://oleb.net/blog/2016/08/measurements-and-units-with-phantom-types/), by [@olebegemann](https://twitter.com/olebegemann)
 * [iOS Application design from developer’s perspective](https://medium.com/@ankoma22/ios-application-design-from-developers-perspective-4e542bfbfeaf#.bwe806ms3), by [@ankoma22](https://twitter.com/ankoma22)
+* [Speeding up iOS Development](https://medium.com/@graafict/blaze-fast-flexible-and-awesome-3a7a73374de7#.20gp2rll3), by [@bobdegraaf](https://twitter.com/bobdegraaf)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [@ankoma22](https://twitter.com/ankoma22)
+* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [@ankoma22](https://twitter.com/ankoma22), [@bobdegraaf](https://twitter.com/bobdegraaf)
