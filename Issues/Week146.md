@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [dkhamsing](https://github.com/dkhamsing), [@KaramazovShogun](https://twitter.com/KaramazovShogun), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [@ankoma22](https://twitter.com/ankoma22)
