@@ -17,7 +17,7 @@
 
 **Business**
 
-* 
+* [How Things Work](http://gawker.com/how-things-work-1785604699), by [@nicknotned](https://twitter.com/nicknotned)
 
 **UI/UX**
 
