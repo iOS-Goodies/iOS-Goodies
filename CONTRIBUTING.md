@@ -6,7 +6,10 @@ Before we start, please read our [Code of Conduct](https://github.com/iOS-Goodie
 
 ## Contributing
 
-If you would like to contribute with a link to the current week's issue send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls). After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. This is due to the fact that each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
+If you would like to contribute with a link to the current week's issue send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls). After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. There are two main reasons for a contribution to be rejected:
+
+* Each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
+* **The article didn't pass our curation**. This can be for multiple reasons: poorly written, not relevant to the community in general, not up to our standards, etc. Of course this is very subjective and if you think we (Rui and Tiago) are being unfair, do let us know. 
 
 ## Requirements
 
