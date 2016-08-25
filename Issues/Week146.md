@@ -7,7 +7,6 @@
 **Articles**
 
 * [Pattern Matching in Swift](https://www.raywenderlich.com/134844/pattern-matching-in-swift), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
-* [Building Compassionate Software](https://ashfurrow.com/blog/building-compassionate-software/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [My Least Favorite Thing About Swift](http://khanlou.com/2016/08/my-least-favorite-thing-about-swift/), by [@khanlou](http://www.twitter.com/khanlou)
 * [Immutable models and data consistency in our iOS App](https://engineering.pinterest.com/blog/immutable-models-and-data-consistency-our-ios-app), by [@wendyluwho](https://twitter.com/wendyluwho)
 * [Measurements and Units with Phantom Types](https://oleb.net/blog/2016/08/measurements-and-units-with-phantom-types/), by [@olebegemann](https://twitter.com/olebegemann)
@@ -25,6 +24,7 @@
 
 **Business**
 
+* [Building Compassionate Software](https://ashfurrow.com/blog/building-compassionate-software/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [How Things Work](http://gawker.com/how-things-work-1785604699), by [@nicknotned](https://twitter.com/nicknotned)
 * [Programming principles from the early days of id Software](http://www.gamasutra.com/view/news/279357/Programming_principles_from_the_early_days_of_id_Software.php), by [@krisgraft](https://twitter.com/krisgraft)
 * [Eleven Reasons To Be Excited About The Future of Technology](https://medium.com/@cdixon/eleven-reasons-to-be-excited-about-the-future-of-technology-ef5f9b939cb2#.ojse98yg4), by [@cdixon](https://twitter.com/cdixon)
