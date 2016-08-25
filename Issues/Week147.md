@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Retry](https://github.com/icanzilb/Retry), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Business**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* 
+* [dkhamsing](https://github.com/dkhamsing)
