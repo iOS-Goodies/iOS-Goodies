@@ -18,7 +18,8 @@
 
 **Videos**
 
-* 
+* [Periscope's Sketch Feature: From Prototype to Production Code
+](https://realm.io/news/building-periscope-sketches-ios/), by [Ben Sandofsky](https://twitter.com/sandofsky)
 
 **Books**
 
