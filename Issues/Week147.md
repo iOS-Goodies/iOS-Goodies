@@ -1,8 +1,8 @@
 **Articles**
 
 * [An exclusive inside look at how artificial intelligence and machine learning work at Apple](https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.r2qb8amd2), by [@StevenLevy](https://twitter.com/StevenLevy)
-
 * [MVVM-C A simple way to navigate](http://tech.trivago.com/2016/08/26/mvvm-c-a-simple-way-to-navigate/), by [@s_proszak](https://twitter.com/s_proszak)
+* [Values and errors, part 2: eight languages compared](http://www.cocoawithlove.com/blog/2016/08/23/result-types-part-two.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [NSMyself](https://twitter.com/NSMyself) 
+* [dkhamsing](https://github.com/dkhamsing), [NSMyself](https://twitter.com/NSMyself), [mariusc](https://github.com/mariusc) 
