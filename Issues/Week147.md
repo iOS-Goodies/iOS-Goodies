@@ -11,7 +11,7 @@
 
 **Business**
 
-* 
+* [I Got Scammed By A Silicon Valley Startup](https://medium.com/startup-grind/i-got-scammed-by-a-silicon-valley-startup-574ced8acdff), by [Penny Kim](https://twitter.com/PennyKim)
 
 **UI/UX**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [NSMyself](https://twitter.com/NSMyself), [mariusc](https://github.com/mariusc) 
+* [dkhamsing](https://github.com/dkhamsing), [NSMyself](https://twitter.com/NSMyself), [mariusc](https://github.com/mariusc), [dmcrodrigues](https://twitter.com/dmcrodrigues)
