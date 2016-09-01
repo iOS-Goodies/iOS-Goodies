@@ -18,6 +18,7 @@
 **UI/UX**
 
 * [Little Big Details For Your Mobile App](http://babich.biz/little-big-details-for-your-mobile-app/), by [@101babich](https://twitter.com/101babich)
+* [Five Fundamental Design Tips for Apple TV Apps](https://medium.com/bpxl-craft/five-fundamental-design-tips-for-apple-tv-apps-c0ee9363e1ff), by [@tomcarmony](https://twitter.com/tomcarmony)
 
 **Videos**
 
