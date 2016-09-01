@@ -5,6 +5,7 @@
 * [Values and errors, part 2: eight languages compared](http://www.cocoawithlove.com/blog/2016/08/23/result-types-part-two.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Sort Descriptors in Swift - From Runtime Magic To Functions](http://chris.eidhof.nl/post/sort-descriptors-in-swift/), by [@chriseidhof](https://www.twitter.com/chriseidhof/)
 * [Being more efficient in Xcode - Part 1](http://mariusc.github.io/2016-08-29-being-more-efficient-in-xcode-part-1.html), by [@marius_const](https://twitter.com/marius_const)
+* [Strings in Swift 3](https://oleb.net/blog/2016/08/swift-3-strings/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
