@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [Little Big Details For Your Mobile App](http://babich.biz/little-big-details-for-your-mobile-app/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [dkhamsing](https://github.com/dkhamsing), [NSMyself](https://twitter.com/NSMyself), [mariusc](https://github.com/mariusc), [dmcrodrigues](https://twitter.com/dmcrodrigues)
+* [dkhamsing](https://github.com/dkhamsing), [NSMyself](https://twitter.com/NSMyself), [mariusc](https://github.com/mariusc), [dmcrodrigues](https://twitter.com/dmcrodrigues), [rbarbosa](https://github.com/rbarbosa)
