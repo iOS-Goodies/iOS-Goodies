@@ -24,6 +24,7 @@
 
 * [Periscope's Sketch Feature: From Prototype to Production Code
 ](https://realm.io/news/building-periscope-sketches-ios/), by [@sandofsky](https://twitter.com/sandofsky)
+* [Building Reactive Apps with Realm: Episode 1](https://realm.io/news/marin-todorov-building-reactive-apps-with-realm-episode-1-swift-ios/), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Books**
 
