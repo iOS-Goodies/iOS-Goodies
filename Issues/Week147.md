@@ -6,6 +6,7 @@
 * [Sort Descriptors in Swift - From Runtime Magic To Functions](http://chris.eidhof.nl/post/sort-descriptors-in-swift/), by [@chriseidhof](https://www.twitter.com/chriseidhof/)
 * [Being more efficient in Xcode - Part 1](http://mariusc.github.io/2016-08-29-being-more-efficient-in-xcode-part-1.html), by [@marius_const](https://twitter.com/marius_const)
 * [Strings in Swift 3](https://oleb.net/blog/2016/08/swift-3-strings/), by [@olebegemann](https://twitter.com/olebegemann)
+* [A (mostly) comprehensive list of Swift 3.0 and 2.3 changes](https://buildingvts.com/a-mostly-comprehensive-list-of-swift-3-0-and-2-3-changes-193b904bb5b1), by [@WhatsASoftware](https://twitter.com/WhatsASoftware)
 
 **Tools/Controls**
 
