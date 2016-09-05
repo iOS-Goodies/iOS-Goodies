@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [XcodeColorSense](https://github.com/onmyway133/XcodeColorSense), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business**
 
