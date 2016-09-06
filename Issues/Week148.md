@@ -10,7 +10,7 @@
 
 **Business**
 
-* 
+* [Evolving App Store Business Models](https://david-smith.org/blog/2016/09/05/evolving-business-app-store-business-models/), by [@_DavidSmith](http://twitter.com/_DavidSmith)
 
 **UI/UX**
 
