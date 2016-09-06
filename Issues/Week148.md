@@ -4,7 +4,7 @@
 * [Copying](http://robnapier.net/copying), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [Auto Layout and Alignment Rectangles](http://useyourloaf.com/blog/auto-layout-and-alignment-rectangles/), by [@kharrison](https://twitter.com/kharrison)
 * [Operators, Operators, Operators: Introducing Precedence](http://ericasadun.com/2016/09/04/optionals-optionals-optionals-introducing-precedence/), by [@ericasadun](https://twitter.com/ericasadun)
-* [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html), by [queersorceress](https://twitter.com/queersorceress)
+* [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html), by [@queersorceress](https://twitter.com/queersorceress)
 
 **Tools/Controls**
 
