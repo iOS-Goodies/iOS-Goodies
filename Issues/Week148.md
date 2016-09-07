@@ -26,4 +26,4 @@
 **Credits**
 
 * [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133)
-* [zethraeus](https://github.com/zethraeus)
+* [zethraeus](https://github.com/zethraeus), [NSMyself](https://twitter.com/NSMyself)
