@@ -14,6 +14,7 @@
 **Business**
 
 * [Evolving App Store Business Models](https://david-smith.org/blog/2016/09/05/evolving-business-app-store-business-models/), by [@_DavidSmith](http://twitter.com/_DavidSmith)
+* [The myth of low-hanging fruit](https://m.signalvnoise.com/the-myth-of-low-hanging-fruit-443459fe205a), by [@jasonfried](https://twitter.com/jasonfried)
 
 **UI/UX**
 
