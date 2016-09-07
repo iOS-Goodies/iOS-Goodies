@@ -7,7 +7,7 @@
 * [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html), by [@queersorceress](https://twitter.com/queersorceress)
 
 **Tools/Controls**
-
+* [AppleEvents](https://github.com/insidegui/AppleEvents), by [@_inside](https://twitter.com/_inside)
 * [XcodeColorSense](https://github.com/onmyway133/XcodeColorSense), by [@onmyway133](https://twitter.com/onmyway133)
 * [Ohana](https://github.com/uber/ohana-ios), by [@ubereng](https://twitter.com/ubereng)
 
@@ -26,4 +26,4 @@
 **Credits**
 
 * [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [onmyway133](https://github.com/onmyway133)
-* [zethraeus](https://github.com/zethraeus)
+* [zethraeus](https://github.com/zethraeus), [NSMyself](https://twitter.com/NSMyself)
