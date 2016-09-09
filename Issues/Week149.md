@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Kronos](https://github.com/lyft/Kronos), by [@lyfteng](https://twitter.com/lyfteng)
 
 **Business**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
+* [rbarbosa](https://github.com/rbarbosa), [dkhamsing](https://github.com/dkhamsing)
