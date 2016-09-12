@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [dkhamsing](https://github.com/dkhamsing), [@ankoma22](https://twitter.com/ankoma22)
+* [rbarbosa](https://github.com/rbarbosa), [dkhamsing](https://github.com/dkhamsing), [@ankoma22](https://github.com/Ankoma22)
