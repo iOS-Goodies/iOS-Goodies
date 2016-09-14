@@ -15,6 +15,7 @@
 **UI/UX**
 
 * [Basic Patterns for Mobile Navigation](http://babich.biz/basic-patterns-for-mobile-navigation/), by [@101babich](https://twitter.com/101babich)
+* [The Most Overlooked Aspect Of UX Design Could Be The Most Important](https://blog.marvelapp.com/empty-state-most-overlooked-aspect-of-ux-design/), by [@benjbrandall](https://twitter.com/benjbrandall)
 
 **Videos**
 
