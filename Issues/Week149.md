@@ -12,6 +12,10 @@
 * This set of [interviews with indie developers](https://www.indiehackers.com/businesses) doesn't stop growing.
 * [Ranges in Swift 3](https://oleb.net/blog/2016/09/swift-3-ranges/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Rich Notifications](https://littlebitesofcocoa.com/261-rich-notifications), by [@jakemarsh](https://twitter.com/jakemarsh)
+* [How to unit test your Network Layer in iOS](http://hoangtran.me/ios/testing/2016/09/12/unit-test-network-layer-in-ios/), by [@hoang_tran90](https://twitter.com/hoang_tran90)
+* [Hairlines](http://www.figure.ink/blog/2016/9/11/hairlines), by [@jemmons](https://twitter.com/jemmons)
+* [MVC-RS](https://medium.com/swift-programming/mvc-rs-8780e73e9ff4), by [@greg3z](https://twitter.com/greg3z)
+* [#24 Architecture Wars – A New Hope](https://swifting.io/blog/2016/09/07/architecture-wars-a-new-hope/), by [@swiftingio](https://twitter.com/swiftingio)
 
 **Tools/Controls**
 
