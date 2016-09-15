@@ -25,6 +25,7 @@
 
 * [Why GitHub Finally Abandoned Its Bossless Workplace](http://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace), by [@melissa_mitts](https://twitter.com/melissa_mitts)
 * [People are still bad at gauging their own interview performance. Here’s the data.](http://blog.interviewing.io/people-are-still-bad-at-gauging-their-own-interview-performance-heres-the-data/), by [@alinelernerLLC](https://twitter.com/alinelernerLLC)
+* [Why Silicon Valley is all wrong about Apple’s AirPods](https://medium.com/chris-messina/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f#.seokgl8h1), by [@chrismessina](https://twitter.com/chrismessina)
 
 **UI/UX**
 
