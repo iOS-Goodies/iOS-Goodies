@@ -9,7 +9,6 @@
 * [Working with icon fonts in iOS. Code example in Swift 3.](https://medium.com/@ankoma22/working-with-icon-fonts-in-ios-code-example-in-swift-3-561d47ae9d40#.wj69o5und), by [@ankoma22](https://twitter.com/ankoma22)
 * [CocoaPods vs Carthage](http://drekka.ghost.io/cocoapods-vs-carthage/), by [@d4rkf1br3](https://twitter.com/d4rkf1br3)
 * [A new way to plan your trip: Introducing the Airbnb iMessage App](https://medium.com/airbnb-engineering/introducing-the-airbnb-imessage-app-806f48d303a8), by [Andriy Sergiyenko](https://www.linkedin.com/in/asergiyenko) and [@sond813](https://twitter.com/sond813)
-* This set of [interviews with indie developers](https://www.indiehackers.com/businesses) doesn't stop growing.
 * [Ranges in Swift 3](https://oleb.net/blog/2016/09/swift-3-ranges/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Rich Notifications](https://littlebitesofcocoa.com/261-rich-notifications), by [@jakemarsh](https://twitter.com/jakemarsh)
 * [How to unit test your Network Layer in iOS](http://hoangtran.me/ios/testing/2016/09/12/unit-test-network-layer-in-ios/), by [@hoang_tran90](https://twitter.com/hoang_tran90)
@@ -26,6 +25,7 @@
 * [Why GitHub Finally Abandoned Its Bossless Workplace](http://www.bloomberg.com/news/articles/2016-09-06/why-github-finally-abandoned-its-bossless-workplace), by [@melissa_mitts](https://twitter.com/melissa_mitts)
 * [People are still bad at gauging their own interview performance. Here’s the data.](http://blog.interviewing.io/people-are-still-bad-at-gauging-their-own-interview-performance-heres-the-data/), by [@alinelernerLLC](https://twitter.com/alinelernerLLC)
 * [Why Silicon Valley is all wrong about Apple’s AirPods](https://medium.com/chris-messina/silicon-valley-is-all-wrong-about-the-airpods-8204ede08f0f#.seokgl8h1), by [@chrismessina](https://twitter.com/chrismessina)
+* This set of [interviews with indie developers](https://www.indiehackers.com/businesses) doesn't stop growing.
 
 **UI/UX**
 
