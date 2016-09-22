@@ -13,11 +13,13 @@
 
 **Business**
 
-* 
+* [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/), by [@deakhaus](https://twitter.com/deakhaus)
+* [Hiring a distributed team](https://pspdfkit.com/blog/2016/hiring-a-distributed-team/), by [@steipete](https://twitter.com/steipete)
 
 **UI/UX**
 
-* 
+* [Designing Interface Animation](http://alistapart.com/article/designing-interface-animation), by [@vlh](https://twitter.com/vlh)
+* [Don’t Listen to Users and 4 Other Myths About Usability Testing](https://icons8.com/articles/dont-listen-to-users-and-4-other-myths-about-usability-testing/), by [@ABNovels](https://twitter.com/ABNovels)
 
 **Videos**
 
