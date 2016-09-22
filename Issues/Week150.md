@@ -20,6 +20,7 @@
 
 * [Designing Interface Animation](http://alistapart.com/article/designing-interface-animation), by [@vlh](https://twitter.com/vlh)
 * [Don’t Listen to Users and 4 Other Myths About Usability Testing](https://icons8.com/articles/dont-listen-to-users-and-4-other-myths-about-usability-testing/), by [@ABNovels](https://twitter.com/ABNovels)
+* [UX / Dev](https://medium.com/@dcordero/ux-dev-425bb4ba0793#.19k3bx5kb), by [@dcordero](https://twitter.com/dcordero)
 
 **Videos**
 
