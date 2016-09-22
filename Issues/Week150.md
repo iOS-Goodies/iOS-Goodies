@@ -26,6 +26,10 @@
 
 * 
 
+**Extra**
+
+* [The Making of Lemmings](https://readonlymemory.vg/the-making-of-lemmings/), by [@richstanton](https://twitter.com/richstanton)
+
 **Credits**
 
 * [muukii](https://github.com/muukii), [mariusc](https://github.com/mariusc)
