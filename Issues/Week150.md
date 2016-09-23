@@ -17,6 +17,7 @@
 
 * [Ken Norton’s Discipline of No](https://blog.mixpanel.com/2016/09/20/learning-to-say-no-with-ken-norton/), by [@deakhaus](https://twitter.com/deakhaus)
 * [Hiring a distributed team](https://pspdfkit.com/blog/2016/hiring-a-distributed-team/), by [@steipete](https://twitter.com/steipete)
+* [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.7sjljcunz), by [@araskin](https://twitter.com/araskin)
 
 **UI/UX**
 
