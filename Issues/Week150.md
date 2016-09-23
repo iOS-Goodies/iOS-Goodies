@@ -5,6 +5,8 @@
 * [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/), by [@steipete](https://twitter.com/steipete)
 * [Async Await](http://khanlou.com/2016/09/async-await/), by [@khanlou](http://www.twitter.com/khanlou)
 * [openURL Deprecated in iOS10](http://useyourloaf.com/blog/openurl-deprecated-in-ios10/), by [@kharrison](https://twitter.com/kharrison)
+* [What’s in a Collection](https://oleb.net/blog/2016/09/collection-associated-types/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Memory Graph Debugger Tips](http://inessential.com/2016/09/22/memory_graph_debugger_tips), by [@brentsimmons](https://twitter.com/brentsimmons)
 
 
 **Tools/Controls**
@@ -32,4 +34,4 @@
 
 **Credits**
 
-* [muukii](https://github.com/muukii), [mariusc](https://github.com/mariusc)
+* [muukii](https://github.com/muukii), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
