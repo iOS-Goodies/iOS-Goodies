@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Expression](https://github.com/nicklockwood/Expression), by [@nicklockwood](https://twitter.com/nicklockwood)
 
 **Business**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* 
+* [rbarbosa](https://github.com/rbarbosa),  
