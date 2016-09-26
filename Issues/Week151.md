@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Swift 3.1 – prefix(while:) and drop(while:)](http://rosslebeau.com/2016/swift-3-1-prefixwhile-dropwhile), by [@rosslebeau](https://twitter.com/rosslebeau)
 
 **Tools/Controls**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),  
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
