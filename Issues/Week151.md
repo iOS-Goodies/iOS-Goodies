@@ -9,7 +9,7 @@
 
 **Business**
 
-* 
+* [NSSpain’16: “Burnout” Lightning Talk](https://medium.com/@marin.todorov/burnout-awareness-at-nsspain-6b852b1222d4), by [@icanzilb](https://twitter.com/icanzilb)
 
 **UI/UX**
 
