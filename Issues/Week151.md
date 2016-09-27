@@ -2,6 +2,7 @@
 **Articles**
 
 * [Swift 3.1 – prefix(while:) and drop(while:)](http://rosslebeau.com/2016/swift-3-1-prefixwhile-dropwhile), by [@rosslebeau](https://twitter.com/rosslebeau)
+* [Why I'm not a React Native Developer](https://arielelkin.github.io/articles/why-im-not-a-react-native-developer), by [@AriVocals](https://twitter.com/AriVocals)
 
 **Tools/Controls**
 
