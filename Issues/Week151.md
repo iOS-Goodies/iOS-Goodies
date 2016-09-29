@@ -1,5 +1,6 @@
 
 * [Realm](https://twitter.com/realm) launched an [incredible tool](https://realm.io/news/introducing-realm-mobile-platform/) for real time DB syncronization!! 
+* [Apple](https://www.apple.com/) launched [Search Ads](https://searchads.apple.com/)
 
 **Articles**
 
@@ -33,4 +34,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [NSMyself](https://twitter.com/NSMyself)
