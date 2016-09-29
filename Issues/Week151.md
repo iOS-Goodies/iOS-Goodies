@@ -9,7 +9,7 @@
 * [Updating NSURLSession Calls to Swift 3.0](https://grokswift.com/updating-nsurlsession-to-swift-3-0/), by [@GrokSwift](http://twitter.com/GrokSwift)
 * [Swifty Delegates](http://khanlou.com/2016/09/swifty-delegates/), by [@khanlou](http://www.twitter.com/khanlou)
 * [A Practical Example of FlatMap](https://jeremywsherman.com/blog/2016/09/22/a-practical-example-of-flatmap/), by [@jeremywsherman](https://twitter.com/jeremywsherman)
-* [Memory Graph Debugger Tips](http://inessential.com/2016/09/22/memory_graph_debugger_tips), by [@brentsimmons](https://twitter.com/brentsimmons)
+* 
 
 **Tools/Controls**
 
