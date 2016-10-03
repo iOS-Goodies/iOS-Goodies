@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [DelegateProxy](https://github.com/ra1028/DelegateProxy), by [ra1028](https://github.com/ra1028)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [ra1028](https://github.com/ra1028)
