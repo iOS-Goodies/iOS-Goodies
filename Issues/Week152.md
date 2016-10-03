@@ -10,7 +10,7 @@
 
 **Business**
 
-*
+* [Socking simians](http://www.allenpike.com/2016/socking-simians/), by [@apike](http://www.twitter.com/apike/)
 
 **UI/UX**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028)
+* [ra1028](https://github.com/ra1028), [mariusc](https://github.com/mariusc)
