@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Understanding Swift Evolution](http://www.jessesquires.com/understanding-swift-evolution/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [mariusc](https://github.com/mariusc)
+* [ra1028](https://github.com/ra1028), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
