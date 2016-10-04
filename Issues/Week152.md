@@ -2,6 +2,8 @@
 **Articles**
 
 * [Understanding Swift Evolution](http://www.jessesquires.com/understanding-swift-evolution/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Split View Controller Display Modes](http://useyourloaf.com/blog/split-view-controller-display-modes/), by [@kharrison](https://twitter.com/kharrison)
+* [Suggestion](http://khanlou.com/2016/10/suggestion/), by [@khanlou](http://www.twitter.com/khanlou)
 
 
 **Tools/Controls**
