@@ -1,3 +1,4 @@
+* If you really have to... Here how you can [release iOS7 apps with XCode 8](http://cordobo.com/2281-quick-tip-release-ios-7-apps-with-xcode-8/), by [@cordobo](https://twitter.com/cordobo)
 
 **Articles**
 
@@ -16,11 +17,15 @@
 
 **UI/UX**
 
-*
+* [Everything You Need to Know about UX Sketching](https://www.toptal.com/designers/ux/guide-to-ux-sketching), by [@nickvyhouski](https://twitter.com/nickvyhouski)
 
 **Videos**
 
 * [Refactoring at Scale – Lessons Learned Rewriting Instagram’s Feed](https://realm.io/news/tryswift-ryan-nystrom-refactoring-at-scale-lessons-learned-rewriting-instagram-feed/), by [@_ryannystrom](https://twitter.com/_ryannystrom)
+
+**Extra**
+
+* [The Difference Between Rationality and Intelligence](http://mobile.nytimes.com/2016/09/18/opinion/sunday/the-difference-between-rationality-and-intelligence.html?)
 
 **Credits**
 
