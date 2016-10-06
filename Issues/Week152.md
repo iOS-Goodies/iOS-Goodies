@@ -5,6 +5,7 @@
 * [Understanding Swift Evolution](http://www.jessesquires.com/understanding-swift-evolution/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Split View Controller Display Modes](http://useyourloaf.com/blog/split-view-controller-display-modes/), by [@kharrison](https://twitter.com/kharrison)
 * [Suggestion](http://khanlou.com/2016/10/suggestion/), by [@khanlou](http://www.twitter.com/khanlou)
+* [Objective-C vs Swift](https://medium.com/@ankoma22/objective-c-vs-swift-904c71dfc75b#.lmaszgteg), by [@ankoma22](https://twitter.com/ankoma22)
 
 
 **Tools/Controls**
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [ra1028](https://github.com/ra1028), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [ra1028](https://github.com/ra1028), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [ankoma22](https://github.com/Ankoma22)
