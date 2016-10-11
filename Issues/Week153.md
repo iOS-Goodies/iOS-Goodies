@@ -1,3 +1,4 @@
+[Dash and Apple: My Side of the Story](https://blog.kapeli.com/dash-and-apple-my-side-of-the-story), by [@kapeli](https://twitter.com/kapeli)
 
 **Articles**
 
@@ -10,7 +11,7 @@
 
 **Business**
 
-*
+* 
 
 **UI/UX**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [mariusc](https://mariusc.github.com)
+* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa)
