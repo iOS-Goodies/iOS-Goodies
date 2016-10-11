@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [IGListKit](https://github.com/Instagram/IGListKit), by [@Instagram](https://github.com/Instagram)
 
 **Business**
 
