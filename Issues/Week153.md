@@ -1,5 +1,5 @@
 * [Dash and Apple: My Side of the Story](https://blog.kapeli.com/dash-and-apple-my-side-of-the-story), by [@kapeli](https://twitter.com/kapeli)
-* O'Reilly released [a pdf with information[(http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) about sallaries and techonologies in Europe.
+* O'Reilly released [a pdf with information](http://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) about sallaries and techonologies in Europe.
 
 **Articles**
 
