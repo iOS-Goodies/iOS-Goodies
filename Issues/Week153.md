@@ -13,6 +13,7 @@
 **Tools/Controls**
 
 * [IGListKit](https://engineering.instagram.com/open-sourcing-iglistkit-3d66f1e4e9aa#.h2hdqsa0d), by [@Instagram](https://github.com/Instagram)
+* [xcute](https://github.com/schwa/xcute), by [@schwa](https://twitter.com/schwa)
 
 **Business**
 
