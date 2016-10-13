@@ -6,6 +6,7 @@
 * [Optional Non-Escaping Closures](https://oleb.net/blog/2016/10/optional-non-escaping-closures/), by [@olebegemann](https://twitter.com/olebegemann)
 * [How to run your iPhone test on AWS Device Farm](http://www.mobdesignapps.fr/blog/2016/9/17/running-your-test-on-aws-device-farm), by [@otusweb](https://twitter.com/otusweb)
 * [5 tips for building a secure mobile app from the ground up](http://appdevelopermagazine.com/4485/2016/10/5/Security-First:-5-tips-for-building-a-secure-mobile-app-from-the-ground-up), by [@kasittig](https://twitter.com/kasittig) and [@mmihaljevic](https://twitter.com/mmihaljevic)
+* [Getting Auto Layout to Work in a UITableView](https://spin.atomicobject.com/2016/10/12/auto-layout-uitableview/), by Brian Vanderwal via [@atomicobject](https://twitter.com/atomicobject)
 
 
 **Tools/Controls**
@@ -20,6 +21,8 @@
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/), by [@bbosker](https://twitter.com/bbosker)
 * [MailChimp and the Un-Silicon Valley Way to Make It as a Start-Up](http://mobile.nytimes.com/2016/10/06/technology/mailchimp-and-the-un-silicon-valley-way-to-make-it-as-a-start-up.html), by [@fmanjoo](https://twitter.com/fmanjoo)
 * [Effect of Mobile App Size on Downloads](https://segment.com/blog/mobile-app-size-effect-on-downloads/), by [@reinpk](https://twitter.com/reinpk)
+* [Programmers really hate open floor plans](http://qz.com/806583/programmers-hate-open-floor-plans/), by [@collinskeith](https://twitter.com/collinskeith)
+* [3 Strategies for Taking a Bite out of the Booming App Market](https://www.entrepreneur.com/article/280098), by [@QManning](https://twitter.com/QManning)
 
 **UI/UX**
 
