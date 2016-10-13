@@ -34,6 +34,7 @@
 **Videos**
 
 * [From Runtime Programming to Functions](https://talk.objc.io/episodes/S01E19-from-runtime-programming-to-functions), by objc.io
+* [Obvious Always Wins](http://www.lukew.com/ff/entry.asp?1962), by [@lukew](https://twitter.com/lukew)
 
 **Credits**
 
