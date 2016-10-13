@@ -7,6 +7,7 @@
 * [How to run your iPhone test on AWS Device Farm](http://www.mobdesignapps.fr/blog/2016/9/17/running-your-test-on-aws-device-farm), by [@otusweb](https://twitter.com/otusweb)
 * [5 tips for building a secure mobile app from the ground up](http://appdevelopermagazine.com/4485/2016/10/5/Security-First:-5-tips-for-building-a-secure-mobile-app-from-the-ground-up), by [@kasittig](https://twitter.com/kasittig) and [@mmihaljevic](https://twitter.com/mmihaljevic)
 * [Getting Auto Layout to Work in a UITableView](https://spin.atomicobject.com/2016/10/12/auto-layout-uitableview/), by Brian Vanderwal via [@atomicobject](https://twitter.com/atomicobject)
+* [Slicing](http://khanlou.com/2016/10/slicing/), by [@khanlou](http://www.twitter.com/khanlou)
 
 
 **Tools/Controls**
