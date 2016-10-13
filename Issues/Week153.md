@@ -26,12 +26,13 @@
 
 **UI/UX**
 
+* [The Elements of Value)[https://hbr.org/2016/09/the-elements-of-value], by Harvard Business Review
 * [A critical analysis of the iOS 10 lockscreen experience](https://uxdesign.cc/a-critical-analysis-of-the-ios-10-lockscreen-experience-726ddfba3c1a#.b88eoiqhf), by [@shankarux](https://uxdesign.cc/@shankarux)
 * [Understanding your users’ mental model](https://blog.intercom.com/understanding-your-users-mental-model/), by [@intercom_uxr](https://twitter.com/intercom_uxr)
 
 **Videos**
 
-*
+* [From Runtime Programming to Functions](https://talk.objc.io/episodes/S01E19-from-runtime-programming-to-functions), by objc.io
 
 **Credits**
 
