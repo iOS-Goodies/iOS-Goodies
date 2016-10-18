@@ -27,5 +27,5 @@
 
 **Credits**
 
-* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo)
+* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo), [dmcrodrigues](https://github.com/dmcrodrigues), [otusweb](https://github.com/otusweb)
 
