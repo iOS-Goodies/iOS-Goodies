@@ -22,9 +22,9 @@
 
 **Videos**
 
-*
+* [Composable Caching in Swift](https://www.youtube.com/watch?v=8uqXuEZLyUU), by [@bkase_](https://twitter.com/bkase_)
 
 **Credits**
 
-* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo)
 
