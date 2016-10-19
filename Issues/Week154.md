@@ -7,6 +7,9 @@
 * [Specifying function execution contexts](https://www.cocoawithlove.com/blog/specifying-execution-contexts.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Test Your App On Any Device You Want, Without The Hardware From the Command Line](http://www.mobdesignapps.fr/blog/2016/10/10/running-your-tests-on-aws-device-farm-from-the-command-line), by [@otusweb](https://twitter.com/otusweb)
 * [Objective-C id as Swift Any](https://developer.apple.com/swift/blog/?id=39), by Swift team
+* [Speeding up Development Build Times With Conditional dSYM Generation](http://holko.pl/2016/10/18/dsym-debug/), by [@arekholko](https://twitter.com/arekholko)
+* [The 10 Most Common Mistakes iOS Developers Don't Know They're Making](https://www.toptal.com/ios/top-ios-development-mistakes), by Nikita Tuk via [@toptal](https://twitter.com/toptal)
+* [Analysis of the Facebook.app for iOS](http://blog.timac.org/?p=1303), by [@timacfr](https://twitter.com/timacfr) via [@modocache](https://twitter.com/modocache)
 
 
 **Tools/Controls**
@@ -19,7 +22,7 @@
 
 **UI/UX**
 
-*
+* [Design at Uber - From Pixels to People](https://medium.com/uber-design/from-pixels-to-people-2a90dafac25d), by [@eeismann](https://twitter.com/eeismann)
 
 **Videos**
 
