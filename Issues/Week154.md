@@ -15,7 +15,7 @@
 
 **Tools/Controls**
 
-*
+* [Macaw: Vector graphics library written in Swift](https://github.com/exyte/Macaw), by [@exyteHQ](https://twitter.com/exyteHQ)
 
 **Business**
 
@@ -31,5 +31,5 @@
 
 **Credits**
 
-* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo), [dmcrodrigues](https://github.com/dmcrodrigues), [otusweb](https://github.com/otusweb)
+* [mariusc](https://mariusc.github.com), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo), [dmcrodrigues](https://github.com/dmcrodrigues), [otusweb](https://github.com/otusweb), [diogoAntunes](https://github.com/diogoAntunes) 
 
