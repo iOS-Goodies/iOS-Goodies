@@ -10,6 +10,7 @@
 * [Speeding up Development Build Times With Conditional dSYM Generation](http://holko.pl/2016/10/18/dsym-debug/), by [@arekholko](https://twitter.com/arekholko)
 * [The 10 Most Common Mistakes iOS Developers Don't Know They're Making](https://www.toptal.com/ios/top-ios-development-mistakes), by Nikita Tuk via [@toptal](https://twitter.com/toptal)
 * [Analysis of the Facebook.app for iOS](http://blog.timac.org/?p=1303), by [@timacfr](https://twitter.com/timacfr) via [@modocache](https://twitter.com/modocache)
+* [JSONShootout: Compare several Swift JSON mappers](https://github.com/bwhiteley/JSONShootout), by [Bart Whiteley](https://twitter.com/bwhiteley)
 
 
 **Tools/Controls**
