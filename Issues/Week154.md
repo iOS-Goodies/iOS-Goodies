@@ -11,19 +11,25 @@
 * [The 10 Most Common Mistakes iOS Developers Don't Know They're Making](https://www.toptal.com/ios/top-ios-development-mistakes), by Nikita Tuk via [@toptal](https://twitter.com/toptal)
 * [Analysis of the Facebook.app for iOS](http://blog.timac.org/?p=1303), by [@timacfr](https://twitter.com/timacfr) via [@modocache](https://twitter.com/modocache)
 * [JSONShootout: Compare several Swift JSON mappers](https://github.com/bwhiteley/JSONShootout), by [Bart Whiteley](https://twitter.com/bwhiteley)
+* [How to Do XCTestCase tearDown Wrong …and Right](http://qualitycoding.org/teardown/), by [@qcoding](https://twitter.com/qcoding)
+* [Address Sanitizer on iOS & macOS](https://pspdfkit.com/blog/2016/test-with-asan/), by [@steipete](https://twitter.com/steipete) and [@jernejv](https://twitter.com/jernejv)
 
 
 **Tools/Controls**
 
 * [Macaw: Vector graphics library written in Swift](https://github.com/exyte/Macaw), by [@exyteHQ](https://twitter.com/exyteHQ)
+* [BoardingBot](https://boardingbot.boorgle.com/bot), by [@boardingbot](https://twitter.com/boardingbot)
 
 **Business**
 
 * [The Technical Fraternity](http://www.russbishop.net/the-technical-fraternity), by [@xenadu02](https://twitter.com/xenadu02)
+* [Good Enough Defeats Great](https://chuqui.com/2016/10/good-enough-defeats-great/), by [@chuq](https://twitter.com/chuq/)
+* [Programmers really hate open floor plans](http://qz.com/806583/programmers-hate-open-floor-plans/), by [@collinskeith](https://twitter.com/collinskeith)
 
 **UI/UX**
 
 * [Design at Uber - From Pixels to People](https://medium.com/uber-design/from-pixels-to-people-2a90dafac25d), by [@eeismann](https://twitter.com/eeismann)
+* [26 Steps of Product & Dashboard Design](https://medium.com/sketch-app-sources/26-steps-of-product-dashboard-design-c97af84c4146#.1gyqdfqbz), by [@JanLosert](https://twitter.com/JanLosert)
 
 **Videos**
 
