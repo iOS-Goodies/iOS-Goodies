@@ -13,6 +13,7 @@
 * [JSONShootout: Compare several Swift JSON mappers](https://github.com/bwhiteley/JSONShootout), by [Bart Whiteley](https://twitter.com/bwhiteley)
 * [How to Do XCTestCase tearDown Wrong …and Right](http://qualitycoding.org/teardown/), by [@qcoding](https://twitter.com/qcoding)
 * [Address Sanitizer on iOS & macOS](https://pspdfkit.com/blog/2016/test-with-asan/), by [@steipete](https://twitter.com/steipete) and [@jernejv](https://twitter.com/jernejv)
+* [The Good, The Bad and the Ugly of VIPER architecture for iOS apps](https://medium.com/@ankoma22/the-good-the-bad-and-the-ugly-of-viper-architecture-for-ios-apps-7272001b5347), by [@ankoma22](https://twitter.com/ankoma22)
 
 
 **Tools/Controls**
