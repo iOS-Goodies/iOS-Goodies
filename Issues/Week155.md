@@ -10,7 +10,7 @@
 
 **Business**
 
-*
+* [What I learned at Basecamp last week](https://clientgiant.us/what-i-learned-at-basecamp-last-week-9961736a3672#.uj0ip8v6g), by Robert Williams
 
 **UI/UX**
 
