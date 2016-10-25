@@ -2,7 +2,7 @@
 **Articles**
 
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/), by Swift Team
-
+* [Paying Down Technical Knowledge Debt](http://modocache.io/technical-knowledge-debt), by [@modocache](https://twitter.com/modocache)
 
 **Tools/Controls**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [dmcrodrigues](https://twitter.com/dmcrodrigues)
+* [dmcrodrigues](https://twitter.com/dmcrodrigues), [mariusc](https://github.com/mariusc)
