@@ -20,8 +20,8 @@
 
 **Videos**
 
-*
+* [Functional Swift Conference 2016](http://2016.funswiftconf.com/)
 
 **Credits**
 
-* [dmcrodrigues](https://twitter.com/dmcrodrigues), [mariusc](https://github.com/mariusc), [velyan](https://github.com/velyan)
+* [dmcrodrigues](https://twitter.com/dmcrodrigues), [mariusc](https://github.com/mariusc), [velyan](https://github.com/velyan), [rbarbosa](https://github.com/rbarbosa)
