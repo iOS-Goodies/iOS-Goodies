@@ -1,3 +1,4 @@
+* Apple is supporting Swift on the server through the [Servers APIs Project](https://swift.org/server-apis/)
 
 **Articles**
 
