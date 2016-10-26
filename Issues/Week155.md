@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [dmcrodrigues](https://twitter.com/dmcrodrigues), [mariusc](https://github.com/mariusc), [@vel_is_lava](https://twitter.com/vel_is_lava)
+* [dmcrodrigues](https://twitter.com/dmcrodrigues), [mariusc](https://github.com/mariusc), [velyan](https://github.com/velyan)
