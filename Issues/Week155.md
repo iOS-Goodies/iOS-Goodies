@@ -13,6 +13,7 @@
 **Business**
 
 * [What I learned at Basecamp last week](https://clientgiant.us/what-i-learned-at-basecamp-last-week-9961736a3672#.uj0ip8v6g), by Robert Williams
+* [How to create effective push notifications](https://blog.intercom.com/create-effective-push-notifications/), by [@geoffreykeating](https://twitter.com/geoffreykeating)
 
 **UI/UX**
 
