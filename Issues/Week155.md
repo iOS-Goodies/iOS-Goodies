@@ -5,6 +5,7 @@
 * [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/), by Swift Team
 * [Paying Down Technical Knowledge Debt](http://modocache.io/technical-knowledge-debt), by [@modocache](https://twitter.com/modocache)
 * [Enum Raw Values and Failable Initializers](http://useyourloaf.com/blog/enum-raw-values-and-failable-initializers/), by [@kharrison](https://twitter.com/kharrison)
+* [Structs and NSCoding](http://khanlou.com/2016/10/structs-and-nscoding/), by [@khanlou](http://www.twitter.com/khanlou)
 
 **Tools/Controls**
 
