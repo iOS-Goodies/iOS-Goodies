@@ -1,3 +1,4 @@
+* Still recovering from the [The Mac Depression](http://mjtsai.com/blog/2016/10/27/new-macbook-pros-and-the-state-of-the-mac/) ? Have this links to help you recover
 * Apple is supporting Swift on the server through the [Servers APIs Project](https://swift.org/server-apis/)
 
 **Articles**
