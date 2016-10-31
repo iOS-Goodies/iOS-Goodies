@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [json2swift](https://github.com/ijoshsmith/json2swift), by [@bach4life](https://twitter.com/bach4life)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [ninjaprox](https://github.com/ninjaprox), [dmcrodrigues](https://github.com/dmcrodrigues)
+* [mariusc](https://github.com/mariusc), [ninjaprox](https://github.com/ninjaprox), [dmcrodrigues](https://github.com/dmcrodrigues), [rbarbosa](https://github.com/rbarbosa)
