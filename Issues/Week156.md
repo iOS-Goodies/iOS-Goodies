@@ -9,7 +9,7 @@
 
 **Business**
 
-* 
+* [The Price Of GPL](http://bitsplitting.org/2016/10/30/the-price-of-gpl/), by [@danielpunkass](https://twitter.com/danielpunkass/)
 
 **UI/UX**
 
@@ -24,3 +24,4 @@
 
 * [mariusc](https://github.com/mariusc)
 * [ninjaprox](https://github.com/ninjaprox)
+* [dmcrodrigues](https://twitter.com/dmcrodrigues)
