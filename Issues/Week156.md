@@ -22,6 +22,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc)
-* [ninjaprox](https://github.com/ninjaprox)
-* [dmcrodrigues](https://twitter.com/dmcrodrigues)
+* [mariusc](https://github.com/mariusc), [ninjaprox](https://github.com/ninjaprox), [dmcrodrigues](https://github.com/dmcrodrigues)
