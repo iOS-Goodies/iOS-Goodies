@@ -4,6 +4,7 @@
 * [Should I use struct in Swift?](https://ninjapro.wordpress.com/2016/10/28/should-i-use-struct-in-swift/), by [@ninjaprox](https://twitter.com/ninjaprox)
 * [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/), by [@uraimo](https://twitter.com/uraimo)
 * [Understanding code signing for iOS apps](https://engineering.nodesagency.com/articles/iOS/Understanding-code-signing-for-iOS-apps/), by [@marius_const](https://www.twitter.com/marius_const)
+* [Swift: UserDefaults protocol](https://medium.com/swift-programming/swift-userdefaults-protocol-4cae08abbf92), by [@AndyyHope](https://twitter.com/AndyyHope)
 
 **Tools/Controls**
 
