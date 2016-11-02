@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [The world is your canvas](http://www.guglieri.com/), by [@claudioguglieri](https://twitter.com/claudioguglieri)
 
 
 **Videos**
