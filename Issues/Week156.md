@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [json2swift](https://github.com/ijoshsmith/json2swift), by [@bach4life](https://twitter.com/bach4life)
+* [Airstream](https://github.com/qasim/Airstream), by [@DrQas](https://twitter.com/DrQas)
 
 **Business**
 
