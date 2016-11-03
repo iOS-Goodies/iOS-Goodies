@@ -18,6 +18,7 @@
 
 **Business**
 
+* [Too Many Startups Like Playing Startup](https://www.groovehq.com/blog/startups-playing-startup), by [@alexmturnbull](https://twitter.com/alexmturnbull)
 * [The Price Of GPL](http://bitsplitting.org/2016/10/30/the-price-of-gpl/), by [@danielpunkass](https://twitter.com/danielpunkass/)
 * [The Disclosure Indicator](http://www.allenpike.com/2016/disclosure-indicator/), by [@apike](http://www.twitter.com/apike/)
 
