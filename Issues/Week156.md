@@ -1,4 +1,4 @@
-* Some nice tips for git in [this article] by [@codenameyau](https://twitter.com/codenameyau)
+* Some nice tips for git in [this article](https://hackernoon.com/5-git-fundamentals-ded819a34cfe) by [@codenameyau](https://twitter.com/codenameyau)
 
 **Articles**
 
@@ -31,6 +31,7 @@
 
 * [Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Open Source Games on Github](https://github.com/leereilly/games)
+
 
 **Credits**
 
