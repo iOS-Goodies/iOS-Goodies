@@ -8,6 +8,7 @@
 * [Understanding code signing for iOS apps](https://engineering.nodesagency.com/articles/iOS/Understanding-code-signing-for-iOS-apps/), by [@marius_const](https://www.twitter.com/marius_const)
 * [Swift: UserDefaults protocol](https://medium.com/swift-programming/swift-userdefaults-protocol-4cae08abbf92), by [@AndyyHope](https://twitter.com/AndyyHope)
 * [Firebase Tutorial: Real-time Chat](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2), by [@temelliott](https://twitter.com/temelliott)
+* [How my open source project got trending on GitHub](https://medium.com/@markohlebar/how-i-launched-my-open-source-project-976c312f087f#.dnjcl01ta), by [@markohlebar](https://twitter.com/markohlebar)
 
 **Tools/Controls**
 
@@ -32,7 +33,6 @@
 * [Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Open Source Games on Github](https://github.com/leereilly/games)
 
-
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [ninjaprox](https://github.com/ninjaprox), [dmcrodrigues](https://github.com/dmcrodrigues), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [ninjaprox](https://github.com/ninjaprox), [dmcrodrigues](https://github.com/dmcrodrigues), [rbarbosa](https://github.com/rbarbosa), [markohlebar](https://github.com/markohlebar)
