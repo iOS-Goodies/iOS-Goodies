@@ -9,6 +9,8 @@
 * [Swift: UserDefaults protocol](https://medium.com/swift-programming/swift-userdefaults-protocol-4cae08abbf92), by [@AndyyHope](https://twitter.com/AndyyHope)
 * [Firebase Tutorial: Real-time Chat](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2), by [@temelliott](https://twitter.com/temelliott)
 * [How my open source project got trending on GitHub](https://medium.com/@markohlebar/how-i-launched-my-open-source-project-976c312f087f#.dnjcl01ta), by [@markohlebar](https://twitter.com/markohlebar)
+* [Overriding the iOS Dynamic Type font family
+](http://codelle.com/blog/2016/10/overriding-the-ios-dynamic-type-font-family/), by [@thedjinn](https://twitter.com/thedjinn)
 
 **Tools/Controls**
 
