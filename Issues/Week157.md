@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton), by [@rolandleth](https://twitter.com/rolandleth)
+* [How to re-create the iOS camera button?](http://www.mobdesignapps.fr/blog/2016/10/21/how-to-re-create-the-ios-camera-button?utm_source=iosGoodies&utm_medium=email&utm_campaign=awareness), by [@otusweb](https://twitter.com/otusweb)
 
 **Business**
 
@@ -23,3 +24,5 @@
 **Credits**
 
 * [rolandleth](https://github.com/rolandleth)
+* [otusweb](https://github.com/otusweb)
+
