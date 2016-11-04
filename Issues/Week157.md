@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton), by [@rolandleth](https://twitter.com/rolandleth)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rolandleth](https://github.com/rolandleth)
