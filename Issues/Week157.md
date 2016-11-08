@@ -2,7 +2,7 @@
 
 **Articles**
 
-*
+* [Better Xcode Run Script Build Phases](http://www.mokacoding.com/blog/better-build-phase-scripts/), by [@mokagio](https://twitter.com/mokagio)
 
 
 **Tools/Controls**
@@ -27,5 +27,5 @@
 
 **Credits**
 
-* [rolandleth](https://github.com/rolandleth), [maxzou](https://github.com/zouchaoqun), [otusweb](https://github.com/otusweb)
+* [rolandleth](https://github.com/rolandleth), [maxzou](https://github.com/zouchaoqun), [otusweb](https://github.com/otusweb), [rbarbosa](https://github.com/rbarbosa),
 
