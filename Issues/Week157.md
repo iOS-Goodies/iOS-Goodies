@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [What Everyone Should Know About The Process Behind App Design](https://www.smashingmagazine.com/2016/11/what-everyone-should-know-about-the-process-behind-app-design/), by [@flarup](https://twitter.com/flarup)
 
 **Videos**
 
