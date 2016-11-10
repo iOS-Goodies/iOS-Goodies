@@ -3,6 +3,7 @@
 **Articles**
 
 * [Better Xcode Run Script Build Phases](http://www.mokacoding.com/blog/better-build-phase-scripts/), by [@mokagio](https://twitter.com/mokagio)
+* [Mixing Initializers](http://www.russbishop.net/mixing-initializers), by [@xenadu02](https://twitter.com/xenadu02)
 
 
 **Tools/Controls**
