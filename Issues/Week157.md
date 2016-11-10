@@ -16,6 +16,7 @@
 
 **Business**
 
+* [Your product is already obsolete](https://blog.intercom.com/your-product-is-already-obsolete/), by [@destraynor](https://twitter.com/destraynor)
 * [What kind of maintenance goes into an app once it is released?](http://www.mobdesignapps.fr/blog/2016/10/12/what-kind-of-maintenance-goes-into-an-app-once-it-is-released?utm_source=iosGoodies&utm_medium=email&utm_campaign=awareness), by [@otusweb](https://twitter.com/otusweb)
 * [These guys built a $273 million startup from discarded computers and an almost secret source of seed money](http://www.businessinsider.com/how-thousandeyes-grew-up-from-discarded-computers-2016-11), by [@Julie188](https://twitter.com/Julie188)
 
