@@ -11,6 +11,7 @@
 * [Pathwright 2](https://www.pathwright.com/two)
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton), by [@rolandleth](https://twitter.com/rolandleth)
 * [How to re-create the iOS camera button?](http://www.mobdesignapps.fr/blog/2016/10/21/how-to-re-create-the-ios-camera-button?utm_source=iosGoodies&utm_medium=email&utm_campaign=awareness), by [@otusweb](https://twitter.com/otusweb)
+* [Taming the AWS framework to upload a large file to S3](http://www.mobdesignapps.fr/blog/2016/10/26/uploading-large-file-to-aws-s3-in-the-background?utm_source=iosGoodies&utm_medium=email&utm_campaign=awareness), by [@otusweb](https://twitter.com/otusweb)
 
 **Business**
 
