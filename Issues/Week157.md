@@ -1,4 +1,5 @@
 * The Bear.app pricing model generated some discution. The developer [decided to answer](http://help.shinyfrog.net/discussions/bear/302-pricing-model)
+* Be careful with your Spotify Mac App, [your SSD might not like it](https://community.spotify.com/t5/Ongoing-Issues/Major-I-O-write-bytes-on-the-Spotify-Desktop-app-It-will-kill/idc-p/1365378#M25879)
 
 **Articles**
 
