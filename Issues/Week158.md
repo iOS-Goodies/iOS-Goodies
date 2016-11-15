@@ -11,6 +11,7 @@
 
 * [DBNetworkStack](https://github.com/dbsystel/DBNetworkStack), by [@lightsprint09](https://twitter.com/lightsprint09) & C.Himmelsbach
 * [Katana](https://github.com/BendingSpoons/katana-swift), by [@maurobolis](https://twitter.com/maurobolis)
+* [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit), by [@marmelroy](https://twitter.com/marmelroy)
 
 **Business**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lightsprint09](https://github.com/lightsprint09), [mariusc](https://github.com/mariusc), [prolificinteractive](https://github.com/prolificinteractive), [NSMyself](https://twitter.com/NSMyself)
+* [rbarbosa](https://github.com/rbarbosa), [lightsprint09](https://github.com/lightsprint09), [mariusc](https://github.com/mariusc), [prolificinteractive](https://github.com/prolificinteractive), [NSMyself](https://twitter.com/NSMyself), [marmelroy](https://github.com/marmelroy)
