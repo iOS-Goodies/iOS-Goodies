@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [DBNetworkStack](https://github.com/dbsystel/DBNetworkStack), by [@lightsprint09](https://twitter.com/lightsprint09) & C.Himmelsbach
+* [Katana](https://github.com/BendingSpoons/katana-swift), by [@maurobolis](https://twitter.com/maurobolis)
 
 **Business**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lightsprint09](https://github.com/lightsprint09), [mariusc](https://github.com/mariusc), [prolificinteractive](https://github.com/prolificinteractive)
+* [rbarbosa](https://github.com/rbarbosa), [lightsprint09](https://github.com/lightsprint09), [mariusc](https://github.com/mariusc), [prolificinteractive](https://github.com/prolificinteractive), [NSMyself](https://twitter.com/NSMyself)
