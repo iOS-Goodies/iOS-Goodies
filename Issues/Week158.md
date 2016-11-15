@@ -3,6 +3,7 @@
 
 * [Refactoring an MVVM App To Swift 3](http://www.bensnider.com/refactoring-an-mvvm-app-to-swift-3.html), by [@benatbensnider](https://twitter.com/benatbensnider)
 * [Developing tools for developers](http://ppinera.es/2016/11/12/developing-tools-for-developers.html), by [@pepibumur](http://twitter.com/pepibumur)
+* [Swift bad habits](https://www.reddit.com/r/swift/comments/5d0h1t/what_are_bad_habits_those_new_to_swift_or_even/)
 
 
 **Tools/Controls**
