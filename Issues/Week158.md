@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [DBNetworkStack](https://github.com/dbsystel/DBNetworkStack), by [@lightsprint09](https://twitter.com/lightsprint09) & [@C.Himmelsbach](mailto:Christian.Himmelsbach@deutschebahn.com)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
+* [rbarbosa](https://github.com/rbarbosa), [@lightsprint09](https://twitter.com/lightsprint09),  [@C.Himmelsbach](mailto:Christian.Himmelsbach@deutschebahn.com)
