@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [lightsprint09](https://github.com/lightsprint09), [mariusc](https://github.com/mariusc), [prolificinteractive](https://github.com/prolificinteractive), [NSMyself](https://twitter.com/NSMyself), [marmelroy](https://github.com/marmelroy)
+* [rbarbosa](https://github.com/rbarbosa), [lightsprint09](https://github.com/lightsprint09), [mariusc](https://github.com/mariusc), [prolificinteractive](https://github.com/prolificinteractive), [NSMyself](https://github.com/NSMyself), [marmelroy](https://github.com/marmelroy)
