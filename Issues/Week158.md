@@ -12,6 +12,7 @@
 * [WebSockets on iOS with Starscream](https://www.raywenderlich.com/143874/websockets-ios-starscream), by [@astralbodies](https://twitter.com/astralbodies)
 * [10 Tips to become a better Swift Developer](https://medium.com/ios-geek-community/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2#.8kenx6dj7), by [@bobleesj](https://twitter.com/bobleesj)
 * [Some iOS Table View Patterns](http://www.lanza.io/swift,/ios/2016/11/10/iOS-table-view-patterns.html), by [@nlanzaio](https://twitter.com/nlanzaio)
+* [How to Make More Useful Swift Mock Objects](http://qualitycoding.org/swift-mock-objects/), by [@qcoding](https://twitter.com/qcoding)
 
 
 **Tools/Controls**
