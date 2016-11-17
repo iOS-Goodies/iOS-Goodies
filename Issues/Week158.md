@@ -11,6 +11,7 @@
 * [Yammer iOS App ported to Swift 3](https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1#.oe7o3bizp), by [@yammereng](https://twitter.com/yammereng)
 * [WebSockets on iOS with Starscream](https://www.raywenderlich.com/143874/websockets-ios-starscream), by [@astralbodies](https://twitter.com/astralbodies)
 * [10 Tips to become a better Swift Developer](https://medium.com/ios-geek-community/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2#.8kenx6dj7), by [@bobleesj](https://twitter.com/bobleesj)
+* [Some iOS Table View Patterns](http://www.lanza.io/swift,/ios/2016/11/10/iOS-table-view-patterns.html), by [@nlanzaio](https://twitter.com/nlanzaio)
 
 
 **Tools/Controls**
