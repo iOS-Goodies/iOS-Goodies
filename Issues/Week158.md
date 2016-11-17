@@ -1,5 +1,6 @@
 * Zapier introduced a cool feature so [you can reiceve daily summaries](https://zapier.com/blog/custom-digest-app/).
 * Dash for iOS [is now open source](https://kapeli.com/dash_ios)!
+* [@pepibumur](http://twitter.com/pepibumur) wrote [an excellent article](http://ppinera.es/2016/11/16/in-a-world.html) highlightig a potential problem in our community
 
 **Articles**
 
