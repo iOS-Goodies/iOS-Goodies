@@ -10,6 +10,7 @@
 * [Kicking Off App Security](http://blog.prolificinteractive.com/2016/11/15/kicking-off-app-security/), by [@weareprolific](https://twitter.com/weareprolific)
 * [Yammer iOS App ported to Swift 3](https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1#.oe7o3bizp), by [@yammereng](https://twitter.com/yammereng)
 * [WebSockets on iOS with Starscream](https://www.raywenderlich.com/143874/websockets-ios-starscream), by [@astralbodies](https://twitter.com/astralbodies)
+* [10 Tips to become a better Swift Developer](https://medium.com/ios-geek-community/10-tips-to-become-better-swift-developer-a7c2ab6fc0c2#.8kenx6dj7), by [@bobleesj](https://twitter.com/bobleesj)
 
 
 **Tools/Controls**
@@ -24,6 +25,7 @@
 * [How We Make Money at Stack Overflow: 2016 Edition](http://stackoverflow.blog/2016/11/How-We-Make-Money-at-Stack-Overflow-2016-Edition/), by [@Nick_Craver](https://twitter.com/Nick_Craver)
 * [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.blirozt4u), by [@BillSourour](https://twitter.com/BillSourour)
 * [Dissecting the Most Profitable iMessage Apps](http://blog.appfigures.com/dissecting-the-most-profitable-imessage-apps/), by [@arielmichael](https://twitter.com/arielmichael)
+* [You can still make $ millions on the Mac App Store](https://medium.com/@denzhadanov/you-can-still-make-millions-on-the-mac-app-store-9c7134a924#.ogpdwrgj5), by [@DenZhadanov](https://twitter.com/DenZhadanov)
 
 **UI/UX**
 
