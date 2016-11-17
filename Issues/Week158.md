@@ -5,7 +5,6 @@
 **Articles**
 
 * [Refactoring an MVVM App To Swift 3](http://www.bensnider.com/refactoring-an-mvvm-app-to-swift-3.html), by [@benatbensnider](https://twitter.com/benatbensnider)
-* [Developing tools for developers](http://ppinera.es/2016/11/12/developing-tools-for-developers.html), by [@pepibumur](http://twitter.com/pepibumur)
 * [Swift bad habits](https://www.reddit.com/r/swift/comments/5d0h1t/what_are_bad_habits_those_new_to_swift_or_even/)
 * [Kicking Off App Security](http://blog.prolificinteractive.com/2016/11/15/kicking-off-app-security/), by [@weareprolific](https://twitter.com/weareprolific)
 * [Yammer iOS App ported to Swift 3](https://medium.com/@yammereng/yammer-ios-app-ported-to-swift-3-e3496525add1#.oe7o3bizp), by [@yammereng](https://twitter.com/yammereng)
