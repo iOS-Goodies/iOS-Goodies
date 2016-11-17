@@ -32,6 +32,7 @@
 **UI/UX**
 
 * [Mobile Design Best Practices](http://babich.biz/mobile-design-best-practices/), by [@101babich](https://twitter.com/101babich)
+* [Designing the new Uber App](https://medium.com/uber-design/designing-the-new-uber-app-16afcc1d3c2e), by [@didierh](https://twitter.com/didierh)
 
 **Videos**
 
