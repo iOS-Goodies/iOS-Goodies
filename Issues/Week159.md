@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [SwiftPlate](https://github.com/JohnSundell/SwiftPlate), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-*
+* [phelgo](https://github.com/phelgo)
