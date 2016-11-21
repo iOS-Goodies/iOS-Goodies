@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate), by [@johnsundell](https://twitter.com/johnsundell)
+* [DBNetworkStack](https://github.com/dbsystel/DBNetworkStack), by [@lightsprint09](https://twitter.com/lightsprint09) & C.Himmelsbach
 
 **Business**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [phelgo](https://github.com/phelgo)
+* [phelgo](https://github.com/phelgo), [lightsprint09](https://github.com/lightsprint09), [ch-one](https://github.com/ch-one)
