@@ -1,12 +1,13 @@
 
 **Articles**
 
-*
+* [Keyframes: Delivering scalable, high-quality animations to mobile clients] (https://code.facebook.com/posts/354469174916519/), by [Mark Peng](https://www.facebook.com/Lozzle)
 
 
 **Tools/Controls**
 
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate), by [@johnsundell](https://twitter.com/johnsundell)
+* [Keyframes](https://github.com/facebookincubator/Keyframes), by [Facebook Incubator](https://github.com/facebookincubator)
 
 **Business**
 
@@ -24,3 +25,4 @@
 **Credits**
 
 * [phelgo](https://github.com/phelgo)
+* [SandroMachado](https://github.com/sandromachado)
