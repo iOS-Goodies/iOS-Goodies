@@ -11,6 +11,7 @@
 
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate), by [@johnsundell](https://twitter.com/johnsundell)
 * [Keyframes](https://github.com/facebookincubator/Keyframes), by [Facebook Incubator](https://github.com/facebookincubator)
+* [UnsplashKit](https://github.com/carambalabs/UnsplashKit), by [@carambalabs](https://twitter.com/carambalabs)
 
 **Business**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), 
+* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
