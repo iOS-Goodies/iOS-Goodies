@@ -2,6 +2,9 @@
 **Articles**
 
 * [Keyframes: Delivering scalable, high-quality animations to mobile clients] (https://code.facebook.com/posts/354469174916519/), by [Mark Peng](https://www.facebook.com/Lozzle)
+* [Quick Guide: Animations with UIViewPropertyAnimator](http://www.thinkandbuild.it/quick-guide-animations-with-uiviewpropertyanimator/), by [@bitwaker](https://twitter.com/bitwaker)
+* [Understanding Data Race Detection by Implementing it in Swift](http://blog.benjamin-encz.de/post/understanding-data-race-detection-by-implementing-in-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/swift-programming/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76), by [@seyhunak](https://twitter.com/seyhunak)
 
 
 **Tools/Controls**
@@ -24,5 +27,4 @@
 
 **Credits**
 
-* [phelgo](https://github.com/phelgo)
-* [SandroMachado](https://github.com/sandromachado)
+* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), 
