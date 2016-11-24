@@ -6,6 +6,7 @@
 * [Understanding Data Race Detection by Implementing it in Swift](http://blog.benjamin-encz.de/post/understanding-data-race-detection-by-implementing-in-swift/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/swift-programming/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76), by [@seyhunak](https://twitter.com/seyhunak)
 * [Protocol Oriented Programming is Not a Silver Bullet](http://chris.eidhof.nl/post/protocol-oriented-programming/), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [The RawRepresentable Protocol in Swift](https://oleb.net/blog/2016/11/rawrepresentable/), by [@olebegemann](https://twitter.com/olebegemann)
 
 
 **Tools/Controls**
