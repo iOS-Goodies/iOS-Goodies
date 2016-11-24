@@ -22,6 +22,7 @@
 **UI/UX**
 
 * [How are the World’s Most Successful Brands Using the Psychology of Color in their Branding](https://medium.com/the-mission/how-are-the-worlds-most-successful-brands-using-the-psychology-of-color-in-their-branding-ed9446c0bdf0#.3i9t2q3xs), by [@larrykim](https://twitter.com/larrykim)
+* [Custom Modality: With so many custom modals out there, how do we know which one to use?](https://medium.com/@_kolodziejczyk/ios-custom-modality-a193c293d4d6), by [@\_kolodziejczyk](https://twitter.com/_kolodziejczyk)
 
 **Videos**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kolodziejczyk](https://github.com/kkolodziejczyk)
