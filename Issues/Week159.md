@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc)
+* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kolodziejczyk](https://github.com/kkolodziejczyk)
