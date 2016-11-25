@@ -7,7 +7,7 @@
 * [Unidirectional Data Flow Architecture (Redux) in Swift](https://medium.com/swift-programming/unidirectional-data-flow-architecture-redux-in-swift-6fa2ed5c3c76), by [@seyhunak](https://twitter.com/seyhunak)
 * [Protocol Oriented Programming is Not a Silver Bullet](http://chris.eidhof.nl/post/protocol-oriented-programming/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [The RawRepresentable Protocol in Swift](https://oleb.net/blog/2016/11/rawrepresentable/), by [@olebegemann](https://twitter.com/olebegemann)
-
+* [Ensuring unique build number while using git flow and continuous integration](http://www.mobdesignapps.fr/blog/2016/11/17/ensuring-unique-build-number-while-using-git-flow?utm_source=iosGoodies&utm_campaign=awareness&utm_medium=email), by [@otusweb](https://twitter.com/otusweb)
 
 **Tools/Controls**
 
@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kolodziejczyk](https://github.com/kkolodziejczyk)
+* [phelgo](https://github.com/phelgo), [SandroMachado](https://github.com/sandromachado), [rbarbosa](https://github.com/rbarbosa), [mariusc](https://github.com/mariusc), [kolodziejczyk](https://github.com/kkolodziejczyk), [@otusweb](https://twitter.com/otusweb)
