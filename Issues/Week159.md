@@ -27,7 +27,7 @@
 
 **Videos**
 
-*
+* [Swift and the Legacy of Functional Programming](https://realm.io/news/tryswift-rob-napier-swift-legacy-functional-programming/), by [@cocoaphony](https://twitter.com/cocoaphony)
 
 **Credits**
 
