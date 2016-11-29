@@ -2,7 +2,7 @@
 **Articles**
 
 * [Refresh Control Changes in iOS 10](http://useyourloaf.com/blog/refresh-control-changes-in-ios-10/), by [@kharrison](https://twitter.com/kharrison)
-
+* [Talking and Teaching](http://robnapier.net/talking) by [@cocoaphony](https://twitter.com/cocoaphony/)
 
 **Tools/Controls**
 
