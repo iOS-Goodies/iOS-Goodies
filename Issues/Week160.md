@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [Product Design 101 for Developers, Startups & Designers](https://blog.prototypr.io/product-design-101-for-developers-startups-designers-6757cf5d3c2a), by [@xporthai](https://twitter.com/xporthai)
 
 **Videos**
 
