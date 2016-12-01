@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [@NSMyself](https://twitter.com/NSMyself), [@RaAugustyniak](https://twitter.com/raaugustyniak), [mariusc](https://github.com/mariusc)
+* [@NSMyself](https://twitter.com/NSMyself), [@RaAugustyniak](https://twitter.com/raaugustyniak), [mariusc](https://github.com/mariusc), [@onmyway133](https://twitter.com/onmyway133)
