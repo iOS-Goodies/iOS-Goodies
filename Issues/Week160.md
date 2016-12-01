@@ -16,6 +16,7 @@
 **Business**
 
 * [Networking sucks. Because people don’t give a shit.](https://medium.com/hi-my-name-is-jon/networking-sucks-because-people-dont-give-a-shit-c824715c312d), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
+* [How your startup can leverage production-grade infrastructure for less than $200/month](https://medium.freecodecamp.com/how-your-startup-can-leverage-production-grade-infrastructure-for-less-than-200-month-15c3724038b4), by [@jpdelimat](https://twitter.com/jpdelimat)
 
 **UI/UX**
 
