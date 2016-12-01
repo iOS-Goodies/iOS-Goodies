@@ -11,6 +11,7 @@
 
 * [Me](https://github.com/pascalbros/Me), by [Pasquale Ambrosini](https://github.com/pascalbros)
 * [FileExplorer](https://github.com/augustyniak/FileExplorer), by [Rafal Augustyniak](https://twitter.com/raaugustyniak)
+* [Snowflake](https://github.com/onmyway133/Snowflake) SVG in Swift, by [onmyway133](https://github.com/onmyway133)
 
 **Business**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [@NSMyself](https://twitter.com/NSMyself), [@RaAugustyniak](https://twitter.com/raaugustyniak), [mariusc](https://github.com/mariusc)
+* [@NSMyself](https://twitter.com/NSMyself), [@RaAugustyniak](https://twitter.com/raaugustyniak), [mariusc](https://github.com/mariusc), [@onmyway133](https://twitter.com/onmyway133)
