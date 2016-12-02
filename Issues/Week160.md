@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [@NSMyself](https://twitter.com/NSMyself), [@RaAugustyniak](https://twitter.com/raaugustyniak), [mariusc](https://github.com/mariusc), [@onmyway133](https://twitter.com/onmyway133)
+* [@NSMyself](https://twitter.com/NSMyself), [@RaAugustyniak](https://twitter.com/raaugustyniak), [mariusc](https://github.com/mariusc), [@onmyway133](https://twitter.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
