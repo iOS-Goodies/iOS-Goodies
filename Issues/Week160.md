@@ -22,6 +22,7 @@
 
 * [Product Design 101 for Developers, Startups & Designers](https://blog.prototypr.io/product-design-101-for-developers-startups-designers-6757cf5d3c2a), by [@xporthai](https://twitter.com/xporthai)
 * [The ethics of good design: A principle for the connected age](https://medium.com/swlh/dieter-rams-ten-principles-for-good-design-the-1st-amendment-4e73111a18e4), by [@aweyenberg](https://twitter.com/aweyenberg)
+* [XD Essentials: The Art of Minimalism in App Design](https://blogs.adobe.com/creativecloud/xd-essentials-the-art-of-minimalism-in-app-design/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
