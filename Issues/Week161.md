@@ -11,7 +11,7 @@
 
 **Business**
 
-*
+* [Should I go cross-platform for my first version?](http://www.mobdesignapps.fr/blog/2016/10/12/should-i-go-cross-platform-to-my-first-version?utm_source=iosGoodies&utm_medium=email), by [@otusweb](https://twitter.com/otusweb)
 
 **UI/UX**
 
@@ -23,5 +23,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa)
+* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://twitter.com/otusweb)
 
