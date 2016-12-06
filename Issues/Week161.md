@@ -4,6 +4,7 @@
 * [What is reactive programming and why should I use it?](https://www.cocoawithlove.com/blog/reactive-programming-what-and-why.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [CwlSignal, a library for reactive programming](https://www.cocoawithlove.com/blog/cwlsignal.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Guarding Against Long Compiles](http://khanlou.com/2016/12/guarding-against-long-compiles/), by [@khanlou](https://twitter.com/khanlou)
+* [Dumb Password Rules](https://github.com/duffn/dumb-password-rules), by [@duffn](https://twitter.com/duffn)
 
 
 **Tools/Controls**
@@ -24,5 +25,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://twitter.com/otusweb)
+* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://twitter.com/otusweb), [naeemshaikh90](https://twitter.com/naeemshaikh90)
 
