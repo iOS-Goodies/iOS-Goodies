@@ -25,5 +25,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://twitter.com/otusweb), [naeemshaikh90](https://twitter.com/naeemshaikh90)
+* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90)
 
