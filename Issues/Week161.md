@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [CwlSignal](https://github.com/mattgallagher/CwlSignal), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [TinyConsole](https://github.com/Cosmo/TinyConsole), by [@maccosmo](http://twitter.com/maccosmo)
 
 **Business**
 
