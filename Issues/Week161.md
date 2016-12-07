@@ -11,6 +11,7 @@
 
 * [CwlSignal](https://github.com/mattgallagher/CwlSignal), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [ISO8859](https://github.com/Cosmo/ISO8859), by [@maccosmo](http://twitter.com/maccosmo)
+* [TinyConsole](https://github.com/Cosmo/TinyConsole), by [@maccosmo](http://twitter.com/maccosmo)
 
 **Business**
 
