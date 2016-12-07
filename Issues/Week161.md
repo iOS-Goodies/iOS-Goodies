@@ -1,4 +1,3 @@
-
 **Articles**
 
 * [What is reactive programming and why should I use it?](https://www.cocoawithlove.com/blog/reactive-programming-what-and-why.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
@@ -22,6 +21,7 @@
 **UI/UX**
 
 * [Best Practices For Animated Progress Indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/), by [@101babich](https://twitter.com/101babich)
+* [What Everyone Should Know About The Process of Designing Apps](https://medium.com/@flarup/what-everyone-should-know-about-the-process-of-designing-apps-7fbc81f6e1d8), by [@flarup](https://twitter.com/flarup)
 
 **Videos**
 
@@ -29,5 +29,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
 
