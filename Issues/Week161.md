@@ -21,11 +21,11 @@
 
 **UI/UX**
 
-* 
+* [Best Practices For Animated Progress Indicators](https://www.smashingmagazine.com/2016/12/best-practices-for-animated-progress-indicators/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
-*
+* [#Pragma Conference 2016](https://www.youtube.com/watch?v=ypk-72mhYBk&list=PLAVm70iJlMuvUMvfiU3rzqZpGnRuj0xjI)
 
 **Credits**
 
