@@ -13,6 +13,7 @@
 * [ISO8859](https://github.com/Cosmo/ISO8859), by [@maccosmo](http://twitter.com/maccosmo)
 * [TinyConsole](https://github.com/Cosmo/TinyConsole), by [@maccosmo](http://twitter.com/maccosmo)
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment), by TBXark
+* [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl), by Onix-Systems
 
 **Business**
 
@@ -20,7 +21,7 @@
 
 **UI/UX**
 
-* [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl), by Onix-Systems
+* 
 
 **Videos**
 
