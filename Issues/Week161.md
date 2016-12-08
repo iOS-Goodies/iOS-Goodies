@@ -13,6 +13,7 @@
 * [TinyConsole](https://github.com/Cosmo/TinyConsole), by [@maccosmo](http://twitter.com/maccosmo)
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment), by TBXark
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl), by Onix-Systems
+* [emojica](https://github.com/xoudini/emojica), by [@Dan](https://twitter.com/xoudini)
 
 **Business**
 
