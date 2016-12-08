@@ -7,6 +7,7 @@
 * [Dumb Password Rules](https://github.com/duffn/dumb-password-rules), by [@duffn](https://twitter.com/duffn)
 * [Optionals and String Interpolation](https://oleb.net/blog/2016/12/optionals-string-interpolation/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Hiding Your Action and Share Extensions In Your Own Apps](https://pspdfkit.com/blog/2016/hiding-action-share-extensions-in-your-own-apps/), by [@caughtinflux](https://twitter.com/caughtinflux)
+* [An Introduction to Protocol-oriented Programming in Swift](https://www.toptal.com/swift/introduction-protocol-oriented-programming-swift), by Alexander Gaidukov
 
 
 **Tools/Controls**
