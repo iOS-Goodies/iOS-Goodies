@@ -18,6 +18,7 @@
 * [PinterestSegment](https://github.com/TBXark/PinterestSegment), by TBXark
 * [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl), by Onix-Systems
 * [emojica](https://github.com/xoudini/emojica), by [@Dan](https://twitter.com/xoudini)
+* [pxctest](https://github.com/plu/pxctest), by [@plutooth](https://twitter.com/plutooth)
 
 **Business**
 
@@ -34,5 +35,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [plu](https://github.com/plu)
 
