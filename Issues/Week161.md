@@ -35,5 +35,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
+* [rbarbosa](https://github.com/rbarbosa), [otusweb](https://github.com/otusweb), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [plu](https://github.com/plu)
 
