@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [TABResourceLoader](https://github.com/theappbusiness/TABResourceLoader), by [@lucianomarisi](https://twitter.com/luciano)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [lucianomarisi](https://github.com/lucianomarisi)
