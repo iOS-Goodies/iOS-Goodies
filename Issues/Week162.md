@@ -12,6 +12,7 @@
 * [arek](https://github.com/ennioma/arek), by [@EnnioMa](https://twitter.com/EnnioMa)
 * [Malert](https://github.com/vitormesquita/Malert), by Vitor Mesquita
 * [Insanity](https://github.com/krzysztofzablocki/Insanity), by [@merowing_](http://twitter.com/merowing_)
+* [PlayAlways](https://github.com/insidegui/PlayAlways), by [@_inside](http://twitter.com/_inside)
 
 **Business**
 
