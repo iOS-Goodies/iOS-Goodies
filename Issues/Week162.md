@@ -12,7 +12,7 @@
 * [Reactions](https://github.com/yannickl/Reactions), by [@yannickloriot](https://twitter.com/yannickloriot)
 * [arek](https://github.com/ennioma/arek), by [@EnnioMa](https://twitter.com/EnnioMa)
 * [Malert](https://github.com/vitormesquita/Malert), by Vitor Mesquita
-* [Insanity](https://github.com/krzysztofzablocki/Insanity), by [@merowing_](http://twitter.com/merowing_)
+* [Sourcery](https://github.com/krzysztofzablocki/Sourcery), by [@merowing_](http://twitter.com/merowing_)
 * [PlayAlways](https://github.com/insidegui/PlayAlways), by [@_inside](http://twitter.com/_inside)
 
 **Business**
@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [lucianomarisi](https://github.com/lucianomarisi)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [lucianomarisi](https://github.com/lucianomarisi), [mariusc](https://github.com/mariusc)
