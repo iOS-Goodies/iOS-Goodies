@@ -6,6 +6,7 @@
 
 **Tools/Controls**
 
+* [TABResourceLoader](https://github.com/theappbusiness/TABResourceLoader), by [@lucianomarisi](https://twitter.com/luciano)
 * [HeckelDiff](https://github.com/mcudich/HeckelDiff), by [@mcudich](https://twitter.com/mcudich)
 * [TORoundedTableView](https://github.com/TimOliver/TORoundedTableView), by [@TimOliverAU](https://twitter.com/TimOliverAU)
 * [Reactions](https://github.com/yannickl/Reactions), by [@yannickloriot](https://twitter.com/yannickloriot)
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [lucianomarisi](https://github.com/lucianomarisi)
