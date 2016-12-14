@@ -1,3 +1,4 @@
+* Kickstarted [open sourced](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd#.wiytyt6ld) their app!
 
 **Articles**
 
