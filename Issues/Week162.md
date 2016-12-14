@@ -1,4 +1,5 @@
 * Kickstarted [open sourced](https://kickstarter.engineering/open-sourcing-our-android-and-ios-apps-6891be909fcd#.wiytyt6ld) their app!
+* Some interesting [design links](https://medium.muz.li/muzli-choices-in-design-for-2016-f7777541f8c3#.7tpx88qex) in this Muzli summary of 2016
 
 **Articles**
 
