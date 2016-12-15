@@ -21,7 +21,7 @@
 
 **Business**
 
-*
+* [How to Leverage Mobile Business Intelligence to Power Mobile Growth](https://www.urbanairship.com/blog/how-to-leverage-mobile-business-intelligence-to-power-mobile-growth), by [@EHintz](https://twitter.com/EHintz)
 
 **UI/UX**
 
