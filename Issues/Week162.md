@@ -7,6 +7,8 @@
 * [Displays for designers and developers](https://bjango.com/articles/macexternaldisplays/), by [@marcedwards](http://twitter.com/marcedwards)
 * [NSRegular​Expression](http://nshipster.com/nsregularexpression/), by [@nnnnnnnn](https://twitter.com/nnnnnnnn)
 * [Imagining Dependency Injection via Initializer with Storyboards](http://holko.pl/2016/12/14/storyboards-dependency-injection/), by [@arekholko](https://twitter.com/arekholko)
+* [Attributed String in Swift: the right way](https://medium.com/breakfastcode/attributed-strings-in-swift-6d4b37db59a5#.u7ze8d4l6), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [IGListKit Tutorial: Better UICollectionViews](https://www.raywenderlich.com/147162/iglistkit-tutorial-better-uicollectionviews), by [@_ryannystrom](https://twitter.com/_ryannystrom)
 
 **Tools/Controls**
 
@@ -18,13 +20,19 @@
 * [Malert](https://github.com/vitormesquita/Malert), by Vitor Mesquita
 * [Sourcery](https://github.com/krzysztofzablocki/Sourcery), by [@merowing_](http://twitter.com/merowing_)
 * [PlayAlways](https://github.com/insidegui/PlayAlways), by [@_inside](http://twitter.com/_inside)
+* [Overkill](https://github.com/krausefx/overkill), by [@krausefx](https://twitter.com/krausefx)
+* [Gomix](https://gomix.com/), by [@fogcreek](https://twitter.com/fogcreek/)
 
 **Business**
 
+* [Developers’ side projects](https://www.joelonsoftware.com/2016/12/09/developers-side-projects/), by [@spolsky](https://twitter.com/spolsky)
+* [The outwork myth](https://m.signalvnoise.com/the-outwork-myth-4cd6536c225#.e8aiww7rl), by [@jasonfried](https://twitter.com/jasonfried)
+* [Google Makes So Much Money, It Never Had to Worry About Financial Discipline—Until Now](https://www.bloomberg.com/news/features/2016-12-08/google-makes-so-much-money-it-never-had-to-worry-about-financial-discipline), by Max Chafkin and [@mhbergen](https://twitter.com/mhbergen) 
 * [How to Leverage Mobile Business Intelligence to Power Mobile Growth](https://www.urbanairship.com/blog/how-to-leverage-mobile-business-intelligence-to-power-mobile-growth), by [@EHintz](https://twitter.com/EHintz)
 
 **UI/UX**
 
+* [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.2xfziryfo)
 * [Designing Live 360 Videos: Right Time, Right Place](https://medium.com/facebook-design/designing-live-360-videos-right-time-right-place-f0b150b63ee3), by [@Soengle](https://twitter.com/Soengle)
 * [Best Practices for Cards](https://uxplanet.org/best-practices-for-cards-fa45e3ad94dd), by [@101babich](https://twitter.com/101babich)
 
