@@ -26,6 +26,7 @@
 **UI/UX**
 
 * [Designing Live 360 Videos: Right Time, Right Place](https://medium.com/facebook-design/designing-live-360-videos-right-time-right-place-f0b150b63ee3), by [@Soengle](https://twitter.com/Soengle)
+* [Best Practices for Cards](https://uxplanet.org/best-practices-for-cards-fa45e3ad94dd), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
