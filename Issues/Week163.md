@@ -5,6 +5,7 @@
 **Tools/Controls**
 
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [XMNetworking](https://github.com/kangzubin/XMNetworking), by Zubin
 
 **Business**
 
