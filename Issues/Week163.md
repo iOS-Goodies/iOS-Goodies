@@ -17,7 +17,7 @@
 
 **Videos**
 
-* 
+* [Building a Production Server Swift App: Lessons Learned](https://realm.io/news/slug-jeff-bergier-building-production-server-swift-app/), by [@jeffburg](https://twitter.com/jeffburg)
 
 **Credits**
 
