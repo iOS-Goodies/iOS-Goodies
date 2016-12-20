@@ -8,6 +8,10 @@
 * [Random number generators in Swift](http://www.cocoawithlove.com/blog/2016/05/19/random-numbers.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [URL pattern-matching in Swift](http://johnpatrickmorgan.github.io/2016/05/11/URLPatternMatching/), by [@jpmmusic](https://twitter.com/jpmmusic)
 * [Swift 3.0 for Core Image Developers](http://flexmonkey.blogspot.pt/2016/05/swift-30-for-core-image-developers.html), by [@FlexMonkey](https://twitter.com/FlexMonkey)
+<<<<<<< HEAD
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
+
+=======
 * [Speeding up Carthage builds with Bamboo](https://medium.com/@Jeef/speeding-up-carthage-builds-with-bamboo-90391917426b), by Jeff Stein
 * [Functional Programming, Abstraction, and Naming Things](http://www.stephendiehl.com/posts/abstraction.html), by [@smdiehl](https://twitter.com/smdiehl)
 * [Going with the flow](http://subjc.com/going-with-the-flow), by [@subjc](https://twitter.com/subjc)
@@ -16,7 +20,7 @@
 * [Dynamic Swift](http://chris.eidhof.nl/post/dynamic-swift/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [A Design-First Approach to Mobile App Architecture for iOS](https://spin.atomicobject.com/2016/05/24/design-first-mobile-app-architecture-ios/), by [@JordanSchaenzle](https://twitter.com/JordanSchaenzle)
 * [Swifty Objective-C](https://pspdfkit.com/blog/2016/swifty-objective-c/), by [@steipete](https://twitter.com/steipete)
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education), by [@FeelFunnyFlow](https://twitter.com/FeelFunnyFlow)
+>>>>>>> iOS-Goodies/master
 
 **Tools/Controls**
 
@@ -38,7 +42,6 @@
 **Videos**
 
 * [The Impact of Code in Society](https://www.youtube.com/watch?v=WtM3wPVhkik), by [@spolsky](https://twitter.com/spolsky)
-* [Advanced Graphics with Core Animation](https://realm.io/news/tryswift-tim-oliver-advanced-graphics-with-core-animation/), by [@TimOliverAU](https://twitter.com/TimOliverAU)
 
 **Credits**
 
