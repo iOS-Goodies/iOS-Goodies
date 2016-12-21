@@ -8,6 +8,8 @@
 
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString), by [@danielemargutti](https://twitter.com/danielemargutti)
 * [XMNetworking](https://github.com/kangzubin/XMNetworking), by Zubin
+* [iOS Awesome Starter Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit), by [@_nghiatran](https://twitter.com/_nghiatran)
+* [UIColor-WikiColors](https://github.com/nahive/UIColor-WikiColors), by [@nahive_](https://twitter.com/nahive_)
 
 **Business**
 
