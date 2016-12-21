@@ -4,6 +4,8 @@
 * [On the Myth of the 10X Engineer and the Reality of the Distinguished Engineer](https://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/), by [@fintanr](https://twitter.com/fintanr)
 * [Building Jarvis](https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634), by Mark Zuckerberg
 * [Automating Code Reviews](http://www.marisibrothers.com/2016/12/automating-code-reviews.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Custom In-App Keyboards](https://digitalleaves.com/blog/2016/12/custom-in-app-keyboards/), by [@digitalleaves](https://twitter.com/digitalleaves)
+* [Proxy design pattern in iOS](http://devmonologue.com/ios/ios/proxy-design-pattern-ios/), by [@sobadjiev](https://twitter.com/sobadjiev)
 
 **Tools/Controls**
 
