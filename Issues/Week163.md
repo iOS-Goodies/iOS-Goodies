@@ -20,7 +20,9 @@
 
 **UI/UX**
 
-* 
+* [50 User Experience Strategies For Planning Memorable Mobile Experiences](https://medium.com/@LoganTjm/50-user-experience-strategies-for-planning-memorable-mobile-experiences-43aa87a75e3c), by [@LoganTjm](https://twitter.com/LoganTjm)
+* [How to create the best search UX on mobile](https://medium.com/@Appseecom/how-to-create-the-best-search-ux-on-mobile-3d49358027ae), by [@Appseecom](https://twitter.com/Appseecom)
+* [LET IT FLY! Redesigning Virgin Atlantic’s flying experience](https://medium.com/@ChaymaeLougmani/let-it-fly-redesigning-virgin-atlantics-flying-experience-a6df7663a07), by [@ChaymaeLougmani](https://twitter.com/ChaymaeLougmani)
 
 **Videos**
 
