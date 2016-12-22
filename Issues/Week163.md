@@ -30,6 +30,10 @@
 * [Building a Production Server Swift App: Lessons Learned](https://realm.io/news/slug-jeff-bergier-building-production-server-swift-app/), by [@jeffburg](https://twitter.com/jeffburg)
 * [Do iOS 2016 - Ayaka Nonaka, Contributing to Swift](https://www.youtube.com/watch?v=GnT2ZeHVJe4), by [ayanonagon](https://twitter.com/ayanonagon)
 
+**Indie Apps**
+
+* [Median.tech](https://median.tech), by [@_vojto](https://twitter.com/_vojto/)
+
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [@NSMyself](https://twitter.com/NSMyself)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [@NSMyself](https://twitter.com/NSMyself), [vojto](https://github.com/vojto)
