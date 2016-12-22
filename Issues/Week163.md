@@ -36,4 +36,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [@NSMyself](https://twitter.com/NSMyself)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [@NSMyself](https://twitter.com/NSMyself), [vojto](https://github.com/vojto)
