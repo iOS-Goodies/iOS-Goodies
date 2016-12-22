@@ -17,6 +17,7 @@
 
 **Business**
 
+* [The Managerial Entitlement Complex](https://m.signalvnoise.com/entitlement-complex-46c770750046#.lyreace2i), by [@jasonfried](https://twitter.com/jasonfried)
 * [2017 Predictions for the App Economy](https://www.appannie.com/insights/market-data/2017-predictions-app-economy/), by [@appannie](http://www.twitter.com/appannie/)
 
 **UI/UX**
