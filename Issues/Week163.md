@@ -6,6 +6,7 @@
 * [Automating Code Reviews](http://www.marisibrothers.com/2016/12/automating-code-reviews.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Custom In-App Keyboards](https://digitalleaves.com/blog/2016/12/custom-in-app-keyboards/), by [@digitalleaves](https://twitter.com/digitalleaves)
 * [Proxy design pattern in iOS](http://devmonologue.com/ios/ios/proxy-design-pattern-ios/), by [@sobadjiev](https://twitter.com/sobadjiev)
+* [Vesper has been open-sourced](http://inessential.com/2016/12/21/vesper_open_source_3_the_ios_app), by [@brentsimmons](https://twitter.com/brentsimmons)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [@NSMyself](https://twitter.com/NSMyself)
