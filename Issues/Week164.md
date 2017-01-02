@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [Hero](https://github.com/lkzhao/Hero), by Luke Zhao
 
 **Business**
 
