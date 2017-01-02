@@ -3,6 +3,7 @@
 
 * [SIGTRAP: Decoding A Cryptic Objective-C + Swift Crash](https://www.raizlabs.com/dev/2016/12/sigtrap-objectivec-swift/), by Jason Clark
 * [Peculiar inheritance of enum](http://blog.krzyzanowskim.com/2016/12/26/peculiar-inheritance-of-enum/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [Protocols are more than Bags of Syntax](https://oleb.net/blog/2016/12/protocols-have-semantics/), by [@olebegemann](https://twitter.com/olebegemann)
 
 
 **Tools/Controls**
