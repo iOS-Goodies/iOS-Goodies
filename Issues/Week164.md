@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [@abiaad](https://github.com/abiaad), [@naeemshiakh90](https://github.com/naeemshiakh90)
+* [rbarbosa](https://github.com/rbarbosa), [@abiaad](https://github.com/abiaad), [@naeemshaikh90](https://github.com/naeemshaikh90)
