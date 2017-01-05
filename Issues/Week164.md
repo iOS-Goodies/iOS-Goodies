@@ -1,3 +1,7 @@
+**Must Read**
+
+* [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
+
 
 **Articles**
 
@@ -19,6 +23,8 @@
 
 * [80 hours now, 40 hours later?](https://m.signalvnoise.com/80-hours-now-40-hours-later-f0b3621816e), by [@jasonfried](https://twitter.com/jasonfried)
 * [A story about salaries at Mindera](https://medium.com/mindera/a-story-about-salaries-at-mindera-908b9dca292e), by Sofia Reis
+* [Apple’s 2016 in review](https://chuqui.com/2017/01/apples-2016-in-review/), by [@chuq](https://twitter.com/chuq)
+
 
 **UI/UX**
 
