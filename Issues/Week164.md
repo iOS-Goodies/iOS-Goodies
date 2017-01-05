@@ -12,6 +12,7 @@
 * [Hero](https://github.com/lkzhao/Hero), by Luke Zhao
 * [Traits](https://github.com/krzysztofzablocki/Traits), by [@merowing_](https://twitter.com/merowing_)
 * [SuperBadges](https://github.com/odedharth/SuperBadges), by [@odedharth](http://www.twitter.com/odedharth)
+* [XShared](https://github.com/Otbivnoe/XShared), by [@Otbivnoe](http://www.twitter.com/Otbivnoe)
 
 **Business**
 
