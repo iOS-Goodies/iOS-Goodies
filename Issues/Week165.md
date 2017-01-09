@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift), by Gavrilov Daniil
+* [RKMultiUnitRuler](https://github.com/farshidce/RKMultiUnitRuler/), by Farshid Ghods
 
 **Business**
 
