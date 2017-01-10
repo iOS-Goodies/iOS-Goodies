@@ -11,6 +11,7 @@
 * [SwiftyCam](https://github.com/Awalz/SwiftyCam), by Andrew Walz
 * [PivotSlider](https://github.com/lab111/pivot-slider), by Lab 7
 * [FAQView](https://github.com/mukeshthawani/FAQView), by [@MukeshThawani](http://twitter.com/MukeshThawani)
+* [RhythmBox](https://github.com/manuelescrig/RhythmBox), by [@manuelescrig](http://twitter.com/manuelescrig)
 
 **Business**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [@naeemshaikh90](https://github.com/naeemshaikh90)
+* [@naeemshaikh90](https://github.com/naeemshaikh90), [@manuelescrig](http://twitter.com/manuelescrig)
