@@ -11,6 +11,7 @@
 * [SwiftyCam](https://github.com/Awalz/SwiftyCam), by Andrew Walz
 * [PivotSlider](https://github.com/lab111/pivot-slider), by Lab 7
 * [FAQView](https://github.com/mukeshthawani/FAQView), by [@MukeshThawani](http://twitter.com/MukeshThawani)
+* [Sharaku](https://github.com/makomori/Sharaku), by Makoto Mori
 
 **Business**
 
