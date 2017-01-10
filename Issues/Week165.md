@@ -23,7 +23,7 @@
 
 **Videos**
 
-*
+* ["Watch Your Language!": The Road to Cleaner Code with SwiftLint](https://realm.io/news/slug-jp-simard-swiftlint/), by [@simjp](https://twitter.com/simjp)
 
 **Credits**
 
