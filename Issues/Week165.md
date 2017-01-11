@@ -3,6 +3,7 @@
 
 * [All of 2016’s top mobile apps are owned by either Google or Facebook](https://medium.freecodecamp.com/all-of-2016s-top-mobile-apps-are-owned-by-either-google-or-facebook-a9c56d77a74b#.xxup8umk9), by [@ossia](https://twitter.com/ossia)
 * [Top 10 iOS Conferences in 2017](https://www.raywenderlich.com/149517/top-10-ios-conferences-2017), by [@_funkyboy](http://www.twitter.com/_funkyboy)
+* [Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
@@ -12,6 +13,8 @@
 * [PivotSlider](https://github.com/lab111/pivot-slider), by Lab 7
 * [FAQView](https://github.com/mukeshthawani/FAQView), by [@MukeshThawani](http://twitter.com/MukeshThawani)
 * [Sharaku](https://github.com/makomori/Sharaku), by Makoto Mori
+* [PieCharts](https://github.com/i-schuetz/PieCharts), by Ivan Schütz
+* [RhythmBox](https://github.com/manuelescrig/RhythmBox), by [@manuelescrig](http://twitter.com/manuelescrig)
 
 **Business**
 
@@ -24,8 +27,8 @@
 
 **Videos**
 
-*
+* ["Watch Your Language!": The Road to Cleaner Code with SwiftLint](https://realm.io/news/slug-jp-simard-swiftlint/), by [@simjp](https://twitter.com/simjp)
 
 **Credits**
 
-* [@naeemshaikh90](https://github.com/naeemshaikh90)
+* [@naeemshaikh90](https://github.com/naeemshaikh90), [@manuelescrig](http://twitter.com/manuelescrig), [@mariusc](https://github.com/mariusc)
