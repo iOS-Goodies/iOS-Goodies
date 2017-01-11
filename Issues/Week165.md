@@ -35,4 +35,4 @@
 
 **Credits**
 
-* [@naeemshaikh90](https://github.com/naeemshaikh90), [@manuelescrig](http://twitter.com/manuelescrig), [@mariusc](https://github.com/mariusc), [SandroEMachado](https://twitter.com/SandroEMachado), [@ricardopereiraw](https://twitter.com/ricardopereiraw), [rbarbosa](https://github.com/rbarbosa)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [manuelescrig](https://github.com/manuelescrig), [mariusc](https://github.com/mariusc), [SandroEMachado](https://github.com/SandroMachado), [ricardopereira](https://github.com/ricardopereira), [rbarbosa](https://github.com/rbarbosa)
