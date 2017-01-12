@@ -7,6 +7,7 @@
 * [Testing iOS Apps](http://merowing.info/2017/01/testing-ios-apps/), by [@merowing_](https://twitter.com/merowing_)
 * [Control what you're sharing](https://www.whitesmith.co/blog/control-what-youre-sharing/), by [@ricardopereiraw](https://twitter.com/ricardopereiraw)
 * [Accessing Dictionaries with Key Paths](https://oleb.net/blog/2017/01/dictionary-key-paths/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Creating a Compelling Today Widget](https://pspdfkit.com/blog/2017/today-widget/), by [@steviki](https://twitter.com/steviki)
 
 **Tools/Controls**
 
