@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-*
+* [OXPatternLock](https://github.com/oxozle/OXPatternLock), by Dmitriy
 
 **Business**
 
@@ -26,3 +26,4 @@
 
 * [mariusc](https://github.com/mariusc)
 * [LisaDziuba](https://github.com/LisaDziuba)
+* [naeemshaikh90](https://github.com/naeemshaikh90)
