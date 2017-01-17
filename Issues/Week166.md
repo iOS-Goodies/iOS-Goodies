@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [OXPatternLock](https://github.com/oxozle/OXPatternLock), by [@Oxozle](https://twitter.com/Oxozle)
+* [Files](https://github.com/JohnSundell/Files), by [@johnsundell](https://github.com/johnsundell)
 
 **Business**
 
