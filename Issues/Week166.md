@@ -10,6 +10,7 @@
 
 * [OXPatternLock](https://github.com/oxozle/OXPatternLock), by [@Oxozle](https://twitter.com/Oxozle)
 * [Mustard](https://github.com/mathewsanders/Mustard), by [@mathewsanders](http://twitter.com/mathewsanders)
+* [Files](https://github.com/JohnSundell/Files), by [@johnsundell](https://github.com/johnsundell)
 
 **Business**
 
@@ -25,6 +26,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc)
-* [LisaDziuba](https://github.com/LisaDziuba)
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
