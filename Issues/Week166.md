@@ -23,7 +23,8 @@
 
 **Videos**
 
-*
+* [Property-Based Testing with SwiftCheck](https://realm.io/news/tryswift-tj-usiyan-property-based-testing-swiftcheck/), by [@griotspeak](https://twitter.com/griotspeak)
+* [Testing in Swift: Protocols & View Models](https://realm.io/news/testing-in-swift-protocols-and-view-models/), by [@ayanonagon](https://twitter.com/ayanonagon)
 
 **Credits**
 
