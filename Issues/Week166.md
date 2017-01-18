@@ -12,7 +12,7 @@
 * [Mustard](https://github.com/mathewsanders/Mustard), by [@mathewsanders](http://twitter.com/mathewsanders)
 * [Files](https://github.com/JohnSundell/Files), by [@johnsundell](https://github.com/johnsundell)
 * [JustLog](https://github.com/justeat/JustLog), by [@justeat_tech](https://twitter.com/justeat_tech)
-* [bluepill](https://github.com/linkedin/bluepill), by [LinkedInEng](https://twitter.com/LinkedInEng)
+* [bluepill](https://github.com/linkedin/bluepill), by [@LinkedInEng](https://twitter.com/LinkedInEng)
 
 **Business**
 
