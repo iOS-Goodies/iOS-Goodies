@@ -5,7 +5,7 @@
 * [How to stay up to date with Swift and the Developer Community](https://www.weheartswift.com/stay-up-to-date-swift-developer-community/), by [@WeHeartSwift2](https://twitter.com/WeHeartSwift2)
 * [Naming Things in Swift](https://ashfurrow.com/blog/naming-things-in-swift/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [#33 Security – implement your own encryption schema](https://swifting.io/blog/2017/01/16/33-security-implement-your-own-encryption-schema/), by [@swiftingio](https://twitter.com/swiftingio)
-
+* [Fabric is Joining Google](https://fabric.io/blog/fabric-joins-google), by [@richparet](https://twitter.com/richparet)
 
 **Tools/Controls**
 
