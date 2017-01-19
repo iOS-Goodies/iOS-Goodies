@@ -20,10 +20,11 @@
 
 * [Don’t Get Trampled: The Puzzle For “Unicorn” Employees](https://medium.com/positiveslope/dont-get-trampled-the-puzzle-for-unicorn-employees-8f00f33c784f#.vytk95gmv), by [@Scott Belsky](https://twitter.com/scottbelsky)
 * [Seniority](http://merowing.info/2017/01/seniority/), by [@merowing_](https://twitter.com/merowing_)
+* [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/), by [@Ali Rowghani](https://twitter.com/rowghani)
 
 **UI/UX**
 
-*
+* [Designing for the Human Side of Banking](https://medium.com/capitalonedesign/designing-for-the-human-side-of-banking-28897220defb), by [@Jesse James Garrett](https://twitter.com/jjg)
 
 **Videos**
 
@@ -36,4 +37,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [mandrigin](https://github.com/mandrigin)
+* [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [mandrigin](https://github.com/mandrigin), [ramshandilya](https://github.com/ramshandilya)
