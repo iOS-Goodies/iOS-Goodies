@@ -28,6 +28,10 @@
 * [Property-Based Testing with SwiftCheck](https://realm.io/news/tryswift-tj-usiyan-property-based-testing-swiftcheck/), by [@griotspeak](https://twitter.com/griotspeak)
 * [Testing in Swift: Protocols & View Models](https://realm.io/news/testing-in-swift-protocols-and-view-models/), by [@ayanonagon](https://twitter.com/ayanonagon)
 
+**Podcasts**
+
+* [Interview with Chris Lattner on ATP](http://atp.fm/episodes/205)
+
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa)
+* [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [mandrigin](https://github.com/mandrigin)
