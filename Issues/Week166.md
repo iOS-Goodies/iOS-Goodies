@@ -19,6 +19,7 @@
 **Business**
 
 * [Don’t Get Trampled: The Puzzle For “Unicorn” Employees](https://medium.com/positiveslope/dont-get-trampled-the-puzzle-for-unicorn-employees-8f00f33c784f#.vytk95gmv), by [@Scott Belsky](https://twitter.com/scottbelsky)
+* [Seniority](http://merowing.info/2017/01/seniority/), by [@merowing_](https://twitter.com/merowing_)
 
 **UI/UX**
 
