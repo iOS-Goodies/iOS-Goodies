@@ -1,3 +1,5 @@
+This week had a lot of companies buying each other. [Fabric was sold to google](https://fabric.io/blog/fabric-joins-google) and [Oracle bought Apiary](https://www.oracle.com/corporate/acquisitions/apiary/index.html)
+
 
 **Articles**
 
@@ -5,9 +7,8 @@
 * [How to stay up to date with Swift and the Developer Community](https://www.weheartswift.com/stay-up-to-date-swift-developer-community/), by [@WeHeartSwift2](https://twitter.com/WeHeartSwift2)
 * [Naming Things in Swift](https://ashfurrow.com/blog/naming-things-in-swift/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [#33 Security – implement your own encryption schema](https://swifting.io/blog/2017/01/16/33-security-implement-your-own-encryption-schema/), by [@swiftingio](https://twitter.com/swiftingio)
-* [Fabric is Joining Google](https://fabric.io/blog/fabric-joins-google), by [@richparet](https://twitter.com/richparet)
 * [The Case for Deprecating UITableView](https://pspdfkit.com/blog/2017/the-case-for-deprecating-uitableview/), by [@steipete](https://twitter.com/steipete) and [@_mochs](https://twitter.com/_mochs)
-* [Oracle Buys Apiary](https://www.oracle.com/corporate/acquisitions/apiary/index.html), by Oracle
+* [We reverse engineered 16k apps, here’s what we found](https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb#.i60crrrki), by [@fallible_inc](https://twitter.com/fallible_inc)
 
 **Tools/Controls**
 
