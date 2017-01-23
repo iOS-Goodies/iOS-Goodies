@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Slashdot's Interview With Swift Creator Chris Lattner](https://developers.slashdot.org/story/17/01/23/085232/slashdots-interview-with-swift-creator-chris-lattner) 
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://www.twitter.com/NSMyself)
