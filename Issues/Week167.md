@@ -5,6 +5,7 @@
 * [Augmented Reality iOS Tutorial: Location Based](https://www.raywenderlich.com/146436/augmented-reality-ios-tutorial-location-based-2), by Jean-Pierre Distler
 * [Swift 4 Package Manager Roadmap](https://lists.swift.org/pipermail/swift-evolution-announce/2017-January/000307.html), by [@rballard](https://twitter.com/rballard)
 * [Working with Asynchronous Objective-C APIs in Swift](https://oleb.net/blog/2017/01/result-init-helper/), by [@olebegemann](https://twitter.com/olebegemann)
+* [#292: Metaprogramming with Sourcery](https://littlebitesofcocoa.com/292-metaprogramming-with-sourcery), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 
 **Tools/Controls**
 
