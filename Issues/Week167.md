@@ -15,6 +15,8 @@
 **UI/UX**
 
 * [Apple UI Design Resources](https://developer.apple.com/ios/human-interface-guidelines/resources/), by Apple
+* [Using science to make truly tappable user interfaces](http://scotthurff.com/posts/how-to-make-truly-tappable-user-interfaces), by [@ScottHurff](https://twitter.com/scotthurff)
+* [A Designer’s Guide to Perceived Performance](https://blog.marvelapp.com/a-designers-guide-to-perceived-performance/), by [@LukeJones](https://www.twitter.com/lukejones)
 
 **Videos**
 
@@ -22,6 +24,6 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://www.twitter.com/NSMyself)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://www.twitter.com/NSMyself), [ramshandilya](https://github.com/ramshandilya)
 * [LisaDziuba](https://github.com/LisaDziuba)
 
