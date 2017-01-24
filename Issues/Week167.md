@@ -26,5 +26,5 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://www.twitter.com/NSMyself), [ramshandilya](https://github.com/ramshandilya), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://github.com/NSMyself), [ramshandilya](https://github.com/ramshandilya), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
 
