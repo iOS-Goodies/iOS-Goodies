@@ -22,6 +22,8 @@
 * [Using science to make truly tappable user interfaces](http://scotthurff.com/posts/how-to-make-truly-tappable-user-interfaces), by [@ScottHurff](https://twitter.com/scotthurff)
 * [A Designer’s Guide to Perceived Performance](https://blog.marvelapp.com/a-designers-guide-to-perceived-performance/), by [@LukeJones](https://www.twitter.com/lukejones)
 * [Crash Course: UI Design](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.see30bmyu), by Jeff Wang
+* [Color in UI Design: A Practical Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e#.c8r0ldhy9), by [@erikdkennedy](https://twitter.com/erikdkennedy)
+* [Weak Words Kill Experiences](https://uxplanet.org/weak-words-kill-experiences-3c1b48960ce0#.29p1hjowo), by [@CassiusKiani](https://twitter.com/CassiusKiani)
 
 **Videos**
 
