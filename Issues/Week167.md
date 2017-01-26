@@ -7,6 +7,8 @@
 * [Working with Asynchronous Objective-C APIs in Swift](https://oleb.net/blog/2017/01/result-init-helper/), by [@olebegemann](https://twitter.com/olebegemann)
 * [#292: Metaprogramming with Sourcery](https://littlebitesofcocoa.com/292-metaprogramming-with-sourcery), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 * [Running Parse Server on Digital Ocean: Tips & Tools](https://stanfy.com/blog/running-parse-server-on-digital-ocean/), by [@vixentael](https://twitter.com/vixentael)
+* [Swift ABI Stability Manifesto](https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md), by [@Ilseman](https://twitter.com/Ilseman)
+* [Fun with String Interpolation](https://oleb.net/blog/2017/01/fun-with-string-interpolation/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
