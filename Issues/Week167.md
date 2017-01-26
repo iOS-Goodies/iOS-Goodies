@@ -12,7 +12,7 @@
 
 **Tools/Controls**
 
-* 
+* [Elm for iOS](https://github.com/salutis/swift-elm), by [@salutis](https://twitter.com/salutis)
 
 **Business**
 
