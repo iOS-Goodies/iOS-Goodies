@@ -9,6 +9,7 @@
 * [Running Parse Server on Digital Ocean: Tips & Tools](https://stanfy.com/blog/running-parse-server-on-digital-ocean/), by [@vixentael](https://twitter.com/vixentael)
 * [Swift ABI Stability Manifesto](https://github.com/apple/swift/blob/master/docs/ABIStabilityManifesto.md), by [@Ilseman](https://twitter.com/Ilseman)
 * [Fun with String Interpolation](https://oleb.net/blog/2017/01/fun-with-string-interpolation/), by [@olebegemann](https://twitter.com/olebegemann)
+* [14 must knows for an iOS developer](https://medium.com/@nobizard/14-must-knows-for-an-ios-developer-5ae502d7d87f#.1y1xnfn3h), by [@nobizard](https://twitter.com/nobizard)
 
 **Tools/Controls**
 
