@@ -21,6 +21,7 @@
 
 * [The Story Of The Fraudulent Coder](https://shakycode.com/the-story-of-the-fraudulent-coder-d4c6fcf273f7#.k1rkhx3q8), by [@shakycode](https://twitter.com/shakycode)
 * [A Rant Against Maximization](https://m.signalvnoise.com/a-rant-against-maximization-b5091d75abda), by [@jasonfried](https://twitter.com/jasonfried)
+* [What Does iOS 10.3 Mean for Growth Marketers?](http://blog.prolificinteractive.com/2017/01/27/what-does-ios-10-3-mean-for-growth-marketers/) by [@weareprolific](https://twitter.com/weareprolific)
 
 **UI/UX**
 
@@ -37,5 +38,5 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://github.com/NSMyself), [ramshandilya](https://github.com/ramshandilya), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [NSMyself](https://github.com/NSMyself), [ramshandilya](https://github.com/ramshandilya), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive)
 
