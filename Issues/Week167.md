@@ -20,6 +20,7 @@
 **Business**
 
 * [The Story Of The Fraudulent Coder](https://shakycode.com/the-story-of-the-fraudulent-coder-d4c6fcf273f7#.k1rkhx3q8), by [@shakycode](https://twitter.com/shakycode)
+* [A Rant Against Maximization](https://m.signalvnoise.com/a-rant-against-maximization-b5091d75abda), by [@jasonfried](https://twitter.com/jasonfried)
 
 **UI/UX**
 
