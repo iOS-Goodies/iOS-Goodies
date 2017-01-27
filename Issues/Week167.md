@@ -14,6 +14,7 @@
 **Tools/Controls**
 
 * [Elm for iOS](https://github.com/salutis/swift-elm), by [@salutis](https://twitter.com/salutis)
+* [mod_swift](https://github.com/AlwaysRightInstitute/mod_swift), by  [@ar_institute](https://www.twitter.com/ar_institute) and ZeeZide
 
 **Business**
 
