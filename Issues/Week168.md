@@ -3,6 +3,7 @@
 
 * [Faster Mix-and-Match Builds with Precompiled Bridging Headers](https://swift.org/blog/bridging-pch/), by [@graydon_pub](https://twitter.com/graydon_pub?lang=en)
 * [33 iOS open source libraries that will dominate 2017.](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449#.3a161hcl0), by [@pawel_bialecki](https://twitter.com/pawel_bialecki)
+* [Smooth Scrolling in UITableView and UICollectionView](https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f#.223phwbdw), by [@andrea_prearo](https://twitter.com/andrea_prearo)
 
 **Tools/Controls**
 
