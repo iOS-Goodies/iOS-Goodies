@@ -16,6 +16,7 @@
 
 * [Is Your Software Wearing Too Much Makeup?](https://ux.useronboard.com/is-your-software-wearing-too-much-makeup-a5f1e26f1057#.st5wq5c1q) by [@SamuelHulick](https://twitter.com/SamuelHulick)
 * [How to use colors in UI Design](https://blog.prototypr.io/how-to-use-colors-in-ui-design-16406ec06753#.i4dh6vdkp), by [@acreno_](https://twitter.com/acreno_)
+* [Color in UI Design: A (Practical) Framework](https://medium.com/@erikdkennedy/color-in-ui-design-a-practical-framework-e18cacd97f9e#.sqc59fmrh), by [@erikdkennedy](https://twitter.com/erikdkennedy)
 
 **Videos**
 
