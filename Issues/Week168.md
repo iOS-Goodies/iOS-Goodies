@@ -5,6 +5,7 @@
 * [33 iOS open source libraries that will dominate 2017.](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449#.3a161hcl0), by [@pawel_bialecki](https://twitter.com/pawel_bialecki)
 * [Smooth Scrolling in UITableView and UICollectionView](https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f#.223phwbdw), by [@andrea_prearo](https://twitter.com/andrea_prearo)
 * [Using Firebase to Integrate Facebook Login in iOS Apps](http://www.appcoda.com/firebase-facebook-login/), by [@simonng](https://twitter.com/simonng)
+* [18 Swift concepts for Objective C developers](https://medium.com/compileswift/18-swift-concepts-for-objective-c-developers-a3ed526fd173#.bials0wh4), by [@roch4brun](https://twitter.com/roch4brun)
 
 **Tools/Controls**
 
