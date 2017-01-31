@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [IBAnalyzer](https://github.com/fastred/IBAnalyzer), by [@arekholko](https://twitter.com/arekholko)
+* [CalendarKit](https://github.com/richardtop/CalendarKit), by [@richardtop](https://github.com/richardtop)
 
 **Business**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
+* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop)
