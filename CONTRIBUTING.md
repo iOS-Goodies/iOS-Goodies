@@ -11,6 +11,8 @@ If you would like to contribute with a link to the current week's issue send us 
 * Each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
 * **The article didn't pass our curation**. This can be for multiple reasons: poorly written, not relevant to the community in general, not up to our standards, etc. Of course this is very subjective and if you think we (Rui and Tiago) are being unfair, do let us know. 
 
+You can include more than one article in a pull request.
+
 ## Requirements
 
 Shouldn't be more than 2 weeks old (although exceptions can be made: e.g. Tools/Libraries). If it's an old article, but a good one, please let us know why you think so.
