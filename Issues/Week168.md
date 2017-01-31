@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [IBAnalyzer](https://github.com/fastred/IBAnalyzer), by [@arekholko](https://twitter.com/arekholko)
+* [CalendarKit](https://github.com/richardtop/CalendarKit), by [@richardtop](https://github.com/richardtop)
 
 **Business**
 
