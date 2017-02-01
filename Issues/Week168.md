@@ -13,6 +13,7 @@
 * [IBAnalyzer](https://github.com/fastred/IBAnalyzer), by [@arekholko](https://twitter.com/arekholko)
 * [CalendarKit](https://github.com/richardtop/CalendarKit), by [@richardtop](https://github.com/richardtop)
 * [ResponseDetective](https://github.com/netguru/ResponseDetective), by [@netguru](https://github.com/netguru)
+* [CodeEditor](https://github.com/kuyawa/CodeEditor), by [@KuyawaKata](https://twitter.com/KuyawaKata)
 
 **Business**
 
