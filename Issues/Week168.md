@@ -12,6 +12,7 @@
 
 * [IBAnalyzer](https://github.com/fastred/IBAnalyzer), by [@arekholko](https://twitter.com/arekholko)
 * [CalendarKit](https://github.com/richardtop/CalendarKit), by [@richardtop](https://github.com/richardtop)
+* [ResponseDetective](https://github.com/netguru/ResponseDetective), by [@netguru](https://github.com/netguru)
 
 **Business**
 
@@ -22,7 +23,7 @@
 * [Is Your Software Wearing Too Much Makeup?](https://ux.useronboard.com/is-your-software-wearing-too-much-makeup-a5f1e26f1057#.st5wq5c1q) by [@SamuelHulick](https://twitter.com/SamuelHulick)
 * [How to use colors in UI Design](https://blog.prototypr.io/how-to-use-colors-in-ui-design-16406ec06753#.i4dh6vdkp), by [@acreno_](https://twitter.com/acreno_)
 * [Apple’s Icons Have That Shape for a Very Good Reason](https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14#.hmdu0p1xu), by [@Markomatic](https://twitter.com/Markomatic)
-* [The UX of Voice: The Invisible Interface](http://www.dtelepathy.com/blog/design/the-ux-of-voice-the-invisible-interface) by [@king_jaffy](https://twitter.com/king_jaffy)
+* [The UX of Voice: The Invisible Interface](http://www.dtelepathy.com/blog/design/the-ux-of-voice-the-invisible-interface), by [@king_jaffy](https://twitter.com/king_jaffy)
 
 **Videos**
 
