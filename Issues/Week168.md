@@ -7,6 +7,7 @@
 * [Smooth Scrolling in UITableView and UICollectionView](https://medium.com/capital-one-developers/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f#.223phwbdw), by [@andrea_prearo](https://twitter.com/andrea_prearo)
 * [Using Firebase to Integrate Facebook Login in iOS Apps](http://www.appcoda.com/firebase-facebook-login/), by [@simonng](https://twitter.com/simonng)
 * [18 Swift concepts for Objective C developers](https://medium.com/compileswift/18-swift-concepts-for-objective-c-developers-a3ed526fd173#.bials0wh4), by [@roch4brun](https://twitter.com/roch4brun)
+* [Classes That Conform To Protocols](http://chris.eidhof.nl/post/classes-and-protocols/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop), [ramshandilya](https://github.com/ramshandilya)
+* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop), [ramshandilya](https://github.com/ramshandilya), [rbarbosa](https://github.com/rbarbosa)
