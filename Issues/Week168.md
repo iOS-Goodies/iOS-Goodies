@@ -17,6 +17,7 @@
 * [ResponseDetective](https://github.com/netguru/ResponseDetective), by [@netguru](https://github.com/netguru)
 * [CodeEditor](https://github.com/kuyawa/CodeEditor), by [@KuyawaKata](https://twitter.com/KuyawaKata)
 * [JustTrack](https://github.com/justeat/JustTrack), by [@justeat_tech](https://twitter.com/justeat_tech)
+* Lottie [repo](https://github.com/airbnb/lottie-ios) and [article](https://medium.com/airbnb-engineering/introducing-lottie-4ff4a0afac0e), by [@airbnb](https://github.com/airbnb)
 
 **Business**
 
