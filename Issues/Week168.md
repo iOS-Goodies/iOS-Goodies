@@ -16,6 +16,7 @@
 * [CalendarKit](https://github.com/richardtop/CalendarKit), by [@richardtop](https://github.com/richardtop)
 * [ResponseDetective](https://github.com/netguru/ResponseDetective), by [@netguru](https://github.com/netguru)
 * [CodeEditor](https://github.com/kuyawa/CodeEditor), by [@KuyawaKata](https://twitter.com/KuyawaKata)
+* [JustTrack](https://github.com/justeat/JustTrack), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Business**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop), [ramshandilya](https://github.com/ramshandilya), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi)
+* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop), [ramshandilya](https://github.com/ramshandilya), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [federicocappelli](https://github.com/federicocappelli)
