@@ -34,4 +34,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop), [ramshandilya](https://github.com/ramshandilya), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/LisaDziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [richardtop](https://github.com/richardtop), [ramshandilya](https://github.com/ramshandilya), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi)
