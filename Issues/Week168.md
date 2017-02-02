@@ -22,6 +22,7 @@
 **Business**
 
 * [Apple inexplicably removes iCloud Activation Lock status page, which helped people avoid buying stolen iPhones](https://9to5mac.com/2017/01/28/icloud-activation-lock-status-page-removed/), by [@bzamayo](https://twitter.com/bzamayo)
+* [How do you say no to customers?](https://blog.intercom.com/say-no-to-customers/) by [@sharooon88](https://twitter.com/sharooon88)
 
 **UI/UX**
 
