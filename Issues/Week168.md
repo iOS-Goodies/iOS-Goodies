@@ -35,7 +35,8 @@
 
 **Videos**
 
-* 
+* [Operators and Strong Opinions](https://realm.io/news/slug-erica-sadun-operators-strong-opinions/), by [@ericasadun](https://twitter.com/ericasadun)
+* [Testing an Untested App](https://realm.io/news/cmdu-michael-may-testing-untested-app/), by [@codermay](https://twitter.com/codermay)
 
 **Credits**
 
