@@ -10,6 +10,7 @@
 * [Classes That Conform To Protocols](http://chris.eidhof.nl/post/classes-and-protocols/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [The Yin and Yang of Unit Testing in iOS](http://www.marisibrothers.com/2017/01/the-yin-and-yang-of-unit-testing-in-ios.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Open-sourcing Chrome on iOS!](https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html), by [@ChromiumDev](https://twitter.com/ChromiumDev)
+* [A Guide to Interacting with iBeacons in iOS using Swift](https://spin.atomicobject.com/2017/01/31/ibeacon-in-swift/), by [@MattNedrich](https://twitter.com/MattNedrich)
 
 **Tools/Controls**
 
