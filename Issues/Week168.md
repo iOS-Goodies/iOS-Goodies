@@ -35,7 +35,7 @@
 
 **Videos**
 
-* 
+* [Operators and Strong Opinions](https://realm.io/news/slug-erica-sadun-operators-strong-opinions/), by [@ericasadun](https://twitter.com/ericasadun)
 
 **Credits**
 
