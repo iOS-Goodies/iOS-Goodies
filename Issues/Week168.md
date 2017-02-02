@@ -33,6 +33,7 @@
 * [How to use colors in UI Design](https://blog.prototypr.io/how-to-use-colors-in-ui-design-16406ec06753#.i4dh6vdkp), by [@acreno_](https://twitter.com/acreno_)
 * [Apple’s Icons Have That Shape for a Very Good Reason](https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14#.hmdu0p1xu), by [@Markomatic](https://twitter.com/Markomatic)
 * [The UX of Voice: The Invisible Interface](http://www.dtelepathy.com/blog/design/the-ux-of-voice-the-invisible-interface), by [@king_jaffy](https://twitter.com/king_jaffy)
+* [The End Of User-Friendly Design](https://www.fastcodesign.com/3067070/the-end-of-user-friendly-design/), by [@kelseydollaghan](https://twitter.com/kelseydollaghan)
 
 **Videos**
 
