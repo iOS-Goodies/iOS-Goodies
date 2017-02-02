@@ -9,6 +9,7 @@
 * [18 Swift concepts for Objective C developers](https://medium.com/compileswift/18-swift-concepts-for-objective-c-developers-a3ed526fd173#.bials0wh4), by [@roch4brun](https://twitter.com/roch4brun)
 * [Classes That Conform To Protocols](http://chris.eidhof.nl/post/classes-and-protocols/), by [@chriseidhof](https://twitter.com/chriseidhof)
 * [The Yin and Yang of Unit Testing in iOS](http://www.marisibrothers.com/2017/01/the-yin-and-yang-of-unit-testing-in-ios.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Open-sourcing Chrome on iOS!](https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html), by [@ChromiumDev](https://twitter.com/ChromiumDev)
 
 **Tools/Controls**
 
