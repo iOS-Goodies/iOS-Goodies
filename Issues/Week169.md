@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Using 'swift package fetch' in an Xcode project](http://www.cocoawithlove.com/blog/package-manager-fetch.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rbarbosa](https://github.com/rbarbosa),
