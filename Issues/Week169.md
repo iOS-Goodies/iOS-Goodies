@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-*
+* [How to Combine Icons from Different Sets in Your UI](https://icons8.com/articles/how-to-combine-icons-from-different-sets-in-your-ui/), by [@ABNovels](https://twitter.com/ABNovels)
 
 **Videos**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba)
