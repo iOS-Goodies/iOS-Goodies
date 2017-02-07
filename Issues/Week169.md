@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [How to Combine Icons from Different Sets in Your UI](https://icons8.com/articles/how-to-combine-icons-from-different-sets-in-your-ui/), by [@ABNovels](https://twitter.com/ABNovels)
+* [Prototyping for Hosts: How a tool for engineers became integral to the design process](http://airbnb.design/prototyping-for-hosts/), by [@kevgrenn](https://twitter.com/kevgrenn)
 
 **Videos**
 
