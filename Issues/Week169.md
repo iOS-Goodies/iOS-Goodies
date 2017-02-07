@@ -5,6 +5,7 @@
 * [Solving Snakes and Ladders Using Graph Theory in Swift](http://agostini.tech/2016/12/05/solving-snakes-and-ladders-using-graph-theory/), by [@dagostin](https://twitter.com/dagostin)
 * [Introduction to Protocol Buffers on iOS](https://www.raywenderlich.com/149335/introduction-protocol-buffers-ios), by [@VincentNgo2](https://twitter.com/vincentngo2)
 * [Being a Mutable Collection is not Sufficient to be a MutableCollection](https://oleb.net/blog/2017/02/why-is-dictionary-not-a-mutablecollection/), by [@olebegemann](https://twitter.com/olebegemann)
+* [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7), by [@instagrameng](https://twitter.com/instagrameng)
 
 
 **Tools/Controls**
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc)
