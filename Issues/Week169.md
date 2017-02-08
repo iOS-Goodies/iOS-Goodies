@@ -7,6 +7,7 @@
 * [Being a Mutable Collection is not Sufficient to be a MutableCollection](https://oleb.net/blog/2017/02/why-is-dictionary-not-a-mutablecollection/), by [@olebegemann](https://twitter.com/olebegemann)
 * [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7), by [@instagrameng](https://twitter.com/instagrameng)
 * [Retrospective: Swift at Artsy](http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/), by [@orta](https://twitter.com/orta)
+* [Getting to Swift 3](https://medium.com/airbnb-engineering/getting-to-swift-3-at-airbnb-79a257d2b656), by [@chengyinliu](https://twitter.com/chengyinliu),  [@kompfner](https://github.com/kompfner), [@michaelbachand](https://twitter.com/michaelbachand)
 
 **Tools/Controls**
 
