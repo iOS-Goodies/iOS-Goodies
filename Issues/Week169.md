@@ -9,6 +9,7 @@
 * [Retrospective: Swift at Artsy](http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/), by [@orta](https://twitter.com/orta)
 * [Getting to Swift 3](https://medium.com/airbnb-engineering/getting-to-swift-3-at-airbnb-79a257d2b656), by [@chengyinliu](https://twitter.com/chengyinliu),  [@kompfner](https://github.com/kompfner), [@michaelbachand](https://twitter.com/michaelbachand)
 * [A Sorted Array Implementation in Swift](https://oleb.net/blog/2017/02/sorted-array/), by [@olebegemann](https://twitter.com/olebegemann)
+* [#294: Annotations with Sourcery 🔮](https://littlebitesofcocoa.com/294-annotations-with-sourcery), by [@lilbitesofcocoa](https://twitter.com/lilbitesofcocoa)
 
 **Tools/Controls**
 
