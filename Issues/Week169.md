@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [NSMyself](https://twitter.com/NSMyself)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [NSMyself](https://github.com/NSMyself)
