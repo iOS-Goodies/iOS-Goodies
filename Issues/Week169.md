@@ -15,7 +15,7 @@
 
 **Business**
 
-*
+* [How I Fight Procrastination and Usually Win](https://www.raywenderlich.com/152259/fight-procrastination-usually-win), by [@bmorefield](https://twitter.com/bmorefield)
 
 **UI/UX**
 
