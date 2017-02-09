@@ -23,6 +23,7 @@
 * [How I Fight Procrastination and Usually Win](https://www.raywenderlich.com/152259/fight-procrastination-usually-win), by [@bmorefield](https://twitter.com/bmorefield)
 * [How I went from zero experience to landing a 6-figure San Francisco design job in less than 12 months](https://medium.freecodecamp.com/0-100-from-no-experience-to-a-6-figure-sf-design-job-in-12-months-cd7546034077#.7k8o9pdoy), by [@newrichardyang](https://twitter.com/newrichardyang)
 * [You Will Regret These Choices in 10 Years](https://medium.com/the-mission/you-will-regret-these-choices-in-10-years-959761bea523#.49i124q34), by [@Alltopstartups](https://twitter.com/Alltopstartups)
+* [Russians engineer a brilliant slot machine cheat—and casinos have no-fix](https://www.wired.com/2017/02/russians-engineer-brilliant-slot-machine-cheat-casinos-no-fix/), by Brendan I. Koerner 
 
 **UI/UX**
 
