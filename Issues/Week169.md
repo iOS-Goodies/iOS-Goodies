@@ -13,7 +13,7 @@
 
 **Tools/Controls**
 
-*
+* [TinyConstraints](https://github.com/roberthein/TinyConstraints), by [@roberthein](https://twitter.com/roberthein)
 
 **Business**
 
@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [NSMyself](https://github.com/NSMyself)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/LisaDziuba), [mariusc](https://github.com/mariusc), [NSMyself](https://github.com/NSMyself), [naeemshaikh90](https://github.com/naeemshaikh90)
