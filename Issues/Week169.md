@@ -14,6 +14,7 @@
 **Tools/Controls**
 
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints), by [@roberthein](https://twitter.com/roberthein)
+* [Motion](https://github.com/CosmicMind/Motion), by [@CosmicMindcom](https://twitter.com/CosmicMindcom)
 
 **Business**
 
