@@ -15,6 +15,7 @@
 
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints), by [@roberthein](https://twitter.com/roberthein)
 * [Motion](https://github.com/CosmicMind/Motion), by [@CosmicMindcom](https://twitter.com/CosmicMindcom)
+* [Attributed](https://github.com/Nirma/Attributed), by The Nicholas
 
 **Business**
 
