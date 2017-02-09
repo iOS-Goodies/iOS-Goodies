@@ -26,6 +26,7 @@
 
 * [How to Combine Icons from Different Sets in Your UI](https://icons8.com/articles/how-to-combine-icons-from-different-sets-in-your-ui/), by [@ABNovels](https://twitter.com/ABNovels)
 * [Prototyping for Hosts: How a tool for engineers became integral to the design process](http://airbnb.design/prototyping-for-hosts/), by [@kevgrenn](https://twitter.com/kevgrenn)
+* [Material Design and the Mystery Meat Navigation Problem](https://medium.freecodecamp.com/material-design-and-the-mystery-meat-navigation-problem-65425fb5b52e#.1n7l4drwv), by Teo Yu Siang
 
 **Videos**
 
