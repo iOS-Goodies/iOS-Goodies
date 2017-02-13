@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout), by Jin Wang
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa),
+* [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90)
