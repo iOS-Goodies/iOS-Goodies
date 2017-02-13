@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout), by Jin Wang
 
 **Business**
 
