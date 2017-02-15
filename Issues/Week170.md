@@ -1,3 +1,4 @@
+* [Open Source Guides](https://opensource.guide/), by GitHub
 
 **Articles**
 
