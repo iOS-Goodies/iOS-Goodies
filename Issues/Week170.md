@@ -20,7 +20,8 @@
 
 **UI/UX**
 
-*
+* [Great Alternatives to Hamburger Menus](https://uxplanet.org/great-alternatives-to-hamburger-menus-d4c76d9414dd#.culcmaqvm), by [@mobiscroll](https://twitter.com/mobiscroll)
+* [Design Principles Behind Great Products](https://medium.muz.li/design-principles-behind-great-products-6ef13cd74ccf#.5ptw9lehy), by [@badashov](https://twitter.com/badashov)
 
 **Videos**
 
