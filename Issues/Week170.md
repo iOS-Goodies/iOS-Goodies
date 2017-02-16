@@ -23,7 +23,7 @@
 
 **Videos**
 
-*
+* [Developing iOS 10 Apps with Swift](https://itunes.apple.com/in/course/developing-ios-10-apps-swift/id1198467120), by Stanford
 
 **Credits**
 
