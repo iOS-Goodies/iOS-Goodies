@@ -1,4 +1,5 @@
 * [Open Source Guides](https://opensource.guide/), by GitHub
+* [WWDC17](https://developer.apple.com/wwdc/) announced. San Jose, CA, June 5-9
 
 **Articles**
 
