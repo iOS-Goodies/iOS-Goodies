@@ -16,7 +16,8 @@
 
 **Business**
 
-*
+* [Finding the metrics that matter for your product](https://blog.intercom.com/finding-the-metrics-that-matter-for-your-product/), by [@KHMCNALLY](https://twitter.com/khmcnally)
+
 
 **UI/UX**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/LisaDziuba)
