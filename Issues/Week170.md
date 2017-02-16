@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout), by [@KelvinJinghan](https://twitter.com/KelvinJinghan)
+* [FSPagerView](https://github.com/WenchaoD/FSPagerView), by [@WenchaoD](https://twitter.com/WenchaoD)
 
 **Business**
 
