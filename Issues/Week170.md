@@ -17,7 +17,9 @@
 
 **Business**
 
+* [Let’s stop calling them ‘soft skills’](https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb#.ldyn3fuv1), by [@ThisIsSethsBlog](https://twitter.com/ThisIsSethsBlog)
 * [Finding the metrics that matter for your product](https://blog.intercom.com/finding-the-metrics-that-matter-for-your-product/), by [@KHMCNALLY](https://twitter.com/khmcnally)
+* [The No Bullshit Guide To Selling, Managing & Keeping Customers](https://medium.com/hi-my-name-is-jon/from-content-to-clients-the-no-bullshit-guide-to-selling-managing-keeping-customers-c278fd01f35e#.xis86fi49), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
 
 
 **UI/UX**
