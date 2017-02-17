@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [Dance](https://github.com/saoudrizwan/Dance), by [@sdrzn](https://twitter.com/sdrzn)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [naeemshaikh90](https://github.com/naeemshaikh90)
