@@ -14,12 +14,13 @@
 
 **UI/UX**
 
-*
+* [Design trends prediction for 2017](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide), by Behance
+
 
 **Videos**
 
-*
+* [IOS Instagram Clone: Wiring Up our User Interface](https://youtu.be/h1UiH-9FDQs), by CodeBean
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
