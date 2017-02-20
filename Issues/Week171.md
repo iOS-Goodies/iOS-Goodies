@@ -8,6 +8,7 @@
 
 * [Dance](https://github.com/saoudrizwan/Dance), by [@sdrzn](https://twitter.com/sdrzn)
 * [WCLShineButton](https://github.com/631106979/WCLShineButton), by W_C__L
+* [Swift-VIPER-Module](https://github.com/Juanpe/Swift-VIPER-Module), by [@juanpecmios](https://www.twitter.com/juanpecmios)
 
 **Business**
 
