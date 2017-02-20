@@ -17,14 +17,16 @@
 
 **UI/UX**
 
-*
+* [Design trends prediction for 2017](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide), by Behance
+
 
 **Videos**
 
+* [IOS Instagram Clone: Wiring Up our User Interface](https://youtu.be/h1UiH-9FDQs), by CodeBean
 * [Data Consistency in an Unpredictable World](https://realm.io/news/slug-wendy-lu-data-consistency/), by [@wendyluwho](https://twitter.com/wendyluwho)
 * [Stylish Developers Guide to Unit Testing in Swift](https://realm.io/news/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/), by [@jaimzuber](https://twitter.com/jaimzuber)
 * [Acceptance Testing](https://realm.io/news/acceptance-testing/), by [@paulstringer](https://twitter.com/paulstringer)
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
