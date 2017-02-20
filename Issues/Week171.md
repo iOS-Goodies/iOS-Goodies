@@ -20,7 +20,7 @@
 
 **Videos**
 
-*
+* [Data Consistency in an Unpredictable World](https://realm.io/news/slug-wendy-lu-data-consistency/), by [@wendyluwho](https://twitter.com/wendyluwho)
 
 **Credits**
 
