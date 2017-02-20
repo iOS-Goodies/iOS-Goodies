@@ -21,6 +21,7 @@
 **Videos**
 
 * [Data Consistency in an Unpredictable World](https://realm.io/news/slug-wendy-lu-data-consistency/), by [@wendyluwho](https://twitter.com/wendyluwho)
+* [Stylish Developers Guide to Unit Testing in Swift](https://realm.io/news/altconf-jaim-zuber-stylish-developers-guide-to-unit-testing-in-swift/), by [@jaimzuber](https://twitter.com/jaimzuber)
 
 **Credits**
 
