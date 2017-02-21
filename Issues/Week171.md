@@ -18,6 +18,7 @@
 **UI/UX**
 
 * [Design trends prediction for 2017](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide), by Behance
+* [Overcast 3: Design walkthrough](https://marco.org/2017/02/20/overcast3), by [@marcoarment](https://twitter.com/marcoarment)
 
 
 **Videos**
