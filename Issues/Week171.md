@@ -4,6 +4,7 @@
 * [Providing a unified Swift error API](https://medium.com/@johnsundell/providing-a-unified-swift-error-api-3642cd3173f0), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift 4 Release process](https://swift.org/blog/swift-4-0-release-process/), by [@tkremenek](https://twitter.com/tkremenek)
 * [Framed faces. The real world status board](http://blog.krzyzanowskim.com/2017/02/21/framed-faces-the-real-world-status-board/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [Swift Integer Quick Guide](http://useyourloaf.com/blog/swift-integer-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
