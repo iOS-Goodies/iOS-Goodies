@@ -5,6 +5,7 @@
 * [Swift 4 Release process](https://swift.org/blog/swift-4-0-release-process/), by [@tkremenek](https://twitter.com/tkremenek)
 * [Framed faces. The real world status board](http://blog.krzyzanowskim.com/2017/02/21/framed-faces-the-real-world-status-board/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [Swift Integer Quick Guide](http://useyourloaf.com/blog/swift-integer-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
+* [An open letter to Apple from developers that work in a daily basis with their tools](https://github.com/dear-apple/dear-apple), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Tools/Controls**
 
