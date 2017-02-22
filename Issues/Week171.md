@@ -12,6 +12,7 @@
 * [Swift-VIPER-Module](https://github.com/Juanpe/Swift-VIPER-Module), by [@juanpecmios](https://www.twitter.com/juanpecmios)
 * [Blear](https://github.com/sindresorhus/blear), by [@sindresorhus](https://twitter.com/sindresorhus)
 * [PanelKit](https://github.com/louisdh/panelkit), by [@LouisDhauwe](http://twitter.com/LouisDhauwe)
+* [DSGradientProgressView](https://github.com/DholStudio/DSGradientProgressView), by [@abhinavtyagi](https://twitter.com/abhinavtyagi)
 
 **Business**
 
