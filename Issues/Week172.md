@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Smile](https://github.com/onmyway133/Smile), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* 
+* [@onmyway133](https://twitter.com/onmyway133)
