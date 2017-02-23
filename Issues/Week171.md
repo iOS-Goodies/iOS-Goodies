@@ -19,12 +19,13 @@
 
 **Business**
 
-* [Why we choose profit](https://m.signalvnoise.com/why-we-choose-profit-e511efc4dcb9#.xq2xiarmm), by [@jasonfried](https://twitter.com/jasonfried)
+* [Scott Belsky on the importance of your product’s first mile](https://blog.intercom.com/scott-belsky-behance-benchmark/), by Intercom
 
 **UI/UX**
 
 * [Design trends prediction for 2017](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide), by Behance
 * [Overcast 3: Design walkthrough](https://marco.org/2017/02/20/overcast3), by [@marcoarment](https://twitter.com/marcoarment)
+* [Everybody Designs: An Agile Approach to Design](https://pspdfkit.com/blog/2017/everybody-designs/), by [@smoofles](https://twitter.com/smoofles)
 
 
 **Videos**
