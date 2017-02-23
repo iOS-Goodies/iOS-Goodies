@@ -6,6 +6,7 @@
 * [Framed faces. The real world status board](http://blog.krzyzanowskim.com/2017/02/21/framed-faces-the-real-world-status-board/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [Swift Integer Quick Guide](http://useyourloaf.com/blog/swift-integer-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
 * [An open letter to Apple from developers that work in a daily basis with their tools](https://github.com/dear-apple/dear-apple), by [@pepibumur](https://twitter.com/pepibumur)
+* [Code signing and distributing — Swift](https://medium.com/badoo-developers/code-signing-and-distributing-swift-45bd3463d069), by [@BadooTech](https://twitter.com/BadooTech)
 
 **Tools/Controls**
 
@@ -35,4 +36,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
