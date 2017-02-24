@@ -6,6 +6,7 @@
 **Tools/Controls**
 
 * [Smile](https://github.com/onmyway133/Smile), by [@onmyway133](https://twitter.com/onmyway133)
+* [ELWaterFallLayout](https://github.com/NicolasKim/ELWaterFallLayout), by NicolasKim
 
 **Business**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [@onmyway133](https://twitter.com/onmyway133)
+* [@onmyway133](https://twitter.com/onmyway133), [@naeemshaikh90](https://twitter.com/naeemshaikh90)
