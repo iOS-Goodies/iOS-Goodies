@@ -9,6 +9,9 @@
 * [Smile](https://github.com/onmyway133/Smile), by [@onmyway133](https://twitter.com/onmyway133)
 * [ELWaterFallLayout](https://github.com/NicolasKim/ELWaterFallLayout), by NicolasKim
 * [ElongationPreview](https://github.com/ramotion/elongation-preview), by [@ramotion](https://twitter.com/ramotion)
+* [ABMediaView](https://github.com/andrewboryk/ABMediaView), by [@TrepIsLife](https://twitter.com/TrepIsLife)
+* [CTPanoramaView](https://github.com/scihant/CTPanoramaView), by Salih Cihan Tek
+* [TodayMind](https://github.com/cyanzhong/TodayMind), by Ying Zhong
 
 **Business**
 
@@ -26,4 +29,4 @@
 
 **Credits**
 
-* [@onmyway133](https://twitter.com/onmyway133), [@naeemshaikh90](https://twitter.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
+* [@onmyway133](https://twitter.com/onmyway133), [naeemshaikh90](https://twitter.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
