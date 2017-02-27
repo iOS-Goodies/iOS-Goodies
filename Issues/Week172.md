@@ -11,6 +11,7 @@
 * [ElongationPreview](https://github.com/ramotion/elongation-preview), by [@ramotion](https://twitter.com/ramotion)
 * [ABMediaView](https://github.com/andrewboryk/ABMediaView), by [@TrepIsLife](https://twitter.com/TrepIsLife)
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView), by Salih Cihan Tek
+* [TodayMind](https://github.com/cyanzhong/TodayMind), by Ying Zhong
 
 **Business**
 
