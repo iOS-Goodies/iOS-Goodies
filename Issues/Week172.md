@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [@onmyway133](https://twitter.com/onmyway133), [naeemshaikh90](https://twitter.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
+* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
