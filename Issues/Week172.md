@@ -23,10 +23,11 @@
 
 * [Scott Belsky on the importance of your product’s first mile](https://blog.intercom.com/scott-belsky-behance-benchmark/), by Intercom
 * [Everybody Designs: An Agile Approach to Design](https://pspdfkit.com/blog/2017/everybody-designs/), by [@smoofles](https://twitter.com/smoofles)
+* [Overcast 3: Design walkthrough](https://marco.org/2017/02/20/overcast3), by [@marcoarment](https://twitter.com/marcoarment)
 
 **Videos**
 
-* 
+* [How To Be An iOS Time Lord](https://cocoaheads.tv/how-to-be-an-ios-time-lord-by-ameir-al-zoubi/), by [@ameir](https://twitter.com/ameir)
 
 **Credits**
 
