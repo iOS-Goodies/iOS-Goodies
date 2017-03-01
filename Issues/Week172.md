@@ -4,6 +4,7 @@
 * [Type erasure using closures in Swift](https://medium.com/@johnsundell/type-erasure-using-closures-in-swift-1e6125231f8), by [@johnsundell](https://twitter.com/johnsundell)
 * [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Container View Controllers](https://useyourloaf.com/blog/container-view-controllers/), by [@kharrison](https://twitter.com/kharrison)
+* [The weirdest subclass I've ever written](https://www.cocoawithlove.com/blog/protocols-versus-subclasses.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
+* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
