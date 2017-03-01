@@ -14,6 +14,7 @@
 * [ABMediaView](https://github.com/andrewboryk/ABMediaView), by [@TrepIsLife](https://twitter.com/TrepIsLife)
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView), by Salih Cihan Tek
 * [TodayMind](https://github.com/cyanzhong/TodayMind), by Ying Zhong
+* Serpent [repo](https://github.com/nodes-ios/Serpent) and [article](https://engineering.nodesagency.com/articles/iOS/Serpent-more-than-just-another-JSON-mapping-framework/), by [@nodes-ios](https://github.com/nodes-ios)
 
 **Business**
 
