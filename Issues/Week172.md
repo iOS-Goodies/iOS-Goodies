@@ -28,6 +28,7 @@
 **Videos**
 
 * [How To Be An iOS Time Lord](https://cocoaheads.tv/how-to-be-an-ios-time-lord-by-ameir-al-zoubi/), by [@ameir](https://twitter.com/ameir)
+* [Swift at Scale](https://realm.io/news/swift-at-scale/), by [@tgebarowski](https://twitter.com/tgebarowski),[@wojteklu](https://twitter.com/wojteklu)
 
 **Credits**
 
