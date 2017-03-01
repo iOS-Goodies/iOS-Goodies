@@ -5,6 +5,7 @@
 * [Comparative Asynchronous Programming](https://ashfurrow.com/blog/comparative-asynchronous-programming/), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Container View Controllers](https://useyourloaf.com/blog/container-view-controllers/), by [@kharrison](https://twitter.com/kharrison)
 * [The weirdest subclass I've ever written](https://www.cocoawithlove.com/blog/protocols-versus-subclasses.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Core Graphics, Part 4: A Path! A Path!](https://www.bignerdranch.com/blog/core-graphics-part-4-a-path-a-path/), by [@borkware](https://twitter.com/borkware)
 
 **Tools/Controls**
 
