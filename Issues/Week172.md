@@ -30,6 +30,8 @@
 
 * [Scott Belsky on the importance of your product’s first mile](https://blog.intercom.com/scott-belsky-behance-benchmark/), by Intercom
 * [Everybody Designs: An Agile Approach to Design](https://pspdfkit.com/blog/2017/everybody-designs/), by [@smoofles](https://twitter.com/smoofles)
+* [Design a Perfect Search Box](https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c#.yxf6xk7ux), by [@101babich](https://twitter.com/101babich)
+* [UI Animation: Please Use Responsibly](https://uxdesign.cc/ui-animation-please-use-responsibly-e707dbdb12d5#.wr7ffrkpc), by [@msNaema](https://twitter.com/msNaema)
 
 
 **Videos**
