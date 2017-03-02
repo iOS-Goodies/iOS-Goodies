@@ -23,8 +23,10 @@
 
 **Business**
 
+* [Exponential growth devours and corrupts](https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131#.y4dovve50), by [@dhh](https://twitter.com/dhh)
 * [The ROI of Thanking Your Customers](https://www.helpscout.net/blog/roi-of-thanking-customers/), by [@emilytlentz](https://www.helpscout.net/blog/roi-of-thanking-customers/)
 * [Feedback Mountain](http://www.allenpike.com/2017/feedback-mountain/), by [@apike](https://twitter.com/apike)
+* [Surviving the App Store](https://simpleprogrammer.com/2017/02/24/surviving-the-app-store/), by [@amirrajan](https://twitter.com/amirrajan)
 
 **UI/UX**
 
@@ -32,6 +34,7 @@
 * [Everybody Designs: An Agile Approach to Design](https://pspdfkit.com/blog/2017/everybody-designs/), by [@smoofles](https://twitter.com/smoofles)
 * [Design a Perfect Search Box](https://uxplanet.org/design-a-perfect-search-box-b6baaf9599c#.yxf6xk7ux), by [@101babich](https://twitter.com/101babich)
 * [UI Animation: Please Use Responsibly](https://uxdesign.cc/ui-animation-please-use-responsibly-e707dbdb12d5#.wr7ffrkpc), by [@msNaema](https://twitter.com/msNaema)
+* [Is the iMessage App Store dying or already dead?](https://medium.com/@ahow/is-the-imessage-app-store-dying-or-already-dead-f71933622603#.4i90maolp), by [@ahow](https://twitter.com/ahow)
 
 
 **Videos**
