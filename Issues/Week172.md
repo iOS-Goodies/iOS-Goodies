@@ -18,6 +18,7 @@
 * Serpent [repo](https://github.com/nodes-ios/Serpent) and [article](https://engineering.nodesagency.com/articles/iOS/Serpent-more-than-just-another-JSON-mapping-framework/), by [@nodes-ios](https://github.com/nodes-ios)
 * [Attabench](https://github.com/lorentey/Attabench), by [@lorentey](https://twitter.com/lorentey)
 * [RequestPermission](https://github.com/IvanVorobei/RequestPermission), by [@ivansprw](https://twitter.com/ivansprw)
+* [Twitter Image Pipline](https://github.com/twitter/ios-twitter-image-pipeline), by [@Twitter](https://twitter.com/twitter)
 
 **Business**
 
