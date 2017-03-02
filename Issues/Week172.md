@@ -17,6 +17,7 @@
 * [TodayMind](https://github.com/cyanzhong/TodayMind), by Ying Zhong
 * Serpent [repo](https://github.com/nodes-ios/Serpent) and [article](https://engineering.nodesagency.com/articles/iOS/Serpent-more-than-just-another-JSON-mapping-framework/), by [@nodes-ios](https://github.com/nodes-ios)
 * [Attabench](https://github.com/lorentey/Attabench), by [@lorentey](https://twitter.com/lorentey)
+* [RequestPermission](https://github.com/IvanVorobei/RequestPermission), by [@ivansprw](https://twitter.com/ivansprw)
 
 **Business**
 
