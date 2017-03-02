@@ -16,6 +16,7 @@
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView), by Salih Cihan Tek
 * [TodayMind](https://github.com/cyanzhong/TodayMind), by Ying Zhong
 * Serpent [repo](https://github.com/nodes-ios/Serpent) and [article](https://engineering.nodesagency.com/articles/iOS/Serpent-more-than-just-another-JSON-mapping-framework/), by [@nodes-ios](https://github.com/nodes-ios)
+* [JustPersist](https://github.com/justeat/JustPersist), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Business**
 
@@ -35,4 +36,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [albertodebortoli](https://github.com/albertodebortoli)
