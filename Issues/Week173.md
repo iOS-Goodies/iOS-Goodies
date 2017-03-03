@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Swift sequences: The art of being lazy](https://medium.com/@johnsundell/swift-sequences-the-art-of-being-lazy-5b4bd99b159a), by [@johnsundell](https://twitter.com/johnsundell)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive)
+* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc)
