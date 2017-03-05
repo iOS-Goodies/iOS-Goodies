@@ -3,6 +3,7 @@
 
 * [Swift sequences: The art of being lazy](https://medium.com/@johnsundell/swift-sequences-the-art-of-being-lazy-5b4bd99b159a), by [@johnsundell](https://twitter.com/johnsundell)
 * [Composable UIs](https://blog.caramba.io/composable-uis-3f1a2dc381eb), by [@pepibumur](https://twitter.com/pepibumur)
+* [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 
 **Tools/Controls**
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
+* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),
