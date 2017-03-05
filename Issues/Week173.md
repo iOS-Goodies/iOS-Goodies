@@ -16,6 +16,7 @@
 **UI/UX**
 
 * [Improving Collaboration with Zeplin](http://blog.prolificinteractive.com/2017/03/02/improving-designer-and-developer-collaboration-with-zeplin/), by [@weareprolific](https://twitter.com/weareprolific)
+* [How to not utterly ruin your mobile app’s user interface](https://medium.freecodecamp.com/how-to-not-utterly-ruin-your-mobile-apps-user-interface-8433cee6477d#.44en3jchn), by [@LukKonior](https://twitter.com/LukKonior)
 
 **Videos**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc)
+* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
