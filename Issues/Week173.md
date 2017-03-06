@@ -5,7 +5,7 @@
 * [Composable UIs](https://blog.caramba.io/composable-uis-3f1a2dc381eb), by [@pepibumur](https://twitter.com/pepibumur)
 * [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Integrating Mixpanel Analytics into iOS App for Tracking User Events](http://www.appcoda.com/mixpanel-integration/), by [@AppCodaMobile](https://twitter.com/appcodamobile)
-
+* [WWDC Scholarship Details Now Available](https://developer.apple.com/wwdc/scholarships/), by Apple
 
 **Tools/Controls**
 
