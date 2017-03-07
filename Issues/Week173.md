@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-*
+* [AnimatedDropdownMenu](https://github.com/JonyFang/AnimatedDropdownMenu), by [@jony_chunfang](https://twitter.com/jony_chunfang)
 
 **Business**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),
+* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshahikh90](https://github.com/naeemshahikh90),
