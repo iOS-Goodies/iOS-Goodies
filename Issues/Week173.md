@@ -6,6 +6,7 @@
 * [Looking at Model-View-Controller in Cocoa](https://www.cocoawithlove.com/blog/mvc-and-cocoa.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Integrating Mixpanel Analytics into iOS App for Tracking User Events](http://www.appcoda.com/mixpanel-integration/), by [@AppCodaMobile](https://twitter.com/appcodamobile)
 * [WWDC Scholarship Details Now Available](https://developer.apple.com/wwdc/scholarships/), by Apple
+* [Faster Together: Uber Engineering’s iOS Monorepo](https://eng.uber.com/ios-monorepo/), by [@alanzeino](https://twitter.com/alanzeino)
 
 **Tools/Controls**
 
