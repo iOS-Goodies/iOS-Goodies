@@ -8,6 +8,7 @@
 * [WWDC Scholarship Details Now Available](https://developer.apple.com/wwdc/scholarships/), by Apple
 * [Faster Together: Uber Engineering’s iOS Monorepo](https://eng.uber.com/ios-monorepo/), by [@alanzeino](https://twitter.com/alanzeino)
 * [Safeguarding Equatable Implementations](https://oleb.net/blog/2017/03/dump-as-equatable-safeguard/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Pivoting our Format](https://medium.com/@SwiftAveiro/pivoting-our-format-173c7be4dca8), by [@SwiftAveiro](https://twitter.com/SwiftAveiro)
 
 **Tools/Controls**
 
@@ -33,4 +34,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshahikh90](https://github.com/naeemshahikh90), [nunogoncalves](https://github.com/nunogoncalves)
+* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshahikh90](https://github.com/naeemshahikh90), [nunogoncalves](https://github.com/nunogoncalves), [NSMyself](https://github.com/NSMyself)
