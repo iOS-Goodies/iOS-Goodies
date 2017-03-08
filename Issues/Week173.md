@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [AnimatedDropdownMenu](https://github.com/JonyFang/AnimatedDropdownMenu), by [@jony_chunfang](https://twitter.com/jony_chunfang)
+* [SelectableTextView](https://github.com/jhurray/SelectableTextView), by [@JeffHurray](https://twitter.com/JeffHurray)
 * [Nori](https://github.com/yukiasai/Nori), by [@yukiasai417](https://twitter.com/yukiasai417)
 
 **Business**
