@@ -7,6 +7,7 @@
 * [Integrating Mixpanel Analytics into iOS App for Tracking User Events](http://www.appcoda.com/mixpanel-integration/), by [@AppCodaMobile](https://twitter.com/appcodamobile)
 * [WWDC Scholarship Details Now Available](https://developer.apple.com/wwdc/scholarships/), by Apple
 * [Faster Together: Uber Engineering’s iOS Monorepo](https://eng.uber.com/ios-monorepo/), by [@alanzeino](https://twitter.com/alanzeino)
+* [Safeguarding Equatable Implementations](https://oleb.net/blog/2017/03/dump-as-equatable-safeguard/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
