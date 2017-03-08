@@ -24,6 +24,7 @@
 * [How to not utterly ruin your mobile app’s user interface](https://medium.freecodecamp.com/how-to-not-utterly-ruin-your-mobile-apps-user-interface-8433cee6477d#.44en3jchn), by [@LukKonior](https://twitter.com/LukKonior)
 * [FAQ: Tips and tools for getting started in user experience design (aka UX)](https://medium.com/google-design/faq-tips-and-tools-for-getting-started-in-user-experience-design-aka-ux-f46406729d4d#.tmqmzbb4m), by [@_fionayeung](https://twitter.com/_fionayeung)
 * [As a Designer I want better Release Notes](https://uxdesign.cc/design-better-release-notes-3e8c8c785231#.4kwm31p44), by [@rob_gill_](https://twitter.com/rob_gill_)
+* [LottieFiles](http://www.lottiefiles.com/)
 
 **Videos**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshahikh90](https://github.com/naeemshahikh90),
+* [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshahikh90](https://github.com/naeemshahikh90), [nunogoncalves](https://github.com/nunogoncalves)
