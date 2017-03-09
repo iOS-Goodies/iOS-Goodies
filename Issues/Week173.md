@@ -1,3 +1,4 @@
+* Oh well, some bad news. [Developers can no longer edit App Store descriptions without App Review approval](https://9to5mac.com/2017/03/09/developers-edit-app-store-descriptions-app-review/).
 
 **Articles**
 
@@ -9,6 +10,7 @@
 * [Faster Together: Uber Engineering’s iOS Monorepo](https://eng.uber.com/ios-monorepo/), by [@alanzeino](https://twitter.com/alanzeino)
 * [Safeguarding Equatable Implementations](https://oleb.net/blog/2017/03/dump-as-equatable-safeguard/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Pivoting our Format](https://medium.com/@SwiftAveiro/pivoting-our-format-173c7be4dca8), by [@SwiftAveiro](https://twitter.com/SwiftAveiro)
+* [Xcode - tips and tricks](http://todoremove.com/post/2017-03/xcode-tips-and-tricks/), by [@KrrisPl](https://twitter.com/KrrisPl)
 
 **Tools/Controls**
 
@@ -18,11 +20,13 @@
 * [WatchNote](https://github.com/ezefranca/WatchNote), by [@ezefranca](https://twitter.com/ezefranca)
 * [QuietModemKit](https://github.com/quiet/QuietModemKit), by Quiet Modem Project
 * [KiteKit](https://github.com/kitecomp/kitekit), by kitecomp
+* [Struct](https://www.get-struct.tools/), by [lyptt](https://github.com/lyptt)
 
 **Business**
 
 * [Tales Of Job Burnout: How To Fix The Aftermath Of An Overachiever Attitude](http://blog.trello.com/job-burnout-how-to-fix-the-aftermath-of-an-overachiever-attitude), by [@suzannezuppello](https://twitter.com/suzannezuppello)
 * [Free 10-week online course on making startups](https://blog.ycombinator.com/onlineclass/), by [@ycombinator](https://twitter.com/ycombinator)
+* [The metric that Indian startups once swore by is now being blamed for all the sector’s ills](https://qz.com/918337/indian-e-commerce-dumps-its-once-favourite-baby-gmv-for-what-it-shunned-for-a-long-time-profitability/)
 
 **UI/UX**
 
