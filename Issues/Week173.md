@@ -16,6 +16,8 @@
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView), by [@JeffHurray](https://twitter.com/JeffHurray)
 * [Nori](https://github.com/yukiasai/Nori), by [@yukiasai417](https://twitter.com/yukiasai417)
 * [WatchNote](https://github.com/ezefranca/WatchNote), by [@ezefranca](https://twitter.com/ezefranca)
+* [QuietModemKit](https://github.com/quiet/QuietModemKit), by Quiet Modem Project
+* [KiteKit](https://github.com/kitecomp/kitekit), by kitecomp
 
 **Business**
 
