@@ -21,6 +21,7 @@
 
 **Business**
 
+* [Tales Of Job Burnout: How To Fix The Aftermath Of An Overachiever Attitude](http://blog.trello.com/job-burnout-how-to-fix-the-aftermath-of-an-overachiever-attitude), by [@suzannezuppello](https://twitter.com/suzannezuppello)
 * [Free 10-week online course on making startups](https://blog.ycombinator.com/onlineclass/), by [@ycombinator](https://twitter.com/ycombinator)
 
 **UI/UX**
@@ -31,6 +32,7 @@
 * [As a Designer I want better Release Notes](https://uxdesign.cc/design-better-release-notes-3e8c8c785231#.4kwm31p44), by [@rob_gill_](https://twitter.com/rob_gill_)
 * [LottieFiles](http://www.lottiefiles.com/)
 * [Why Wireframes?](http://thehipperelement.com/post/158108301994/why-wireframes) by [@HipperElement](https://twitter.com/HipperElement)
+[Design Scenarios - Communicating the Small Steps in the User Experience](https://www.interaction-design.org/literature/article/design-scenarios-communicating-the-small-steps-in-the-user-experience), by Katie Inglis
 
 **Videos**
 
