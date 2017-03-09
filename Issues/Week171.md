@@ -20,6 +20,7 @@
 **Business**
 
 * [Why we choose profit](https://m.signalvnoise.com/why-we-choose-profit-e511efc4dcb9#.xq2xiarmm), by [@jasonfried](https://twitter.com/jasonfried)
+* [The ROI of Thanking Your Customers](https://www.helpscout.net/blog/roi-of-thanking-customers/), by [@emilytlentz](https://www.helpscout.net/blog/roi-of-thanking-customers/)
 
 **UI/UX**
 
