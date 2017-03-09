@@ -32,11 +32,12 @@
 * [As a Designer I want better Release Notes](https://uxdesign.cc/design-better-release-notes-3e8c8c785231#.4kwm31p44), by [@rob_gill_](https://twitter.com/rob_gill_)
 * [LottieFiles](http://www.lottiefiles.com/)
 * [Why Wireframes?](http://thehipperelement.com/post/158108301994/why-wireframes) by [@HipperElement](https://twitter.com/HipperElement)
-[Design Scenarios - Communicating the Small Steps in the User Experience](https://www.interaction-design.org/literature/article/design-scenarios-communicating-the-small-steps-in-the-user-experience), by Katie Inglis
+* [Design Scenarios - Communicating the Small Steps in the User Experience](https://www.interaction-design.org/literature/article/design-scenarios-communicating-the-small-steps-in-the-user-experience), by Katie Inglis
+* [What Kind of Logo Do You Get for $5?](https://medium.com/swlh/in-the-past-couple-years-startups-have-started-realizing-that-good-design-can-make-the-difference-2fdeb90d390a#.y8bg3wqfz) by [@SachaGreif](https://twitter.com/SachaGreif)
 
 **Videos**
 
-*
+* [Building a Production Server Swift App: Lessons Learned](https://realm.io/news/slug-jeff-bergier-building-production-server-swift-app/), by [@jeffburg](https://twitter.com/jeffburg)
 
 **Credits**
 
