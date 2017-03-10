@@ -21,6 +21,10 @@ Shouldn't be more than 2 weeks old (although exceptions can be made: e.g. Tools/
 
 Each week we launch the goodies on Thursday and create a new markdown file that will have the issues for the next week. Rui and Tiago are responsible for launching the Goodies (Website + newsletter).
 
+### Your approved contribution didn't make the newsletter
+
+As a general rule, please do not submit your link again if it was not selected to be part of the newsletter. We reserve the right to include the link again under special circumstances (i.e. the previous newsletter had a large number of contributions). If you feel your contribution deserves a second look, please [open an issue](https://github.com/iOS-Goodies/iOS-Goodies/issues/new).
+
 ## Categories
 
  * **Articles** - Generally speaking these are technical articles. They should expose the reader to code, but it's not mandatory.
