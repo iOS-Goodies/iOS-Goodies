@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [PPMusicImageShadow](https://github.com/PierrePerrin/PPMusicImageShadow), by Pierre
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [naeemshaikh90](https://github.com/naeemshaikh90)
