@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [PPMusicImageShadow](https://github.com/PierrePerrin/PPMusicImageShadow), by Pierre
+* [Marathon](https://github.com/JohnSundell/Marathon), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business**
 
