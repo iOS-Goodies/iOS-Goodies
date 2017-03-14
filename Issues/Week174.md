@@ -9,6 +9,7 @@
 
 * [PPMusicImageShadow](https://github.com/PierrePerrin/PPMusicImageShadow), by Pierre
 * [Marathon](https://github.com/JohnSundell/Marathon), by [@johnsundell](https://twitter.com/johnsundell)
+* [GodEye](https://github.com/zixun/GodEye), by zixun
 
 **Business**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [lucianomarisi](https://github.com/lucianomarisi)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [lucianomarisi](https://github.com/lucianomarisi), [ramshandilya](https://github.com/ramshandilya)
