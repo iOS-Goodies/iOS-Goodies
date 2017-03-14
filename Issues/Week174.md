@@ -13,6 +13,7 @@
 * [Spruce iOS Animation Library](https://github.com/willowtreeapps/spruce-ios), by WillowTree, Inc.
 * [ReverseExtension](https://github.com/marty-suzuki/ReverseExtension), by [@marty_suzuki](https://twitter.com/marty_suzuki)
 * [PPRows](https://github.com/jkpang/PPRows), by jkpang
+* [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider), by WorldDownTown
 
 **Business**
 
