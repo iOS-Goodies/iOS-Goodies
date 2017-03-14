@@ -11,6 +11,7 @@
 * [Marathon](https://github.com/JohnSundell/Marathon), by [@johnsundell](https://twitter.com/johnsundell)
 * [Gitee](https://github.com/Nightonke/Gitee), by Weiping Huang
 * [Spruce iOS Animation Library](https://github.com/willowtreeapps/spruce-ios), by WillowTree, Inc.
+* [Marathon](https://github.com/JohnSundell/Marathon), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business**
 
