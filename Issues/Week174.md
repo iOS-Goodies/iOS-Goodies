@@ -27,7 +27,8 @@
 
 **Videos**
 
-*
+* [Break the Monolith with (B)Viper Modules](https://realm.io/news/break-the-monoloth-with-b-viper-modules/), by [@nzaghini](https://twitter.com/nzaghini)
+* [UI and Snapshot Testing](https://realm.io/news/cmdu-conf-luis-ascorbe-ui-and-snapshottesting/), by [@Lascorbe](https://twitter.com/Lascorbe)
 
 **Credits**
 
