@@ -15,6 +15,7 @@
 * [PPRows](https://github.com/jkpang/PPRows), by jkpang
 * [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider), by WorldDownTown
 * [GodEye](https://github.com/zixun/GodEye), by zixun
+* [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl), by Chili Labs
 
 **Business**
 
