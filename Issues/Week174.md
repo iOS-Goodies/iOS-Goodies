@@ -5,6 +5,7 @@
 * [Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html), by [@ lucianomarisi](https://twitter.com/lucianomarisi)
 * [The problem with macOS and Drawing](http://ericasadun.com/2017/03/12/the-problem-with-macos-and-drawing/), by [@ericasadun](https://twitter.com/ericasadun)
 * [ShatChat](https://500ish.com/chatshat-c8620979f98b#.6elgyobu1), by [@mgsiegler](https://twitter.com/mgsiegler)
+* [Swift AST written in Swift. Part 1 of ∞](https://medium.com/@DAloG/swift-ast-wrote-in-swift-part-1-of-e8768cae9cd3#.x25swwbo0), by [@DAlooG](https://twitter.com/DAlooG)
 
 **Tools/Controls**
 
@@ -24,11 +25,13 @@
 
 **UI/UX**
 
-*
+* [Battling Perfectionism](https://medium.com/the-year-of-the-looking-glass/battling-perfectionism-713537a8b8b6#.bqx2thute), by [@joulee](https://twitter.com/joulee)
+* [Sketch 43 is coming to town with a new game. An open file format!](https://medium.com/sketch-app-sources/sketch-43-is-coming-to-town-with-a-new-game-an-open-file-format-ae62e7e7c223#.e92p9zapy) by [@jasim_ab](https://twitter.com/jasim_ab)
 
 **Videos**
 
-*
+* [Break the Monolith with (B)Viper Modules](https://realm.io/news/break-the-monoloth-with-b-viper-modules/), by [@nzaghini](https://twitter.com/nzaghini)
+* [UI and Snapshot Testing](https://realm.io/news/cmdu-conf-luis-ascorbe-ui-and-snapshottesting/), by [@Lascorbe](https://twitter.com/Lascorbe)
 
 **Credits**
 
