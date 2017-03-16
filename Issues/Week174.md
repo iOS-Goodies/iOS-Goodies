@@ -5,6 +5,7 @@
 * [Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html), by [@ lucianomarisi](https://twitter.com/lucianomarisi)
 * [The problem with macOS and Drawing](http://ericasadun.com/2017/03/12/the-problem-with-macos-and-drawing/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Swift AST written in Swift. Part 1 of ∞](https://medium.com/@DAloG/swift-ast-wrote-in-swift-part-1-of-e8768cae9cd3#.x25swwbo0), by [@DAlooG](https://twitter.com/DAlooG)
+* [The Recipe for Singletons Removal](http://albertodebortoli.com/blog/2017/03/15/The-recipe-for-Singletons-removal/), by [@albertodebo](https://twitter.com/albertodebo)
 
 **Tools/Controls**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [lucianomarisi](https://github.com/lucianomarisi), [ramshandilya](https://github.com/ramshandilya)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [lucianomarisi](https://github.com/lucianomarisi), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli)
