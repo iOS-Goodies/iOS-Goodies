@@ -4,6 +4,7 @@
 * [Creating an iOS Framework with CookieCutter Swift](https://medium.com/cocoaacademymag/creating-an-ios-framework-with-cookiecutter-swift-97f7965b83df#.riyp8az4w), by [@tpLioy](https://twitter.com/tpLioy)
 * [Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html), by [@ lucianomarisi](https://twitter.com/lucianomarisi)
 * [The problem with macOS and Drawing](http://ericasadun.com/2017/03/12/the-problem-with-macos-and-drawing/), by [@ericasadun](https://twitter.com/ericasadun)
+* [ShatChat](https://500ish.com/chatshat-c8620979f98b#.6elgyobu1), by [@mgsiegler](https://twitter.com/mgsiegler)
 * [Swift AST written in Swift. Part 1 of ∞](https://medium.com/@DAloG/swift-ast-wrote-in-swift-part-1-of-e8768cae9cd3#.x25swwbo0), by [@DAlooG](https://twitter.com/DAlooG)
 * [The Recipe for Singletons Removal](http://albertodebortoli.com/blog/2017/03/15/The-recipe-for-Singletons-removal/), by [@albertodebo](https://twitter.com/albertodebo)
 * [Getting  Started with Neural Networks in iOS 10](http://blog.prolificinteractive.com/2017/03/15/getting-started-with-neural-networks-in-ios-10-2/), by [@weareprolific](https://twitter.com/weareprolific)
