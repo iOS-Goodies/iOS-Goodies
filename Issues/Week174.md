@@ -7,6 +7,7 @@
 * [Swift AST written in Swift. Part 1 of ∞](https://medium.com/@DAloG/swift-ast-wrote-in-swift-part-1-of-e8768cae9cd3#.x25swwbo0), by [@DAlooG](https://twitter.com/DAlooG)
 * [The Recipe for Singletons Removal](http://albertodebortoli.com/blog/2017/03/15/The-recipe-for-Singletons-removal/), by [@albertodebo](https://twitter.com/albertodebo)
 * [Getting  Started with Neural Networks in iOS 10](http://blog.prolificinteractive.com/2017/03/15/getting-started-with-neural-networks-in-ios-10-2/), by [@weareprolific](https://twitter.com/weareprolific)
+* [IB Free in Practice 1: Managing a Modal](https://www.raizlabs.com/dev/2017/03/ibfree-practice-1-managing-modal/), by [@jAtSway](https://twitter.com/jAtSway)
 
 **Tools/Controls**
 
@@ -37,4 +38,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [lucianomarisi](https://github.com/lucianomarisi), [ramshandilya](https://github.com/ramshandilya), [prolificinteractive](https://github.com/prolificinteractive), [albertodebortoli](https://github.com/albertodebortoli)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [lucianomarisi](https://github.com/lucianomarisi), [ramshandilya](https://github.com/ramshandilya), [prolificinteractive](https://github.com/prolificinteractive), [albertodebortoli](https://github.com/albertodebortoli), [rbarbosa](https://github.com/rbarbosa)
