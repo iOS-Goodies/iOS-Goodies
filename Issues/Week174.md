@@ -8,6 +8,7 @@
 * [The Recipe for Singletons Removal](http://albertodebortoli.com/blog/2017/03/15/The-recipe-for-Singletons-removal/), by [@albertodebo](https://twitter.com/albertodebo)
 * [Getting  Started with Neural Networks in iOS 10](http://blog.prolificinteractive.com/2017/03/15/getting-started-with-neural-networks-in-ios-10-2/), by [@weareprolific](https://twitter.com/weareprolific)
 * [IB Free in Practice 1: Managing a Modal](https://www.raizlabs.com/dev/2017/03/ibfree-practice-1-managing-modal/), by [@jAtSway](https://twitter.com/jAtSway)
+* [RxNot](http://subfurther.com/blog/2017/03/13/rxnot/), by [@invalidname](https://twitter.com/invalidname)
 
 **Tools/Controls**
 
