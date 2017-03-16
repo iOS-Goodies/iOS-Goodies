@@ -25,12 +25,16 @@
 
 **Business**
 
-*
+* [These Failed Apps Discovered a Hidden Rule of the Web](https://backchannel.com/these-failed-apps-discovered-a-hidden-rule-of-the-web-391471ca5952#.b83a7vvwl), by [@mirandakatz](https://twitter.com/mirandakatz)
+* [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1#.dp9o7we8x), by [@carlyhasredhair](https://twitter.com/carlyhasredhair)
 
 **UI/UX**
 
+* [Iteration is not design](https://medium.com/the-design-innovator/iteration-is-not-design-668695445f76#.ns1pwew95), [@toddols](https://twitter.com/toddols)
+* [Uber Navigation](https://medium.com/uber-design/uber-navigation-f662e7611f3#.3fundcqla), by Cady Wachsman
 * [Battling Perfectionism](https://medium.com/the-year-of-the-looking-glass/battling-perfectionism-713537a8b8b6#.bqx2thute), by [@joulee](https://twitter.com/joulee)
 * [Sketch 43 is coming to town with a new game. An open file format!](https://medium.com/sketch-app-sources/sketch-43-is-coming-to-town-with-a-new-game-an-open-file-format-ae62e7e7c223#.e92p9zapy) by [@jasim_ab](https://twitter.com/jasim_ab)
+
 
 **Videos**
 
