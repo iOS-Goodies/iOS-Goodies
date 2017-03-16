@@ -19,6 +19,7 @@
 * [RangeSeekSlider](https://github.com/WorldDownTown/RangeSeekSlider), by WorldDownTown
 * [GodEye](https://github.com/zixun/GodEye), by zixun
 * [CHIPageControl](https://github.com/ChiliLabs/CHIPageControl), by Chili Labs
+* [PRGRoundSlider](https://github.com/ispiropoulos/PRGRoundSlider), by Iannis Spiropoulos
 
 **Business**
 
