@@ -23,7 +23,7 @@
 
 **Business**
 
-*
+* [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/), by [@nolanlawson](https://twitter.com/nolanlawson/)
 
 **UI/UX**
 
