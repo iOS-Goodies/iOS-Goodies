@@ -25,6 +25,7 @@
 
 **Business**
 
+* [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/), by [@nolanlawson](https://twitter.com/nolanlawson/)
 * [These Failed Apps Discovered a Hidden Rule of the Web](https://backchannel.com/these-failed-apps-discovered-a-hidden-rule-of-the-web-391471ca5952#.b83a7vvwl), by [@mirandakatz](https://twitter.com/mirandakatz)
 * [How Slack Supports Junior Engineers](https://slack.engineering/how-slack-supports-junior-engineers-89f6dcfe74a1#.dp9o7we8x), by [@carlyhasredhair](https://twitter.com/carlyhasredhair)
 
