@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Swift Needs a Scope Keyword](http://blog.jaredsinclair.com/post/158514342165/swift-needs-a-scope-keyword), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [Naeemshaikh90](https://github.com/naeemshaikh90)
+* [Naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), 
