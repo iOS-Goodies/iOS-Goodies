@@ -21,7 +21,7 @@
 
 **Videos**
 
-*
+*  [Everything you ever wanted to know about sequence and collection](https://realm.io/news/try-swift-soroush-khanlou-sequence-collection/), by [@khanlou](https://twitter.com/khanlou)
 
 **Credits**
 
