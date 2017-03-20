@@ -13,7 +13,7 @@
 
 **Business**
 
-*
+* [The Ownership Problem](https://medium.com/front-conference/the-ownership-problem-52e0ddd11284#.hulmthbof), by [@cap](https://twitter.com/cap)
 
 **UI/UX**
 
