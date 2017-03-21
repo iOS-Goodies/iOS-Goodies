@@ -18,6 +18,8 @@
 **UI/UX**
 
 * [Mobile menu inspiration](https://medium.muz.li/mobile-menu-inspiration-efce45316646#.pw9n4x9sg), by [@usemuzli](https://twitter.com/usemuzli)
+* [YNExpandableCell](https://github.com/younatics/YNExpandableCell), by [@younatics](https://twitter.com/younatics)
+
 
 **Videos**
 
