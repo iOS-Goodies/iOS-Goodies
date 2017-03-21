@@ -4,7 +4,7 @@
 * [Swift Needs a Scope Keyword](http://blog.jaredsinclair.com/post/158514342165/swift-needs-a-scope-keyword), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [System Level Breakpoints in Swift](http://indiestack.com/2017/03/system-level-breakpoints-in-swift/), by [@danielpunkass](https://twitter.com/danielpunkass)
 * [Variable Height Table View Header](https://useyourloaf.com/blog/variable-height-table-view-header/), by [@kharrison](https://twitter.com/kharrison)
-
+* [Linear Interpolation and Fading Hairlines](https://www.raizlabs.com/dev/2017/03/linear-interpolation-fading-hairlines/), by [@raizlabs](http://www.twitter.com/raizlabs)
 
 **Tools/Controls**
 
