@@ -10,6 +10,7 @@
 * [Transition](https://github.com/Touchwonders/Transition), by [@touchwonders](https://twitter.com/touchwonders)
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator), by [@sindresorhus](https://twitter.com/sindresorhus)
 * [Plank - Immutable Model Generator for iOS](https://github.com/pinterest/plank) by [@rmalik](https://twitter.com/rmalik)
+* [GIOVANNI](https://github.com/gabrieloc/GIOVANNI), by [@_gabrieloc](http://twitter.com/_gabrieloc)
 
 **Business**
 
