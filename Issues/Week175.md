@@ -21,6 +21,7 @@
 **Business**
 
 * [The Ownership Problem](https://medium.com/front-conference/the-ownership-problem-52e0ddd11284#.hulmthbof), by [@cap](https://twitter.com/cap)
+* [How to Build a Product Loved by Millions and Get Acquired by Google: The Firebase Story](https://hackernoon.com/how-to-build-a-product-loved-by-millions-and-get-acquired-by-google-the-firebase-story-82dab4e3e80c#.z7zhu4wmb), by [@fcollective](https://twitter.com/fcollective)
 
 **UI/UX**
 
