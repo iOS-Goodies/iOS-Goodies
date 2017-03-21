@@ -11,6 +11,7 @@
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator), by [@sindresorhus](https://twitter.com/sindresorhus)
 * [Plank - Immutable Model Generator for iOS](https://github.com/pinterest/plank) by [@rmalik](https://twitter.com/rmalik)
 * [GIOVANNI](https://github.com/gabrieloc/GIOVANNI), by [@_gabrieloc](http://twitter.com/_gabrieloc)
+* [CFAlertViewController](https://github.com/Codigami/CFAlertViewController), by [@crowdfire](https://twitter.com/crowdfire)
 
 **Business**
 
