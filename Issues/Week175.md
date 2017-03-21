@@ -15,6 +15,7 @@
 * [YNExpandableCell](https://github.com/younatics/YNExpandableCell), by [@younatics](https://twitter.com/younatics)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController), by [@crowdfire](https://twitter.com/crowdfire)
 * [Tabman - A powerful paging view controller with indicator bar for iOS](https://github.com/msaps/Tabman) by [@MerrickSapsford](https://twitter.com/MerrickSapsford)
+* [SwiftySound - simple library that lets you play sounds with a single line of code](https://github.com/adamcichy/SwiftySound) by [@moonlight_apps](https://twitter.com/moonlight_apps)
 
 **Business**
 
