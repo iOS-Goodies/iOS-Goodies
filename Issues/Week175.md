@@ -12,6 +12,7 @@
 * [Plank - Immutable Model Generator for iOS](https://github.com/pinterest/plank) by [@rmalik](https://twitter.com/rmalik)
 * [GIOVANNI](https://github.com/gabrieloc/GIOVANNI), by [@_gabrieloc](http://twitter.com/_gabrieloc)
 * [CFAlertViewController](https://github.com/Codigami/CFAlertViewController), by [@crowdfire](https://twitter.com/crowdfire)
+* [Tabman - A powerful paging view controller with indicator bar for iOS](https://github.com/msaps/Tabman) by [@MerrickSapsford](https://twitter.com/MerrickSapsford)
 
 **Business**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [Naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [rahul-malik](https://github.com/rahul-malik)
+* [Naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [rahul-malik](https://github.com/rahul-malik), [msaps](https://github.com/msaps)
