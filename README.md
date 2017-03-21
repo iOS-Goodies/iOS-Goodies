@@ -1,9 +1,9 @@
-#iOS Goodies
+# iOS Goodies
 
 [![Join the chat at https://gitter.im/iOS-Goodies/iOS-Goodies](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iOS-Goodies/iOS-Goodies?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-###Why open sourcing?
+### Why open sourcing?
 
 From the very beginning our purpose was simple: create the best iOS newsletter. This, of course, is only possible by what the community gives us back. So, let me start by saying thank you, for all the great content that you have provided us. So, this begs the question: why open sourcing and why now? 
 
@@ -16,7 +16,7 @@ For some months now, [me](https://twitter.com/RuiAAPeres) and [Tiago](https://tw
 
 Finally there is the question: why now? We feel this is the right time to do it, we think that there are a lot of people that like what we do and want to see us reach the next level, and this is only possible, from our point view, via open sourcing.
 
-###How can I contribute?
+### How can I contribute?
 
 Please read our [contributing guidelines](../master/CONTRIBUTING.md) and our [code of conduct](../master/CODE_OF_CONDUCT.md). 😄
 
