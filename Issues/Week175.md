@@ -26,6 +26,7 @@
 **UI/UX**
 
 * [Mobile menu inspiration](https://medium.muz.li/mobile-menu-inspiration-efce45316646#.pw9n4x9sg), by [@usemuzli](https://twitter.com/usemuzli)
+* [No Share Buttons on Mobile Sites (Except this one Weird Case)](https://bigmedium.com/ideas/no-mobile-share-buttons.html), by [@bigmediumjosh](https://twitter.com/bigmediumjosh)
 
 **Videos**
 
