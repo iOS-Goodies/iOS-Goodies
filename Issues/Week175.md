@@ -1,3 +1,4 @@
+* Apple launched a [security guide for iOS 10](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)!
 
 **Articles**
 
@@ -26,6 +27,7 @@
 **UI/UX**
 
 * [Mobile menu inspiration](https://medium.muz.li/mobile-menu-inspiration-efce45316646#.pw9n4x9sg), by [@usemuzli](https://twitter.com/usemuzli)
+* [Screenshot? Ugh, you’re doing it wrong!](https://m.signalvnoise.com/screenshot-ugh-youre-doing-it-wrong-d17121c60016#.8e5cdqhp2), by [@jasonzimdars](https://twitter.com/jasonzimdars)
 * [No Share Buttons on Mobile Sites (Except this one Weird Case)](https://bigmedium.com/ideas/no-mobile-share-buttons.html), by [@bigmediumjosh](https://twitter.com/bigmediumjosh)
 
 **Videos**
