@@ -13,7 +13,7 @@
 
 **Business**
 
-*
+* [Selling Apps](https://www.relay.fm/radar/72), by [@_RelayFM](https://twitter.com/_relayfm)
 
 **UI/UX**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
