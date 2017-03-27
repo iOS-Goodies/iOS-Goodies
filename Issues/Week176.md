@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [Screenshot? Ugh, you’re doing it wrong!](https://m.signalvnoise.com/screenshot-ugh-youre-doing-it-wrong-d17121c60016), by [@JasonZimdars](https://twitter.com/jasonzimdars)
 
 **Videos**
 
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [ramshandilya](https://github.com/ramshandilya)
