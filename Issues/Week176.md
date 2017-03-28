@@ -18,6 +18,7 @@
 **Business**
 
 * [Selling Apps](https://www.relay.fm/radar/72), by [@_RelayFM](https://twitter.com/_relayfm)
+* [Why Side Projects Should be Stupid](http://www.vanschneider.com/why-side-projects-should-be-stupid/), by [Tobias Van Schneider](https://twitter.com/vanschneider)
 
 **UI/UX**
 
