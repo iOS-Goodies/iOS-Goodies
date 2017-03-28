@@ -6,6 +6,7 @@
 * [Swift: When to use guard vs if](https://www.natashatherobot.com/swift-when-to-use-guard-vs-if/), by [@natashatherobot](https://twitter.com/natashatherobot)
 * [CallKit Tutorial for iOS](https://www.raywenderlich.com/150015/callkit-tutorial-ios), by [@j_vesza](http://www.twitter.com/j_vesza)
 * [Unidirectional data flow with RxSwift and RxRealm](http://rx-marin.com/post/dotswift-rxswift-rxrealm-unidirectional-dataflow/), by [@icanzilb](https://twitter.com/icanzilb)
+* [Should you choose React Native for your mobile project? (Part 1)](https://www.equalexperts.com/blog/tech-focus/react-native-part-1/), by [@thesecond_t](https://twitter.com/thesecond_t)
 
 
 **Tools/Controls**
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [ramshandilya](https://github.com/ramshandilya)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [ramshandilya](https://github.com/ramshandilya), [mluisbrown](https://github.com/mluisbrown)
