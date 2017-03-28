@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [FengNiao - A command line tool for cleaning unused resources in Xcode.](https://github.com/onevcat/FengNiao), by [@onevcat](https://twitter.com/onevcat)
+* [Dispatch - Multi-store Flux implementation in Swift.](https://github.com/alexdrone/Dispatch), by [@alexdrone](https://twitter.com/alexdrone)
 
 **Business**
 
