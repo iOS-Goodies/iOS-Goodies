@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [FengNiao - A command line tool for cleaning unused resources in Xcode.](https://github.com/onevcat/FengNiao), by [@onevcat](https://twitter.com/onevcat)
+* [Plank - A tool for generating immutable model objects](https://github.com/pinterest/plank), by [@pinterest](https://twitter.com/pinterest)
 
 **Business**
 
