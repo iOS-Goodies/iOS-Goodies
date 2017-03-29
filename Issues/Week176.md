@@ -8,6 +8,7 @@
 * [Unidirectional data flow with RxSwift and RxRealm](http://rx-marin.com/post/dotswift-rxswift-rxrealm-unidirectional-dataflow/), by [@icanzilb](https://twitter.com/icanzilb)
 * [Should you choose React Native for your mobile project? (Part 1)](https://www.equalexperts.com/blog/tech-focus/react-native-part-1/), by [@thesecond_t](https://twitter.com/thesecond_t)
 * [You Probably Don't Want enumerated()](http://khanlou.com/2017/03/you-probably-don't-want-enumerated()/), by [@khanlou](https://twitter.com/khanlou)
+* [What’s New in Swift 3.1?](https://www.raywenderlich.com/156352/whats-new-in-swift-3-1), by [@KaramazovShogun](http://www.twitter.com/KaramazovShogun)
 
 
 **Tools/Controls**
