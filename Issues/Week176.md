@@ -18,6 +18,7 @@
 * [Dispatch - Multi-store Flux implementation in Swift.](https://github.com/alexdrone/Dispatch), by [@alexdrone](https://twitter.com/alexdrone)
 * [Magnetic - SpriteKit Floating Bubble Picker (inspired by Apple Music)](https://github.com/efremidze/Magnetic), by [@lasha_](http://twitter.com/lasha_)
 * [Viperit - Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit), by [](https://twitter.com/ferranabello)
+* [Gallery](github.com/hyperoslo/Gallery), by [hyperoslo](https://github.com/hyperoslo)
 
 **Business**
 
@@ -35,4 +36,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [ramshandilya](https://github.com/ramshandilya), [mluisbrown](https://github.com/mluisbrown), [rbarbosa](https://github.com/rbarbosa)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [ramshandilya](https://github.com/ramshandilya), [mluisbrown](https://github.com/mluisbrown), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133)
