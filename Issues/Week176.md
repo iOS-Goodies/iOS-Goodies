@@ -9,6 +9,7 @@
 * [Should you choose React Native for your mobile project? (Part 1)](https://www.equalexperts.com/blog/tech-focus/react-native-part-1/), by [@thesecond_t](https://twitter.com/thesecond_t)
 * [You Probably Don't Want enumerated()](http://khanlou.com/2017/03/you-probably-don't-want-enumerated()/), by [@khanlou](https://twitter.com/khanlou)
 * [What’s New in Swift 3.1?](https://www.raywenderlich.com/156352/whats-new-in-swift-3-1), by [@KaramazovShogun](http://www.twitter.com/KaramazovShogun)
+* [Design and code your own UIAlertView](https://medium.com/@Dranko/design-and-code-your-own-uialertview-ec3d8c000f0a), by [@DaniLuque20](https://twitter.com/DaniLuque20)
 
 
 **Tools/Controls**
