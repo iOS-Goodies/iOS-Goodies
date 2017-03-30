@@ -23,17 +23,16 @@
 
 **Business**
 
-* [Selling Apps](https://www.relay.fm/radar/72), by [@_RelayFM](https://twitter.com/_relayfm)
 * [Why Side Projects Should be Stupid](http://www.vanschneider.com/why-side-projects-should-be-stupid/), by [@vanschneider](https://twitter.com/vanschneider)
 * [Full-Time Indie iOS Dev and Music Enthusiast: A Top Dev Interview With Alex Andrews](https://www.raywenderlich.com/155674/full-time-indie-dev-swift-lover-musical-enthusiast-top-dev-interview-alex-andrews), by [@adam9rush](http://www.twitter.com/adam9rush)
 
 **UI/UX**
 
-*
 
-**Videos**
+**Podcasts**
 
-*
+* [Selling Apps](https://www.relay.fm/radar/72), by [@_RelayFM](https://twitter.com/_relayfm)
+
 
 **Credits**
 
