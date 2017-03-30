@@ -1,7 +1,7 @@
 
 **Articles**
 
-* [Apple has acquired Workflow](https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/), by[@panzer](https://twitter.com/panzer)
+* [Apple has acquired Workflow](https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/), by [@panzer](https://twitter.com/panzer)
 * [On Comments](http://khanlou.com/2017/03/on-comments/), by [@khanlou](https://twitter.com/khanlou)
 * [Swift: When to use guard vs if](https://www.natashatherobot.com/swift-when-to-use-guard-vs-if/), by [@natashatherobot](https://twitter.com/natashatherobot)
 * [CallKit Tutorial for iOS](https://www.raywenderlich.com/150015/callkit-tutorial-ios), by [@j_vesza](http://www.twitter.com/j_vesza)
@@ -17,19 +17,19 @@
 * [FengNiao - A command line tool for cleaning unused resources in Xcode.](https://github.com/onevcat/FengNiao), by [@onevcat](https://twitter.com/onevcat)
 * [Dispatch - Multi-store Flux implementation in Swift.](https://github.com/alexdrone/Dispatch), by [@alexdrone](https://twitter.com/alexdrone)
 * [Magnetic - SpriteKit Floating Bubble Picker (inspired by Apple Music)](https://github.com/efremidze/Magnetic), by [@lasha_](http://twitter.com/lasha_)
-* [Viperit - Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit), by [](https://twitter.com/ferranabello)
+* [Viperit - Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit), by [@ferranabello](https://twitter.com/ferranabello)
 * [Gallery](github.com/hyperoslo/Gallery), by [hyperoslo](https://github.com/hyperoslo)
 * [LoginKit - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.](https://github.com/IcaliaLabs/LoginKit), by [@icalialabs](https://twitter.com/icalialabs)
 
 **Business**
 
 * [Selling Apps](https://www.relay.fm/radar/72), by [@_RelayFM](https://twitter.com/_relayfm)
-* [Why Side Projects Should be Stupid](http://www.vanschneider.com/why-side-projects-should-be-stupid/), by [Tobias Van Schneider](https://twitter.com/vanschneider)
+* [Why Side Projects Should be Stupid](http://www.vanschneider.com/why-side-projects-should-be-stupid/), by [@vanschneider](https://twitter.com/vanschneider)
 * [Full-Time Indie iOS Dev and Music Enthusiast: A Top Dev Interview With Alex Andrews](https://www.raywenderlich.com/155674/full-time-indie-dev-swift-lover-musical-enthusiast-top-dev-interview-alex-andrews), by [@adam9rush](http://www.twitter.com/adam9rush)
 
 **UI/UX**
 
-* [Screenshot? Ugh, you’re doing it wrong!](https://m.signalvnoise.com/screenshot-ugh-youre-doing-it-wrong-d17121c60016), by [@JasonZimdars](https://twitter.com/jasonzimdars)
+*
 
 **Videos**
 
