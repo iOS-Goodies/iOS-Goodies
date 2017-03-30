@@ -18,7 +18,7 @@
 * [Dispatch - Multi-store Flux implementation in Swift.](https://github.com/alexdrone/Dispatch), by [@alexdrone](https://twitter.com/alexdrone)
 * [Magnetic - SpriteKit Floating Bubble Picker (inspired by Apple Music)](https://github.com/efremidze/Magnetic), by [@lasha_](http://twitter.com/lasha_)
 * [Viperit - Viper Framework for iOS using Swift v3](https://github.com/ferranabello/Viperit), by [@ferranabello](https://twitter.com/ferranabello)
-* [Gallery](github.com/hyperoslo/Gallery), by [hyperoslo](https://github.com/hyperoslo)
+* [Gallery](https://github.com/hyperoslo/Gallery), by [hyperoslo](https://github.com/hyperoslo)
 * [LoginKit - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.](https://github.com/IcaliaLabs/LoginKit), by [@icalialabs](https://twitter.com/icalialabs)
 
 **Business**
