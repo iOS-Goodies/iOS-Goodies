@@ -23,16 +23,20 @@
 
 **Business**
 
+* [There’s no glory in overworking](https://medium.com/startup-grind/theres-no-glory-in-overworking-9df03d54088c), by [@OngMianya](https://twitter.com/OngMianya)
 * [Why Side Projects Should be Stupid](http://www.vanschneider.com/why-side-projects-should-be-stupid/), by [@vanschneider](https://twitter.com/vanschneider)
 * [Full-Time Indie iOS Dev and Music Enthusiast: A Top Dev Interview With Alex Andrews](https://www.raywenderlich.com/155674/full-time-indie-dev-swift-lover-musical-enthusiast-top-dev-interview-alex-andrews), by [@adam9rush](http://www.twitter.com/adam9rush)
 
 **UI/UX**
 
+* [What Bots Can Do, that websites and apps can’t](https://hackernoon.com/what-bots-can-do-that-websites-and-apps-cant-7ded8e679788), by [@kiptalk](https://twitter.com/kiptalk)
+* [Conversions: Mobile Patterns for Experiments](http://www.lukew.com/ff/entry.asp?1967), by [@lukew](https://twitter.com/lukew)
+* [Fitbit: A UX Case Study](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c), by [@stacelywang](https://twitter.com/stacelywang)
+* [Designing Charts — Principles Every Designer Should Know](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-5bd3969a0150), by [@Ryan_Bales](https://twitter.com/Ryan_Bales)
 
 **Podcasts**
 
 * [Selling Apps](https://www.relay.fm/radar/72), by [@_RelayFM](https://twitter.com/_relayfm)
-
 
 **Credits**
 
