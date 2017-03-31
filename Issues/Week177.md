@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [Tangram-iOS](https://github.com/alibaba/Tangram-iOS), by Alibaba
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [naeemshaikh90](https://github.com/naeemshaikh90)
