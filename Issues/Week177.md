@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Tangram-iOS](https://github.com/alibaba/Tangram-iOS), by Alibaba
+* [EFQRCode](https://github.com/EyreFree/EFQRCode), by EyreFree
 
 **Business**
 
