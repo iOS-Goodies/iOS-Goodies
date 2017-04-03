@@ -8,6 +8,7 @@
 
 * [Tangram-iOS](https://github.com/alibaba/Tangram-iOS), by Alibaba
 * [EFQRCode](https://github.com/EyreFree/EFQRCode), by EyreFree
+* [WCSTimeline](https://github.com/WrightsCS/WCSTimeline), by [@WrightsCS](https://twitter.com/WrightsCS)
 
 **Business**
 
