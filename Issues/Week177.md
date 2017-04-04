@@ -10,7 +10,7 @@
 
 **Business**
 
-*
+* [March Mobile Advertising Round Up](http://blog.prolificinteractive.com/2017/04/03/march-mobile-advertising-round-up/), by [@weareprolific](https://twitter.com/weareprolific)
 
 **UI/UX**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [prolificinteractive](https://github.com/prolificinteractive)
