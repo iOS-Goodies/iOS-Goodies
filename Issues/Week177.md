@@ -7,6 +7,10 @@
 **Tools/Controls**
 
 * [Tangram-iOS](https://github.com/alibaba/Tangram-iOS), by Alibaba
+* [EFQRCode](https://github.com/EyreFree/EFQRCode), by EyreFree
+* [WCSTimeline](https://github.com/WrightsCS/WCSTimeline), by [@WrightsCS](https://twitter.com/WrightsCS)
+* [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet), by [@stuffrabbit](https://twitter.com/stuffrabbit), indiControl
+* [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard), by Juan Pablo Fernandez
 
 **Business**
 
