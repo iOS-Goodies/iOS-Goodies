@@ -2,7 +2,7 @@
 **Articles**
 
 * [Analyzing Third Party Libraries](http://martiancraft.com/blog/2017/04/analyzing-third-party-libraries/), by [@benjaminbrooks](https://twitter.com/benjaminbrooks)
-
+* [Memory leak in Swift: Assigning a function to a closure](http://www.marisibrothers.com/2017/04/memory-leak-in-swift-assigning-function.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 **Tools/Controls**
 
@@ -27,4 +27,5 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [prolificinteractive](https://github.com/prolificinteractive)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [prolificinteractive](https://github.com/prolificinteractive), [lucianomarisi](https://github.com/lucianomarisi)
+
