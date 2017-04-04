@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Analyzing Third Party Libraries](http://martiancraft.com/blog/2017/04/analyzing-third-party-libraries/), by [@benjaminbrooks](https://twitter.com/benjaminbrooks)
 
 
 **Tools/Controls**
@@ -11,6 +11,7 @@
 * [WCSTimeline](https://github.com/WrightsCS/WCSTimeline), by [@WrightsCS](https://twitter.com/WrightsCS)
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet), by [@stuffrabbit](https://twitter.com/stuffrabbit), indiControl
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard), by Juan Pablo Fernandez
+* [create-dmg](https://github.com/sindresorhus/create-dmg), by [@sindresorhus](https://twitter.com/sindresorhus)
 
 **Business**
 
