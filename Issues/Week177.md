@@ -1,3 +1,5 @@
+* [Canvas has announced that they will close doors](https://usecanvas.com/). Fortunately they were kind enough to open source their work (available [here](https://github.com/usecanvas)) and their iOS app [here](https://github.com/usecanvas/ios-v1). 
+
 
 **Articles**
 
