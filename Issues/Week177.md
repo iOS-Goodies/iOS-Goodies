@@ -12,6 +12,8 @@
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet), by [@stuffrabbit](https://twitter.com/stuffrabbit), indiControl
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard), by Juan Pablo Fernandez
 * [create-dmg](https://github.com/sindresorhus/create-dmg), by [@sindresorhus](https://twitter.com/sindresorhus)
+* [Bleu](https://github.com/1amageek/Bleu), by [@1amageek](https://twitter.com/1amageek)
+* [Strongify](https://github.com/krzysztofzablocki/Strongify), by [@merowing_](https://twitter.com/merowing_)
 
 **Business**
 
