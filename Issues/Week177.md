@@ -6,6 +6,7 @@
 * [Analyzing Third Party Libraries](http://martiancraft.com/blog/2017/04/analyzing-third-party-libraries/), by [@benjaminbrooks](https://twitter.com/benjaminbrooks)
 * [Memory leak in Swift: Assigning a function to a closure](http://www.marisibrothers.com/2017/04/memory-leak-in-swift-assigning-function.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Safety In Swift](http://khanlou.com/2017/04/safety-in-swift/), by [@khanlou](https://twitter.com/khanlou)
+* [Stop weak-strong dance](http://merowing.info/2017/04/stop-weak-strong-dance/), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
