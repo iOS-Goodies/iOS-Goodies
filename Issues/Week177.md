@@ -18,6 +18,7 @@
 * [Bleu](https://github.com/1amageek/Bleu), by [@1amageek](https://twitter.com/1amageek)
 * [Strongify](https://github.com/krzysztofzablocki/Strongify), by [@merowing_](https://twitter.com/merowing_)
 * [Gliding Collection](https://github.com/Ramotion/gliding-collection), by [@ramotion](https://twitter.com/ramotion)
+* [Get Schwifty](https://github.com/BenchR267/Get-Schwifty), by [@benchr](https://twitter.com/benchr)
 
 **Business**
 
