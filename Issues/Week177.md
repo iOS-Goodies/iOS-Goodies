@@ -8,6 +8,7 @@
 * [Safety In Swift](http://khanlou.com/2017/04/safety-in-swift/), by [@khanlou](https://twitter.com/khanlou)
 * [Stop weak-strong dance](http://merowing.info/2017/04/stop-weak-strong-dance/), by [@merowing_](https://twitter.com/merowing_)
 * [Thoughts on Swift access control](http://www.jessesquires.com/thoughts-on-swift-access-control/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Swift + Attributes](https://medium.com/the-traveled-ios-developers-guide/swift-attributes-936f3426d5db), by [@jordanmorgan10](https://twitter.com/jordanmorgan10)
 
 **Tools/Controls**
 
