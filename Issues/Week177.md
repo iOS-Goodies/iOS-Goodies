@@ -29,6 +29,7 @@
 **UI/UX**
 
 * [User Experience Engineering](https://blog.prototypr.io/user-experience-engineering-a98c7724d849), by [@enjalot](https://twitter.com/enjalot)
+* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/@ux_in_motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc), by [@UX_in_Motion](https://twitter.com/UX_in_Motion)
 
 **Videos**
 
