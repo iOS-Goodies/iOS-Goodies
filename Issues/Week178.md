@@ -21,5 +21,4 @@
 *
 
 **Credits**
-[SD10](https://github.com/SD10)
-*
+* [SD10](https://github.com/SD10)
