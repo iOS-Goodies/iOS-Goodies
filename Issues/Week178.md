@@ -21,4 +21,4 @@
 * [Git at Scale: Managing Swift/Obj-C Code & Coders](https://realm.io/news/brett-koonce-slug-git-at-scale-managing-swift-obj-c-coders), by [@asparagui](https://twitter.com/asparagui)
 
 **Credits**
-* [SD10](https://github.com/SD10)
+* [SD10](https://github.com/SD10), [OrenID](https://twitter.com/OrenID)
