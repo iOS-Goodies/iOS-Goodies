@@ -10,7 +10,7 @@
 
 **Business**
 
-*
+* [Cargo Cult Agile](http://www.jamesshore.com/Blog/Cargo-Cult-Agile.html), by [@jamesshore](https://twitter.com/jamesshore)
 
 **UI/UX**
 
