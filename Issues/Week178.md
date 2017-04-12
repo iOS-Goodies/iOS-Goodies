@@ -4,6 +4,7 @@
 
 * [Handling non-optional optionals in Swift](https://medium.com/@johnsundell/handling-non-optional-optionals-in-swift-e5706390f56f), by [@johnsundell](https://twitter.com/johnsundell)
 * [Resetting iOS Simulator for UI tests](https://medium.com/@pardel/resetting-ios-simulator-for-ui-tests-cd7fff57788e), by [@pardel](https://twitter.com/pardel)
+* [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/), by [@qcoding](https://twitter.com/qcoding)
 
 
 **Tools/Controls**
