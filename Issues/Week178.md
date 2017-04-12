@@ -8,7 +8,7 @@
 * [Nora](https://github.com/SD10/Nora), by [@SD10](https://github.com/SD10)
 * [Selenops](https://github.com/zntfdr/Selenops), by [@zntfdr](https://twitter.com/zntfdr)
 * [MBIcons](https://github.com/c-Viorel/MBIcons), by [@Cornel_Viorel](https://twitter.com/Cornel_Viorel)
-
+* [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence), by [@Reffas_Bilal](https://twitter.com/Reffas_Bilal), Luubra
 
 **Business**
 
