@@ -1,7 +1,8 @@
+* TestFlight was updated with some [pretty cool features](https://developer.apple.com/news/?id=04112017a)
 
 **Articles**
 
-*
+* [Handling non-optional optionals in Swift](https://medium.com/@johnsundell/handling-non-optional-optionals-in-swift-e5706390f56f), by [@johnsundell](https://twitter.com/johnsundell)
 
 
 **Tools/Controls**
@@ -25,4 +26,4 @@
 * [Git at Scale: Managing Swift/Obj-C Code & Coders](https://realm.io/news/brett-koonce-slug-git-at-scale-managing-swift-obj-c-coders), by [@asparagui](https://twitter.com/asparagui)
 
 **Credits**
-* [SD10](https://github.com/SD10), [OrenID](https://twitter.com/OrenID), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba)
+* [SD10](https://github.com/SD10), [OrenID](https://twitter.com/OrenID), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
