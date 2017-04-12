@@ -19,12 +19,13 @@
 **Business**
 
 * [Cargo Cult Agile](http://www.jamesshore.com/Blog/Cargo-Cult-Agile.html), by [@jamesshore](https://twitter.com/jamesshore)
+* [70ish Life and Business Lessons for Designers](https://medium.com/@hemeon/70ish-life-and-business-lessons-for-designers-9d8c5b9e3476), by [@hemeon](https://twitter.com/hemeon)
 
 **UI/UX**
 
 * [How United Onboards New Users](http://www.useronboard.com/how-united-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 * [Design principle: Consistency](https://uxplanet.org/design-principle-consistency-6b0cf7e7339f), by [@ainikolov](https://twitter.com/ainikolov)
-
+* [Interesting Takes on Log in / Sign Up Forms](http://mediatemple.net/blog/tips/interesting-takes-log-sign-forms/), by [@chriscoyier](https://twitter.com/chriscoyier)
 
 **Videos**
 
