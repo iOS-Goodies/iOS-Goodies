@@ -8,6 +8,8 @@
 * [Nora](https://github.com/SD10/Nora), by [@SD10](https://github.com/SD10)
 * [Selenops](https://github.com/zntfdr/Selenops), by [@zntfdr](https://twitter.com/zntfdr)
 * [MBIcons](https://github.com/c-Viorel/MBIcons), by [@Cornel_Viorel](https://twitter.com/Cornel_Viorel)
+* [EmojiIntelligence](https://github.com/Luubra/EmojiIntelligence), by [@Reffas_Bilal](https://twitter.com/Reffas_Bilal), Luubra
+* [SquishButton](https://github.com/BalestraPatrick/SquishButton), by [@BalestraPatrick](http://twitter.com/BalestraPatrick)
 * [Swift of Airbnb](https://github.com/yonasstephen/swift-of-airbnb), by [@yonasstephen](https://twitter.com/yonasstephen)
 
 **Business**
