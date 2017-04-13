@@ -21,6 +21,7 @@
 
 * [Cargo Cult Agile](http://www.jamesshore.com/Blog/Cargo-Cult-Agile.html), by [@jamesshore](https://twitter.com/jamesshore)
 * [70ish Life and Business Lessons for Designers](https://medium.com/@hemeon/70ish-life-and-business-lessons-for-designers-9d8c5b9e3476), by [@hemeon](https://twitter.com/hemeon)
+* [For programmers, the ultimate office perk is avoiding the office entirely](https://qz.com/950973/remote-work-for-programmers-the-ultimate-office-perk-is-avoiding-the-office-entirely/), by [@onyxfish](https://twitter.com/onyxfish)
 
 **UI/UX**
 
@@ -34,4 +35,5 @@
 * [Git at Scale: Managing Swift/Obj-C Code & Coders](https://realm.io/news/brett-koonce-slug-git-at-scale-managing-swift-obj-c-coders), by [@asparagui](https://twitter.com/asparagui)
 
 **Credits**
-* [SD10](https://github.com/SD10), [OrenID](https://twitter.com/OrenID), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc)
+
+* [SD10](https://github.com/SD10), [OrenID](https://twitter.com/OrenID), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
