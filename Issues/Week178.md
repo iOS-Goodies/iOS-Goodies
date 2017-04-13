@@ -7,9 +7,11 @@
 * [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/), by [@qcoding](https://twitter.com/qcoding)
 * [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/), by [@merowing_](https://twitter.com/merowing_)
 * [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/), by [@gricha_91](https://twitter.com/gricha_91)
+* [VisualKit: creating a UI Framework](https://jobandtalent.engineering/visualkit-ui-framework-74ab8aae0d42), by [@victorbaro](https://twitter.com/victorbaro)
 
 
 **Tools/Controls**
+
 * [Nora](https://github.com/SD10/Nora), by [@SD10](https://github.com/SD10)
 * [Selenops](https://github.com/zntfdr/Selenops), by [@zntfdr](https://twitter.com/zntfdr)
 * [MBIcons](https://github.com/c-Viorel/MBIcons), by [@Cornel_Viorel](https://twitter.com/Cornel_Viorel)
