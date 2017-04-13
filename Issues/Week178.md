@@ -8,6 +8,7 @@
 * [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/), by [@merowing_](https://twitter.com/merowing_)
 * [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/), by [@gricha_91](https://twitter.com/gricha_91)
 * [VisualKit: creating a UI Framework](https://jobandtalent.engineering/visualkit-ui-framework-74ab8aae0d42), by [@victorbaro](https://twitter.com/victorbaro)
+* [Analysis of the Facebook.app for iOS](http://blog.timac.org/?p=1707), by [@timacfr](https://twitter.com/timacfr)
 
 
 **Tools/Controls**
