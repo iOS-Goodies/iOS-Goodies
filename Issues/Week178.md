@@ -6,6 +6,7 @@
 * [Resetting iOS Simulator for UI tests](https://medium.com/@pardel/resetting-ios-simulator-for-ui-tests-cd7fff57788e), by [@pardel](https://twitter.com/pardel)
 * [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/), by [@qcoding](https://twitter.com/qcoding)
 * [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/), by [@merowing_](https://twitter.com/merowing_)
+* [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/), by [@gricha_91](https://twitter.com/gricha_91)
 
 
 **Tools/Controls**
