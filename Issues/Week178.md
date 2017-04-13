@@ -26,6 +26,7 @@
 * [How United Onboards New Users](http://www.useronboard.com/how-united-onboards-new-users/), by [@samuelhulick](https://twitter.com/samuelhulick)
 * [Design principle: Consistency](https://uxplanet.org/design-principle-consistency-6b0cf7e7339f), by [@ainikolov](https://twitter.com/ainikolov)
 * [Interesting Takes on Log in / Sign Up Forms](http://mediatemple.net/blog/tips/interesting-takes-log-sign-forms/), by [@chriscoyier](https://twitter.com/chriscoyier)
+* [Is the Floating Action Button Bad UX Design?](http://blog.usabilla.com/floating-action-button-bad-ux-design/) by Tom Jager
 
 **Videos**
 
