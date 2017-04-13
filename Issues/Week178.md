@@ -6,7 +6,6 @@
 * [Resetting iOS Simulator for UI tests](https://medium.com/@pardel/resetting-ios-simulator-for-ui-tests-cd7fff57788e), by [@pardel](https://twitter.com/pardel)
 * [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/), by [@qcoding](https://twitter.com/qcoding)
 * [Using protocol compositon for dependency injection](http://merowing.info/2017/04/using-protocol-compositon-for-dependency-injection/), by [@merowing_](https://twitter.com/merowing_)
-* [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/), by [@gricha_91](https://twitter.com/gricha_91)
 * [VisualKit: creating a UI Framework](https://jobandtalent.engineering/visualkit-ui-framework-74ab8aae0d42), by [@victorbaro](https://twitter.com/victorbaro)
 * [Analysis of the Facebook.app for iOS](http://blog.timac.org/?p=1707), by [@timacfr](https://twitter.com/timacfr)
 
@@ -22,7 +21,6 @@
 
 **Business**
 
-* [Cargo Cult Agile](http://www.jamesshore.com/Blog/Cargo-Cult-Agile.html), by [@jamesshore](https://twitter.com/jamesshore)
 * [70ish Life and Business Lessons for Designers](https://medium.com/@hemeon/70ish-life-and-business-lessons-for-designers-9d8c5b9e3476), by [@hemeon](https://twitter.com/hemeon)
 * [For programmers, the ultimate office perk is avoiding the office entirely](https://qz.com/950973/remote-work-for-programmers-the-ultimate-office-perk-is-avoiding-the-office-entirely/), by [@onyxfish](https://twitter.com/onyxfish)
 
