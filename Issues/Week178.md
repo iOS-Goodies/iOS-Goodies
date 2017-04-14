@@ -1,4 +1,9 @@
 * TestFlight was updated with some [pretty cool features](https://developer.apple.com/news/?id=04112017a)
+* Goodies is almost 3 years old. We have a huge support from people in our github, and for that: Thank you. However, we would like to evolve goodies and for that we need another kind of support. That is why we created a [patreon account](https://www.patreon.com/iosgoodies). 
+
+**Supporters**
+
+* This edition was sponsor by [@phelgo](https://twitter.com/phelgo?lang=en) and [Adriano Gonçalves](https://www.linkedin.com/in/adrianomiguelgoncalves/)
 
 **Articles**
 
