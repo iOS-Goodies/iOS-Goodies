@@ -17,6 +17,7 @@
 
 **Tools/Controls**
 
+* [AsyncDisplayKit is becoming Texture](https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50), by [@garrettmoon](https://github.com/garrettmoon)
 * [Nora](https://github.com/SD10/Nora), by [@SD10](https://github.com/SD10)
 * [Selenops](https://github.com/zntfdr/Selenops), by [@zntfdr](https://twitter.com/zntfdr)
 * [MBIcons](https://github.com/c-Viorel/MBIcons), by [@Cornel_Viorel](https://twitter.com/Cornel_Viorel)
