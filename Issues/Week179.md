@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [OrenID](https://twitter.com/OrenID)
+* [orenidan](https://github.com/orenidan)
