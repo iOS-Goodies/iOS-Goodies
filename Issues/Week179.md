@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable), by Ivan Rublev
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [orenidan](https://github.com/orenidan)
+* [orenidan](https://github.com/orenidan), [@naeemshaikh90](https://github.com/naeemshaikh90)
