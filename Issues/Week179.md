@@ -14,7 +14,7 @@
 
 **UI/UX**
 
-*
+* [24 Ways to Look Like an Awesome UX Designer](https://uxplanet.org/24-ways-to-look-like-an-awesome-ux-designer-c26addab6add), by [@GuyLigertwood](https://twitter.com/GuyLigertwood)
 
 **Videos**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [orenidan](https://github.com/orenidan)
+* [LisaDziuba](https://github.com/lisadziuba), [orenidan](https://github.com/orenidan)
