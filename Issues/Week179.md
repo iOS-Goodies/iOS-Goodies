@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable), by Ivan Rublev
+* [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary), by Luke Zhao
 
 **Business**
 
