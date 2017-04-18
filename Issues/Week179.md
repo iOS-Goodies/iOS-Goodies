@@ -11,7 +11,7 @@
 
 **Business**
 
-*
+* [How I left my consulting career behind and broke into tech](https://medium.freecodecamp.com/how-i-left-my-consulting-career-behind-and-broke-into-tech-36ea0c1a0407), by [@rahuldotiyer](https://twitter.com/rahuldotiyer)
 
 **UI/UX**
 
