@@ -8,6 +8,7 @@
 
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable), by Ivan Rublev
 * [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary), by Luke Zhao
+* [YNSearch](https://github.com/younatics/YNSearch), by [@younatics](http://twitter.com/younatics)
 
 **Business**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [orenidan](https://github.com/orenidan), [@naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba)
+* [orenidan](https://github.com/orenidan), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba)
