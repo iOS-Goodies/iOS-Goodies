@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [The Algebra of Predicates and Sorting Functions](http://www.fewbutripe.com/swift/math/algebra/monoid/2017/04/18/algbera-of-predicates-and-sorting-functions.html), by [@mbrandonw](https://twitter.com/mbrandonw)
 
 
 **Tools/Controls**
