@@ -9,6 +9,7 @@
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable), by Ivan Rublev
 * [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary), by Luke Zhao
 * [YNSearch](https://github.com/younatics/YNSearch), by [@younatics](http://twitter.com/younatics)
+* [Inkwell](https://github.com/ninjaprox/Inkwell), by [@ninjaprox](http://twitter.com/ninjaprox)
 
 **Business**
 
