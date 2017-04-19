@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [orenidan](https://github.com/orenidan), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba)
+* [orenidan](https://github.com/orenidan), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [yangshun](https://github.com/yangshun)
