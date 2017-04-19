@@ -2,7 +2,7 @@
 **Articles**
 
 * [The Algebra of Predicates and Sorting Functions](http://www.fewbutripe.com/swift/math/algebra/monoid/2017/04/18/algbera-of-predicates-and-sorting-functions.html), by [@mbrandonw](https://twitter.com/mbrandonw)
-
+* [Deep Dive Into iOS Automation At Grab - Integration Testing](http://engineering.grab.com/deep-dive-into-ios-automation-at-grab-integration-testing), by [@xiangxinsun](https://twitter.com/xiangxinsun)
 
 **Tools/Controls**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [orenidan](https://github.com/orenidan), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba)
+* [orenidan](https://github.com/orenidan), [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [yangshun](https://github.com/yangshun)
