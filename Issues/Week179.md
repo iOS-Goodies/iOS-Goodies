@@ -13,6 +13,7 @@
 * [YNSearch](https://github.com/younatics/YNSearch), by [@younatics](http://twitter.com/younatics)
 * [Inkwell](https://github.com/ninjaprox/Inkwell), by [@ninjaprox](http://twitter.com/ninjaprox)
 * [Evolution](https://itunes.apple.com/us/app/swift-evolution/id1210898168?ls=1&mt=8), by [@tholanda](https://twitter.com/tholanda)
+* [Cluster](https://github.com/efremidze/Cluster), by [@lasha_](http://twitter.com/lasha_)
 
 **Business**
 
