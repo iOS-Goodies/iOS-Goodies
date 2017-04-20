@@ -3,6 +3,7 @@
 
 * [The Algebra of Predicates and Sorting Functions](http://www.fewbutripe.com/swift/math/algebra/monoid/2017/04/18/algbera-of-predicates-and-sorting-functions.html), by [@mbrandonw](https://twitter.com/mbrandonw)
 * [Deep Dive Into iOS Automation At Grab - Integration Testing](http://engineering.grab.com/deep-dive-into-ios-automation-at-grab-integration-testing), by [@xiangxinsun](https://twitter.com/xiangxinsun)
+* [Swift Enums Are "sum" Types. That Makes Them Very Interesting](https://mislavjavor.github.io/2017-04-19/Swift-enums-are-sum-types.-That-makes-them-very-interesting/), by Mislav Javor
 
 **Tools/Controls**
 
