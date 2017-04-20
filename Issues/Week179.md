@@ -18,10 +18,12 @@
 **Business**
 
 * [How I left my consulting career behind and broke into tech](https://medium.freecodecamp.com/how-i-left-my-consulting-career-behind-and-broke-into-tech-36ea0c1a0407), by [@rahuldotiyer](https://twitter.com/rahuldotiyer)
+* [Creativity can be worked out](https://blog.prototypr.io/creativity-can-be-worked-out-7bc6614b0ba0), by [@dormic_wwa](https://twitter.com/dormic_wwa)
 
 **UI/UX**
 
 * [24 Ways to Look Like an Awesome UX Designer](https://uxplanet.org/24-ways-to-look-like-an-awesome-ux-designer-c26addab6add), by [@GuyLigertwood](https://twitter.com/GuyLigertwood)
+* [Information Architecture. The Most Important Part of Design You’re Probably Overlooking.](https://blog.prototypr.io/information-architecture-the-most-important-part-of-design-youre-probably-overlooking-20372ade4fc0), by [@_JacobRuiz](https://twitter.com/_JacobRuiz)
 
 **Videos**
 
