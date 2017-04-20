@@ -6,6 +6,7 @@
 
 **Tools/Controls**
 
+* [AsyncDisplayKit is becoming Texture](https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50), by [@garrettmoon](https://github.com/garrettmoon)
 * [PersistentStorageSerializable](https://github.com/IvanRublev/PersistentStorageSerializable), by Ivan Rublev
 * [YetAnotherAnimationLibrary](https://github.com/lkzhao/YetAnotherAnimationLibrary), by Luke Zhao
 * [YNSearch](https://github.com/younatics/YNSearch), by [@younatics](http://twitter.com/younatics)
