@@ -1,6 +1,6 @@
 **Articles**
 
-*
+* [Haptic Feedback makes you vibrate!](https://engineering.nodesagency.com/articles/iOS/Haptic-feedback-makes-you-vibrate/), by [@marius_const](https://www.twitter.com/marius_const)
 
 
 **Tools/Controls**
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc)
