@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-*
+* [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl), by shima
 
 **Business**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive)
+* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90)
