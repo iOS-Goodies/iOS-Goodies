@@ -1,3 +1,5 @@
+* Apple [commits to source compatibility](https://swift.org/source-compatibility/) by adding regression tests against open source projects.
+
 **Articles**
 
 * [Haptic Feedback makes you vibrate!](https://engineering.nodesagency.com/articles/iOS/Haptic-feedback-makes-you-vibrate/), by [@marius_const](https://www.twitter.com/marius_const)
