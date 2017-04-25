@@ -6,6 +6,7 @@
 * [Time traveling in Swift unit tests](https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b), by [@johnsundell](https://twitter.com/johnsundell)
 * [Adding Playgrounds to Xcode Projects](https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects/), by [@kharrison](https://twitter.com/kharrison)
 * [A Beginning’s Guide to Lottie: Creating Amazing Animations in iOS Apps](http://www.appcoda.com/lottie-beginner-guide/), by [@simonng](https://twitter.com/simonng)
+* [Migrating To Coordinators](http://khanlou.com/2017/04/migrating-to-coordinators/), by [@khanlou](https://twitter.com/khanlou)
 
 
 **Tools/Controls**
