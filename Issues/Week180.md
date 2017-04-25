@@ -22,7 +22,8 @@
 **Videos**
 
 * [Architecting for Reusability](http://blog.prolificinteractive.com/2017/04/20/architecting-for-reusability/), by [@weareprolific](https://twitter.com/weareprolific)
+* [Functional Swift Conference 2017](http://2017.funswiftconf.com/)
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba)
+* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
