@@ -4,6 +4,7 @@
 
 * [Haptic Feedback makes you vibrate!](https://engineering.nodesagency.com/articles/iOS/Haptic-feedback-makes-you-vibrate/), by [@marius_const](https://www.twitter.com/marius_const)
 * [Time traveling in Swift unit tests](https://medium.com/@johnsundell/time-traveling-in-swift-unit-tests-583a2c3ce85b), by [@johnsundell](https://twitter.com/johnsundell)
+* [Adding Playgrounds to Xcode Projects](https://useyourloaf.com/blog/adding-playgrounds-to-xcode-projects/), by [@kharrison](https://twitter.com/kharrison)
 
 
 **Tools/Controls**
