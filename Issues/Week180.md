@@ -23,6 +23,7 @@
 **UI/UX**
 
 * [Painting with Code](http://airbnb.design/painting-with-code/), by [@jongold](https://twitter.com/jongold)
+* [Design principle: Aesthetics](https://uxdesign.cc/design-principle-aesthetics-af926f8f86fe), by [@ainikolov](https://twitter.com/ainikolov)
 
 **Videos**
 
