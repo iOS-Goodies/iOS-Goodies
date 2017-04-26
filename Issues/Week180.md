@@ -14,6 +14,7 @@
 * [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl), by shima
 * [Clue](https://github.com/Geek-1001/Clue), by [@ahmed_sulajman](https://twitter.com/ahmed_sulajman)
 * [react-sketchapp](https://github.com/airbnb/react-sketchapp), by [@Airbnb](https://twitter.com/Airbnb)
+* [BouncyLayout](https://github.com/roberthein/BouncyLayout), by [@Robert-Hein](https://twitter.com/roberthein)
 
 **Business**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
+* [prolificinteractive](https://github.com/prolificinteractive), [naeemshaikh90](https://github.com/naeemshaikh90), [mariusc](https://github.com/mariusc), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [Robert-Hein](https://github.com/roberthein)
