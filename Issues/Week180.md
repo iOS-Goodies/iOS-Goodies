@@ -19,6 +19,7 @@
 **Business**
 
 * [The Art of Writing One-Sentence Product Descriptions](https://medium.dave-bailey.com/the-magic-formula-to-describe-a-product-in-one-sentence-175ce38619c7), by [@davesuperman](https://twitter.com/davesuperman)
+* [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
 
 **UI/UX**
 
