@@ -13,6 +13,7 @@
 
 * [FlexiblePageControl](https://github.com/shima11/FlexiblePageControl), by shima
 * [Clue](https://github.com/Geek-1001/Clue), by [@ahmed_sulajman](https://twitter.com/ahmed_sulajman)
+* [react-sketchapp](https://github.com/airbnb/react-sketchapp), by [@Airbnb](https://twitter.com/Airbnb)
 
 **Business**
 
