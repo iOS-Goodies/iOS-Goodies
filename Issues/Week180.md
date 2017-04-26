@@ -20,7 +20,7 @@
 
 **UI/UX**
 
-*
+* [Painting with Code](http://airbnb.design/painting-with-code/), by [@jongold](https://twitter.com/jongold)
 
 **Videos**
 
