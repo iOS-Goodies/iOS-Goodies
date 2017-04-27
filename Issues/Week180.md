@@ -18,12 +18,16 @@
 
 **Business**
 
+* [Don’t Promise](https://m.signalvnoise.com/dont-promise-6433aaf9c9c9), by [@jasonfried](https://twitter.com/jasonfried)
+* [People Don’t Want Something Truly New, They Want the Familiar Done Differently](https://medium.com/startup-grind/people-dont-want-something-truly-new-they-want-the-familiar-done-differently-7648f24f8fe7), by [@nireyal](https://twitter.com/nireyal)
+* [You won’t win until they start betting against you](https://medium.com/the-mission/you-wont-win-until-they-start-betting-against-you-a97a3141690e), by [@TheMissionT](https://twitter.com/TheMissionT)
 * [The Art of Writing One-Sentence Product Descriptions](https://medium.dave-bailey.com/the-magic-formula-to-describe-a-product-in-one-sentence-175ce38619c7), by [@davesuperman](https://twitter.com/davesuperman)
 * [How to Grow Your Startup on a $0 Marketing Budget](https://producthabits.com/how-to-grow-your-startup-on-a-0-marketing-budget/), by Hiten Shah
 
 **UI/UX**
 
 * [Painting with Code](http://airbnb.design/painting-with-code/), by [@jongold](https://twitter.com/jongold)
+* [A design lesson 3.5 billion years in the making](https://blog.intercom.com/a-design-lesson-3-5-billion-years-in-the-making/), by [@k00](https://twitter.com/k00)
 * [Design principle: Aesthetics](https://uxdesign.cc/design-principle-aesthetics-af926f8f86fe), by [@ainikolov](https://twitter.com/ainikolov)
 
 **Videos**
