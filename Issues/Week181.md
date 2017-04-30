@@ -8,6 +8,7 @@
 
 * [Toolbar](https://github.com/1amageek/Toolbar), by [@1amageek](https://twitter.com/1amageek)
 * [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2), by [@onmyway133](https://twitter.com/onmyway133)
+* [TestDrive](https://github.com/JohnSundell/TestDrive), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
