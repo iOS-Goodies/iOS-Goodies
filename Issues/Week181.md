@@ -3,6 +3,7 @@
 
 * [Avoiding Massive View Controllers by refactoring](https://medium.com/@jamesrochabrun/avoiding-massive-view-controllers-by-refactoring-ffb6a55dfa42), by [@roch4brun](https://twitter.com/roch4brun)
 * [Preserves Superview Layout Margins](https://useyourloaf.com/blog/preserves-superview-layout-margins/), by [@kharrison](https://twitter.com/kharrison)
+* [SwiftLint doing its best to ease conflict](http://williamboles.me/swiftlint-eases-conflict/), by [@wibosco](https://twitter.com/wibosco)
 
 
 **Tools/Controls**
