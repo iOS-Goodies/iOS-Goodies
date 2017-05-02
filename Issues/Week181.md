@@ -4,6 +4,7 @@
 * [Avoiding Massive View Controllers by refactoring](https://medium.com/@jamesrochabrun/avoiding-massive-view-controllers-by-refactoring-ffb6a55dfa42), by [@roch4brun](https://twitter.com/roch4brun)
 * [Preserves Superview Layout Margins](https://useyourloaf.com/blog/preserves-superview-layout-margins/), by [@kharrison](https://twitter.com/kharrison)
 * [SwiftLint doing its best to ease conflict](http://williamboles.me/swiftlint-eases-conflict/), by [@wibosco](https://twitter.com/wibosco)
+* [Deep Dive Into iOS Automation At Grab - Continuous Delivery](http://engineering.grab.com/deep-dive-into-ios-automation-at-grab-continuous-delivery), by [@xiangxinsun](https://twitter.com/xiangxinsun)
 
 
 **Tools/Controls**
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [yangshun](https://github.com/yangshun)
