@@ -17,6 +17,7 @@
 
 * [How to make Apple Search Ads work for your App](https://denzhadanov.com/how-to-make-apple-search-ads-work-for-your-app-5bbe98b79cf3), by [@DenZhadanov](https://twitter.com/DenZhadanov)
 * [Creating iMessage Apps Your Users Will Love](http://blog.prolificinteractive.com/2017/04/25/creating-imessage-apps-your-users-will-love/), by [@weareprolific](https://twitter.com/weareprolific)
+* [Basecamp's handbook](https://github.com/basecamp/handbook), by [@basecamp](https://twitter.com/basecamp)
 
 **UI/UX**
 
