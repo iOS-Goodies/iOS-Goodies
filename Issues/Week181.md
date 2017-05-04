@@ -12,6 +12,7 @@
 * [Toolbar](https://github.com/1amageek/Toolbar), by [@1amageek](https://twitter.com/1amageek)
 * [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2), by [@onmyway133](https://twitter.com/onmyway133)
 * [TestDrive](https://github.com/JohnSundell/TestDrive), by [@johnsundell](https://twitter.com/johnsundell)
+* [Funky](https://github.com/tevelee/funky), by [@tevelee](https://twitter.com/tevelee)
 
 **Business**
 
