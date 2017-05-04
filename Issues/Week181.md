@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [yangshun](https://github.com/yangshun)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [yangshun](https://github.com/yangshun), [tevelee](https://github.com/tevelee)
