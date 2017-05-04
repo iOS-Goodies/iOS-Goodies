@@ -1,3 +1,4 @@
+* [Major apps abandoning Apple Watch, including Google Maps, Amazon & eBay ](http://appleinsider.com/articles/17/05/01/major-apps-abandoning-apple-watch-including-google-maps-amazon-ebay) 🤔
 
 **Articles**
 
@@ -22,7 +23,8 @@
 
 **UI/UX**
 
-*
+* [Redesign Checkout Process of Lazada Mobile App](https://blog.prototypr.io/redesign-checkout-process-of-lazada-mobile-app-c353d05b6576), by [@soundCreativ](https://twitter.com/soundCreativ)
+* [Modal & Nonmodal Dialogs: When (& When Not) to Use Them](https://www.nngroup.com/articles/modal-nonmodal-dialog/), by [@TBFessenden](https://twitter.com/TBFessenden)
 
 **Videos**
 
