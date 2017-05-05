@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [GRDB.swift](https://github.com/groue/GRDB.swift), by [@groue](https://twitter.com/groue)
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
