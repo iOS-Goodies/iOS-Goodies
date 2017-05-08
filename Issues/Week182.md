@@ -8,6 +8,7 @@
 
 * [GRDB.swift](https://github.com/groue/GRDB.swift), by [@groue](https://twitter.com/groue)
 * [Lists](https://github.com/jperriere/Lists), by [@julienperriere](https://twitter.com/julienperriere)
+* [Pastel](https://github.com/cruisediary/Pastel), by Cruz
 
 **Business**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [@naeemshaikh90](https://github.com/naeemshaikh90)
