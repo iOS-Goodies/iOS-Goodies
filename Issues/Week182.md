@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Swift Arrays Holding Elements With Weak References](https://marcosantadev.com/swift-arrays-holding-elements-weak-references/), by [MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 
 **Tools/Controls**
