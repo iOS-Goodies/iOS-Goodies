@@ -26,7 +26,7 @@
 
 **Videos**
 
-*
+* [Good iOS Application Architecture: MVVM, MVC, VIPER Which Architecture is the Best?](https://news.realm.io/news/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper), by [@merowing_](https://twitter.com/merowing_)`
 
 **Credits**
 
