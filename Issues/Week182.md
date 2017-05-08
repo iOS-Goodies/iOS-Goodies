@@ -10,6 +10,7 @@
 * [Lists](https://github.com/jperriere/Lists), by [@julienperriere](https://twitter.com/julienperriere)
 * [Pastel](https://github.com/cruisediary/Pastel), by Cruz
 * [ShadowImageView](https://github.com/olddonkey/ShadowImageView), by Old Donkey
+* [Highlighter](https://github.com/younatics/Highlighter), by [@younatics](http://twitter.com/younatics)
 
 **Business**
 
