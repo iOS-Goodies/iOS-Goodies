@@ -17,7 +17,7 @@
 
 **Business**
 
-*
+* [What I Wish I Had Considered Before Becoming A Digital Nomad](https://www.fastcompany.com/40402577/what-i-wished-i-considered-before-becoming-a-digital-nomad), by [@a_purbasari](https://twitter.com/a_purbasari)
 
 **UI/UX**
 
