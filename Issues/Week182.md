@@ -12,6 +12,7 @@
 * [ShadowImageView](https://github.com/olddonkey/ShadowImageView), by Old Donkey
 * [Highlighter](https://github.com/younatics/Highlighter), by [@younatics](http://twitter.com/younatics)
 * [LicensePlist](https://github.com/mono0926/LicensePlist), by [@_mono](https://twitter.com/_mono)
+* [LSAnimator](https://github.com/Lision/LSAnimator), by Lision
 
 **Business**
 
