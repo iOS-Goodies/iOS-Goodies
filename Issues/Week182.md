@@ -1,3 +1,4 @@
+Welcome to a new [publication](http://pragmaticswift.com/) for Swift community by [@pragmaswift](https://twitter.com/pragmaswift)!
 
 **Articles**
 
