@@ -5,6 +5,7 @@ Welcome to a new [publication](http://pragmaticswift.com/) for Swift community b
 * [Swift Arrays Holding Elements With Weak References](https://marcosantadev.com/swift-arrays-holding-elements-weak-references/), by [MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [Back Buttons and Coordinators](http://khanlou.com/2017/05/back-buttons-and-coordinators/), by [@khanlou](https://twitter.com/khanlou)
 * [Adding Continuous Integration to a Swift project](https://www.swiftbysundell.com/posts/adding-continuous-integration-to-a-swift-project), by [@johnsundell](https://twitter.com/johnsundell)
+* [Unit Testing Nibs in Swift #1](https://medium.com/compileswift/how-to-test-a-nib-533d02847d78) and [#2](https://medium.com/@joesusnick/unit-testing-nibs-in-swift-part-2-74225c09fb70), by [@joesus](https://github.com/joesus)
 
 
 **Tools/Controls**
@@ -34,4 +35,4 @@ Welcome to a new [publication](http://pragmaticswift.com/) for Swift community b
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc), [uraimo](https://github.com/uraimo)
