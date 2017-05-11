@@ -22,6 +22,7 @@ Welcome to a new [publication](http://pragmaticswift.com/) for Swift community b
 **Business**
 
 * [What I Wish I Had Considered Before Becoming A Digital Nomad](https://www.fastcompany.com/40402577/what-i-wished-i-considered-before-becoming-a-digital-nomad), by [@a_purbasari](https://twitter.com/a_purbasari)
+* [Scrum makes you dumb](https://www.linkedin.com/pulse/scrum-makes-you-dumb-daniel-jones), by [@danieljoneseb](https://twitter.com/danieljoneseb)
 * [Damage](http://mattgemmell.com/damage/), by [@mattgemmell](https://twitter.com/mattgemmell)
 * [The Ultimate Guide to Mobile Marketing](https://www.referralsaasquatch.com/mobile-marketing/), by [@BrandonGains](https://twitter.com/brandongains)
 
