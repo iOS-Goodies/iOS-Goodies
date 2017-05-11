@@ -23,6 +23,7 @@ Welcome to a new [publication](http://pragmaticswift.com/) for Swift community b
 
 * [What I Wish I Had Considered Before Becoming A Digital Nomad](https://www.fastcompany.com/40402577/what-i-wished-i-considered-before-becoming-a-digital-nomad), by [@a_purbasari](https://twitter.com/a_purbasari)
 * [Damage](http://mattgemmell.com/damage/), by [@mattgemmell](https://twitter.com/mattgemmell)
+* [The Ultimate Guide to Mobile Marketing](https://www.referralsaasquatch.com/mobile-marketing/), by [@BrandonGains](https://twitter.com/brandongains)
 
 **UI/UX**
 
