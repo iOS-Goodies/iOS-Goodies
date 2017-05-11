@@ -31,6 +31,9 @@ Welcome to a new [publication](http://pragmaticswift.com/) for Swift community b
 
 * [The Evolution Process From A Junior Level Designer To Becoming A Design Lead](https://uxdesign.cc/the-evolution-process-from-a-junior-level-designer-to-becoming-a-design-lead-5cde5fe1668c), by Elliot Soren.
 * [UX Designers Hate Scrum for a Reason](http://kovacevic.io/ux-designers-hate-scrum-for-a-reason.html), by [@DraganOfficial](https://twitter.com/DraganOfficial)
+* [I Got Rejected by Apple Music… So I Redesigned It](https://medium.com/startup-grind/i-got-rejected-by-apple-music-so-i-redesigned-it-b7e2e4dc64bf), by [@JasonYuanDesign](https://twitter.com/JasonYuanDesign)
+* [Bulletproof User Onboarding](https://ux.useronboard.com/bulletproof-user-onboarding-f34ee03f655f), by [@SamuelHulick](https://twitter.com/SamuelHulick)
+* [Meetup: A Usability Case Study](https://uxdesign.cc/meetup-a-usability-case-study-e909c33f1e3e), by [@chenchilllaaa](https://twitter.com/chenchilllaaa)
 
 **Videos**
 
