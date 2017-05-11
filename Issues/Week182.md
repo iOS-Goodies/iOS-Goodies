@@ -6,6 +6,7 @@ Welcome to a new [publication](http://pragmaticswift.com/) for Swift community b
 * [Back Buttons and Coordinators](http://khanlou.com/2017/05/back-buttons-and-coordinators/), by [@khanlou](https://twitter.com/khanlou)
 * [Adding Continuous Integration to a Swift project](https://www.swiftbysundell.com/posts/adding-continuous-integration-to-a-swift-project), by [@johnsundell](https://twitter.com/johnsundell)
 * [Unit Testing Nibs in Swift #1](https://medium.com/compileswift/how-to-test-a-nib-533d02847d78) and [#2](https://medium.com/@joesusnick/unit-testing-nibs-in-swift-part-2-74225c09fb70), by [@joesus](https://github.com/joesus)
+* [All about Concurrency in Swift - Part 1: The Present](https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/), by [@uraimo](https://twitter.com/uraimo)
 
 
 **Tools/Controls**
