@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [Anchors](https://github.com/onmyway133/Anchors), by [@onmyway133](https://github.com/onmyway133)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [@onmyway133](https://github.com/onmyway133)
