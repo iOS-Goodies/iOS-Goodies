@@ -20,8 +20,8 @@
 
 **Videos**
 
-*
+* [UIKonf 2017 videos](https://www.youtube.com/playlist?list=PLdr22uU_wISqntV4tQmx9H6sj9gMtj7nG)
 
 **Credits**
 
-* [@onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [@prolificinteractive](https://github.com/prolificinteractive), [@MarcoSantarossa](https://github.com/MarcoSantarossa)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc)
