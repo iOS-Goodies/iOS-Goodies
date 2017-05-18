@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Anchors](https://github.com/onmyway133/Anchors), by [@onmyway133](https://github.com/onmyway133)
+* [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Business**
 
