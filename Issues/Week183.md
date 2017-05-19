@@ -1,7 +1,6 @@
 
 **Articles**
 
-* [Workaround for building Swift static libraries (in frameworks) in Xcode:](https://github.com/keith/swift-staticlibs), by [@SmileyKeith](https://twitter.com/SmileyKeith)
 * [UIKit Global Functions](https://medium.com/the-traveled-ios-developers-guide/uikit-global-functions-b38250c0ed5c), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Gotchas When Implementing iOS 10 Rich Notifications](https://www.prolificinteractive.com/2017/05/11/gotchas-implementing-ios-10-rich-notifications/), by [@weareprolific](https://twitter.com/weareprolific)
 * [Fake AppDelegate For Unit Testing In Swift](https://marcosantadev.com/fake-appdelegate-unit-testing-swift/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
@@ -11,6 +10,7 @@
 
 * [Anchors](https://github.com/onmyway133/Anchors), by [@onmyway133](https://github.com/onmyway133)
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4), by [@olebegemann](https://twitter.com/olebegemann)
+* [Workaround for building Swift static libraries (in frameworks) in Xcode](https://github.com/keith/swift-staticlibs), by [@SmileyKeith](https://twitter.com/SmileyKeith)
 
 **Business**
 
