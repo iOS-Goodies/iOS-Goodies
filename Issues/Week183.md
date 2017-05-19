@@ -20,7 +20,7 @@
 * [Design for Fingers, Touch, and People, Part 2](http://www.uxmatters.com/mt/archives/2017/05/design-for-fingers-touch-and-people-part-2.php), by [@shoobe01](https://twitter.com/shoobe01)
 * [How Travel Sites Use UI Patterns to Nudge Customers](https://www.appcues.com/blog/travel-sites-customer-engagement), by Julia Chen 
 * [6 Ways to Make Usability Hygiene Work for You](https://www.webdesignerdepot.com/2017/05/6-ways-to-make-usability-hygiene-work-for-you/), by Nick Babich
-* [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81), by [@](https://twitter.com/ainikolov)ainikolovai
+* [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81), by [@ainikolovai](https://twitter.com/ainikolov)
 
 **Videos**
 
