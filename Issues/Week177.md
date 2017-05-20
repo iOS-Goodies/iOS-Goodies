@@ -22,6 +22,7 @@
 * [Strongify](https://github.com/krzysztofzablocki/Strongify), by [@merowing_](https://twitter.com/merowing_)
 * [Gliding Collection](https://github.com/Ramotion/gliding-collection), by [@ramotion](https://twitter.com/ramotion)
 * [Get Schwifty](https://github.com/BenchR267/Get-Schwifty), by [@benchr](https://twitter.com/benchr)
+* [Nora](https://github.com/SD10/Nora), by [@SD10](https://github.com/SD10)
 
 **Business**
 
