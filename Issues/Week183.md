@@ -22,6 +22,7 @@
 * [How Travel Sites Use UI Patterns to Nudge Customers](https://www.appcues.com/blog/travel-sites-customer-engagement), by Julia Chen 
 * [6 Ways to Make Usability Hygiene Work for You](https://www.webdesignerdepot.com/2017/05/6-ways-to-make-usability-hygiene-work-for-you/), by Nick Babich
 * [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81), by [@ainikolovai](https://twitter.com/ainikolov)
+* [Creating Personas: Guide](https://blog.prototypr.io/personas-74c4e1c12ee2), by [@ben_ralph](https://twitter.com/ben_ralph)
 
 **Videos**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc), [@brunoacpires](https://twitter.com/brunoacpires)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc), [@brunoacpires](https://twitter.com/brunoacpires), [LisaDziuba](https://github.com/lisadziuba)
