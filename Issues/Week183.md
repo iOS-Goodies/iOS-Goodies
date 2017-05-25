@@ -12,6 +12,7 @@
 * [Anchors](https://github.com/onmyway133/Anchors), by [@onmyway133](https://github.com/onmyway133)
 * [whats-new-in-swift-4](https://github.com/ole/whats-new-in-swift-4), by [@olebegemann](https://twitter.com/olebegemann)
 * [Workaround for building Swift static libraries (in frameworks) in Xcode](https://github.com/keith/swift-staticlibs), by [@SmileyKeith](https://twitter.com/SmileyKeith)
+* [DeckTransition](https://github.com/HarshilShah/DeckTransition), by [@harshilshah1910](https://twitter.com/harshilshah1910)
 
 **Business**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc), [@brunoacpires](https://twitter.com/brunoacpires), [LisaDziuba](https://github.com/lisadziuba)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [MarcoSantarossa](https://github.com/MarcoSantarossa), [mariusc](https://github.com/mariusc), [@brunoacpires](https://twitter.com/brunoacpires), [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
