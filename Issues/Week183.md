@@ -17,7 +17,8 @@
 
 **Business**
 
-*
+* [My Startup Failed, I Lost Everything. Here’s What I Learned](https://medium.com/@SoldOutSupplier/my-startup-failed-i-lost-everything-heres-what-i-learned-44658a116464), by The Startup Journey
+* [“Thank God I Don’t Have a Job”](https://medium.com/personal-growth/thank-god-i-dont-have-a-job-ae2fcb6c096e), by [@ToddBrison](https://twitter.com/ToddBrison)
 
 **UI/UX**
 
