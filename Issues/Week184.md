@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [@KaramazovShogun](https://twitter.com/KaramazovShogun)
