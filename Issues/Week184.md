@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [@KaramazovShogun](https://twitter.com/KaramazovShogun), [@MarcoSantarossa](https://twitter.com/MarcoSantarossa), [LisaDziuba](https://github.com/lisadziuba), [@ennioma](https://twitter.com/ennioma)
+* [@KaramazovShogun](https://twitter.com/KaramazovShogun), [@MarcoSantarossa](https://twitter.com/MarcoSantarossa), [LisaDziuba](https://github.com/lisadziuba), [@ennioma](https://twitter.com/ennioma), [@jorgecosta89](https://twitter.com/@jorgecosta89)
