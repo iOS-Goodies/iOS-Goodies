@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-*
+* [WWDC app for macOS](https://wwdc.io), by @jorgecosta89 (https://twitter.com/@jorgecosta89) 
 
 **Business**
 
