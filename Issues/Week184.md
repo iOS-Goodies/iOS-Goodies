@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController), by [@justeat_tech](https://twitter.com/justeat_tech)
+* [WWDC app for macOS](https://wwdc.io), by [@jorgecosta89](https://twitter.com/@jorgecosta89)
 
 **Business**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [@KaramazovShogun](https://twitter.com/KaramazovShogun), [@MarcoSantarossa](https://twitter.com/MarcoSantarossa), [LisaDziuba](https://github.com/lisadziuba), [@ennioma](https://twitter.com/ennioma), [albertodebo](https://twitter.com/albertodebo)
+* [@KaramazovShogun](https://twitter.com/KaramazovShogun), [@MarcoSantarossa](https://twitter.com/MarcoSantarossa), [LisaDziuba](https://github.com/lisadziuba), [@ennioma](https://twitter.com/ennioma), [albertodebo](https://twitter.com/albertodebo), [@jorgecosta89](https://twitter.com/jorgecosta89)
