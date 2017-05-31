@@ -3,7 +3,7 @@
 
 * [Object Oriented Programming in Swift](https://www.raywenderlich.com/160728/object-oriented-programming-swift), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 * [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
-* [Apple has released a free, beginner-level, 900-page book "App Development with Swift" + related teaching materials](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11) by Apple
+* [Apple has released a free, beginner-level, 900-page book "App Development with Swift" + related teaching materials](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11) via [Matt Gallagher](https://twitter.com/cocoawithlove)
 
 
 **Tools/Controls**
