@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-*
+* [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Business**
 
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [@KaramazovShogun](https://twitter.com/KaramazovShogun), [@MarcoSantarossa](https://twitter.com/MarcoSantarossa), [LisaDziuba](https://github.com/lisadziuba), [@ennioma](https://twitter.com/ennioma)
+* [@KaramazovShogun](https://twitter.com/KaramazovShogun), [@MarcoSantarossa](https://twitter.com/MarcoSantarossa), [LisaDziuba](https://github.com/lisadziuba), [@ennioma](https://twitter.com/ennioma), [albertodebo](https://twitter.com/albertodebo)
