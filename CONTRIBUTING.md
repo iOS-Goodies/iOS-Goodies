@@ -2,7 +2,7 @@ We love that you're interested in contributing to iOS Goodies! 🦄🦄🦄
 
 To make the process as painless as possible, we have just a couple of guidelines that should make life easier and less frustrating for everyone. ♥️
 
-Before we start, please read our [Code of Conduct](https://github.com/iOS-Goodies/Contributing-Guidelines/blob/master/CODE_OF_CONDUCT.md)(we take it very seriously 😁).
+Before we start, please read our [Code of Conduct](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/CODE_OF_CONDUCT.md) (we take it very seriously 😁).
 
 ## Contributing
 
