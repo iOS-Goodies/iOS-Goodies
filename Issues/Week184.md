@@ -5,6 +5,7 @@
 * [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [Apple has released a free, beginner-level, 900-page book "App Development with Swift" + related teaching materials](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11) by Apple
 * [A primer about functional Lenses in swift](https://medium.com/@EnnioMa/functional-lenses-an-exploration-in-swift-25b4d3a6a536), by [@ennioma](https://twitter.com/ennioma)
+* [Avoiding Third-Party UI Libraries](http://holko.pl/2017/05/31/avoiding-ui-libraries/), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
@@ -16,7 +17,6 @@
 * [How Doist Makes Remote Work Happen](https://blog.todoist.com/2017/05/25/how-doist-works-remote/), by [@Zjellstrom](https://twitter.com/Zjellstrom)
 * [IBM’s Remote Work Reversal Is A Losing Battle Against The New Normal](https://www.fastcompany.com/40423083/ibms-remote-work-reversal-is-a-losing-battle-against-the-new-normal), by [@skasriel](https://twitter.com/skasriel)
 * [What Happens When Work Becomes a Nonstop Chat Room](http://nymag.com/selectall/2017/05/what-has-slack-done-to-the-office.html), by [@mollyhfischer](https://twitter.com/mollyhfischer)
-* [Fuck Productivity](http://heydesigner.com/blog/fuck-productivity/), by [@Abby_the_IA](https://twitter.com/abby_the_ia)
 
 **UI/UX**
 
