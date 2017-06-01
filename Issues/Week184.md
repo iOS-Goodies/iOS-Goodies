@@ -22,7 +22,8 @@
 
 **UI/UX**
 
-*
+* [Best Practices for Horizontal Lists in Mobile](https://uxdesign.cc/best-practices-for-horizontal-lists-in-mobile-21480b9b73e5), by [@Suleiman_194](https://twitter.com/Suleiman_194)
+* [Houzz: a UX case study](https://uxdesign.cc/houzz-a-ux-case-study-98843fbdfcba), by [@AUDImeetsworld](https://twitter.com/AUDImeetsworld)
 
 **Videos**
 
