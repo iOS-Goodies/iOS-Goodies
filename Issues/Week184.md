@@ -13,6 +13,8 @@
 
 * [ScrollingStackViewController](https://github.com/justeat/ScrollingStackViewController), by [@justeat_tech](https://twitter.com/justeat_tech)
 * [WWDC app for macOS](https://wwdc.io), by [@_inside](https://twitter.com/_inside)
+* [MarkdownView](https://github.com/keitaoouchi/MarkdownView), by Keita Oouchi
+* [Swift Deep Linking](https://github.com/ijoshsmith/swift-deep-linking), by [@bach4life](https://twitter.com/bach4life)
 
 **Business**
 
