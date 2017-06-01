@@ -5,6 +5,7 @@
 * [Stored Properties In Swift Extensions](https://marcosantadev.com/stored-properties-swift-extensions/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [Apple has released a free, beginner-level, 900-page book "App Development with Swift" + related teaching materials](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11) by Apple
 * [A primer about functional Lenses in swift](https://medium.com/@EnnioMa/functional-lenses-an-exploration-in-swift-25b4d3a6a536), by [@ennioma](https://twitter.com/ennioma)
+* [Avoiding Third-Party UI Libraries](http://holko.pl/2017/05/31/avoiding-ui-libraries/), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
