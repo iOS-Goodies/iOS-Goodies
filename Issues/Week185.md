@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [PinLayout](https://github.com/mirego/PinLayout), by [@mirego](https://twitter.com/mirego)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
