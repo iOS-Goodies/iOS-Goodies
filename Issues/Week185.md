@@ -6,7 +6,8 @@
 
 **Tools/Controls**
 
-*
+* [PinLayout](https://github.com/mirego/PinLayout), by [@mirego](https://twitter.com/mirego)
+* [SplitViewDragAndDrop](https://github.com/MarioIannotta/SplitViewDragAndDrop), [@marioiannotta](http://www.twitter.com/marioiannotta)
 
 **Business**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
