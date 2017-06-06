@@ -8,6 +8,7 @@
 
 * [PinLayout](https://github.com/mirego/PinLayout), by [@mirego](https://twitter.com/mirego)
 * [SplitViewDragAndDrop](https://github.com/MarioIannotta/SplitViewDragAndDrop), [@marioiannotta](http://www.twitter.com/marioiannotta)
+* [Themes](https://github.com/onmyway133/Themes), by [@onmyway133](https://github.com/onmyway133)
 
 **Business**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@onmyway133](https://github.com/onmyway133)
