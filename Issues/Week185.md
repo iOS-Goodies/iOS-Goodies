@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [WWDC 2017 Initial Impressions](https://www.raywenderlich.com/163940/wwdc-2017-initial-impressions), by [@obusek](https://twitter.com/obusek)
 
 
 **Tools/Controls**
