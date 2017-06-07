@@ -6,6 +6,7 @@
 * [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza) 
 
 
+
 **Tools/Controls**
 
 * [PinLayout](https://github.com/mirego/PinLayout), by [@mirego](https://twitter.com/mirego)
@@ -15,6 +16,7 @@
 **Business**
 
 * [Agile at Scale – Outcome Driven (or Broken)](http://tynerblain.com/blog/2017/05/24/agile-at-scale-outcome-driven-or-broken/), by Tyner Blain
+* [Storytelling Should Be the Number One Skill You Want to Improve](https://themission.co/storytelling-should-be-the-number-one-skill-you-want-to-improve-746c5e7c8afe), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
 
 **UI/UX**
 
