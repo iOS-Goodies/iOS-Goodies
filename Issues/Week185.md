@@ -1,10 +1,11 @@
+* A curious tool that uses AI to help you program. [Stackoverflow on steroids?](https://www.codota.com/)
+* While you are trying to grasp everything from the WWDC here is something to relax: [hilarious suggestions to control the volume](https://www.reddit.com/r/ProgrammerHumor/comments/6fd52x/volume_control_should_be_intuitive/) 
 
 **Articles**
 
 * [WWDC 2017 Initial Impressions](https://www.raywenderlich.com/163940/wwdc-2017-initial-impressions), by [@obusek](https://twitter.com/obusek)
 * [Protocol composition in Swift and Objective-C](http://www.jessesquires.com/blog/protocol-composition-in-swift-and-objc/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza) 
-
 
 
 **Tools/Controls**
