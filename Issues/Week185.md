@@ -7,6 +7,7 @@
 * [Protocol composition in Swift and Objective-C](http://www.jessesquires.com/blog/protocol-composition-in-swift-and-objc/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza) 
 * [Exploring the new String API in Swift 4](https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4), by [@johnsundell](https://twitter.com/johnsundell)
+* [Capturing Values In Swift Closures](https://marcosantadev.com/capturing-values-swift-closures/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 
 **Tools/Controls**
