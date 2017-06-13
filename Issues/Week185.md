@@ -20,6 +20,7 @@
 
 * [Agile at Scale – Outcome Driven (or Broken)](http://tynerblain.com/blog/2017/05/24/agile-at-scale-outcome-driven-or-broken/), by Tyner Blain
 * [Storytelling Should Be the Number One Skill You Want to Improve](https://themission.co/storytelling-should-be-the-number-one-skill-you-want-to-improve-746c5e7c8afe), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
+* [How to Not Take Feedback Personally](http://heydesigner.com/blog/not-take-feedback-personally/), by Claire Lew.
 
 **UI/UX**
 
