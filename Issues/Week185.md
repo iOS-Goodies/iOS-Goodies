@@ -5,7 +5,9 @@
 
 * [WWDC 2017 Initial Impressions](https://www.raywenderlich.com/163940/wwdc-2017-initial-impressions), by [@obusek](https://twitter.com/obusek)
 * [Protocol composition in Swift and Objective-C](http://www.jessesquires.com/blog/protocol-composition-in-swift-and-objc/), by [@jesse_squires](https://twitter.com/jesse_squires)
-* [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza)
+* [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza) 
+* [Exploring the new String API in Swift 4](https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4), by [@johnsundell](https://twitter.com/johnsundell)
+* [Capturing Values In Swift Closures](https://marcosantadev.com/capturing-values-swift-closures/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [WWDC 2017: An In Depth Look At the New App Store](https://www.prolificinteractive.com/2017/06/14/wwdc-2017-depth-look-new-app-store), by [@weareprolific](https://twitter.com/weareprolific)
 
 
@@ -19,6 +21,7 @@
 
 * [Agile at Scale – Outcome Driven (or Broken)](http://tynerblain.com/blog/2017/05/24/agile-at-scale-outcome-driven-or-broken/), by Tyner Blain
 * [Storytelling Should Be the Number One Skill You Want to Improve](https://themission.co/storytelling-should-be-the-number-one-skill-you-want-to-improve-746c5e7c8afe), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
+* [How to Not Take Feedback Personally](http://heydesigner.com/blog/not-take-feedback-personally/), by Claire Lew.
 
 **UI/UX**
 
@@ -26,7 +29,7 @@
 
 **Videos**
 
-*
+* 
 
 **Credits**
 
