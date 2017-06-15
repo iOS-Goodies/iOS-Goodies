@@ -9,6 +9,7 @@
 * [Exploring the new String API in Swift 4](https://www.swiftbysundell.com/posts/exploring-the-new-string-api-in-swift-4), by [@johnsundell](https://twitter.com/johnsundell)
 * [Capturing Values In Swift Closures](https://marcosantadev.com/capturing-values-swift-closures/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [WWDC 2017: An In Depth Look At the New App Store](https://www.prolificinteractive.com/2017/06/14/wwdc-2017-depth-look-new-app-store), by [@weareprolific](https://twitter.com/weareprolific)
+* [Even Swiftier Objective-C](https://pspdfkit.com/blog/2017/even-swiftier-objective-c/), by [@steipete](https://twitter.com/steipete) and [@bukovinski](https://twitter.com/bukovinski)
 
 
 **Tools/Controls**
