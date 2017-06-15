@@ -1,3 +1,5 @@
+* After the WWDC break, here is a summary of [what is new in iOS11](https://www.hackingwithswift.com/whats-new-in-ios-11)
+
 * A curious tool that uses AI to help you program. [Stackoverflow on steroids?](https://www.codota.com/)
 * While you are trying to grasp everything from the WWDC here is something to relax: [hilarious suggestions to control the volume](https://www.reddit.com/r/ProgrammerHumor/comments/6fd52x/volume_control_should_be_intuitive/) 
 
@@ -23,10 +25,13 @@
 * [Agile at Scale – Outcome Driven (or Broken)](http://tynerblain.com/blog/2017/05/24/agile-at-scale-outcome-driven-or-broken/), by Tyner Blain
 * [Storytelling Should Be the Number One Skill You Want to Improve](https://themission.co/storytelling-should-be-the-number-one-skill-you-want-to-improve-746c5e7c8afe), by [@Jonwestenberg](https://twitter.com/Jonwestenberg)
 * [How to Not Take Feedback Personally](http://heydesigner.com/blog/not-take-feedback-personally/), by Claire Lew.
+* [Why You Need to Build an MVP App (and 5 tips on how to do it)](https://medium.com/swlh/why-you-need-to-build-an-mvp-app-and-5-tips-on-how-to-do-it-937d7040ee19), by Jessi Salonen
+* [For an Inclusive Culture, Try Working Less](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea), by [@richarmstrong](https://twitter.com/richarmstrong)
 
 **UI/UX**
 
 * [A Checklist for Registration and Login Forms on Mobile](https://www.nngroup.com/articles/checklist-registration-login/), by [@rbudiu](https://twitter.com/rbudiu)
+* [Best Practices for Modals / Overlays / Dialog Windows](http://heydesigner.com/blog/best-practices-modals-overlays-dialog-windows/), by [@msNaema](https://twitter.com/msNaema)
 
 **Videos**
 
