@@ -5,7 +5,8 @@
 
 * [WWDC 2017 Initial Impressions](https://www.raywenderlich.com/163940/wwdc-2017-initial-impressions), by [@obusek](https://twitter.com/obusek)
 * [Protocol composition in Swift and Objective-C](http://www.jessesquires.com/blog/protocol-composition-in-swift-and-objc/), by [@jesse_squires](https://twitter.com/jesse_squires)
-* [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza) 
+* [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started), by [@j_vesza](https://twitter.com/j_vesza)
+* [WWDC 2017: An In Depth Look At the New App Store](https://www.prolificinteractive.com/2017/06/14/wwdc-2017-depth-look-new-app-store), by [@weareprolific](https://twitter.com/weareprolific)
 
 
 **Tools/Controls**
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@onmyway133](https://github.com/onmyway133)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@onmyway133](https://github.com/onmyway133), [@prolificinteractive](https://github.com/prolificinteractive)
