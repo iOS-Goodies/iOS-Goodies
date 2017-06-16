@@ -2,7 +2,7 @@
 **Articles**
 
 * [Breakpoints: Debugging like a Pro](https://cheesecakelabs.com/blog/breakpoints-debugging-like-pro/), by Alan Ostanik
-
+* [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/), by [@mhollemans](https://twitter.com/mhollemans)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [@naeemshaikh90](https://github.com/naeemshaikh90)
+* [LisaDziuba](https://github.com/lisadziuba), [@naeemshaikh90](https://github.com/naeemshaikh90), [@uraimo](https://github.com/uraimo)
