@@ -3,6 +3,7 @@
 
 * [Breakpoints: Debugging like a Pro](https://cheesecakelabs.com/blog/breakpoints-debugging-like-pro/), by Alan Ostanik
 * [iOS 11: Machine Learning for everyone](http://machinethink.net/blog/ios-11-machine-learning-for-everyone/), by [@mhollemans](https://twitter.com/mhollemans)
+* [Another Small UIKit Debugging Adventure](http://blog.benjamin-encz.de/post/another-small-uikit-debugging-adventure/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **Tools/Controls**
 
