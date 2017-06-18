@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-*
+* [Horizontal scrolling in mobile](https://uxplanet.org/horizontal-scrolling-in-mobile-643c81901af3), by [@CanvasFlip](https://twitter.com/CanvasFlip).
 
 **Videos**
 
