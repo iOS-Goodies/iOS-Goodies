@@ -15,6 +15,7 @@
 **Business**
 
 * [The Illusion of Measuring What Customers Want](https://jtbd.info/the-illusion-of-measuring-what-customers-want-3672a7892eb), by [@alanklement](https://twitter.com/alanklement)
+* [What if companies interviewed translators the way they interview coders?](https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6) by [@jjperezaguinaga](https://twitter.com/jjperezaguinaga)
 
 **UI/UX**
 
