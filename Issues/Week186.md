@@ -11,6 +11,7 @@
 * [Kuery](https://github.com/kishikawakatsumi/Kuery), by [@k_katsumi](http://twitter.com/k_katsumi)
 * [Gagat](https://github.com/Boerworz/Gagat), by [@Boerworz](https://twitter.com/Boerworz)
 * [ScrollableDatepicker](https://github.com/noxt/ScrollableDatepicker), by Dmitry Ivanenko
+* [Metron](https://github.com/toineheuvelmans/Metron), by [@toineheuvelmans](https://twitter.com/toineheuvelmans)
 
 
 **Business**
