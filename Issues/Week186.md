@@ -18,6 +18,7 @@
 * [catena](https://github.com/pixelspark/catena), by [@tommyvdv](https://twitter.com/tommyvdv)
 * [Metron](https://github.com/toineheuvelmans/Metron), by [@toineheuvelmans](https://twitter.com/toineheuvelmans)
 * [LGButton](https://github.com/loregr/LGButton), by Lorenzo Greco
+* [CALayer And Auto Layout With Swift](https://marcosantadev.com/calayer-auto-layout-swift/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 **Business**
 
@@ -35,4 +36,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@uraimo](https://github.com/uraimo), [dkhamsing](https://github.com/dkhamsing), [mariusc](https://github.com/mariusc)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@uraimo](https://github.com/uraimo), [dkhamsing](https://github.com/dkhamsing), [mariusc](https://github.com/mariusc), [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
