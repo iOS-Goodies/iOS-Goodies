@@ -6,6 +6,7 @@
 * [Another Small UIKit Debugging Adventure](http://blog.benjamin-encz.de/post/another-small-uikit-debugging-adventure/), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Re-building the New App Store App – Today View](http://www.phillfarrugia.com/2017/06/19/rebuilding-the-new-app-store-app-today-view/), by Phill Farrugia
 * [Why Core ML will not work for your app (most likely)](http://alexsosn.github.io/ml/2017/06/09/Core-ML-will-not-Work-for-Your-App.html), by [@alexsosn](https://github.com/alexsosn)
+* [Statements, messages and reducers](https://www.cocoawithlove.com/blog/statements-messages-reducers.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@uraimo](https://github.com/uraimo), [dkhamsing](https://github.com/dkhamsing)
+* [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [@uraimo](https://github.com/uraimo), [dkhamsing](https://github.com/dkhamsing), [mariusc](https://github.com/mariusc)
