@@ -27,6 +27,7 @@
 **UI/UX**
 
 * [Horizontal scrolling in mobile](https://uxplanet.org/horizontal-scrolling-in-mobile-643c81901af3), by [@CanvasFlip](https://twitter.com/CanvasFlip).
+* [The 1,000 Floor Elevator: Why Most Designers Fail Google’s Infamous Interview Design Challenge](https://medium.muz.li/the-1-000-floor-elevator-why-most-designers-fail-googles-infamous-interview-design-challenge-a5ff9ad91741), by [@SvilenK](https://twitter.com/SvilenK)
 
 **Videos**
 
