@@ -8,6 +8,7 @@
 * [Why Core ML will not work for your app (most likely)](http://alexsosn.github.io/ml/2017/06/09/Core-ML-will-not-Work-for-Your-App.html), by [@alexsosn](https://github.com/alexsosn)
 * [Statements, messages and reducers](https://www.cocoawithlove.com/blog/statements-messages-reducers.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/), by [@subdigital](https://twitter.com/subdigital)
+* [CALayer And Auto Layout With Swift](https://marcosantadev.com/calayer-auto-layout-swift/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 **Tools/Controls**
 
@@ -18,7 +19,6 @@
 * [catena](https://github.com/pixelspark/catena), by [@tommyvdv](https://twitter.com/tommyvdv)
 * [Metron](https://github.com/toineheuvelmans/Metron), by [@toineheuvelmans](https://twitter.com/toineheuvelmans)
 * [LGButton](https://github.com/loregr/LGButton), by Lorenzo Greco
-* [CALayer And Auto Layout With Swift](https://marcosantadev.com/calayer-auto-layout-swift/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 **Business**
 
