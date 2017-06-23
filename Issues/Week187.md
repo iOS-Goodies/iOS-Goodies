@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [fastlane precheck](https://fabric.io/blog/introducing-fastlane-precheck), by [@KrauseFx](https://twitter.com/KrauseFx)
 
 **Business**
 
