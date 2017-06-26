@@ -11,6 +11,7 @@
 
 * [fastlane precheck](https://fabric.io/blog/introducing-fastlane-precheck), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Apply](https://github.com/mfaarkrog/apply), by [@MFaarkrog](https://twitter.com/mfaarkrog)
+* [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples), by [@ArtemNovichkov](https://twitter.com/iosartem)
 
 **Business**
 
