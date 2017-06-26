@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [fastlane precheck](https://fabric.io/blog/introducing-fastlane-precheck), by [@KrauseFx](https://twitter.com/KrauseFx)
+* [Apply](https://github.com/mfaarkrog/apply), by [@MFaarkrog](https://twitter.com/mfaarkrog)
 
 **Business**
 
@@ -25,3 +26,4 @@
 **Credits**
 
 * [LisaDziuba](https://github.com/lisadziuba)
+* [MFaarkrog](https://github.com/mfaarkrog)
