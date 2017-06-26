@@ -4,6 +4,7 @@
 * [Swift Package Manager Manifest API Redesign](https://swift.org/blog/swift-package-manager-manifest-api-redesign/), by [@aciidb0mb3r](https://twitter.com/aciidb0mb3r/)
 * [Monadic Computation in Swift. Why?](https://kandelvijaya.com/2017/06/25/whymondaiccomputation/) by [@kandelvijaya](https://twitter.com/kandelvijaya)
 * [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Checking UIViewController Deallocation](http://holko.pl/2017/06/26/checking-uiviewcontroller-deallocation/), by [arekholko](https://twitter.com/arekholko)
 
 
 **Tools/Controls**
