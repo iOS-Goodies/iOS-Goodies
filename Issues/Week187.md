@@ -13,6 +13,7 @@
 * [fastlane precheck](https://fabric.io/blog/introducing-fastlane-precheck), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Apply](https://github.com/mfaarkrog/apply), by [@MFaarkrog](https://twitter.com/mfaarkrog)
 * [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples), by [@ArtemNovichkov](https://twitter.com/iosartem)
+* [AlternateIcons](https://github.com/alexaubry/alternate-icons), by [@leksantoine](https://twitter.com/leksantoine)
 
 **Business**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa)
+* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa), [Alexis Aubry](https://github.com/alexaubry)
