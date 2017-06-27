@@ -5,6 +5,7 @@
 * [Monadic Computation in Swift. Why?](https://kandelvijaya.com/2017/06/25/whymondaiccomputation/) by [@kandelvijaya](https://twitter.com/kandelvijaya)
 * [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Checking UIViewController Deallocation](http://holko.pl/2017/06/26/checking-uiviewcontroller-deallocation/), by [arekholko](https://twitter.com/arekholko)
+* [Network Reachability With Swift](https://marcosantadev.com/network-reachability-swift/), by [MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 
 **Tools/Controls**
@@ -27,6 +28,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
-* [MFaarkrog](https://github.com/mfaarkrog)
-* [Artem Novichkov](https://github.com/artemnovichkov)
+* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa)
