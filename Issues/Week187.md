@@ -29,3 +29,4 @@
 
 * [LisaDziuba](https://github.com/lisadziuba)
 * [MFaarkrog](https://github.com/mfaarkrog)
+* [Artem Novichkov](https://github.com/artemnovichkov)
