@@ -21,7 +21,7 @@
 
 **Business**
 
-*
+* [It may not be your fault, but it’s always your responsibility](https://codewithoutrules.com/2017/06/27/its-always-your-fault-in-practice/), by [@itamarst](https://twitter.com/itamarst)
 
 **UI/UX**
 
