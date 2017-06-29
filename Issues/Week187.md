@@ -8,6 +8,7 @@
 * [Network Reachability With Swift](https://marcosantadev.com/network-reachability-swift/), by [MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [Can Core ML in iOS Really Do Hot Dog Detection Without Server-side Processing?](https://savvyapps.com/blog/core-ml-ios-hot-dog-detection-no-server), by [@jazgarewal](https://twitter.com/jazgarewal)
 * [Working with optional errors in completion handlers](http://ericasadun.com/2017/06/27/working-with-optional-errors-in-completion-handlers/), by [@ericasadun](https://twitter.com/ericasadun)
+* [Asset Catalog Changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/), by [@coryb](https://twitter.com/coryb)
 
 
 **Tools/Controls**
