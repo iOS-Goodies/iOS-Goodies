@@ -5,11 +5,11 @@
 * [Monadic Computation in Swift. Why?](https://kandelvijaya.com/2017/06/25/whymondaiccomputation/) by [@kandelvijaya](https://twitter.com/kandelvijaya)
 * [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Checking UIViewController Deallocation](http://holko.pl/2017/06/26/checking-uiviewcontroller-deallocation/), by [arekholko](https://twitter.com/arekholko)
+* [iOS code linting at Pinterest via custom clang extensions](https://medium.com/@Pinterest_Engineering/ios-linting-at-pinterest-3108d8764390), by [@maicki](https://twitter.com/maicki)
 * [Network Reachability With Swift](https://marcosantadev.com/network-reachability-swift/), by [MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [Can Core ML in iOS Really Do Hot Dog Detection Without Server-side Processing?](https://savvyapps.com/blog/core-ml-ios-hot-dog-detection-no-server), by [@jazgarewal](https://twitter.com/jazgarewal)
 * [Working with optional errors in completion handlers](http://ericasadun.com/2017/06/27/working-with-optional-errors-in-completion-handlers/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Asset Catalog Changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/), by [@coryb](https://twitter.com/coryb)
-
 
 **Tools/Controls**
 
@@ -34,4 +34,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa), [Alexis Aubry](https://github.com/alexaubry), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa), [Alexis Aubry](https://github.com/alexaubry), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [levi](https://github.com/levi)
