@@ -26,6 +26,7 @@
 **UI/UX**
 
 * [A collection of interaction sounds for prototypes](http://facebook.design/soundkit), by Facebook. 
+* [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
