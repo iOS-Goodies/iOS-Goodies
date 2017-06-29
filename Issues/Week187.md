@@ -10,6 +10,7 @@
 * [Can Core ML in iOS Really Do Hot Dog Detection Without Server-side Processing?](https://savvyapps.com/blog/core-ml-ios-hot-dog-detection-no-server), by [@jazgarewal](https://twitter.com/jazgarewal)
 * [Working with optional errors in completion handlers](http://ericasadun.com/2017/06/27/working-with-optional-errors-in-completion-handlers/), by [@ericasadun](https://twitter.com/ericasadun)
 * [Asset Catalog Changes in Xcode 9](http://martiancraft.com/blog/2017/06/xcode9-assets/), by [@coryb](https://twitter.com/coryb)
+* [How we cut our iOS app’s launch time in half](https://blog.automatic.com/how-we-cut-our-ios-apps-launch-time-in-half-with-this-one-cool-trick-7aca2011e2ea), by [@EricHoracek](https://twitter.com/EricHoracek)
 
 **Tools/Controls**
 
@@ -21,12 +22,15 @@
 
 **Business**
 
+* [News apps are making a comeback. More young Americans are paying for news.](http://www.niemanlab.org/2017/06/news-apps-are-making-a-comeback-more-young-americans-are-paying-for-news-2017-is-weird/), by [@laurahazardowen](https://twitter.com/laurahazardowen)
 * [It may not be your fault, but it’s always your responsibility](https://codewithoutrules.com/2017/06/27/its-always-your-fault-in-practice/), by [@itamarst](https://twitter.com/itamarst)
+
 
 **UI/UX**
 
 * [A collection of interaction sounds for prototypes](http://facebook.design/soundkit), by Facebook. 
 * [Accessibility for Visual Design](http://www.uxbooth.com/articles/accessibility-visual-design/), by [@101babich](https://twitter.com/101babich)
+* [Functionality vs Emotions in Mobile Interface Animation](https://blog.prototypr.io/functionality-vs-emotions-in-mobile-interface-animation-9bce59129ac7), by [@cuberto](https://twitter.com/cuberto)
 
 **Videos**
 
