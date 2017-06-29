@@ -6,6 +6,8 @@
 * [Using SpriteKit to create animations in Swift](https://www.swiftbysundell.com/posts/using-spritekit-to-create-animations-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Checking UIViewController Deallocation](http://holko.pl/2017/06/26/checking-uiviewcontroller-deallocation/), by [arekholko](https://twitter.com/arekholko)
 * [Network Reachability With Swift](https://marcosantadev.com/network-reachability-swift/), by [MarcoSantaDev](https://twitter.com/MarcoSantaDev)
+* [Can Core ML in iOS Really Do Hot Dog Detection Without Server-side Processing?](https://savvyapps.com/blog/core-ml-ios-hot-dog-detection-no-server), by [@jazgarewal](https://twitter.com/jazgarewal)
+* [Working with optional errors in completion handlers](http://ericasadun.com/2017/06/27/working-with-optional-errors-in-completion-handlers/), by [@ericasadun](https://twitter.com/ericasadun)
 
 
 **Tools/Controls**
@@ -30,4 +32,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa), [Alexis Aubry](https://github.com/alexaubry), [onmyway133](https://github.com/onmyway133)
+* [LisaDziuba](https://github.com/lisadziuba), [MFaarkrog](https://github.com/mfaarkrog), [Artem Novichkov](https://github.com/artemnovichkov), [MarcoSantarossa](https://github.com/MarcoSantarossa), [Alexis Aubry](https://github.com/alexaubry), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
