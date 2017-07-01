@@ -23,4 +23,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), 
+*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
