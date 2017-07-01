@@ -16,6 +16,7 @@
 **UI/UX**
 
 * [Predictive User Experience](http://www.uxmatters.com/mt/archives/2017/06/predictive-user-experience.php), by Alipta Ballav
+* [Should designers do speculative (free) work?](https://uxdesign.cc/spec-work-sucks-it-must-die-70ad096bae13), by [@rizwanjavaid](https://twitter.com/rizwanjav
 
 **Videos**
 
