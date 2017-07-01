@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-* 
+* [Predictive User Experience](http://www.uxmatters.com/mt/archives/2017/06/predictive-user-experience.php), by Alipta Ballav
 
 **Videos**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), 
+*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
