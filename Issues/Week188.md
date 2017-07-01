@@ -25,5 +25,5 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://twitter.com/KaramazovShogun)
+*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://github.com/KaramazovShogun)
 
