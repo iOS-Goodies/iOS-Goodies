@@ -2,6 +2,7 @@
 **Articles**
 
 * [An aside about flatMap and monads](http://www.cocoawithlove.com/blog/an-aside-about-flatmap-and-monads.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 
 
 **Tools/Controls**
@@ -24,4 +25,5 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
+*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://github.com/KaramazovShogun)
+
