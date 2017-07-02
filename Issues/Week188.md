@@ -11,7 +11,7 @@
 
 **Business**
 
-* 
+* [Want your Product Team to get better? Start doing Retrospectives](https://medium.muz.li/improve-your-product-team-with-this-retrospective-exercise-6a305384f94e), by [@Jicecream](https://twitter.com/Jicecream)
 
 
 **UI/UX**
