@@ -3,6 +3,7 @@
 
 * [An aside about flatMap and monads](http://www.cocoawithlove.com/blog/an-aside-about-flatmap-and-monads.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
+* [Modelling state in Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 
 **Tools/Controls**
