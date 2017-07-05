@@ -9,7 +9,9 @@
 
 **Tools/Controls**
 
-* 
+* [PMSuperButton](https://github.com/Codeido/PMSuperButton), by [@pmusolino](https://twitter.com/pmusolino)
+* [bluejay](https://github.com/steamclock/bluejay), by [apike](https://twitter.com/apike)
+
 
 **Business**
 
@@ -28,5 +30,5 @@
 
 **Credits**
 
-*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://github.com/KaramazovShogun)
+*  [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://github.com/KaramazovShogun), [Codeido](https://github.com/Codeido)
 
