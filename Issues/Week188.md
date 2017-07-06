@@ -17,10 +17,14 @@
 **Business**
 
 * [Want your Product Team to get better? Start doing Retrospectives](https://medium.muz.li/improve-your-product-team-with-this-retrospective-exercise-6a305384f94e), by [@Jicecream](https://twitter.com/Jicecream)
+* [The Only Time You Are Actually Growing is When You’re Uncomfortable](https://medium.com/the-mission/the-only-time-you-are-actually-growing-is-when-youre-uncomfortable-33198a619ab0), by [@Alltopstartups](https://twitter.com/Alltopstartups)
+* [Enough](https://m.signalvnoise.com/enough-1d48019c7335), by [@dhh](https://twitter.com/dhh)
+* [But can you sell water?](https://m.signalvnoise.com/how-much-water-can-you-sell-e178a53007a2), by [@jasonfried](https://twitter.com/jasonfried)
 
 
 **UI/UX**
 
+* [6 Animation Guidelines for UX Design](https://blog.prototypr.io/6-animation-guidelines-for-ux-design-74c90eb5e47a), by [@zecarlostorre](https://twitter.com/zecarlostorre)
 * [Predictive User Experience](http://www.uxmatters.com/mt/archives/2017/06/predictive-user-experience.php), by Alipta Ballav
 * [Should designers do speculative (free) work?](https://uxdesign.cc/spec-work-sucks-it-must-die-70ad096bae13) by [@rizwanjavaid](https://twitter.com/rizwanjav)
 * [From Zero to VR Design Hero](https://medium.com/@k_v_113/from-zero-to-vr-design-hero-4019ed647f6c), by [@K_V_113](https://twitter.com/K_V_113)
