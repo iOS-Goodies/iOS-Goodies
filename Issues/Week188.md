@@ -5,6 +5,7 @@
 * [What’s New in Swift 4 by Example](http://www.appcoda.com/swift4-changes/), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 * [Modelling state in Swift](https://www.swiftbysundell.com/posts/modelling-state-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Reducers](http://chris.eidhof.nl/post/reducers/), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [Errors On The Server](http://khanlou.com/2017/07/errors-on-the-server/), by [@khanlou](https://twitter.com/khanlou)
 
 
 **Tools/Controls**
