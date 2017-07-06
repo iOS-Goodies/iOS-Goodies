@@ -27,7 +27,7 @@
 
 **Videos**
 
-*
+* [Bringing Machine Learning to your iOS Apps](https://news.realm.io/news/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps/), by [@meghafon](https://twitter.com/meghafon)
 
 **Credits**
 
