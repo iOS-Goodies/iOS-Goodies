@@ -3,6 +3,7 @@
 
 * [Learn Rx by implementing Observable](https://medium.com/@SergDort/learn-rx-by-implementing-observable-e5cb08c9c35), by [@SergDort](https://twitter.com/SergDort)
 * [Let’s create a Tinder-like...](https://medium.com/@jamesrochabrun/lets-create-a-tinder-like-swipe-using-nslayoutanchors-custom-views-and-protocol-extensions-3be852f94e1d), by [@roch4brun](https://twitter.com/roch4brun)
+* [Maintaining a (private) Cocoa Pod](https://blog.autsoft.hu/maintaining-a-private-cocoa-pod/), by [@balazsgerlei](https://twitter.com/balazsgerlei)
 
 
 **Tools/Controls**
