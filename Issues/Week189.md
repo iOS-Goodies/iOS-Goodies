@@ -5,6 +5,7 @@
 * [Let’s create a Tinder-like...](https://medium.com/@jamesrochabrun/lets-create-a-tinder-like-swipe-using-nslayoutanchors-custom-views-and-protocol-extensions-3be852f94e1d), by [@roch4brun](https://twitter.com/roch4brun)
 * [Maintaining a (private) Cocoa Pod](https://blog.autsoft.hu/maintaining-a-private-cocoa-pod/), by [@balazsgerlei](https://twitter.com/balazsgerlei)
 * [Writing end-to-end JSON mapping tests in Swift](https://www.swiftbysundell.com/posts/writing-end-to-end-json-mapping-tests-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Refactoring Reveals Truths](http://khanlou.com/2017/07/refactoring-reveals-truths/), by [@khanlou](https://twitter.com/khanlou)
 
 
 **Tools/Controls**
