@@ -29,4 +29,5 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90), [prolificinteractive][https://github.com/prolificinteractive]
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90), [prolificinteractive](https://github.com/prolificinteractive)
+
