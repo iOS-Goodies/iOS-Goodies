@@ -17,6 +17,7 @@
 * [Growth Lessons From Instagram, Before It Was Instagram](https://thinkgrowth.org/growth-lessons-from-instagram-before-it-was-instagram-cf414612330b), by [@ktrajchevska](https://twitter.com/ktrajchevska)
 * [Is Product Hunt useful for developer tools?](https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a) by [@LisaDziuba](https://twitter.com/LisaDziuba)
 * [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee), by [@mike_acton](https://twitter.com/mike_acton)
+* [Hacking Ahead: 3 Shifts to Make in Your Growth Marketing Approach](https://www.prolificinteractive.com/2017/07/11/hacking-ahead-3-shifts-make-growth-marketing-approach/) by [@weareprolific](https://twitter.com/weareprolific)
 
 **UI/UX**
 
@@ -28,4 +29,5 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90), [prolificinteractive](https://github.com/prolificinteractive)
+
