@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-*
+* [ZIPFoundation](https://github.com/weichsel/ZIPFoundation), by [@weichsel](https://twitter.com/weichsel)
 
 **Business**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), 
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90)
