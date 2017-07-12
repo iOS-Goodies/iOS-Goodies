@@ -22,6 +22,7 @@
 **UI/UX**
 
 * [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53), by [@kollinz](https://twitter.com/kollinz)
+* [The Difference between Storyboard, User Journey and User Story](http://www.i3lance.co.uk/index.php/2015/02/04/the-difference-between-storyboard-and-user-journey-and-user-story/), by [@i3lance](https://twitter.com/i3lance)
 
 **Videos**
 
