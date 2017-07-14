@@ -7,11 +7,13 @@
 * [Writing end-to-end JSON mapping tests in Swift](https://www.swiftbysundell.com/posts/writing-end-to-end-json-mapping-tests-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Refactoring Reveals Truths](http://khanlou.com/2017/07/refactoring-reveals-truths/), by [@khanlou](https://twitter.com/khanlou)
 * [Strongly typed identifiers in Swift](http://tom.lokhorst.eu/2017/07/strongly-typed-identifiers-in-swift), by [@tomlokhorst](https://twitter.com/tomlokhorst)
+* [User Breakpoints in Xcode](https://pspdfkit.com/blog/2017/user-breakpoints-in-xcode/), by [@_mochs](https://twitter.com/_mochs)
 
 
 **Tools/Controls**
 
 * [ZIPFoundation](https://github.com/weichsel/ZIPFoundation), by [@weichsel](https://twitter.com/weichsel)
+* [](https://github.com/jakemarsh/core-layout), by [@jakemarsh](http://twitter.com/jakemarsh)
 
 **Business**
 
@@ -31,5 +33,5 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90), [prolificinteractive](https://github.com/prolificinteractive)
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [balazsgerlei](https://github.com/balazsgerlei), [naeemshaikh90](https://github.com/naeemshaikh90), [prolificinteractive](https://github.com/prolificinteractive), [mariusc](https://github.com/mariusc)
 
