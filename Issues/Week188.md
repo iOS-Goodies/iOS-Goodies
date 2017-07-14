@@ -30,6 +30,7 @@ A lot of ARKit demos are poping up, and some people started to open source some 
 * [Should designers do speculative (free) work?](https://uxdesign.cc/spec-work-sucks-it-must-die-70ad096bae13) by [@rizwanjavaid](https://twitter.com/rizwanjav)
 * [From Zero to VR Design Hero](https://medium.com/@k_v_113/from-zero-to-vr-design-hero-4019ed647f6c), by [@K_V_113](https://twitter.com/K_V_113)
 * [Gamification in 2017: Top 5 Key Principles](https://uxplanet.org/gamification-in-2017-top-5-key-principles-cef948254dad), by [@peteknudson](https://twitter.com/peteknudson)
+* [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53), by [@kollinz](https://twitter.com/kollinz)
 
 **Videos**
 
