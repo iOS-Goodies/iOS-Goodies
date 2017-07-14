@@ -13,7 +13,7 @@
 **Tools/Controls**
 
 * [ZIPFoundation](https://github.com/weichsel/ZIPFoundation), by [@weichsel](https://twitter.com/weichsel)
-* [](https://github.com/jakemarsh/core-layout), by [@jakemarsh](http://twitter.com/jakemarsh)
+* [Core Layout](https://github.com/jakemarsh/core-layout), by [@jakemarsh](http://twitter.com/jakemarsh)
 
 **Business**
 
