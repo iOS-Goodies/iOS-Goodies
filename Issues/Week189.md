@@ -8,7 +8,7 @@
 * [Refactoring Reveals Truths](http://khanlou.com/2017/07/refactoring-reveals-truths/), by [@khanlou](https://twitter.com/khanlou)
 * [Strongly typed identifiers in Swift](http://tom.lokhorst.eu/2017/07/strongly-typed-identifiers-in-swift), by [@tomlokhorst](https://twitter.com/tomlokhorst)
 * [User Breakpoints in Xcode](https://pspdfkit.com/blog/2017/user-breakpoints-in-xcode/), by [@_mochs](https://twitter.com/_mochs)
-
+* [Stack View Custom Spacing](https://useyourloaf.com/blog/stack-view-custom-spacing/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -21,11 +21,12 @@
 * [Is Product Hunt useful for developer tools?](https://medium.com/flawless-app-stories/flawlessapp-on-producthunt-7db3e561ce7a) by [@LisaDziuba](https://twitter.com/LisaDziuba)
 * [Introductory bullshit detection for non-technical managers](https://itsyourturnblog.com/introductory-bullshit-detection-for-non-technical-managers-7c7a9e54afee), by [@mike_acton](https://twitter.com/mike_acton)
 * [Hacking Ahead: 3 Shifts to Make in Your Growth Marketing Approach](https://www.prolificinteractive.com/2017/07/11/hacking-ahead-3-shifts-make-growth-marketing-approach/) by [@weareprolific](https://twitter.com/weareprolific)
+* [Nest Founder: “I Wake Up In Cold Sweats Thinking, What Did We Bring To The World?”](https://www.fastcodesign.com/90132364/nest-founder-i-wake-up-in-cold-sweats-thinking-what-did-we-bring-to-the-world), by [@kschwabable](https://twitter.com/kschwabable)
 
 **UI/UX**
 
-* [Dropdown alternatives for better (mobile) forms](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53), by [@kollinz](https://twitter.com/kollinz)
 * [The Difference between Storyboard, User Journey and User Story](http://www.i3lance.co.uk/index.php/2015/02/04/the-difference-between-storyboard-and-user-journey-and-user-story/), by [@i3lance](https://twitter.com/i3lance)
+* [Lean and Mean: Power of Minimalism in UI Design](https://uxplanet.org/lean-and-mean-power-of-minimalism-in-ui-design-5ca37eb32ac8), by [@tubikstudio](https://twitter.com/tubikstudio)
 
 **Videos**
 
