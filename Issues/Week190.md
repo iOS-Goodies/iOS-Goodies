@@ -1,7 +1,7 @@
 
 **Articles**
 
-*
+* [Identifying objects in Swift](https://www.swiftbysundell.com/posts/identifying-objects-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*
+* [rbarbosa](https://github.com/rbarbosa)
