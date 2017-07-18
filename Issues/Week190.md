@@ -13,7 +13,8 @@
 
 **Business**
 
-*
+* [How to Test, Study and Validate Your Big Idea](https://medium.com/swlh/how-to-test-study-and-validate-your-big-idea-27f472045b2a), by Dan Morrissey
+* [Make Money: Don’t Raise Money](https://medium.com/@garyvee/make-money-dont-raise-money-24a92dde76c5), by [@garyvee](https://twitter.com/garyvee)
 
 **UI/UX**
 
