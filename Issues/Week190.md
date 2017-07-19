@@ -11,7 +11,7 @@
 
 **Tools/Controls**
 
-*
+* [Supernova](https://supernova.studio/), by Jirka Třečák
 
 **Business**
 
