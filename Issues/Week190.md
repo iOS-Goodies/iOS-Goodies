@@ -6,6 +6,7 @@
 * [Receipt Validation – Verifying a Receipt Signature in Swift](https://www.andrewcbancroft.com/2017/07/16/receipt-validation-verifying-a-receipt-signature-in-swift/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
 * [What’s New In Animations In Swift 4](https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/), by [@digitalleaves](https://twitter.com/digitalleaves)
 * [React Native for iOS Developers](http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/) by [@orta](https://twitter.com/orta)
+* [Struct References](http://chris.eidhof.nl/post/references/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 
 **Tools/Controls**
