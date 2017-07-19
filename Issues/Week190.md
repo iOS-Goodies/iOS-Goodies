@@ -21,6 +21,7 @@
 **UI/UX**
 
 * [How to increase App usability by removing few common mistakes?](https://blog.prototypr.io/how-to-increase-app-usability-by-removing-few-common-mistakes-b652560f7aa6) by Mj
+* [Product design bookmarks](https://github.com/teoga/product-design-bookmarks) by [@teogagliano](https://twitter.com/teogagliano)
 
 **Videos**
 
