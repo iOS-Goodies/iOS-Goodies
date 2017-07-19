@@ -5,6 +5,7 @@
 * [Communicating Between React Native and Swift](https://www.prolificinteractive.com/2017/07/14/communicating-react-native-swift/) by [@weareprolific](https://twitter.com/weareprolific)
 * [Receipt Validation – Verifying a Receipt Signature in Swift](https://www.andrewcbancroft.com/2017/07/16/receipt-validation-verifying-a-receipt-signature-in-swift/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
 * [What’s New In Animations In Swift 4](https://digitalleaves.com/blog/2017/07/whats-new-animations-swift-4/), by [@digitalleaves](https://twitter.com/digitalleaves)
+* [React Native for iOS Developers](http://artsy.github.io/blog/2017/07/06/React-Native-for-iOS-devs/) by [@orta](https://twitter.com/orta)
 
 
 **Tools/Controls**
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [LisaDziuba](https://github.com/lisadziuba)
+* [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [LisaDziuba](https://github.com/lisadziuba), [mfaarkrog](https://github.com/mfaarkrog)
