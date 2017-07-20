@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [LisaDziuba](https://github.com/lisadziuba), [mfaarkrog](https://github.com/mfaarkrog)
+* [rbarbosa](https://github.com/rbarbosa), [prolificinteractive](https://github.com/prolificinteractive), [LisaDziuba](https://github.com/lisadziuba), [mfaarkrog](https://github.com/mfaarkrog), [ricardopereira](https://github.com/ricardopereira)
