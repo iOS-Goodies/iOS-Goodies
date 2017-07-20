@@ -27,7 +27,7 @@
 
 **Videos**
 
-*
+* [Videos from ADDC 2017 conference](https://www.youtube.com/channel/UCuhXJAOFp9cgbsn71rL30-w/videos)
 
 **Credits**
 
