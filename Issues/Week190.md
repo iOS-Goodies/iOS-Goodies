@@ -19,6 +19,7 @@
 
 * [How to Test, Study and Validate Your Big Idea](https://medium.com/swlh/how-to-test-study-and-validate-your-big-idea-27f472045b2a), by Dan Morrissey
 * [Make Money: Don’t Raise Money](https://medium.com/@garyvee/make-money-dont-raise-money-24a92dde76c5), by [@garyvee](https://twitter.com/garyvee)
+* [How I ran my kids like an Atlassian team for a month](https://medium.com/smells-like-team-spirit/how-i-ran-my-kids-like-an-atlassian-team-for-a-month-6179977d8785), by Matthew Jeffrey
 
 **UI/UX**
 
