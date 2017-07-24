@@ -13,7 +13,7 @@
 
 **Business**
 
-*
+* [Share Because You Want To](https://medium.com/mobile-growth/share-because-you-want-to-c366beeea88c), by [@warpling](https://twitter.com/warpling)
 
 **UI/UX**
 
