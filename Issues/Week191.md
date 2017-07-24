@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-*
+* [Mobile UI Design: Basic Types of Screens](https://uxplanet.org/mobile-ui-design-basic-types-of-screens-aa1857e31339), by [@tubikstudio](https://twitter.com/tubikstudio)
 
 **Videos**
 
