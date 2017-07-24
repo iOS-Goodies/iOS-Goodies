@@ -7,7 +7,9 @@
 
 **Tools/Controls**
 
-*
+* [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders), by [@GhazouaniHamza](https://twitter.com/GhazouaniHamza)
+* [FAPanels](https://github.com/fahidattique55/FAPanels), by [@fahidattique55](https://twitter.com/fahidattique55)
+* [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView), by [@jekyllrb](https://www.twitter.com/jekyllrb)
 
 **Business**
 
@@ -23,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90)
