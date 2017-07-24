@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders), by [@GhazouaniHamza](https://twitter.com/GhazouaniHamza)
+* [FAPanels](https://github.com/fahidattique55/FAPanels), by [@fahidattique55](https://twitter.com/fahidattique55)
 
 **Business**
 
