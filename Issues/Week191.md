@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders), by [@GhazouaniHamza](https://twitter.com/GhazouaniHamza)
 
 **Business**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90)
