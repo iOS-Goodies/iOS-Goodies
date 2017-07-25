@@ -4,6 +4,7 @@
 * [iOS Simulator on steroids: Tips & Tricks](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b), by [@ahmed_sulajman](https://twitter.com/ahmed_sulajman)
 * [Building a declarative animation framework in Swift - Part 1](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1), by [@johnsundell](https://twitter.com/johnsundell)
 * [CoreData: CRUD With Concurrency In Swift – Part 4](https://marcosantadev.com/coredata-crud-concurrency-swift-part-4/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
+* [A great process to know how to unit test (your Swift code)](https://medium.com/@danielcarlosce/a-great-process-to-know-how-to-unit-test-your-swift-code-4bdba0896d52), by [@danielcarlosce](https://twitter.com/danielcarlosce)
 
 
 **Tools/Controls**
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [danielcarlosce](https://github.com/danielCarlosCE)
