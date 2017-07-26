@@ -14,6 +14,7 @@
 * [FAPanels](https://github.com/fahidattique55/FAPanels), by [@fahidattique55](https://twitter.com/fahidattique55)
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView), by [@jekyllrb](https://www.twitter.com/jekyllrb)
 * [UINotifications](https://github.com/WeTransfer/UINotifications), by [@WeTransfer](https://twitter.com/WeTransfer)
+* [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR), by [@pgssoftware](https://twitter.com/pgssoftware)
 
 **Business**
 
