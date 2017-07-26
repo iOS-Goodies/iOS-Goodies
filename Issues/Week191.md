@@ -5,6 +5,7 @@
 * [Building a declarative animation framework in Swift - Part 1](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1), by [@johnsundell](https://twitter.com/johnsundell)
 * [CoreData: CRUD With Concurrency In Swift – Part 4](https://marcosantadev.com/coredata-crud-concurrency-swift-part-4/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [A great process to know how to unit test (your Swift code)](https://medium.com/@danielcarlosce/a-great-process-to-know-how-to-unit-test-your-swift-code-4bdba0896d52), by [@danielcarlosce](https://twitter.com/danielcarlosce)
+* [Building Mixed-Language iOS Project with Buck](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56), by Brian Zhang
 
 
 **Tools/Controls**
