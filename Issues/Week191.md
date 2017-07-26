@@ -6,6 +6,7 @@
 * [CoreData: CRUD With Concurrency In Swift – Part 4](https://marcosantadev.com/coredata-crud-concurrency-swift-part-4/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [A great process to know how to unit test (your Swift code)](https://medium.com/@danielcarlosce/a-great-process-to-know-how-to-unit-test-your-swift-code-4bdba0896d52), by [@danielcarlosce](https://twitter.com/danielcarlosce)
 * [Building Mixed-Language iOS Project with Buck](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56), by Brian Zhang
+* [Sourcery Tutorial: Generating Swift code for iOS](https://www.raywenderlich.com/158803/sourcery-tutorial-generating-swift-code-ios), by [@cwagdev](https://twitter.com/cwagdev)
 
 
 **Tools/Controls**
