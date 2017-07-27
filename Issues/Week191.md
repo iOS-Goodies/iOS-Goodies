@@ -7,6 +7,7 @@
 * [A great process to know how to unit test (your Swift code)](https://medium.com/@danielcarlosce/a-great-process-to-know-how-to-unit-test-your-swift-code-4bdba0896d52), by [@danielcarlosce](https://twitter.com/danielcarlosce)
 * [Building Mixed-Language iOS Project with Buck](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56), by Brian Zhang
 * [Sourcery Tutorial: Generating Swift code for iOS](https://www.raywenderlich.com/158803/sourcery-tutorial-generating-swift-code-ios), by [@cwagdev](https://twitter.com/cwagdev)
+* [How to Create a Measuring App With ARKit In iOS 11](https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11), by Paweł Chmiel, [@droidsonroids](https://twitter.com/droidsonroids)
 * [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app), by Matt Tea, [@savvyapps](https://twitter.com/savvyapps)
 
 
@@ -17,6 +18,10 @@
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView), by [@jekyllrb](https://www.twitter.com/jekyllrb)
 * [UINotifications](https://github.com/WeTransfer/UINotifications), by [@WeTransfer](https://twitter.com/WeTransfer)
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR), by [@pgssoftware](https://twitter.com/pgssoftware)
+* [Disk](https://github.com/saoudrizwan/Disk), by [@sdrzn](https://twitter.com/sdrzn)
+* [SeeFood](https://github.com/kingreza/SeeFood), by [@kingreza](https://twitter.com/kingreza)
+* [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit), by [@droidsonroids](https://twitter.com/droidsonroids)
+* [InAppNotify](https://github.com/lucabecchetti/InAppNotify), by Luca Becchetti
 
 **Business**
 
