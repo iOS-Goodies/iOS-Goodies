@@ -17,6 +17,7 @@
 * [UINotifications](https://github.com/WeTransfer/UINotifications), by [@WeTransfer](https://twitter.com/WeTransfer)
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR), by [@pgssoftware](https://twitter.com/pgssoftware)
 * [Disk](https://github.com/saoudrizwan/Disk), by [@sdrzn](https://twitter.com/sdrzn)
+* [SeeFood](https://github.com/kingreza/SeeFood), by [@kingreza](https://twitter.com/kingreza)
 
 **Business**
 
