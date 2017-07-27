@@ -19,6 +19,7 @@
 * [Disk](https://github.com/saoudrizwan/Disk), by [@sdrzn](https://twitter.com/sdrzn)
 * [SeeFood](https://github.com/kingreza/SeeFood), by [@kingreza](https://twitter.com/kingreza)
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit), by [@droidsonroids](https://twitter.com/droidsonroids)
+* [InAppNotify](https://github.com/lucabecchetti/InAppNotify), by Luca Becchetti
 
 **Business**
 
