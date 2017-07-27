@@ -7,6 +7,7 @@
 * [A great process to know how to unit test (your Swift code)](https://medium.com/@danielcarlosce/a-great-process-to-know-how-to-unit-test-your-swift-code-4bdba0896d52), by [@danielcarlosce](https://twitter.com/danielcarlosce)
 * [Building Mixed-Language iOS Project with Buck](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56), by Brian Zhang
 * [Sourcery Tutorial: Generating Swift code for iOS](https://www.raywenderlich.com/158803/sourcery-tutorial-generating-swift-code-ios), by [@cwagdev](https://twitter.com/cwagdev)
+* [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app), by Matt Tea, [@savvyapps](https://twitter.com/savvyapps)
 
 
 **Tools/Controls**
