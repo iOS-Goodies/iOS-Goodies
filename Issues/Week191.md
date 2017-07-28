@@ -34,7 +34,7 @@
 
 **Videos**
 
-*
+* [The Mysterious Swift Performance](https://www.youtube.com/watch?v=E3Mvj4zfXAA), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **Credits**
 
