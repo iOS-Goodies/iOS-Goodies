@@ -9,7 +9,7 @@
 * [Sourcery Tutorial: Generating Swift code for iOS](https://www.raywenderlich.com/158803/sourcery-tutorial-generating-swift-code-ios), by [@cwagdev](https://twitter.com/cwagdev)
 * [How to Create a Measuring App With ARKit In iOS 11](https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11), by Paweł Chmiel, [@droidsonroids](https://twitter.com/droidsonroids)
 * [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app), by Matt Tea, [@savvyapps](https://twitter.com/savvyapps)
-
+* [All about Concurrency in Swift - Part 2: The Future](https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future/), by [@uraimo](https://twitter.com/uraimo)
 
 **Tools/Controls**
 
@@ -38,4 +38,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [danielcarlosce](https://github.com/danielCarlosCE)
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [danielcarlosce](https://github.com/danielCarlosCE), [uraimo](https://github.com/uraimo)
