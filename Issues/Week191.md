@@ -27,6 +27,7 @@
 * [SeeFood](https://github.com/kingreza/SeeFood), by [@kingreza](https://twitter.com/kingreza)
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit), by [@droidsonroids](https://twitter.com/droidsonroids)
 * [InAppNotify](https://github.com/lucabecchetti/InAppNotify), by Luca Becchetti
+* [JustTweak](https://github.com/justeat/JustTweak), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Business**
 
@@ -43,4 +44,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [danielcarlosce](https://github.com/danielCarlosCE), [uraimo](https://github.com/uraimo)
+* [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [danielcarlosce](https://github.com/danielCarlosCE), [uraimo](https://github.com/uraimo), [albertodebortoli](https://github.com/albertodebortoli)
