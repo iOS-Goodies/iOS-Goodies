@@ -2,7 +2,7 @@
 **Articles**
 
 * [iOS Simulator on steroids: Tips & Tricks](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b), by [@ahmed_sulajman](https://twitter.com/ahmed_sulajman)
-* [Building a declarative animation framework in Swift - Part 1](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1), by [@johnsundell](https://twitter.com/johnsundell)
+* [Building a declarative animation framework in Swift - Part 1](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1), [Part 2](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-2) by [@johnsundell](https://twitter.com/johnsundell)
 * [CoreData: CRUD With Concurrency In Swift – Part 4](https://marcosantadev.com/coredata-crud-concurrency-swift-part-4/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [A great process to know how to unit test (your Swift code)](https://medium.com/@danielcarlosce/a-great-process-to-know-how-to-unit-test-your-swift-code-4bdba0896d52), by [@danielcarlosce](https://twitter.com/danielcarlosce)
 * [Building Mixed-Language iOS Project with Buck](https://medium.com/airbnb-engineering/building-mixed-language-ios-project-with-buck-8a903b0e3e56), by Brian Zhang
@@ -10,6 +10,11 @@
 * [How to Create a Measuring App With ARKit In iOS 11](https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11), by Paweł Chmiel, [@droidsonroids](https://twitter.com/droidsonroids)
 * [A Massive Guide to Building a RESTful API for Your Mobile App](https://savvyapps.com/blog/how-to-build-restful-api-mobile-app), by Matt Tea, [@savvyapps](https://twitter.com/savvyapps)
 * [All about Concurrency in Swift - Part 2: The Future](https://www.uraimo.com/2017/07/22/all-about-concurrency-in-swift-2-the-future/), by [@uraimo](https://twitter.com/uraimo)
+* [Demystifying iOS Provisioning Part 2: Creating and Assigning Certificates and Profiles](http://martiancraft.com/blog/2017/07/demystifying-provisioning-part2/), by [@coryb](https://twitter.com/coryb)
+* [Lazy Cartesian Products in Swift](http://www.figure.ink/blog/2017/7/30/lazy-permutations-in-swift), by [@jemmons](https://twitter.com/jemmons)
+* [Finalizing Receipt Validation in Swift – Computing a GUID Hash](https://www.andrewcbancroft.com/2017/07/31/finalizing-receipt-validation-in-swift-computing-a-guid-hash/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
+* [Understanding Operation and OperationQueue in Swift](http://agostini.tech/2017/07/30/understanding-operation-and-operationqueue-in-swift/), by [dagostin](https://twitter.com/dagostin)
+* [Friday Q&A 2017-07-28: A Binary Coder for Swift](https://www.mikeash.com/pyblog/friday-qa-2017-07-28-a-binary-coder-for-swift.html), by [@mikeash](https://twitter.com/mikeash)
 
 **Tools/Controls**
 
