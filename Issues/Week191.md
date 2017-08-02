@@ -1,6 +1,8 @@
+* An [interesting link](http://ncase.me/trust/) that uses game theory to reflect about why we stop trusting people
 
 **Articles**
 
+* [Using ARKit with Metal](http://metalkit.org/2017/07/29/using-arkit-with-metal.html), by [@gpu3d](https://twitter.com/gpu3d)
 * [iOS Simulator on steroids: Tips & Tricks](https://medium.com/flawless-app-stories/simulator-on-steroids-c12774ca6b), by [@ahmed_sulajman](https://twitter.com/ahmed_sulajman)
 * [Building a declarative animation framework in Swift - Part 1](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-1), [Part 2](https://www.swiftbysundell.com/posts/building-a-declarative-animation-framework-in-swift-part-2) by [@johnsundell](https://twitter.com/johnsundell)
 * [CoreData: CRUD With Concurrency In Swift – Part 4](https://marcosantadev.com/coredata-crud-concurrency-swift-part-4/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
@@ -18,6 +20,7 @@
 
 **Tools/Controls**
 
+* [ArcKit](https://github.com/sobri909/ArcKit)
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders), by [@GhazouaniHamza](https://twitter.com/GhazouaniHamza)
 * [FAPanels](https://github.com/fahidattique55/FAPanels), by [@fahidattique55](https://twitter.com/fahidattique55)
 * [ChainPageCollectionView](https://github.com/jindulys/ChainPageCollectionView), by [@jekyllrb](https://www.twitter.com/jekyllrb)
@@ -36,6 +39,8 @@
 **UI/UX**
 
 * [Mobile UI Design: Basic Types of Screens](https://uxplanet.org/mobile-ui-design-basic-types-of-screens-aa1857e31339), by [@tubikstudio](https://twitter.com/tubikstudio)
+* [The Essential Guide to UX for AR](https://www.webdesignerdepot.com/2017/07/the-essential-guide-to-ux-for-ar/), by Cassandra Naji
+* [Are Notifications A Dark Pattern?](http://trydesignlab.com/blog/are-notifications-a-dark-pattern-ux-ui/), by [@andrewwilshere](https://twitter.com/andrewwilshere)
 
 **Videos**
 
