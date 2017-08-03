@@ -17,6 +17,8 @@
 * [Finalizing Receipt Validation in Swift – Computing a GUID Hash](https://www.andrewcbancroft.com/2017/07/31/finalizing-receipt-validation-in-swift-computing-a-guid-hash/), by [@andrewcbancroft](https://twitter.com/andrewcbancroft)
 * [Understanding Operation and OperationQueue in Swift](http://agostini.tech/2017/07/30/understanding-operation-and-operationqueue-in-swift/), by [dagostin](https://twitter.com/dagostin)
 * [Friday Q&A 2017-07-28: A Binary Coder for Swift](https://www.mikeash.com/pyblog/friday-qa-2017-07-28-a-binary-coder-for-swift.html), by [@mikeash](https://twitter.com/mikeash)
+* [CwlLayout: a Swift wrapper around Auto Layout](http://www.cocoawithlove.com/blog/cwllayout.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Semirings and Predicate](http://www.fewbutripe.com/swift/math/algebra/semiring/2017/08/01/semirings-and-predicates.html), by [@mbrandonw](https://twitter.com/mbrandonw)
 
 **Tools/Controls**
 
