@@ -7,7 +7,11 @@
 
 * [StorageKit](https://github.com/StorageKit/StorageKit), Your Data Storage Troubleshooter 🛠 
 
-*
+* [Viewer](https://github.com/bakkenbaeck/Viewer), Image viewer (or Lightbox) with support for local and remote videos and images
+
+* [SectionScrubber](https://github.com/bakkenbaeck/SectionScrubber), A component to quickly scroll between collection view sections, similar to Snapchat's Stories scrubber
+
+* [Layout](https://github.com/schibsted/layout), A declarative UI framework for iOS
 
 **Business**
 
@@ -26,3 +30,4 @@
 
 * [LisaDziuba](https://github.com/lisadziuba)
 * [EnnioMa](https://github.com/ennioma)
+* [3lvis](https://github.com/3lvis)
