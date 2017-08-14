@@ -13,6 +13,8 @@
 
 * [Layout](https://github.com/schibsted/layout), A declarative UI framework for iOS
 
+* [TvOSScribble](https://github.com/dcordero/TvOSScribble), Handwriting numbers recognizer for Siri Remote 
+
 **Business**
 
 * [Does Anyone Use Social Sharing Buttons on Mobile?](https://www.moovweb.com/anyone-use-social-sharing-buttons-mobile/), by Moovweb
@@ -31,3 +33,4 @@
 * [LisaDziuba](https://github.com/lisadziuba)
 * [EnnioMa](https://github.com/ennioma)
 * [3lvis](https://github.com/3lvis)
+* [phelgo](https://github.com/phelgo)
