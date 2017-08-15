@@ -17,7 +17,8 @@
 
 **Business**
 
-* [Does Anyone Use Social Sharing Buttons on Mobile?](https://www.moovweb.com/anyone-use-social-sharing-buttons-mobile/), by Moovweb
+* [Does Anyone Use Social Sharing Buttons on Mobile?](https://www.moovweb.com/anyone-use-social-sharing-buttons-mobile/) by Moovweb
+* [People Should Really Be Thankful For Free Software Developers](https://fosspost.org/opinions/people-be-thankful-for-free-software-developers), by [@realmhsabbagh](https://twitter.com/realmhsabbagh)
 
 **UI/UX**
 
