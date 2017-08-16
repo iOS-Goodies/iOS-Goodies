@@ -5,6 +5,7 @@
 * [Using A Custom Font With Dynamic Type](https://useyourloaf.com/blog/using-a-custom-font-with-dynamic-type/), by [@kharrison](https://twitter.com/kharrison)
 * [Under the hood of Futures & Promises in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-futures-and-promises-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Friday Q&A 2017-08-11: Swift.Unmanaged](https://www.mikeash.com/pyblog/friday-qa-2017-08-11-swiftunmanaged.html), by [@mikeash](https://twitter.com/mikeash)
+* [Storyboards Tutorial for iOS: Part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1) and [Part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2), by [@nick_skmbo](https://twitter.com/nick_skmbo)
 
 **Tools/Controls**
 
