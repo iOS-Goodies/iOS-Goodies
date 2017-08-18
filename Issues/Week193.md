@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-*
+* [Observable, the easiest way to observe values in Swift](https://github.com/roberthein/Observable), by [@roberthein](https://twitter.com/roberthein)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein)
