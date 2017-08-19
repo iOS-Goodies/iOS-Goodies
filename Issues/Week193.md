@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Observable, the easiest way to observe values in Swift](https://github.com/roberthein/Observable), by [@roberthein](https://twitter.com/roberthein)
+* [DefaultsKit - UserDefaults for iOS, macOS and tvOS](https://github.com/nmdias/DefaultsKit), by [nmdias](https://github.com/nmdias)
 
 **Business**
 
