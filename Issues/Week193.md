@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias)
