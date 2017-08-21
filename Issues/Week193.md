@@ -2,6 +2,7 @@
 **Articles**
 
 * [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782), by [@clattner_llvm](https://twitter.com/clattner_llvm)
+* [DRY String Localization with Interface Builder](https://medium.com/flawless-app-stories/dry-string-localization-with-interface-builder-665496eb0270), by [@victorpavlychko](https://twitter.com/victorpavlychko)
 
 
 **Tools/Controls**
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba)
