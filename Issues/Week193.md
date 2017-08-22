@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-*
+* [The designer’s guide to mobile — shifting design across platforms](https://medium.com/capsized-eight/the-designers-guide-to-mobile-shifting-design-across-platforms-9655e007f470), by Marina Jukić
 
 **Videos**
 
