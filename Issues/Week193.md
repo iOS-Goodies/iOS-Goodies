@@ -23,6 +23,7 @@
 
 * [The designer’s guide to mobile — shifting design across platforms](https://medium.com/capsized-eight/the-designers-guide-to-mobile-shifting-design-across-platforms-9655e007f470), by Marina Jukić
 * [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad), by [@101babich](https://twitter.com/101babich)
+* [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1), by [@Babolili](https://twitter.com/Babolili)
 
 **Videos**
 
