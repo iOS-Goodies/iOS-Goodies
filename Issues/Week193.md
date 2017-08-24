@@ -10,8 +10,8 @@
 **Tools/Controls**
 
 * [Observable, the easiest way to observe values in Swift](https://github.com/roberthein/Observable), by [@roberthein](https://twitter.com/roberthein)
-* [DefaultsKit - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS](https://github.com/nmdias/DefaultsKit), by [nmdias](https://github.com/nmdias)
-* [PushNotifications](https://github.com/onmyway133/PushNotifications), by [onmyway133](https://github.com/onmyway133)
+* [DefaultsKit - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS](https://github.com/nmdias/DefaultsKit), by [@nmdias](https://github.com/nmdias)
+* [PushNotifications](https://github.com/onmyway133/PushNotifications), by [@onmyway133](https://github.com/onmyway133)
 * [App Name Preview](https://transporterapp.io/tools/app-name-preview), by [@ott_max](twitter.com/ott_max)
 
 **Business**
@@ -21,6 +21,7 @@
 **UI/UX**
 
 * [The designer’s guide to mobile — shifting design across platforms](https://medium.com/capsized-eight/the-designers-guide-to-mobile-shifting-design-across-platforms-9655e007f470), by Marina Jukić
+* [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba), [@ott_max](twitter.com/ott_max), [mariusc](https://github.com/mariusc)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba), [ott_max](twitter.com/ott_max), [mariusc](https://github.com/mariusc)
