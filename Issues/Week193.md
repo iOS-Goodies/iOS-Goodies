@@ -3,7 +3,6 @@
 
 * [Concurrency in Swift: One possible approach](https://gist.github.com/lattner/31ed37682ef1576b16bca1432ea9f782), by [@clattner_llvm](https://twitter.com/clattner_llvm)
 * [DRY String Localization with Interface Builder](https://medium.com/flawless-app-stories/dry-string-localization-with-interface-builder-665496eb0270), by [@victorpavlychko](https://twitter.com/victorpavlychko)
-* [5 Simple Tweaks To Boost Your Apps’ Visibility](https://medium.com/@transporter_app/5-simple-tweaks-to-boost-your-apps-visibility-61435adb3f65), by [@ott_max](twitter.com/ott_max)
 * [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift Local Refactoring](https://swift.org/blog/swift-local-refactoring/), by [@xge_apple](https://twitter.com/xge_apple/)
 * [Getting Started with Swift Compiler Development](https://modocache.io/getting-started-with-swift-development), by [@modocache](https://twitter.com/modocache)
@@ -18,7 +17,7 @@
 
 **Business**
 
-*
+* [5 Simple Tweaks To Boost Your Apps’ Visibility](https://medium.com/@transporter_app/5-simple-tweaks-to-boost-your-apps-visibility-61435adb3f65), by [@ott_max](twitter.com/ott_max)
 
 **UI/UX**
 
