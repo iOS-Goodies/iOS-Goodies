@@ -7,6 +7,7 @@
 * [Replacing legacy code using Swift protocols](https://www.swiftbysundell.com/posts/replacing-legacy-code-using-swift-protocols), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift Local Refactoring](https://swift.org/blog/swift-local-refactoring/), by [@xge_apple](https://twitter.com/xge_apple/)
 * [Getting Started with Swift Compiler Development](https://modocache.io/getting-started-with-swift-development), by [@modocache](https://twitter.com/modocache)
+* [Getting stack traces in Swift on Linux](https://engineering.nodesagency.com/articles/Vapor/Getting-Stack-Traces-in-Swift-on-Linux/), by [@brettRToomey](https://www.twitter.com/brettRToomey)
 
 **Tools/Controls**
 
@@ -24,6 +25,7 @@
 * [The designer’s guide to mobile — shifting design across platforms](https://medium.com/capsized-eight/the-designers-guide-to-mobile-shifting-design-across-platforms-9655e007f470), by Marina Jukić
 * [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad), by [@101babich](https://twitter.com/101babich)
 * [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1), by [@Babolili](https://twitter.com/Babolili)
+* [How a pocket money experience can create money-literate children in a cashless society](https://medium.com/hello-group/how-a-pocket-money-experience-can-create-money-literate-children-in-a-cashless-society-48b0d2a65423), by Mikkel Køster
 
 **Videos**
 
