@@ -7,6 +7,8 @@
 * [Swift Local Refactoring](https://swift.org/blog/swift-local-refactoring/), by [@xge_apple](https://twitter.com/xge_apple/)
 * [Getting Started with Swift Compiler Development](https://modocache.io/getting-started-with-swift-development), by [@modocache](https://twitter.com/modocache)
 * [Getting stack traces in Swift on Linux](https://engineering.nodesagency.com/articles/Vapor/Getting-Stack-Traces-in-Swift-on-Linux/), by [@brettRToomey](https://www.twitter.com/brettRToomey)
+* [New iOS Software Architecture: 4V Engine](https://marcosantadev.com/new-ios-software-architecture-4v-engine/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
+* [Core Animation gems: Using replicator layers in Swift](https://www.swiftbysundell.com/posts/ca-gems-using-replicator-layers-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
@@ -32,4 +34,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba), [ott_max](twitter.com/ott_max), [mariusc](https://github.com/mariusc)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba), [ott_max](twitter.com/ott_max), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
