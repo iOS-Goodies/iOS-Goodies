@@ -21,7 +21,6 @@
 **Business**
 
 * [5 Simple Tweaks To Boost Your Apps’ Visibility](https://medium.com/@transporter_app/5-simple-tweaks-to-boost-your-apps-visibility-61435adb3f65), by [@ott_max](twitter.com/ott_max)
-* [Augmented Reality Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/), by Apple
 
 **UI/UX**
 
@@ -29,6 +28,7 @@
 * [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad), by [@101babich](https://twitter.com/101babich)
 * [Design Principles: a guide to less shitty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1), by [@Babolili](https://twitter.com/Babolili)
 * [How a pocket money experience can create money-literate children in a cashless society](https://medium.com/hello-group/how-a-pocket-money-experience-can-create-money-literate-children-in-a-cashless-society-48b0d2a65423), by Mikkel Køster
+* [Augmented Reality Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/), by Apple
 
 **Videos**
 
