@@ -21,6 +21,7 @@
 **Business**
 
 * [5 Simple Tweaks To Boost Your Apps’ Visibility](https://medium.com/@transporter_app/5-simple-tweaks-to-boost-your-apps-visibility-61435adb3f65), by [@ott_max](twitter.com/ott_max)
+* [Augmented Reality Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/technologies/augmented-reality/), by Apple
 
 **UI/UX**
 
