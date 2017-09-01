@@ -16,6 +16,7 @@
 * [DefaultsKit - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS](https://github.com/nmdias/DefaultsKit), by [@nmdias](https://github.com/nmdias)
 * [PushNotifications](https://github.com/onmyway133/PushNotifications), by [@onmyway133](https://github.com/onmyway133)
 * [App Name Preview](https://transporterapp.io/tools/app-name-preview), by [@ott_max](twitter.com/ott_max)
+* [SpotifyLogin](https://github.com/spotify/SpotifyLogin), by [@marmelroy](https://twitter.com/marmelroy)
 
 **Business**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba), [ott_max](twitter.com/ott_max), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [roberthein](https://github.com/roberthein), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [LisaDziuba](https://github.com/LisaDziuba), [ott_max](twitter.com/ott_max), [mariusc](https://github.com/mariusc), [rbarbosa](https://github.com/rbarbosa), [@marmelroy](https://twitter.com/marmelroy)
