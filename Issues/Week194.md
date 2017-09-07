@@ -9,7 +9,7 @@
 **Tools/Controls**
 
 * [FeedKit](https://github.com/nmdias/FeedKit), An RSS, Atom and JSON Feed parser written in Swift, by [@nmdias](https://github.com/nmdias)
-* [KUIPopOver](https://github.com/Kofktu/KUIPopOver), by [@Kofktu](https://github.com/Kofktu)
+* [KUIPopOver](https://github.com/Kofktu/KUIPopOver), Easy to use PopOver in iOS, by [@Kofktu](https://github.com/Kofktu)
 * [IconGenerator](https://github.com/onmyway133/IconGenerator), A macOS app to generate app icons, by [@onmyway133](https://github.com/onmyway133)
 
 **Business**
