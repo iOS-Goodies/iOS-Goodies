@@ -19,7 +19,6 @@
 **UI/UX**
 
 * [Creative Motion: 12 Concepts of Interface Animation](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb) by Tubik Studio
-* [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256), by [@saitojohn](https://twitter.com/saitojohn)
 
 **Videos**
 
