@@ -10,6 +10,7 @@
 
 * [FeedKit](https://github.com/nmdias/FeedKit), An RSS, Atom and JSON Feed parser written in Swift, by [@nmdias](https://github.com/nmdias)
 * [KUIPopOver](https://github.com/Kofktu/KUIPopOver), by [@Kofktu](https://github.com/Kofktu)
+* [IconGenerator](https://github.com/onmyway133/IconGenerator), A macOS app to generate app icons, by [@onmyway133](https://github.com/onmyway133)
 
 **Business**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [nmdias](https://github.com/nmdias), [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
+* [nmdias](https://github.com/nmdias), [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [@onmyway133](https://github.com/onmyway133)
