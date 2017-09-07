@@ -4,18 +4,28 @@
 * [Secret variables in Xcode AND your CI for fun and profit](https://medium.com/flawless-app-stories/secret-variables-in-xcode-and-your-ci-for-fun-and-profit-d387a50475d7), by [@codeOfRobin](https://twitter.com/codeOfRobin)
 * [The Strange Case Of Mapping Over Optionals](https://swiftunboxed.com/lang/optionals-map-flatmap/), by [@gregheo](https://twitter.com/gregheo)
 * [Why Coroutines](http://www.figure.ink/blog/2017/9/4/expressive-coroutines), by [@jemmons](https://twitter.com/jemmons)
+* [Swift and KVO context variables](http://michael-brown.net/2017/swift-and-kvo-context-variables/), by [@mluisbrown](https://twitter.com/mluisbrown)
 
 **Tools/Controls**
 
-* [FeedKit](https://github.com/nmdias/FeedKit), An RSS, Atom and JSON Feed parser written in Swift, by [nmdias](https://github.com/nmdias)
+* [FeedKit](https://github.com/nmdias/FeedKit), An RSS, Atom and JSON Feed parser written in Swift, by [@nmdias](https://github.com/nmdias)
+* [KUIPopOver](https://github.com/Kofktu/KUIPopOver), by [@Kofktu](https://github.com/Kofktu)
 
 **Business**
+
+* [How to get started contributing to open source projects](https://krausefx.com/blog/how-to-get-started-contributing-to-open-source-projects), by [@KrauseFx](https://twitter.com/KrauseFx)
+* [Why 7 seconds could make or break your mobile app](https://asostack.com/why-7-seconds-could-make-or-break-your-mobile-app-f41000fb2a17), by [@petrfodor](https://twitter.com/petrfodor)
 
 **UI/UX**
 
 * [Creative Motion: 12 Concepts of Interface Animation](https://uxplanet.org/creative-motion-12-concepts-of-interface-animation-2c32f674aecb) by Tubik Studio
+* [Is this my interface or yours?](https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256), by [@saitojohn](https://twitter.com/saitojohn)
 
 **Videos**
+
+**Podcasts**
+
+* [Concurrency with Chris Lattner](https://spec.fm/podcasts/swift-unwrapped/84323), on [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 
 **Credits**
 
