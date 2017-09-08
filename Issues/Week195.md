@@ -3,8 +3,9 @@
 * 
 
 **Tools/Controls**
+ 
+* [PDFXKit](https://github.com/PSPDFKit/PDFXKit), A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood, by [@PSPDFKit](https://twitter.com/pspdfkit)
 
-* 
 
 **Business**
 
