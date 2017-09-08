@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Why you should read programming books](https://medium.com/@markohlebar/why-you-should-read-programming-books-c92b0e4a936b), by [@markohlebar](https://twitter.com/markohlebar)
 
 **Tools/Controls**
  
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba)
+* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [Marko Hlebar](https://github.com/markohlebar)
