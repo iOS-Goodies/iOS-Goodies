@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [Marko Hlebar](https://github.com/markohlebar)
+* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [Marko Hlebar](https://github.com/markohlebar), [Marco Santarossa](https://github.com/MarcoSantarossa)
