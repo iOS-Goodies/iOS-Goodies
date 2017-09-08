@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive)
+* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado)
