@@ -1,6 +1,7 @@
 **Articles**
 
 * [Why you should read programming books](https://medium.com/@markohlebar/why-you-should-read-programming-books-c92b0e4a936b), by [@markohlebar](https://twitter.com/markohlebar)
+* [Mock Dependencies: Instance and Metatype Injection With Swift](https://marcosantadev.com/mock-dependencies-instance-configuration-injection-swift/), by [@MarcoSantaDev](https://twitter.com/marcosantadev)
 
 **Tools/Controls**
  
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [Marko Hlebar](https://github.com/markohlebar)
+* [prolificinteractive](https://github.com/prolificinteractive), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [Marko Hlebar](https://github.com/markohlebar), [Marco Santarossa](https://github.com/MarcoSantarossa)
