@@ -11,7 +11,7 @@
 
 **Business**
 
-* 
+* [Paid Upgrades in the App Store](http://blog.bjhomer.com/2017/09/paid-upgrades-in-app-store.html), by [@bjhomer](https://twitter.com/bjhomer)
 
 **UI/UX**
 
