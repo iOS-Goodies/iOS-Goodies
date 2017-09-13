@@ -5,6 +5,7 @@
 * [Cracking the Tests for Core Data](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee), by [@KoromikoNeo](https://medium.com/flawless-app-stories/cracking-the-tests-for-core-data-15ef893a3fee)
 * [Under the hood of Assertions in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [CALayer Tutorial for iOS: Getting Started](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started), by [@MichaelCiurus](https://twitter.com/MichaelCiurus)
 
 **Tools/Controls**
  
