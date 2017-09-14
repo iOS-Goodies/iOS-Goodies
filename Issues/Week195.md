@@ -1,3 +1,5 @@
+* Apple released the [iPhone X](https://www.apple.com/iphone-x/), and we have until November to get our apps ready for it. The new [videos from Apple](https://developer.apple.com/videos/fall2017) and updated [human interface guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/) should help with that.
+
 **Articles**
 
 * [Why you should read programming books](https://medium.com/@markohlebar/why-you-should-read-programming-books-c92b0e4a936b), by [@markohlebar](https://twitter.com/markohlebar)
@@ -6,15 +8,22 @@
 * [Under the hood of Assertions in Swift](https://www.swiftbysundell.com/posts/under-the-hood-of-assertions-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/), by [@danielemargutti](https://twitter.com/danielemargutti)
 * [CALayer Tutorial for iOS: Getting Started](https://www.raywenderlich.com/169004/calayer-tutorial-ios-getting-started), by [@MichaelCiurus](https://twitter.com/MichaelCiurus)
+* [Xcode 9 Vector Images](https://useyourloaf.com/blog/xcode-9-vector-images/), by [@kharrison](https://twitter.com/kharrison)
+* [Conditionally embed your dynamic frameworks](http://ppinera.es/2017/09/13/xcodembed.html), by [@pepibumur](http://twitter.com/pepibumur)
+* [Sourcery In Practice](http://khanlou.com/2017/09/sourcery-in-practice/), by [@khanlou](http://www.twitter.com/khanlou)
+* [The Best New Features in Swift 4](https://plausible.coop/blog/2017/09/13/best-new-features-in-swift-4), by [@mikeash](https://twitter.com/mikeash)
 
 **Tools/Controls**
  
 * [PDFXKit](https://github.com/PSPDFKit/PDFXKit), A drop-in replacement for Apple PDFKit powered by our PSPDFKit framework under the hood, by [@PSPDFKit](https://twitter.com/pspdfkit)
+* [VegaScroll](https://github.com/AppliKeySolutions/VegaScroll), by [@AppliKeySolutions](https://github.com/AppliKeySolutions)
+* [MediaBrowser](https://github.com/younatics/MediaBrowser), by [@younatics](https://github.com/younatics)
 
 
 **Business**
 
 * [Paid Upgrades in the App Store](http://blog.bjhomer.com/2017/09/paid-upgrades-in-app-store.html), by [@bjhomer](https://twitter.com/bjhomer)
+* [Apple Watch Apps Head to College](https://david-smith.org/blog/2017/09/13/apple-watch-apps-head-to-college/), by [@_DavidSmith](http://twitter.com/_DavidSmith)
 
 **UI/UX**
 
