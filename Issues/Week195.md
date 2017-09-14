@@ -31,6 +31,7 @@
 * [UX Design Patterns for Mobile Apps: Which and Why](https://www.raywenderlich.com/167174/design-patterns-mobile-apps-which-why), by [@lmjabreu](https://twitter.com/lmjabreu)
 * [Parallel Chat — UI/UX case study of a new chat interaction](https://medium.com/@danielkorpai/parallel-chat-ui-ux-case-study-of-a-new-chat-interaction-7ea6779f884b), by [@danielkorpai](https://twitter.com/danielkorpai)
 * [Is simplicity the best way to ensure usability?](http://whatusersdo.com/blog/does-simplicity-mean-good-ux/) by whatusersdo
+* [A UX guide for creating awesome apps](https://uxdesign.cc/my-app-ux-guide-eaab9099732c), by [@elwexicano](https://twitter.com/elwexicano)
 
 **Videos**
 
