@@ -13,7 +13,7 @@
 
 **UI/UX**
 
-* 
+* [Design for iPhone X](https://blog.prototypr.io/designing-for-the-iphone-x-4239d5ac736c), by [@prototyprIO](https://twitter.com/prototyprIO)
 
 **Videos**
 
