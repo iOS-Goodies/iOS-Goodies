@@ -5,7 +5,7 @@
 
 **Tools/Controls**
  
-* 
+* [NotchKit](https://github.com/HarshilShah/NotchKit), by [Harshil Shah](https://twitter.com/harshilshah1910)
 
 **Business**
 
