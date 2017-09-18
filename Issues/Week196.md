@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [Marco Santarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba)
+* [Marco Santarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado)
