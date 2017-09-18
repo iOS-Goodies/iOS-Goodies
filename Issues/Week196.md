@@ -6,6 +6,7 @@
 **Tools/Controls**
  
 * [NotchKit](https://github.com/HarshilShah/NotchKit), by [Harshil Shah](https://twitter.com/harshilshah1910)
+* [xcodeproj](https://github.com/swift-xcode/xcodeproj), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Business**
 
