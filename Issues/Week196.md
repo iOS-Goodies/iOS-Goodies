@@ -12,6 +12,7 @@
  
 * [NotchKit](https://github.com/HarshilShah/NotchKit), by [Harshil Shah](https://twitter.com/harshilshah1910)
 * [xcodeproj](https://github.com/swift-xcode/xcodeproj), by [@pepibumur](https://twitter.com/pepibumur)
+* [Cache](https://github.com/hyperoslo/Cache), by [hyperoslo](https://github.com/hyperoslo)
 
 **Business**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [MarcoSantarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [nebillo](https://github.com/nebillo)
+* [MarcoSantarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [nebillo](https://github.com/nebillo)
