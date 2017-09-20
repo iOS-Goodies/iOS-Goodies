@@ -15,7 +15,7 @@
 
 **Business**
 
-* 
+* [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/), by [Ivan Mir](https://twitter.com/ivmirx)
 
 **UI/UX**
 
