@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [MarcoSantarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133)
+* [MarcoSantarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [Ivan Mir](https://twitter.com/ivmirx)
