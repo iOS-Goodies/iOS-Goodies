@@ -16,7 +16,7 @@
 
 **Business**
 
-* 
+* [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/), by [Ivan Mir](https://twitter.com/ivmirx)
 
 **UI/UX**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [MarcoSantarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [nebillo](https://github.com/nebillo)
+* [MarcoSantarossa](https://github.com/MarcoSantarossa), [Lisa Dziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133), [nebillo](https://github.com/nebillo), [Ivan Mir](https://github.com/ivmirx)
