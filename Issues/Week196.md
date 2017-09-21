@@ -7,6 +7,12 @@
 * [How to write Networking Layer in Swift (2nd version)](http://danielemargutti.com/2017/09/10/how-to-write-networking-layer-in-swift-2nd-version/), by [@danielemargutti](https://twitter.com/danielemargutti)
 * [Reading and Understanding the CMake in apple/swift](https://modocache.io/reading-and-understanding-the-cmake-in-apple-swift), by [@modocache](https://twitter.com/modocache)
 * [Reusable Behaviours in UIViewControllers](https://engineering.depop.com/reusable-behaviours-in-uiviewcontrollers-d3d5cacdb395), by [@nebillo](https://twitter.com/nebillo)
+* [Measuring Swift compile times in Xcode 9](https://www.jessesquires.com/blog/measuring-compile-times-xcode9/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [NiceJSON](http://khanlou.com/2017/09/nice-json/), by [@khanlou](http://www.twitter.com/khanlou)
+* [Custom property bindings with RxSwift](http://rx-marin.com/post/rxswift-custom-bindings/), by [@icanzilb](http://www.twitter.com/icanzilb)
+* [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Swift 4.0 Released!](https://swift.org/blog/swift-4-0-released/), by [@tkremenek](https://github.com/tkremenek/)
+* [Supporting iPhone X](https://useyourloaf.com/blog/supporting-iphone-x/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
  
@@ -17,10 +23,13 @@
 **Business**
 
 * [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/), by [Ivan Mir](https://twitter.com/ivmirx)
+* [Please, Don’t Write About My App](http://beckyhansmeyer.com/2017/09/15/please-dont-write-about-my-app/), by [@bhansmeyer](http://twitter.com/bhansmeyer)
 
 **UI/UX**
 
 * [Design for iPhone X](https://blog.prototypr.io/designing-for-the-iphone-x-4239d5ac736c), by [@prototyprIO](https://twitter.com/prototyprIO)
+* [Dive into the details of iOS 11: Is Apple still detail-oriented?](https://hackernoon.com/dive-into-the-details-of-ios-11-is-apple-still-detail-oriented-fe70af065a7d), by [@oueryan](https://twitter.com/oueryan)
+* [5 ‘Aha’ Moments from a Summer as a UX Research Intern](https://engineering.instagram.com/5-aha-moments-from-a-summer-as-a-ux-research-intern-da4e2f1f590b), by [@instagrameng](https://twitter.com/instagrameng)
 
 **Videos**
 
