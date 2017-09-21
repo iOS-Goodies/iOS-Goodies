@@ -31,6 +31,7 @@
 * [Design for iPhone X](https://blog.prototypr.io/designing-for-the-iphone-x-4239d5ac736c), by [@prototyprIO](https://twitter.com/prototyprIO)
 * [Dive into the details of iOS 11: Is Apple still detail-oriented?](https://hackernoon.com/dive-into-the-details-of-ios-11-is-apple-still-detail-oriented-fe70af065a7d), by [@oueryan](https://twitter.com/oueryan)
 * [5 ‘Aha’ Moments from a Summer as a UX Research Intern](https://engineering.instagram.com/5-aha-moments-from-a-summer-as-a-ux-research-intern-da4e2f1f590b), by [@instagrameng](https://twitter.com/instagrameng)
+* [Skyscanner: Choosing the best travel dates](https://uxdesign.cc/skyscanner-choosing-the-best-travel-dates-f59dbae249bb), by [@hellojellosue](https://twitter.com/hellojellosue)
 
 **Videos**
 
