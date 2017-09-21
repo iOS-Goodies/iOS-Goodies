@@ -12,6 +12,8 @@
 * [Creating custom collections in Swift](https://www.swiftbysundell.com/posts/creating-custom-collections-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift 4.0 Released!](https://swift.org/blog/swift-4-0-released/), by [@tkremenek](https://github.com/tkremenek/)
 * [Supporting iPhone X](https://useyourloaf.com/blog/supporting-iphone-x/), by [@kharrison](https://twitter.com/kharrison)
+* [SiriKit Part 1: Hey Siri, How Do I Get Started?](https://www.bignerdranch.com/blog/sirikit-part-1-hey-siri-how-do-i-get-started/), by [@hsoi](https://twitter.com/hsoi)
+* [How To Test fatalError In Swift](https://marcosantadev.com/test-swift-fatalerror/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 
 **Tools/Controls**
  
