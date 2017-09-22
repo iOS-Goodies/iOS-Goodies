@@ -14,7 +14,7 @@
 
 **UI/UX**
 
-* 
+* [Color, psychology and design](https://uxplanet.org/how-color-can-effect-emotion-ccab0431b1d), by [@mudithabatagoda](https://twitter.com/mudithabatagoda)
 
 **Videos**
 
