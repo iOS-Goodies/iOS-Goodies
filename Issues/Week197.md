@@ -21,4 +21,4 @@
 * 
 
 **Credits**
-* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://twitter.com/VictorPimentel)
+* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel)
