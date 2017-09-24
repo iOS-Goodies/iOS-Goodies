@@ -5,8 +5,7 @@
 * [Writing a Scalable API Client in Swift 4](https://medium.com/makingtuenti/writing-a-scalable-api-client-in-swift-4-b3c6f7f3f3fb), by [@VictorPimentel](https://twitter.com/VictorPimentel)
 
 **Tools/Controls**
- 
-* 
+ * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
 
 **Business**
 
@@ -21,4 +20,4 @@
 * 
 
 **Credits**
-* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel)
+* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel), [nmdias](https://github.com/nmdias)
