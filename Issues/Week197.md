@@ -6,6 +6,7 @@
 
 **Tools/Controls**
  * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
+ * [Imaginary](https://github.com/hyperoslo/Imaginary), by [hyperoslo](https://github.com/hyperoslo)
 
 **Business**
 
@@ -20,4 +21,4 @@
 * 
 
 **Credits**
-* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel), [nmdias](https://github.com/nmdias)
+* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133)
