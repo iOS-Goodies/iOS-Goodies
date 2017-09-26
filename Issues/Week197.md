@@ -26,4 +26,4 @@
 * 
 
 **Credits**
-* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [mkchoi212](https://github.com/mkchoi212)
+* [LisaDziuba](https://github.com/LisaDziuba), [ramshandilya](https://github.com/ramshandilya), [VictorPimentel](https://github.com/victorpimentel), [nmdias](https://github.com/nmdias), [onmyway133](https://github.com/onmyway133), [mkchoi212](https://github.com/mkchoi212), [FranciscoAmado](https://github.com/FranciscoAmado)
