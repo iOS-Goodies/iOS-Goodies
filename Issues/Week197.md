@@ -10,6 +10,7 @@
 **Tools/Controls**
  * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
  * [Imaginary](https://github.com/hyperoslo/Imaginary), by [hyperoslo](https://github.com/hyperoslo)
+ * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker), Retain cycles / memory leaks finder, by [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
 
 **Business**
 
