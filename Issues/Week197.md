@@ -10,6 +10,7 @@
 * [Friday Q&A: Swift 4 Weak References](https://www.mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html), by [@mikeash](https://twitter.com/mikeash)
 * [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Updating Strings For Swift 4](https://useyourloaf.com/blog/updating-strings-for-swift-4/), by [@kharrison](https://twitter.com/kharrison)
+* [Accessibility in GitHawk](https://basthomas.github.io/2017/09/26/Accessibility-in-GitHawk/), by [@BasThomas](https://twitter.com/BasThomas)
 
 **Tools/Controls**
  * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
