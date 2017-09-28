@@ -14,10 +14,10 @@
 * [Creating Static Table Views](https://www.iamsim.me/creating-static-table-views/), by [@simmelj](https://twitter.com/simmelj)
 
 **Tools/Controls**
- * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
- * [Imaginary](https://github.com/hyperoslo/Imaginary), by [hyperoslo](https://github.com/hyperoslo)
- * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker), Retain cycles / memory leaks finder, by [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
- * [Time](https://github.com/dreymonde/Time), by [@dreymonde](https://twitter.com/dreymonde)
+ * [InfoKit](https://github.com/nmdias/InfoKit) - Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
+ * [Imaginary](https://github.com/hyperoslo/Imaginary) - Remote images, as easy as one, two, three, by [hyperoslo](https://github.com/hyperoslo)
+ * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - Retain cycles / memory leaks finder, by [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
+ * [Time](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics, by [@dreymonde](https://twitter.com/dreymonde)
 
 **Business**
 
