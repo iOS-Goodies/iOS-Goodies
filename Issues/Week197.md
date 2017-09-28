@@ -25,6 +25,7 @@
 **UI/UX**
 
 * [Color, psychology and design](https://uxplanet.org/how-color-can-effect-emotion-ccab0431b1d), by [@mudithabatagoda](https://twitter.com/mudithabatagoda)
+* [The 5 questions you should be asking yourself all day, everyday #UX](https://uxdesign.cc/the-5-questions-you-should-be-asking-yourself-all-day-everyday-ux-cf93e2d0fd7e), by [@fabriciot](https://twitter.com/fabriciot)
 
 **Videos**
 
