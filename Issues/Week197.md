@@ -11,6 +11,7 @@
 * [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Updating Strings For Swift 4](https://useyourloaf.com/blog/updating-strings-for-swift-4/), by [@kharrison](https://twitter.com/kharrison)
 * [Accessibility in GitHawk](https://basthomas.github.io/2017/09/26/Accessibility-in-GitHawk/), by [@BasThomas](https://twitter.com/BasThomas)
+* [Creating Static Table Views](https://www.iamsim.me/creating-static-table-views/), by [@simmelj](https://twitter.com/simmelj)
 
 **Tools/Controls**
  * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
