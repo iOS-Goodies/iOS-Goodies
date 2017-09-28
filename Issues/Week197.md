@@ -22,6 +22,7 @@
 * [Dropping out of college and becoming an iOS freelancer](https://blog.lucasfarah.me/dropping-out-of-college-and-becoming-an-ios-freelancer-21ed9e3dcf7), by [7farah7](https://twitter.com/7farah7)
 * [How to Build a Career in Tech](https://books.producthunt.com/careers), by Product Hunt team
 * [Marketing for engineers](https://github.com/LisaDziuba/Marketing-for-Engineers), by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [Ping pong, desk beers, and employee benefits](https://medium.com/@steviebuckley/ping-pong-desk-beers-and-employee-benefits-be073429cb85), by [@StevieBuckley](https://twitter.com/StevieBuckley)
 
 **UI/UX**
 
