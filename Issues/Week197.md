@@ -6,6 +6,10 @@
 * [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6), by [@D4Yuri](https://twitter.com/D4Yuri)
 * [Monoids in Swift](https://deadbeef.me/2017/09/monoids), by [@bananamlkshake2](https://twitter.com/Bananamlkshake2)
 * [Beginning macOS Programming: Learn to Develop an Image Uploader App in Swift](https://www.appcoda.com/macos-image-uploader-app/) by [@LawgarithmnS](https://twitter.com/LawgarithmnS)
+* [map versus flatMap](http://codeplease.io/2017/09/24/map-versus-flatmap/), by [@peres](https://twitter.com/peres)
+* [Friday Q&A: Swift 4 Weak References](https://www.mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html), by [@mikeash](https://twitter.com/mikeash)
+* [The power of switch statements in Swift](https://www.swiftbysundell.com/posts/the-power-of-switch-statements-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Updating Strings For Swift 4](https://useyourloaf.com/blog/updating-strings-for-swift-4/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
  * [InfoKit](https://github.com/nmdias/InfoKit), Simple, Strongly Typed access to the Info.plist, by [@nmdias](https://twitter.com/nmdias_pt)
@@ -16,6 +20,7 @@
 
 * [Dropping out of college and becoming an iOS freelancer](https://blog.lucasfarah.me/dropping-out-of-college-and-becoming-an-ios-freelancer-21ed9e3dcf7), by [7farah7](https://twitter.com/7farah7)
 * [How to Build a Career in Tech](https://books.producthunt.com/careers), by Product Hunt team
+* [Marketing for engineers](https://github.com/LisaDziuba/Marketing-for-Engineers), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 
 **UI/UX**
 
