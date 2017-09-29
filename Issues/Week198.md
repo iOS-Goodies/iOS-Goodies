@@ -20,4 +20,4 @@
 
 **Credits**
 
-* Mario Negro
+* [emenegro](https://github.com/emenegro)
