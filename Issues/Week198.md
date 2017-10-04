@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [A package manager that installs and runs Swift command line tools](https://github.com/yonaskolb/Mint), by [Yonas Kolb](https://twitter.com/yonaskolb)
  
 **Business**
 
