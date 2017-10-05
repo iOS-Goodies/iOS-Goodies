@@ -5,6 +5,10 @@
 * [Building a Simple ARKit Demo with SceneKit in Swift 4 and Xcode 9](https://www.appcoda.com/arkit-introduction-scenekit/), by Jayven N
 * [How To Implement Cache LRU With Swift](https://marcosantadev.com/implement-cache-lru-swift/), by [@MarcoSantaDev](https://twitter.com/MarcoSantaDev)
 * [Nobody expects Completion Inquisition!](https://medium.com/@londeix/nobody-expects-completion-inquisition-170fd08f8783), by [Bartosz Polaczyk](https://twitter.com/norapsi)
+* [Floating-point Swift, ulp, and epsilon](https://www.jessesquires.com/blog/floating-point-swift-ulp-and-epsilon/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [The Flat Cache](http://khanlou.com/2017/10/the-flat-cache/), by [@khanlou](http://www.twitter.com/khanlou)
+* [Using generic type constraints in Swift 4](https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4), by [@johnsundell](https://twitter.com/johnsundell)
+* [Easier Swift Layout Priorities](https://useyourloaf.com/blog/easier-swift-layout-priorities/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -17,7 +21,7 @@
 
 **UI/UX**
 
-* 
+* [Accessibility](http://inessential.com/2017/10/03/accessibility), by [@brentsimmons](https://twitter.com/brentsimmons)
 
 **Videos**
 
