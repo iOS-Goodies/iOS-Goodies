@@ -9,6 +9,7 @@
 * [The Flat Cache](http://khanlou.com/2017/10/the-flat-cache/), by [@khanlou](http://www.twitter.com/khanlou)
 * [Using generic type constraints in Swift 4](https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4), by [@johnsundell](https://twitter.com/johnsundell)
 * [Easier Swift Layout Priorities](https://useyourloaf.com/blog/easier-swift-layout-priorities/), by [@kharrison](https://twitter.com/kharrison)
+* [Why many developers still prefer Objective-C to Swift](https://www.hackingwithswift.com/articles/27/why-many-developers-still-prefer-objective-c-to-swift), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
