@@ -8,8 +8,8 @@
 
 **Tools/Controls**
 
-* [A package manager that installs and runs Swift command line tools](https://github.com/yonaskolb/Mint), by [Yonas Kolb](https://twitter.com/yonaskolb)
-* [Generate and Display Bottom Card Interfaces on iOS](https://github.com/alexaubry/BulletinBoard), by [Alexis Radanovic](https://github.com/alexaubry)
+* [Mint](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools, by [Yonas Kolb](https://twitter.com/yonaskolb)
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS, by [Alexis Radanovic](https://github.com/alexaubry)
  
 **Business**
 
