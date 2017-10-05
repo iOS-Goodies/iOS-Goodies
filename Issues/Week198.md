@@ -23,6 +23,7 @@
 **UI/UX**
 
 * [Accessibility](http://inessential.com/2017/10/03/accessibility), by [@brentsimmons](https://twitter.com/brentsimmons)
+* [Open Source iOS 11 Glyphs](https://icons8.com/ios), by [@Icons8](https://twitter.com/Icons_8)
 
 **Videos**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [emenegro](https://github.com/emenegro), [FranciscoAmado](http://github.com/FranciscoAmado), [LisaDziuba](http://github.com/lisadziuba), [polac24](https://github.com/polac24)
+* [emenegro](https://github.com/emenegro), [FranciscoAmado](http://github.com/FranciscoAmado), [LisaDziuba](http://github.com/lisadziuba), [polac24](https://github.com/polac24), [Ivan Mir](https://github.com/ivmirx)
