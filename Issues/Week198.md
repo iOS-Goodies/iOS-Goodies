@@ -18,7 +18,8 @@
  
 **Business**
 
-* 
+* [Your app is an onion: Why software projects spiral out of control](https://medium.com/swlh/your-app-is-an-onion-why-software-projects-spiral-out-of-control-bb9247d9bdbd), by [@kannanator](https://twitter.com/kannanator)
+* [Take Risks or Be Disrupted — How to Encourage Risk Tolerance in Product Management](https://medium.com/swlh/take-risks-or-be-disrupted-how-to-encourage-risk-tolerance-in-product-management-a80469a0c684), by [@theotherideas](https://twitter.com/theotherideas)
 
 **UI/UX**
 
