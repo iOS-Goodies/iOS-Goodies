@@ -18,7 +18,8 @@
 **Videos**
 
 * [MVVM at Scale: Not so Simple...](https://academy.realm.io/posts/try-swift-nyc-2017-nataliya-patsovska-mvvm-at-scale/) by [@nataliya_bg](https://twitter.com/nataliya_bg)
+* [Functional Swift Conference Fall 2017](http://2017-fall.funswiftconf.com/)
 
 **Credits**
 
-* [LisaDziuba](http://github.com/lisadziuba)
+* [LisaDziuba](http://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
