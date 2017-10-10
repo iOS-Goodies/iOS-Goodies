@@ -16,7 +16,7 @@
 
 **Videos**
 
-* 
+* [MVVM at Scale: Not so Simple...](https://academy.realm.io/posts/try-swift-nyc-2017-nataliya-patsovska-mvvm-at-scale/) by [@nataliya_bg](https://twitter.com/nataliya_bg)
 
 **Credits**
 
