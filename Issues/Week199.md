@@ -1,6 +1,8 @@
 **Articles**
 
-* 
+* [Friday Q&A 2017-10-06: Type-Safe User Defaults](https://www.mikeash.com/pyblog/friday-qa-2017-10-06-type-safe-user-defaults.html), by [@mikeash](https://twitter.com/mikeash)
+* [Forget datasource & delegate: a new approach to UITableView](http://danielemargutti.com/2017/10/08/forget-datasource-delegates-a-new-approach-to-uitableview/), by [@danielemargutti](https://twitter.com/danielemargutti)
+
 
 **Tools/Controls**
 
