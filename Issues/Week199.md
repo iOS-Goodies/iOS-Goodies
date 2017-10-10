@@ -12,7 +12,8 @@
 
 **UI/UX**
 
-* 
+* [What Is a Product Manager, Actually?
+](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) by [@Valaitis_Wisco](https://twitter.com/Valaitis_Wisco)
 
 **Videos**
 
