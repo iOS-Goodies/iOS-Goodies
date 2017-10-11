@@ -10,7 +10,7 @@
 
 **Business**
 
-* 
+* [Awesome Ladies iOS Engineers to Follow on Twitter](https://medium.com/flawless-app-stories/awesome-ladies-ios-engineers-to-follow-on-twitter-4fd9dff8b242), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 
 **UI/UX**
 
