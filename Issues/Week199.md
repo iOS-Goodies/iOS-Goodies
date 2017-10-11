@@ -14,8 +14,8 @@
 
 **UI/UX**
 
-* [What Is a Product Manager, Actually?
-](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) by [@Valaitis_Wisco](https://twitter.com/Valaitis_Wisco)
+* [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) by [@Valaitis_Wisco](https://twitter.com/Valaitis_Wisco)
+* [Designing for iPhone X](https://designcode.io/ios11-iphone-x), by [@MengTo](https://twitter.com/MengTo)
 
 **Videos**
 
