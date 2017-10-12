@@ -5,20 +5,23 @@
 * [Software Engineering is different from Programming](https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26) by [samerbuna](https://twitter.com/samerbuna)
 * [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [On Fixing that NSNull Crasher in Overcast](http://inessential.com/2017/10/10/on_fixing_that_nsnull_crasher_in_overcas), by [@brentsimmons](https://twitter.com/brentsimmons)
+* [Why many developers prefer Swift to Objective-C](https://www.hackingwithswift.com/articles/29/why-many-developers-prefer-swift-to-objective-c), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
 * [Reduce — tool to compress heavy Sketch files](https://flawlessapp.io/reduce), by [@flawlessappio](https://twitter.com/flawlessappio)
+* [Closures - Swifty closures for UIKit and Foundation](https://github.com/vhesener/Closures), by [@vhesener](https://github.com/vhesener)
 
 **Business**
 
 * [Awesome Ladies iOS Engineers to Follow on Twitter](https://medium.com/flawless-app-stories/awesome-ladies-ios-engineers-to-follow-on-twitter-4fd9dff8b242), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 * [How to get started developing iOS apps](http://martiancraft.com/blog/2017/10/starting-iOS/), by [@richturton](https://twitter.com/richturton)
+* [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) by [@Valaitis_Wisco](https://twitter.com/Valaitis_Wisco)
 
 **UI/UX**
 
-* [What Is a Product Manager, Actually?](https://medium.com/@Alex.Valaitis/what-is-a-product-manager-actually-f328f05575) by [@Valaitis_Wisco](https://twitter.com/Valaitis_Wisco)
 * [Designing for iPhone X](https://designcode.io/ios11-iphone-x), by [@MengTo](https://twitter.com/MengTo)
+* [My Guide for Great Developer Experience (DX)](https://www.samjarman.co.nz/dxguide/), by [@samjarman](https://twitter.com/samjarman)
 * [UI Design for iPhone X: Top Elements and the Notch](http://blog.maxrudberg.com/post/166045445103/ui-design-for-iphone-x-top-elements-and-the-notch), by [@maxrudberg](https://twitter.com/maxrudberg)
 
 **Videos**
