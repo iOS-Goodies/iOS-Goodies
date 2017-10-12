@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](http://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](http://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [RuiAAPeres](https://github.com/RuiAAPeres)
