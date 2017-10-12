@@ -5,7 +5,6 @@
 * [Software Engineering is different from Programming](https://medium.com/@samerbuna/software-engineering-is-different-from-programming-b108c135af26) by [samerbuna](https://twitter.com/samerbuna)
 * [Avoiding singletons in Swift](https://www.swiftbysundell.com/posts/avoiding-singletons-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [On Fixing that NSNull Crasher in Overcast](http://inessential.com/2017/10/10/on_fixing_that_nsnull_crasher_in_overcas), by [@brentsimmons](https://twitter.com/brentsimmons)
-* [Why many developers prefer Swift to Objective-C](https://www.hackingwithswift.com/articles/29/why-many-developers-prefer-swift-to-objective-c), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
