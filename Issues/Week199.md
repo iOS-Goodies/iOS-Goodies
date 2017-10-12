@@ -11,6 +11,7 @@
 
 * [Reduce — tool to compress heavy Sketch files](https://flawlessapp.io/reduce), by [@flawlessappio](https://twitter.com/flawlessappio)
 * [Closures - Swifty closures for UIKit and Foundation](https://github.com/vhesener/Closures), by [@vhesener](https://github.com/vhesener)
+* [ImagineEngine - A project to create a blazingly fast Swift game engine that is a joy to use](https://github.com/JohnSundell/ImagineEngine), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [LisaDziuba](http://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [RuiAAPeres](https://github.com/RuiAAPeres)
+* [LisaDziuba](http://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [RuiAAPeres](https://github.com/RuiAAPeres), [Francisco Amado](https://github.com/FranciscoAmado)
