@@ -9,6 +9,7 @@
 **Business**
 
 * [Why Trello Failed to Build a $1 Billion+ Business](https://blog.usejournal.com/why-trello-failed-to-build-a-1-billion-business-e1579511d5dc), by [@hnshah](https://twitter.com/hnshah)
+* [No, Trello Didn’t “Fail To Build A Billion Dollar Business”](https://medium.com/hi-my-name-is-jon/no-trello-didnt-fail-to-build-a-billion-dollar-business-25264b08b0cb), by [@jonwestenberg](https://twitter.com/jonwestenberg)
 
 **UI/UX**
 
@@ -20,4 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
