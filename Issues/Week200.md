@@ -2,6 +2,8 @@
 
 * [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b), by [@KoromikoNeo](https://twitter.com/KoromikoNeo)
 
+* [Back to the fundamentals: Sorting algorithms in Swift (from scratch!)](https://medium.com/@EnnioMa/back-to-the-fundamentals-sorting-algorithms-in-swift-from-scratch-fccf8a3daea3)
+
 **Tools/Controls**
 
 * 
@@ -23,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado)
