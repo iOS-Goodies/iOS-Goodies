@@ -15,6 +15,7 @@
 * [No, Trello Didn’t “Fail To Build A Billion Dollar Business”](https://medium.com/hi-my-name-is-jon/no-trello-didnt-fail-to-build-a-billion-dollar-business-25264b08b0cb), by [@jonwestenberg](https://twitter.com/jonwestenberg)
 * [Why we built Magic Sudoku, the ARKit Sudoku Solver - Part 1](https://blog.prototypr.io/why-we-built-magic-sudoku-the-arkit-sudoku-solver-306dde6c0a77), by [Brad Dwyer](https://www.twitter.com/braddwyer)
 * [Behind the Magic: How we built the ARKit Sudoku Solver - Part 2](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0), by [Brad Dwyer](https://www.twitter.com/braddwyer)
+* [We fired our top talent. Best decision we ever made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde), by [@jhsolor](https://twitter.com/jhsolor)
 
 **UI/UX**
 
