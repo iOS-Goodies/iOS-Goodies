@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [SwiftInstagram - An Instagram API client written in Swift](https://github.com/AnderGoig/SwiftInstagram), by [Ander Goig](https://github.com/AnderGoig)
+* [ViewAnimator - bring your UI to life with just one line](https://github.com/marcosgriselli/ViewAnimator), by [Marcos Griselli](https://twitter.com/marcosgriselli)
 
 **Business**
 
