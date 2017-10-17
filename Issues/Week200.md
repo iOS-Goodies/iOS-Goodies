@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* [SwiftInstagram - An Instagram API client written in Swift](https://github.com/AnderGoig/SwiftInstagram), by Ander Goig
+* [SwiftInstagram - An Instagram API client written in Swift](https://github.com/AnderGoig/SwiftInstagram), by [Ander Goig](https://github.com/AnderGoig)
 
 **Business**
 
