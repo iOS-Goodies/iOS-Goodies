@@ -9,6 +9,7 @@
 
 * [SwiftInstagram - An Instagram API client written in Swift](https://github.com/AnderGoig/SwiftInstagram), by [Ander Goig](https://github.com/AnderGoig)
 * [ViewAnimator - bring your UI to life with just one line](https://github.com/marcosgriselli/ViewAnimator), by [Marcos Griselli](https://twitter.com/marcosgriselli)
+* [Send It - Safari Extension for Slack](https://github.com/MoralAlberto/Send-It-for-Slack), by [Alberto Moral]
 
 **Business**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig), [AlbertoMoral](https://github.com/MoralAlberto)
