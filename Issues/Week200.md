@@ -2,8 +2,8 @@
 
 * [How not to get desperate with MVVM implementation](https://medium.com/flawless-app-stories/how-to-use-a-model-view-viewmodel-architecture-for-ios-46963c67be1b), by [@KoromikoNeo](https://twitter.com/KoromikoNeo)
 * [Snapshot Testing in Swift](http://www.stephencelis.com/2017/09/snapshot-testing-in-swift), by [Stephen Celis](https://twitter.com/stephencelis)
-
 * [Back to the fundamentals: Sorting algorithms in Swift (from scratch!)](https://medium.com/@EnnioMa/back-to-the-fundamentals-sorting-algorithms-in-swift-from-scratch-fccf8a3daea3)
+* [RAS S1E4](http://codeplease.io/2017/10/16/ras-s1e4/), by [@peres](https://twitter.com/peres)
 
 **Tools/Controls**
 
