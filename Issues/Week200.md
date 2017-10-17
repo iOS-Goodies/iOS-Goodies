@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig)
