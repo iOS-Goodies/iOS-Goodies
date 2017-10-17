@@ -4,6 +4,7 @@
 * [Snapshot Testing in Swift](http://www.stephencelis.com/2017/09/snapshot-testing-in-swift), by [Stephen Celis](https://twitter.com/stephencelis)
 * [Back to the fundamentals: Sorting algorithms in Swift (from scratch!)](https://medium.com/@EnnioMa/back-to-the-fundamentals-sorting-algorithms-in-swift-from-scratch-fccf8a3daea3)
 * [RAS S1E4](http://codeplease.io/2017/10/16/ras-s1e4/), by [@peres](https://twitter.com/peres)
+* [iOS 11 API Diffs: UIViewController.h](https://medium.com/@phillfarrugia/ios-11-0-api-diffs-uiviewcontroller-h-158883a38507), by [@phillfarrugia](https://twitter.com/phillfarrugia)
 
 **Tools/Controls**
 
