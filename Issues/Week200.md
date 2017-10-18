@@ -31,4 +31,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig), [AlbertoMoral](https://github.com/MoralAlberto)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig), [AlbertoMoral](https://github.com/MoralAlberto), [phillfarrugia](https://github.com/phillfarrugia)
