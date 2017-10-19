@@ -6,6 +6,7 @@
 * [RAS S1E4](http://codeplease.io/2017/10/16/ras-s1e4/), by [@peres](https://twitter.com/peres)
 * [iOS 11 API Diffs: UIViewController.h](https://medium.com/@phillfarrugia/ios-11-0-api-diffs-uiviewcontroller-h-158883a38507), by [@phillfarrugia](https://twitter.com/phillfarrugia)
 * [Open sourcing Swift code](https://www.swiftbysundell.com/posts/open-sourcing-swift-code), by [@johnsundell](https://twitter.com/johnsundell)
+* [Using Dynamic Type With Web Views](https://useyourloaf.com/blog/using-dynamic-type-with-web-views/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -25,6 +26,7 @@
 **UI/UX**
 
 * [While Apple is taking away buttons, we found a way to add one.](https://medium.com/astro-hq/camera-button-ba3d8c493cbd), by Savannah Reising
+* [We Can Do Better on Mobile: Designing for the Medium](https://www.nngroup.com/articles/better-mobile/), by [@aschade](https://twitter.com/aschade)
 
 **Videos**
 
