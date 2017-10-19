@@ -5,6 +5,7 @@
 * [Back to the fundamentals: Sorting algorithms in Swift (from scratch!)](https://medium.com/@EnnioMa/back-to-the-fundamentals-sorting-algorithms-in-swift-from-scratch-fccf8a3daea3)
 * [RAS S1E4](http://codeplease.io/2017/10/16/ras-s1e4/), by [@peres](https://twitter.com/peres)
 * [iOS 11 API Diffs: UIViewController.h](https://medium.com/@phillfarrugia/ios-11-0-api-diffs-uiviewcontroller-h-158883a38507), by [@phillfarrugia](https://twitter.com/phillfarrugia)
+* [Open sourcing Swift code](https://www.swiftbysundell.com/posts/open-sourcing-swift-code), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
@@ -23,7 +24,7 @@
 
 **UI/UX**
 
-* 
+* [While Apple is taking away buttons, we found a way to add one.](https://medium.com/astro-hq/camera-button-ba3d8c493cbd), by Savannah Reising
 
 **Videos**
 
