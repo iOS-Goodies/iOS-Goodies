@@ -15,6 +15,7 @@
 * [Send It - Safari Extension for Slack](https://github.com/MoralAlberto/Send-It-for-Slack), by [Alberto Moral](https://twitter.com/albertmoral)
 * [Cards](https://github.com/PaoloCuscela/Cards), by [PaoloCuscela](https://github.com/PaoloCuscela)
 * [DrawerKit](https://github.com/Babylonpartners/DrawerKit), by [Babylonpartners](https://github.com/Babylonpartners)
+* [XcodeWay](https://github.com/onmyway133/XcodeWay), by [onmyway133](https://github.com/onmyway133/)
 
 **Business**
 
@@ -36,4 +37,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig), [AlbertoMoral](https://github.com/MoralAlberto), [phillfarrugia](https://github.com/phillfarrugia)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [EnnioMa](https://github.com/ennioma), [FranciscoAmado](https://github.com/FranciscoAmado), [AnderGoig](https://github.com/AnderGoig), [AlbertoMoral](https://github.com/MoralAlberto), [phillfarrugia](https://github.com/phillfarrugia), [onmyway133](https://github.com/onmyway133)
