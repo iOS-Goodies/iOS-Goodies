@@ -8,7 +8,7 @@
 
 **Business**
 
-* 
+* [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/), by [@ivmirx](https://twitter.com/ivmirx)
 
 **UI/UX**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), 
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx)
