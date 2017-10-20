@@ -16,7 +16,7 @@
 
 **Videos**
 
-* [FrenchKit 2017 Videos](http://frenchkit.fr/videos-frenchkit-2017/)
+* 
 
 **Credits**
 
