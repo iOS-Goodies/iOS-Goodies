@@ -5,6 +5,7 @@
 **Tools/Controls**
 
 * [Difference](https://github.com/krzysztofzablocki/Difference), by [@merowing_](https://twitter.com/merowing_)
+* [Linex](https://github.com/kaunteya/Linex), by [@kaunteya28](https://twitter.com/kaunteya28)
 
 **Business**
 
