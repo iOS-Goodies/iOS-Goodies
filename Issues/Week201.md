@@ -6,6 +6,7 @@
 
 * [Difference](https://github.com/krzysztofzablocki/Difference), by [@merowing_](https://twitter.com/merowing_)
 * [Linex](https://github.com/kaunteya/Linex), by [@kaunteya28](https://twitter.com/kaunteya28)
+* [Promis](https://github.com/albertodebortoli/Promis), by [@albertodebo](https://twitter.com/albertodebo)
 
 **Business**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [@kaunteya28](https://twitter.com/kaunteya28)
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [@kaunteya28](https://twitter.com/kaunteya28), [@albertodebo](https://twitter.com/albertodebo)
