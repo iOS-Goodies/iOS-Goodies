@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [@kaunteya28](https://twitter.com/kaunteya28), [@albertodebo](https://twitter.com/albertodebo)
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli)
