@@ -17,6 +17,7 @@
 **Business**
 
 * [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/), by [@ivmirx](https://twitter.com/ivmirx)
+* [Marketing for App Developers presentation](https://speakerdeck.com/limedaring/release-notes-2017), by [@limedaring](https://twitter.com/limedaring)
 
 **UI/UX**
 
