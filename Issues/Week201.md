@@ -8,6 +8,7 @@
 * [Difference](https://github.com/krzysztofzablocki/Difference), by [@merowing_](https://twitter.com/merowing_)
 * [Linex](https://github.com/kaunteya/Linex), by [@kaunteya28](https://twitter.com/kaunteya28)
 * [Promis](https://github.com/albertodebortoli/Promis), by [@albertodebo](https://twitter.com/albertodebo)
+* [Swift-Keylogger](https://github.com/SkrewEverything/Swift-Keylogger), by SkrewEverything
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures), by [@Kiranjasvanee](https://twitter.com/Kiranjasvanee)
 * [Default](https://github.com/Nirma/Default), by [@din0sr](https://twitter.com/din0sr)
 
