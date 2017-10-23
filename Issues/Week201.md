@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba)
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
