@@ -1,6 +1,7 @@
 **Articles**
 
 * [The worst possible application](http://www.cocoawithlove.com/blog/worst-possible-application.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11), by [@_alecoconnor](https://twitter.com/_alecoconnor)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli)
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba)
