@@ -8,6 +8,7 @@
 * [Difference](https://github.com/krzysztofzablocki/Difference), by [@merowing_](https://twitter.com/merowing_)
 * [Linex](https://github.com/kaunteya/Linex), by [@kaunteya28](https://twitter.com/kaunteya28)
 * [Promis](https://github.com/albertodebortoli/Promis), by [@albertodebo](https://twitter.com/albertodebo)
+* [PagingKit](https://github.com/kazuhiro4949/PagingKit), by Kazuhiro Hayashi
 
 **Business**
 
