@@ -2,6 +2,7 @@
 
 * [The worst possible application](http://www.cocoawithlove.com/blog/worst-possible-application.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11), by [@_alecoconnor](https://twitter.com/_alecoconnor)
+* [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/), by [ziad_tamim](https://twitter.com/ziad_tamim)
 
 **Tools/Controls**
 
