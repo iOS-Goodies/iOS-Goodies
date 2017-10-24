@@ -4,6 +4,7 @@
 * [Getting Started with Reusable Frameworks for iOS Development](https://medium.com/flawless-app-stories/getting-started-with-reusable-frameworks-for-ios-development-f00d74827d11), by [@_alecoconnor](https://twitter.com/_alecoconnor)
 * [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/), by [ziad_tamim](https://twitter.com/ziad_tamim)
 * [How to Use iOS Data Protection](https://pspdfkit.com/blog/2017/how-to-use-ios-data-protection/), by [@qdoug](https://twitter.com/qdoug)
+* [Building a Tinder-esque Card Interface](https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db), by [@phillfarrugia](https://twitter.com/phillfarrugia)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [phillfarrugia](https://github.com/phillfarrugia)
