@@ -7,6 +7,7 @@
 * [Building a Tinder-esque Card Interface](https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db), by [@phillfarrugia](https://twitter.com/phillfarrugia)
 * [iOS Privacy: watch.user - Access both iPhone cameras any time your app is running](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [SingleValueCodable](http://www.russbishop.net/singlevaluecodable), by [@xenadu02](https://twitter.com/xenadu02)
+* [Working without a nib, Part 11: Why?](http://lapcatsoftware.com/articles/working-without-a-nib-part-11.html), by [@lapcatsoftware](https://twitter.com/lapcatsoftware)
 
 **Tools/Controls**
 
