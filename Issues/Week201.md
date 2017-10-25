@@ -5,6 +5,7 @@
 * [Using Xcode Configuration (.xcconfig) to Manage Different Build Settings](https://www.appcoda.com/xcconfig-guide/), by [ziad_tamim](https://twitter.com/ziad_tamim)
 * [How to Use iOS Data Protection](https://pspdfkit.com/blog/2017/how-to-use-ios-data-protection/), by [@qdoug](https://twitter.com/qdoug)
 * [Building a Tinder-esque Card Interface](https://medium.com/@phillfarrugia/building-a-tinder-esque-card-interface-5afa63c6d3db), by [@phillfarrugia](https://twitter.com/phillfarrugia)
+* [iOS Privacy: watch.user - Access both iPhone cameras any time your app is running](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running), by [@KrauseFx](https://twitter.com/KrauseFx)
 
 **Tools/Controls**
 
