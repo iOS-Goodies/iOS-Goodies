@@ -28,8 +28,8 @@
 
 **Videos**
 
-* 
+* [Server-side Swift Using Vapor](https://academy.realm.io/posts/try-swift-nyc-tanner-nelson-server-side-swift-using-vapor/), by [@tanner0101](https://twitter.com/tanner0101)
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [phillfarrugia](https://github.com/phillfarrugia)
+* [rbarbosa](https://github.com/rbarbosa), [ivmirx](https://github.com/ivmirx), [kaunteya](https://github.com/kaunteya), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/lisadziuba), [naeemshaikh90](https://github.com/naeemshaikh90), [phillfarrugia](https://github.com/phillfarrugia), [FranciscoAmado](https://github.com/FranciscoAmado)
