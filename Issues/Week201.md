@@ -29,7 +29,8 @@
 
 **UI/UX**
 
-* 
+* [Designing for large touch screen — Always have the user context in mind](https://uxdesign.cc/designing-for-large-touch-screen-always-have-the-user-context-in-mind-878b6d2e02a9), by Yubing Zhang
+* [Sketching Interfaces](https://airbnb.design/sketching-interfaces/), by [@thatbenlifetho](https://twitter.com/thatbenlifetho)
 
 **Videos**
 
