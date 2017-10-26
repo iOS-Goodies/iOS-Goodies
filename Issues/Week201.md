@@ -8,6 +8,8 @@
 * [iOS Privacy: watch.user - Access both iPhone cameras any time your app is running](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [SingleValueCodable](http://www.russbishop.net/singlevaluecodable), by [@xenadu02](https://twitter.com/xenadu02)
 * [Working without a nib, Part 11: Why?](http://lapcatsoftware.com/articles/working-without-a-nib-part-11.html), by [@lapcatsoftware](https://twitter.com/lapcatsoftware)
+* [Codable CoreData](http://ffried.codes/2017/10/20/codable-coredata/), by [@ffried](https://twitter.com/ffried)
+* [Capturing objects in Swift closures](https://www.swiftbysundell.com/posts/capturing-objects-in-swift-closures), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
