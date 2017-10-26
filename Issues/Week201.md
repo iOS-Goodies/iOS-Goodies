@@ -26,6 +26,7 @@
 
 * [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/), by [@ivmirx](https://twitter.com/ivmirx)
 * [Marketing for App Developers presentation](https://speakerdeck.com/limedaring/release-notes-2017), by [@limedaring](https://twitter.com/limedaring)
+* [Staying Focused with an App Mission Statement](http://beckyhansmeyer.com/2017/10/26/staying-focused-with-an-app-mission-statement/), by [@bhansmeyer](http://twitter.com/bhansmeyer)
 
 **UI/UX**
 
