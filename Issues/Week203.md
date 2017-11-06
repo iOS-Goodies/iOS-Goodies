@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics
+* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics)
