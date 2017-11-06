@@ -6,6 +6,7 @@
 
 * [DeepDiff](https://github.com/onmyway133/DeepDiff), by [@onmyway133](https://github.com/onmyway133)
 * [Mandoline](https://github.com/blueapron/Mandoline), by [@blueapron](https://github.com/blueapron)
+* [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder), by [@pitiphong_p](https://twitter.com/pitiphong_p)
 
 **Business**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@FranciscoAmado](https://github.com/FranciscoAmado)
+* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@pitiphong-p](https://github.com/pitiphong-p), [@FranciscoAmado](https://github.com/FranciscoAmado)
