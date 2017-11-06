@@ -5,6 +5,7 @@
 **Tools/Controls**
 
 * [DeepDiff](https://github.com/onmyway133/DeepDiff), by [@onmyway133](https://github.com/onmyway133)
+* [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder), by [@pitiphong_p](https://twitter.com/pitiphong_p)
 
 **Business**
 
