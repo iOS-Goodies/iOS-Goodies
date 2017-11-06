@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [DeepDiff](https://github.com/onmyway133/DeepDiff), by [@onmyway133](https://github.com/onmyway133)
 
 **Business**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-[@richardradics](https://github.com/richardradics)
+* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics
