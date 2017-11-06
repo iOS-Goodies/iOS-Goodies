@@ -1,6 +1,7 @@
 **Articles**
 
 * [Implementing Interactive, Dynamic Charts on iOS — Without Breaking a Sweat](https://medium.com/supercharges-mobile-product-guide/implementing-interactive-dynamic-charts-on-ios-without-breaking-a-sweat-15367e4b18f3), by [@csabivido](https://twitter.com/csabivido)
+* [Funding (my) OpenSource work](https://medium.com/@krzyzanowskim/funding-my-opensource-work-abcf1bbf2e57), by [Marcin Krzyzanowski](https://twitter.com/krzyzanowskim)
 
 **Tools/Controls**
 
