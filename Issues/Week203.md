@@ -5,6 +5,7 @@
 **Tools/Controls**
 
 * [DeepDiff](https://github.com/onmyway133/DeepDiff), by [@onmyway133](https://github.com/onmyway133)
+* [Mandoline](https://github.com/blueapron/Mandoline), by [@blueapron](https://github.com/blueapron)
 
 **Business**
 
@@ -20,4 +21,4 @@
 
 **Credits**
 
-* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics
+* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@FranciscoAmado](https://github.com/FranciscoAmado)
