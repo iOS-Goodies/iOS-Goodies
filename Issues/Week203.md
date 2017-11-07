@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [Google Material Design Tutorial for iOS: Getting Started](https://www.raywenderlich.com/170353/introduction-google-material-design-ios), by [@nickbona](https://twitter.com/nickbona)
 
 **Videos**
 
