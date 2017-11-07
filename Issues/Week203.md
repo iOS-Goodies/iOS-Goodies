@@ -12,6 +12,7 @@
 * [Mandoline](https://github.com/blueapron/Mandoline), by [@blueapron](https://github.com/blueapron)
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder), by [@pitiphong_p](https://twitter.com/pitiphong_p)
 * [SBSAnimoji](https://github.com/simonbs/SBSAnimoji), by [@simonbs](https://twitter.com/simonbs)
+* [MagicPresent](https://github.com/khuong291/MagicPresent), by [@Khuong Pham](https://github.com/khuong291)
 
 **Business**
 
