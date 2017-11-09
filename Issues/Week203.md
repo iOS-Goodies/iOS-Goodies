@@ -12,6 +12,7 @@
 * [DeepDiff](https://github.com/onmyway133/DeepDiff), by [@onmyway133](https://github.com/onmyway133)
 * [Mandoline](https://github.com/blueapron/Mandoline), by [@blueapron](https://github.com/blueapron)
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder), by [@pitiphong_p](https://twitter.com/pitiphong_p)
+* [FacefARt](https://github.com/hungtruong/FacefARt), by [@hungtruong](https://github.com/hungtruong/)
 * [SBSAnimoji](https://github.com/simonbs/SBSAnimoji), by [@simonbs](https://twitter.com/simonbs)
 
 **Business**
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@pitiphong-p](https://github.com/pitiphong-p), [@FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/lisadziuba)
+* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@pitiphong-p](https://github.com/pitiphong-p), [@FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/lisadziuba), [@hungtruong](https://github.com/hungtruong/)
