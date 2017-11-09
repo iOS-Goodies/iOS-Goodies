@@ -20,7 +20,7 @@
 
 **Business**
 
-* [Funding (my) OpenSource work](https://medium.com/@krzyzanowskim/funding-my-opensource-work-abcf1bbf2e57), by [Marcin Krzyzanowski](https://twitter.com/krzyzanowskim)
+* [Funding (my) OpenSource work](https://medium.com/@krzyzanowskim/funding-my-opensource-work-abcf1bbf2e57), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **UI/UX**
 
@@ -29,8 +29,9 @@
 
 **Videos**
 
-* 
+* [Exploring Natural Language Processing](https://academy.realm.io/posts/try-swift-nyc-2017-paola-mata-exploring-natural-language-processing/), by [@PaolaNotPaolo](https://www.twitter.com/PaolaNotPaolo)
+* [Building a Framework with VIPER](https://academy.realm.io/posts/try-swift-nyc-sonam-dhingra-building-viper-framework/), by [@Sdhingra89](https://www.twitter.com/Sdhingra89)
 
 **Credits**
 
-* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@pitiphong-p](https://github.com/pitiphong-p), [@FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/lisadziuba)
+* [@onmyway133](https://github.com/onmyway133), [@richardradics](https://github.com/richardradics), [@pitiphong-p](https://github.com/pitiphong-p), [@FranciscoAmado](https://github.com/FranciscoAmado), [@LisaDziuba](https://github.com/lisadziuba)
