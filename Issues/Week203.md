@@ -5,6 +5,8 @@
 * [Best iOS hacks from Twitter: October Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a), by [@LisaDziuba](https://twitter.com/lisadziuba)
 * [Much ado about iOS app architecture](http://aplus.rs/2017/much-ado-about-ios-app-architecture/), by [@radiantav](https://twitter.com/radiantav)
 * [A Better MVC, Part 1: The Problems](https://davedelong.com/blog/2017/11/06/a-better-mvc-part-1-the-problems/), by [@davedelong](https://twitter.com/davedelong)
+* [Mistakes New Developers Make](http://martiancraft.com/blog/2017/11/rookie-mistakes/), by [@cwagdev](https://twitter.com/cwagdev)
+* [Optimizing Swift Build Times](https://github.com/fastred/Optimizing-Swift-Build-Times), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
