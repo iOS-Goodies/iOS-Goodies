@@ -19,7 +19,7 @@ Shouldn't be more than 2 weeks old (although exceptions can be made: e.g. Tools/
 
 ## General Workflow
 
-Each week we launch the goodies on Thursday and create a new markdown file that will have the issues for the next week. Rui and Tiago are responsible for launching the Goodies (Website + newsletter).
+Each week we launch the goodies on Thursday and create a new markdown file that will have the issues for the next week. Marius is responsible for launching the Goodies (Website + newsletter).
 
 ### Your approved contribution didn't make the newsletter
 
