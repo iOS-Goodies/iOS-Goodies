@@ -13,7 +13,7 @@
 
 **UI/UX**
 
-* 
+* [Mobile Interface Myths You Should Throw Out The Window](https://www.smashingmagazine.com/2017/11/mobile-interface-myths/), by [@alexjasin](https://twitter.com/alexjasin)
 
 **Videos**
 
