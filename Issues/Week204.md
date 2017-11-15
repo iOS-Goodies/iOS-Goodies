@@ -1,6 +1,6 @@
 **Articles**
 
-* [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106), by [@onmyway133](https://github.com/onmyway133)
+* [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Tools/Controls**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [@onmyway133](https://github.com/onmyway133)
+* [LisaDziuba](https://github.com/LisaDziuba), [onmyway133](https://github.com/onmyway133)
