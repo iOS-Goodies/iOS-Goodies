@@ -1,6 +1,7 @@
 **Articles**
 
 * [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106), by [@onmyway133](https://twitter.com/onmyway133)
+* [Stop Xcode from constantly rebuilding your project because of @IBDesignable](http://holko.pl/2017/11/15/rebuilding-ibdesignables/), by [@arekholko](https://twitter.com/arekholko)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [onmyway133](https://github.com/onmyway133)
+* [LisaDziuba](https://github.com/LisaDziuba), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
