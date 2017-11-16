@@ -7,7 +7,10 @@
 
 **Tools/Controls**
 
-* 
+* [SkeletonView](https://github.com/Juanpe/SkeletonView), by [@JuanpeCatalan](https://twitter.com/JuanpeCatalan)
+* [Windless](https://github.com/Interactive-Studio/Windless), by [@Interactive-Studio](https://github.com/Interactive-Studio)
+* [ARVideoKit](https://github.com/AFathi/ARVideoKit), by [@iAFapps](https://twitter.com/iAFapps)
+* [SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky), by [@MakeAWishFoundation](https://github.com/MakeAWishFoundation/)
 
 **Business**
 
