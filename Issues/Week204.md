@@ -2,6 +2,8 @@
 
 * [Coordinator and FlowController](https://github.com/onmyway133/blog/issues/106), by [@onmyway133](https://twitter.com/onmyway133)
 * [Stop Xcode from constantly rebuilding your project because of @IBDesignable](http://holko.pl/2017/11/15/rebuilding-ibdesignables/), by [@arekholko](https://twitter.com/arekholko)
+* [Friday Q&A 2017-11-10: Observing the A11's Heterogenous Cores](https://www.mikeash.com/pyblog/friday-qa-2017-11-10-observing-the-a11s-heterogenous-cores.html), by [@mikeash](https://twitter.com/mikeash)
+* [Avoiding force unwrapping in Swift unit tests](https://www.swiftbysundell.com/posts/avoiding-force-unwrapping-in-swift-unit-tests), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
