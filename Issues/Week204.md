@@ -25,7 +25,9 @@
 
 **Videos**
 
-* 
+* [Error Handling Made Easy](https://academy.realm.io/posts/try-swift-nyc-2017-eleni-papanikolopoulou-kostas-kremizas-error-handling/), by [@elenipapanikolo](https://twitter.com/elenipapanikolo) and [@kostaskremizas](https://twitter.com/kostaskremizas)
+* [Spontaneous Swift Sudoku Solving](https://academy.realm.io/posts/try-swift-nyc-2017-souroush-khanlou-spontaneous-swift-sudoku-solving/), by [@khanlou](https://twitter.com/khanlou)
+* [Core Data Migrations: Can we do Better?](https://academy.realm.io/posts/try-swift-nyc-2017-priya-rajagopal-core-data-migration/), by [@rajagp](https://twitter.com/rajagp)
 
 **Credits**
 
