@@ -17,6 +17,7 @@
 
 * [Software Engineering: Interviews](https://medium.com/@AndyyHope/software-engineering-interviews-744380f4f2af), by [@AndyyHope](https://twitter.com/AndyyHope)
 * [How to Not Suck at Remote Working](http://www.vanschneider.com/remote-working), by [@vanschneider](https://twitter.com/vanschneider)
+* [How to Get Press Coverage for Your App](https://www.dancounsell.com/how-to-get-press-coverage-for-your-app-launch/), by [@dancounsell](https://twitter.com/dancounsell)
 
 **UI/UX**
 
