@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [MVC.](http://codeplease.io/2017/11/19/mvc/), by [@peres](https://twitter.com/peres)
 
 **Tools/Controls**
 
