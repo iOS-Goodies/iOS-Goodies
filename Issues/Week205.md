@@ -1,6 +1,6 @@
 **Articles**
 
-* [MVC.](http://codeplease.io/2017/11/19/mvc/), by [@peres](https://twitter.com/peres)
+* [MVC](http://codeplease.io/2017/11/19/mvc/), by [@peres](https://twitter.com/peres)
 
 **Tools/Controls**
 
@@ -8,7 +8,7 @@
 
 **Business**
 
-* 
+* [Be less afraid of giving feedbac](https://cate.blog/2017/11/14/be-less-afraid-of-giving-feedback/), by [@catehstn](https://twitter.com/catehstn)
 
 **UI/UX**
 
@@ -20,5 +20,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), 
+* [rbarbosa](https://github.com/rbarbosa),[LisaDziuba](https://github.com/lisadziuba)
 
