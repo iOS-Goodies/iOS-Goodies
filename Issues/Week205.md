@@ -2,6 +2,8 @@
 
 * [MVC.](http://codeplease.io/2017/11/19/mvc/), by [@peres](https://twitter.com/peres)
 * [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18), by [KoromikoNeo](https://twitter.com/KoromikoNeo)
+* [Working With Large Files in an iOS App](https://medium.com/bpxl-craft/working-with-large-files-in-an-ios-app-a531fa6188ad), by [@ bach4life](https://twitter.com/bach4life)
+* [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0), by [@sandofsky](https://twitter.com/sandofsky)
 
 **Tools/Controls**
 
