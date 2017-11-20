@@ -8,7 +8,7 @@
 
 **Business**
 
-* 
+* [Be less afraid of giving feedback](https://cate.blog/2017/11/14/be-less-afraid-of-giving-feedback/), by [@catehstn](https://twitter.com/catehstn)
 
 **UI/UX**
 
@@ -20,5 +20,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), 
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
 
