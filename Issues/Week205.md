@@ -1,6 +1,7 @@
 **Articles**
 
 * [MVC.](http://codeplease.io/2017/11/19/mvc/), by [@peres](https://twitter.com/peres)
+* [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18), by [KoromikoNeo](https://twitter.com/KoromikoNeo)
 
 **Tools/Controls**
 
