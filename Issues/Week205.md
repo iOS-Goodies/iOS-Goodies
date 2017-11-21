@@ -4,10 +4,12 @@
 * [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18), by [KoromikoNeo](https://twitter.com/KoromikoNeo)
 * [Working With Large Files in an iOS App](https://medium.com/bpxl-craft/working-with-large-files-in-an-ios-app-a531fa6188ad), by [@ bach4life](https://twitter.com/bach4life)
 * [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0), by [@sandofsky](https://twitter.com/sandofsky)
+* [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Swift Codable With Custom Dates](https://useyourloaf.com/blog/swift-codable-with-custom-dates/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
-* 
+* [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab), by [@Interactive-Studio](https://github.com/Interactive-Studio)
 
 **Business**
 
