@@ -15,6 +15,7 @@
 **Business**
 
 * [Be less afraid of giving feedback](https://cate.blog/2017/11/14/be-less-afraid-of-giving-feedback/), by [@catehstn](https://twitter.com/catehstn)
+* [You’re doing MVP wrong](https://gary.mcad.am/youre-doing-mvp-wrong-9faa1a29ace0), by [gpmcadam](https://twitter.com/gpmcadam)
 
 **UI/UX**
 
