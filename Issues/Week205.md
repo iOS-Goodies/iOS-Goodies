@@ -7,6 +7,7 @@
 * [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift Codable With Custom Dates](https://useyourloaf.com/blog/swift-codable-with-custom-dates/), by [@kharrison](https://twitter.com/kharrison)
 * [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/), by Alp Avanoğlu
+* [iOS Background Transfer](https://topologyeyewear.github.io/engineering-blog/2017/11/20/background_transfer/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
 
 
 **Tools/Controls**
