@@ -6,6 +6,8 @@
 * [The Presentation Model](https://medium.com/@sandofsky/the-presentation-model-6aeaaab607a0), by [@sandofsky](https://twitter.com/sandofsky)
 * [Using child view controllers as plugins in Swift](https://www.swiftbysundell.com/posts/using-child-view-controllers-as-plugins-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift Codable With Custom Dates](https://useyourloaf.com/blog/swift-codable-with-custom-dates/), by [@kharrison](https://twitter.com/kharrison)
+* [Reusability and Composition in Swift](https://theswiftpost.co/reusability-composition-swift/), by Alp Avanoğlu
+
 
 **Tools/Controls**
 
