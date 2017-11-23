@@ -15,6 +15,7 @@
 * [Realm Browser for iOS](https://github.com/TimOliver/RealmBrowser-iOS), by [TimOliverAU](https://twitter.com/TimOliverAU)
 * [TransitionableTab](https://github.com/Interactive-Studio/TransitionableTab), by [@Interactive-Studio](https://github.com/Interactive-Studio)
 * [EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair), by [@agens-no](https://github.com/agens-no/)
+* [VueFlux](https://github.com/ra1028/VueFlux), by [@ra1028](https://github.com/ra1028)
 
 **Business**
 
@@ -33,5 +34,5 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [sanketfirodiya](https://github.com/sanketfirodiya), [hfossli](https://github.com/hfossli)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [sanketfirodiya](https://github.com/sanketfirodiya), [hfossli](https://github.com/hfossli), [ra1028](https://github.com/ra1028)
 
