@@ -25,6 +25,7 @@
 
 * [Payment Revolution: How Apple and Android Are Changing How We Pay for Products Today](https://blogs.adobe.com/creativecloud/payment-revolution-how-apple-and-android-are-changing-how-we-pay-for-products-today/), by [@101babich](https://twitter.com/101babich)
 * [Bad Icons: How to Identify and Improve Them](https://www.nngroup.com/articles/bad-icons/), by [@karaann](https://twitter.com/karaann)
+* [You’re not your user](https://blog.prototypr.io/dear-product-managers-youre-not-your-users-e5739627cbc8), by [@AlexAlexakis](https://twitter.com/AlexAlexakis)
 
 **Videos**
 
