@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [sanketfirodiya](https://twitter.com/sanketfirodiya), [@onmyway133](https://github.com/onmyway133)
+* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133)
