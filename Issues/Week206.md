@@ -1,6 +1,8 @@
 **Articles**
 
-* 
+* [Building µFeatures](https://medium.com/ios-os-x-development/building-%C2%B5features-85f6fffa6cbb), by [@pepibumur](https://twitter.com/pepibumur)
+* [Reading and Understanding the Swift Driver Source Code](https://modocache.io/reading-and-understanding-the-swift-driver-source-code), by [@modocache](https://twitter.com/modocache)
+* [Using unit tests to identify & avoid memory leaks in Swift](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
