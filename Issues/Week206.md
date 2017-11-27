@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Lightbox](https://github.com/hyperoslo/Lightbox), by [@hyperoslo](https://github.com/hyperoslo)
 
 **Business**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [sanketfirodiya](https://twitter.com/sanketfirodiya)
+* [sanketfirodiya](https://twitter.com/sanketfirodiya), [@onmyway133](https://github.com/onmyway133)
