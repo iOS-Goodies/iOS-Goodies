@@ -5,6 +5,7 @@
 * [Using unit tests to identify & avoid memory leaks in Swift](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [swift-4-strings/](https://oleb.net/blog/2017/11/swift-4-strings/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Secure Coding With Concurrency in Swift 4](https://code.tutsplus.com/articles/secure-coding-in-swift-4-with-concurrency--cms-29917), by [@NSDestr0yer](https://twitter.com/NSDestr0yer)
+* [Using Swift 4's Codable protocol to configure your UI test environment](http://www.marisibrothers.com/2017/11/using-swift-4-codable-protocol-for-ui-tests.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
+* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi)
