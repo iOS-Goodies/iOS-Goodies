@@ -5,6 +5,7 @@
 * [Using unit tests to identify & avoid memory leaks in Swift](https://www.swiftbysundell.com/posts/using-unit-tests-to-identify-avoid-memory-leaks-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [swift-4-strings/](https://oleb.net/blog/2017/11/swift-4-strings/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Secure Coding With Concurrency in Swift 4](https://code.tutsplus.com/articles/secure-coding-in-swift-4-with-concurrency--cms-29917), by [@NSDestr0yer](https://twitter.com/NSDestr0yer)
+* [Reactive <~ Closure](https://medium.com/swift-sundae/reactive-closure-530eba812768), by [@_riteshhh](https://twitter.com/_riteshhh)
 
 **Tools/Controls**
 
