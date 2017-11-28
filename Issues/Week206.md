@@ -6,23 +6,30 @@
 * [swift-4-strings/](https://oleb.net/blog/2017/11/swift-4-strings/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Secure Coding With Concurrency in Swift 4](https://code.tutsplus.com/articles/secure-coding-in-swift-4-with-concurrency--cms-29917), by [@NSDestr0yer](https://twitter.com/NSDestr0yer)
 * [Using Swift 4's Codable protocol to configure your UI test environment](http://www.marisibrothers.com/2017/11/using-swift-4-codable-protocol-for-ui-tests.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Reactive <~ Closure](https://medium.com/swift-sundae/reactive-closure-530eba812768), by [@_riteshhh](https://twitter.com/_riteshhh)
+
 
 **Tools/Controls**
 
+* [Circular Crown Selector](https://github.com/mkchoi212/CircularCrownSelector), by [@Bananamlkshake](https://twitter.com/Bananamlkshake2)
 * [Lightbox](https://github.com/hyperoslo/Lightbox), by [@hyperoslo](https://github.com/hyperoslo)
+
 
 **Business**
 
 * 
 
+
 **UI/UX**
 
 * 
+
 
 **Videos**
 
 * [How a clean iOS code base looks like](https://www.essentialdeveloper.com/articles/how-a-clean-ios-codebase-looks-like) by [@caiozullo](https://twitter.com/caiozullo)
 
+
 **Credits**
 
-* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi)
+* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [mkchoi212](https://github.com/mkchoi212)
