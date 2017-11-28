@@ -8,6 +8,7 @@
 
 **Tools/Controls**
 
+* [Circular Crown Selector](https://github.com/mkchoi212/CircularCrownSelector), by [@Bananamlkshake](https://twitter.com/Bananamlkshake2)
 * [Lightbox](https://github.com/hyperoslo/Lightbox), by [@hyperoslo](https://github.com/hyperoslo)
 
 **Business**
@@ -24,4 +25,5 @@
 
 **Credits**
 
-* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
+* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [mkchoi212](https://github.com/mkchoi212)
+
