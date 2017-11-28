@@ -7,6 +7,7 @@
 * [Secure Coding With Concurrency in Swift 4](https://code.tutsplus.com/articles/secure-coding-in-swift-4-with-concurrency--cms-29917), by [@NSDestr0yer](https://twitter.com/NSDestr0yer)
 * [Using Swift 4's Codable protocol to configure your UI test environment](http://www.marisibrothers.com/2017/11/using-swift-4-codable-protocol-for-ui-tests.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Reactive <~ Closure](https://medium.com/swift-sundae/reactive-closure-530eba812768), by [@_riteshhh](https://twitter.com/_riteshhh)
+* [Swift Substrings](https://swiftunboxed.com/stdlib/substrings/), by [@gregheo](http://gregheo.com/)
 
 
 **Tools/Controls**
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [mkchoi212](https://github.com/mkchoi212)
+* [sanketfirodiya](https://github.com/sanketfirodiya), [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [lucianomarisi](https://github.com/lucianomarisi), [mkchoi212](https://github.com/mkchoi212), [LisaDziuba](https://github.com/lisadziuba)
