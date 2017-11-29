@@ -29,6 +29,7 @@
 **Videos**
 
 * [How a clean iOS code base looks like](https://www.essentialdeveloper.com/articles/how-a-clean-ios-codebase-looks-like) by [@caiozullo](https://twitter.com/caiozullo)
+* [Øredev iOS videos](http://oredev.org/2017/video#sessions_undefined_iOS)
 
 
 **Credits**
