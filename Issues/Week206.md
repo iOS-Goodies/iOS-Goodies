@@ -26,6 +26,8 @@
 **UI/UX**
 
 * [To Sketch or Not to Sketch? Design Process](https://blog.prototypr.io/to-sketch-or-not-to-sketch-design-process-7d0af01f58fe), by [@cuberto](https://twitter.com/cuberto)
+* [Prototyping 101: The Difference between Low-Fidelity and High-Fidelity Prototypes and When to Use Each](https://medium.com/thinking-design/prototyping-101-the-difference-between-low-fidelity-and-high-fidelity-prototypes-and-when-to-use-474233ee8c77), by [@101babich](https://twitter.com/101babich)
+* [Chefbox App: User Experience Design Retrospective](https://medium.muz.li/chefbox-app-user-experience-design-retrospective-5aba2248d60d), by [@LeowHouTeng](https://twitter.com/LeowHouTeng)
 
 
 **Videos**
