@@ -8,6 +8,8 @@
 * [Using Swift 4's Codable protocol to configure your UI test environment](http://www.marisibrothers.com/2017/11/using-swift-4-codable-protocol-for-ui-tests.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [Reactive <~ Closure](https://medium.com/swift-sundae/reactive-closure-530eba812768), by [@_riteshhh](https://twitter.com/_riteshhh)
 * [Swift Substrings](https://swiftunboxed.com/stdlib/substrings/), by [@gregheo](http://gregheo.com/)
+* [Lenses and Prisms in Swift: a pragmatic approach](https://broomburgo.github.io/fun-ios/post/lenses-and-prisms-in-swift-a-pragmatic-approach/), by [@_logicist](https://twitter.com/_logicist)
+* [How To Mock Swift Standalone Functions](https://qualitycoding.org/mocking-standalone-functions/), by [@qcoding](https://twitter.com/qcoding)
 
 
 **Tools/Controls**
@@ -23,7 +25,7 @@
 
 **UI/UX**
 
-* 
+* [To Sketch or Not to Sketch? Design Process](https://blog.prototypr.io/to-sketch-or-not-to-sketch-design-process-7d0af01f58fe), by [@cuberto](https://twitter.com/cuberto)
 
 
 **Videos**
