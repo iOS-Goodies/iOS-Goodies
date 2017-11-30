@@ -20,7 +20,8 @@
 
 **Business**
 
-* 
+* [Tripling an Engineering Team in Six Months — Part Five: After Hiring](https://medium.com/swlh/tripling-an-engineering-team-in-six-months-part-five-after-hiring-640bf033cb0f), by [@zac_sky](https://twitter.com/zac_sky)
+* [How to Estimate the Cost of Mobile App Development](https://appdevelopment.daffodilsw.com/blog/how-to-estimate-the-cost-of-mobile-app-development), by [@archnaoberoi](https://twitter.com/archnaoberoi)
 
 
 **UI/UX**
