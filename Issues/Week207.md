@@ -1,5 +1,5 @@
 **Articles**
-
+* [Building DeadRinger: An iPhone X Lockscreen Replica](https://medium.com/@hungtruong/introducing-deadringer-an-iphone-x-lockscreen-replica-9a3e613c833c) by [@hungtruong](https://twitter.com/hungtruong/)
 
 
 **Tools/Controls**
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [fernandodelrio](https://github.com/fernandodelrio), [rsrbk](https://github.com/rsrbk)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [fernandodelrio](https://github.com/fernandodelrio), [rsrbk](https://github.com/rsrbk), [hungtruong](https://github.com/hungtruong)
