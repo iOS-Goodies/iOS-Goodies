@@ -15,6 +15,8 @@
 
 **Business**
 
+* [The Next Evolution of Transparent Salaries: Our New Remote-First Formula and Updated Salary Calculator](https://open.buffer.com/salary-formula/), by [@buffer](https://twitter.com/buffer)
+
 
 
 **UI/UX**
