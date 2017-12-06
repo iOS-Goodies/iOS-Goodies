@@ -5,6 +5,7 @@
 * [Xcode unit tests with ⌘+S](https://medium.com/@londeix/xcode-unit-tests-with-s-13f0deaed501), by [@norapsi](https://twitter.com/norapsi)
 * [Future-Proof Dependency Injection for Storyboard-Based View Controllers](http://holko.pl/2017/12/06/future-proof-dependency-injection/), by [@arekholko](https://twitter.com/arekholko)
 * [Why Dictionary sometimes encodes itself as an array](https://oleb.net/blog/2017/12/dictionary-codable-array/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Key difference between Dictionary and NSDictionary](http://lapcatsoftware.com/articles/key-difference.html), by [@lapcatsoftware](https://twitter.com/lapcatsoftware)
 
 **Tools/Controls**
 
