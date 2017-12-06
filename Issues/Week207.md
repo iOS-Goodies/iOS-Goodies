@@ -4,6 +4,7 @@
 * [Hands-on XCUITest Features with Xcode 9](https://medium.com/xcblog/hands-on-xcuitest-features-with-xcode-9-eb4d00be2781), by [@Shashikant86](https://twitter.com/Shashikant86)
 * [Xcode unit tests with ⌘+S](https://medium.com/@londeix/xcode-unit-tests-with-s-13f0deaed501), by [@norapsi](https://twitter.com/norapsi)
 * [Future-Proof Dependency Injection for Storyboard-Based View Controllers](http://holko.pl/2017/12/06/future-proof-dependency-injection/), by [@arekholko](https://twitter.com/arekholko)
+* [Why Dictionary sometimes encodes itself as an array](https://oleb.net/blog/2017/12/dictionary-codable-array/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
