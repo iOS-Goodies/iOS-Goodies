@@ -11,7 +11,7 @@
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock), by [@rsrbk123](https://twitter.com/rsrbk123)
 
 **Business**
-
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers), by [LisaDziuba](https://twitter.com/LisaDziuba)
 
 
 **UI/UX**
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [fernandodelrio](https://github.com/fernandodelrio), [rsrbk](https://github.com/rsrbk), [hungtruong](https://github.com/hungtruong), [polac24](https://github.com/polac24)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [fernandodelrio](https://github.com/fernandodelrio), [rsrbk](https://github.com/rsrbk), [hungtruong](https://github.com/hungtruong), [polac24](https://github.com/polac24), [sanketfirodiya](https://twitter.com/sanketfirodiya)
