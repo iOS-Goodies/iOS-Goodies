@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [fernandodelrio](https://github.com/fernandodelrio), [rsrbk](https://github.com/rsrbk), [hungtruong](https://github.com/hungtruong), [polac24](https://github.com/polac24)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [fernandodelrio](https://github.com/fernandodelrio), [rsrbk](https://github.com/rsrbk), [hungtruong](https://github.com/hungtruong), [polac24](https://github.com/polac24), [sanketfirodiya](https://twitter.com/sanketfirodiya)
