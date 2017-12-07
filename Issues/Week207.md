@@ -9,6 +9,7 @@
 * [Learning with Privacy at Scale](https://machinelearning.apple.com/2017/12/06/learning-with-privacy-at-scale.html), by Apple
 * [Building an enum-based analytics system in Swift](https://www.swiftbysundell.com/posts/building-an-enum-based-analytics-system-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [@objc and dynamic](https://swiftunboxed.com/interop/objc-dynamic/), by [@gregheo](https://twitter.com/gregheo)
+* [When Not to Use an Enum](http://matt.diephouse.com/2017/12/when-not-to-use-an-enum/), by [@mdiep](https://twitter.com/mdiep)
 
 **Tools/Controls**
 
