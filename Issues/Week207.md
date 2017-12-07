@@ -15,6 +15,7 @@
 * [Snap.swift](https://github.com/skyweb07/Snap.swift), by [@Skyweb07](https://twitter.com/Skyweb07)
 * [SwiftColorGen](https://github.com/fernandodelrio/SwiftColorGen), by [@fernandohdelrio](https://twitter.com/fernandohdelrio)
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock), by [@rsrbk123](https://twitter.com/rsrbk123)
+* [Hyperion](https://github.com/willowtreeapps/Hyperion-iOS), by [@willowtreeapps](https://twitter.com/willowtreeapps)
 
 **Business**
 
