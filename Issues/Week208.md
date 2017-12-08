@@ -17,7 +17,7 @@
 
 **Videos**
 
-* 
+* [Metaprogramming in Swift](https://youtu.be/NISkw-N9Y9k), by [@merowing_](https://twitter.com/merowing_)
 
 **Credits**
 
