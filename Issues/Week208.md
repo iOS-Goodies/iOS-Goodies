@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Hyperion - In App Design Review Tool](https://github.com/willowtreeapps/Hyperion-iOS), by [@willowtreeapps](https://twitter.com/willowtreeapps)
 
 **Business**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [sanketfirodiya](https://twitter.com/sanketfirodiya)
