@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Here’s Where UX Is Going In 2018: Top 7 Design Trends](https://blog.prototypr.io/heres-where-ux-is-going-in-2018-top-7-design-trends-d0cb73e51b45), by [@PrototyprIO](https://twitter.com/PrototyprIO)
 
 **Videos**
 
