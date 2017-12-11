@@ -7,7 +7,9 @@
 
 **Tools/Controls**
 
-* 
+* [Sample Player - Pro Music Instrument](https://github.com/AudioKit/ROMPlayer)
+, by [@goFecher](https://twitter.com/goFecher)
+ 
 
 **Business**
 
