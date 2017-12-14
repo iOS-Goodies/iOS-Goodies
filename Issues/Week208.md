@@ -10,8 +10,8 @@
 
 * [Sample Player - Pro Music Instrument](https://github.com/AudioKit/ROMPlayer), by [@goFecher](https://twitter.com/goFecher)
 * [Overkill for mac](https://github.com/KrauseFx/overkill-for-mac), by [@KrauseFx](https://github.com/KrauseFx)
+* [Ease - Animate everything with Ease](https://github.com/roberthein/Ease), by [@roberthein](https://twitter.com/roberthein)
  
-
 **Business**
 
 * [Offering Your Apps for Pre-Order](https://developer.apple.com/app-store/pre-orders/), by Apple
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [uraimo](https://github.com/uraimo), [FranciscoAmado](https://github.com/FranciscoAmado)
