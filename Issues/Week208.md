@@ -24,6 +24,7 @@
 **UI/UX**
 
 * [Accessibility: what you need to know about mobile app development for people with special needs](https://medium.com/rosberryapps/accessibility-what-you-need-to-know-about-mobile-app-development-for-people-with-special-needs-b52d713f8c95), by Anastasia Egorina via [@RosberryApps](https://twitter.com/RosberryApps)
+* [Pattern hunt: Full-width mobile buttons](https://medium.com/@hollymariegibbs/i-recently-found-myself-on-a-hunt-for-a-screen-pattern-i-know-i-had-seen-before-but-couldnt-think-4a7df5f95111), by [@hollymariegibbs](https://twitter.com/hollymariegibbs)
 
 **Videos**
 
