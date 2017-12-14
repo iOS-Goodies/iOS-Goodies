@@ -6,6 +6,7 @@
 , by [@WesWickwire](https://twitter.com/weswickwire)
 * [Best iOS hacks from Twitter: November Edition](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-november-edition-bd38edba8ea4), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 * [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2), by [@iconmaster](https://twitter.com/iconmaster)
+* [Adopting Drag and Drop on iOS](https://pspdfkit.com/blog/2017/drag-and-drop/), by [@steviki](https://twitter.com/steviki)
 
 **Tools/Controls**
 
