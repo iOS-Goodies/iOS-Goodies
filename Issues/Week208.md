@@ -8,13 +8,13 @@
 
 **Tools/Controls**
 
-* [Sample Player - Pro Music Instrument](https://github.com/AudioKit/ROMPlayer)
-, by [@goFecher](https://twitter.com/goFecher)
+* [Sample Player - Pro Music Instrument](https://github.com/AudioKit/ROMPlayer), by [@goFecher](https://twitter.com/goFecher)
+* [Overkill for mac](https://github.com/KrauseFx/overkill-for-mac), by [@KrauseFx](https://github.com/KrauseFx)
  
 
 **Business**
 
-* 
+* [Offering Your Apps for Pre-Order](https://developer.apple.com/app-store/pre-orders/), by Apple
 
 **UI/UX**
 
