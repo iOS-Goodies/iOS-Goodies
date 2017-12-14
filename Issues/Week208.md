@@ -15,6 +15,8 @@
 **Business**
 
 * [Offering Your Apps for Pre-Order](https://developer.apple.com/app-store/pre-orders/), by Apple
+* [1000 different people, the same words](https://textio.ai/1000-different-people-the-same-words-6149b5a1f351), by [@KieranSnyder](https://twitter.com/KieranSnyder)
+* [How do emotions affect productivity?](https://www.atlassian.com/blog/apps/new-research-emotional-intelligence-in-the-workplace), by [@natwritesdotcom](https://twitter.com/natwritesdotcom)
 
 **UI/UX**
 
