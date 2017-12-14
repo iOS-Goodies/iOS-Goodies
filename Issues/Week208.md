@@ -23,7 +23,7 @@
 
 **UI/UX**
 
-* 
+* [Accessibility: what you need to know about mobile app development for people with special needs](https://medium.com/rosberryapps/accessibility-what-you-need-to-know-about-mobile-app-development-for-people-with-special-needs-b52d713f8c95), by Anastasia Egorina via [@RosberryApps](https://twitter.com/RosberryApps)
 
 **Videos**
 
