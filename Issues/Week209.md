@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [CollectionKit](https://github.com/SoySauceLab/CollectionKit), by SoySauceLab
 
 **Business**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* 
+* [naeemshaikh90](https://github.com/naeemshaikh90)
