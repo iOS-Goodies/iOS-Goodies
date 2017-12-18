@@ -12,7 +12,7 @@
 
 **UI/UX**
 
-* 
+* [iPhone X: The Rise of Gestures](https://www.nngroup.com/articles/iphone-x/), [@rbudiu](https://twitter.com/rbudiu)
 
 **Videos**
 
