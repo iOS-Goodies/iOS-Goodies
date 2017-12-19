@@ -10,7 +10,7 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 **Tools/Controls**
 
-* [CollectionKit](https://github.com/SoySauceLab/CollectionKit), by @[SoySauceLab](https://github.com/SoySauceLab)
+* [CollectionKit](https://github.com/SoySauceLab/CollectionKit), by [@SoySauceLab](https://github.com/SoySauceLab)
 * [ProgressMeter - Track your progress on meter](https://github.com/khawajafarooq/ProgressMeter), by [@KhawajaFarooq](https://twitter.com/khfarooq)
 
 **Business**
