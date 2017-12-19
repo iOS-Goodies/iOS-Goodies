@@ -1,4 +1,4 @@
-Don't forget to submit or schedule your app updates soon, because between 23 and 27 December it won't be possible to submit new apps and app updates, due to the [iTunes Connect Holiday Schedule](https://developer.apple.com/news/?id=12132017a)
+Don't forget to submit or schedule your app updates soon, because between 23 and 27 December it won't be possible to submit new apps and app updates, due to the [iTunes Connect Holiday Schedule](https://developer.apple.com/news/?id=12132017a).
 
 **Articles**
 
@@ -11,6 +11,7 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 **Tools/Controls**
 
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit), by @[SoySauceLab](https://github.com/SoySauceLab)
+* [ProgressMeter - Track your progress on meter](https://github.com/khawajafarooq/ProgressMeter), by [@KhawajaFarooq](https://twitter.com/khfarooq)
 
 **Business**
 
@@ -26,4 +27,4 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [khawajafarooq](https://github.com/khawajafarooq)
