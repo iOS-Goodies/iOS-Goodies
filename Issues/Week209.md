@@ -7,6 +7,7 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 * [How to import a C library in Swift using the Swift Package Manager](https://oleb.net/blog/2017/12/importing-c-library-into-swift/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Different flavors of dependency injection in Swift](https://www.swiftbysundell.com/posts/different-flavors-of-dependency-injection-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Changing Xcode Header Comment](https://useyourloaf.com/blog/changing-xcode-header-comment/), by [@kharrison](https://twitter.com/kharrison)
+* [Swift Sorting Algorithm](http://agostini.tech/2017/12/18/swift-sorting-algorithm/), by Giuseppe Lanza
 
 **Tools/Controls**
 
