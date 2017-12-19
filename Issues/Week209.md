@@ -27,4 +27,4 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [khawajafarooq](https://github.com/khawajafarooq)
