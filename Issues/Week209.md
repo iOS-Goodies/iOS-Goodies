@@ -19,6 +19,7 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 * [The Top Reasons Apps Get Rejected on the App Store](http://martiancraft.com/blog/2017/12/app-rejection/), by [@coryb](http://twitter.com/coryb)
 * [How to Get Your First 100k (Active) Users](https://blog.winnie.com/how-to-get-your-first-100k-active-users-909fa4292a27), by [@annekate](https://twitter.com/annekate)
+* [How the AR app I made in my bedroom went viral worldwide](https://medium.com/inborn-experience/how-the-ar-app-i-made-in-my-bedroom-went-viral-worldwide-19e800ce0d21), by [Oscar Falmer](https://twitter.com/OsFalmer)
 
 **UI/UX**
 
