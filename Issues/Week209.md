@@ -13,6 +13,7 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit), by [@SoySauceLab](https://github.com/SoySauceLab)
 * [ProgressMeter - Track your progress on meter](https://github.com/khawajafarooq/ProgressMeter), by [@KhawajaFarooq](https://twitter.com/khfarooq)
+* [Sake](https://github.com/xcodeswift/sake) - A make-like build utility for Swift, by [xcode.swift](https://github.com/xcodeswift)
 
 **Business**
 
@@ -30,4 +31,4 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [khawajafarooq](https://github.com/khawajafarooq)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [khawajafarooq](https://github.com/khawajafarooq), [FranciscoAmado](https://github.com/FranciscoAmado)
