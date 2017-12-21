@@ -9,6 +9,7 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 * [Changing Xcode Header Comment](https://useyourloaf.com/blog/changing-xcode-header-comment/), by [@kharrison](https://twitter.com/kharrison)
 * [Swift Sorting Algorithm](http://agostini.tech/2017/12/18/swift-sorting-algorithm/), by Giuseppe Lanza
 * [Effective Environment Switching in iOS](https://medium.com/@volbap/effective-environment-switching-in-ios-6df0b08e9556), by [@volbap](https://twitter.com/volbap)
+* [A view construction syntax](http://www.cocoawithlove.com/blog/a-view-construction-syntax.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
@@ -33,4 +34,4 @@ Don't forget to submit or schedule your app updates soon, because between 23 and
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [khawajafarooq](https://github.com/khawajafarooq), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [khawajafarooq](https://github.com/khawajafarooq), [FranciscoAmado](https://github.com/FranciscoAmado),[rbarbosa](https://github.com/rbarbosa)
