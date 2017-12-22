@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Reminders](https://github.com/tiagomartinho/Reminders), by [@martinho_t](https://twitter.com/martinho_t)
+* [Shiny](https://github.com/efremidze/Shiny), by [@efremidze_](http://twitter.com/efremidze_)
 
 **Business**
 
