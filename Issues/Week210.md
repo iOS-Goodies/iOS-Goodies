@@ -16,7 +16,7 @@
 
 **Business**
 
-* 
+* [Deep Pre-Decision](http://thepodcast.fm/episodes/122), by [@radexp](https://twitter.com/radexp) and [@MSliwinski](https://twitter.com/MSliwinski)
 
 **UI/UX**
 
