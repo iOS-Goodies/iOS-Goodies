@@ -6,6 +6,7 @@
 * [Screen navigation in iOS](https://badootech.badoo.com/screen-navigation-in-ios-dd99b09228b2), by [@bohdan_orlov](https://twitter.com/bohdan_orlov)
 * [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/), by [@Sai_K1065](https://twitter.com/sai_k1065)
 * [Password autofill for iOS Apps for faster login (iOS 11+)](https://medium.com/@abhimuralidharan/password-autofill-for-ios-apps-for-faster-login-ios-11-1d9f77deb35a), by [@abhilashkm1992](https://twitter.com/abhilashkm1992)
+* [Task automation in Swift with Sake](https://medium.com/ios-os-x-development/task-automation-in-swift-with-sake-a12ab974fdb7), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Tools/Controls**
 
