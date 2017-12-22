@@ -10,6 +10,7 @@
 
 * [Reminders](https://github.com/tiagomartinho/Reminders), by [@martinho_t](https://twitter.com/martinho_t)
 * [Shiny](https://github.com/efremidze/Shiny), by [@efremidze_](http://twitter.com/efremidze_)
+* [IBLinter](https://github.com/kateinoigakukun/IBLinter), by [@kateinoigakukun](https://github.com/kateinoigakukun)
 
 **Business**
 
