@@ -7,6 +7,7 @@
 * [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/), by [@Sai_K1065](https://twitter.com/sai_k1065)
 * [Password autofill for iOS Apps for faster login (iOS 11+)](https://medium.com/@abhimuralidharan/password-autofill-for-ios-apps-for-faster-login-ios-11-1d9f77deb35a), by [@abhilashkm1992](https://twitter.com/abhilashkm1992)
 * [Task automation in Swift with Sake](https://medium.com/ios-os-x-development/task-automation-in-swift-with-sake-a12ab974fdb7), by [@pepibumur](https://twitter.com/pepibumur)
+* [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
@@ -14,10 +15,13 @@
 * [Shiny](https://github.com/efremidze/Shiny), by [@efremidze_](http://twitter.com/efremidze_)
 * [IBLinter](https://github.com/kateinoigakukun/IBLinter), by [@kateinoigakukun](https://github.com/kateinoigakukun)
 * [LBAC-Swift](https://github.com/mkchoi212/LBAC-Swift), by [@bananamlkshake](https://twitter.com/Bananamlkshake2)
+* [RSParser](https://github.com/brentsimmons/RSParser), by [@brentsimmons](https://github.com/brentsimmons)
 
 **Business**
 
 * [Deep Pre-Decision](http://thepodcast.fm/episodes/122), by [@radexp](https://twitter.com/radexp) and [@MSliwinski](https://twitter.com/MSliwinski)
+* [A Tech Lead HOWTO](https://ivanmosquera.net/2017/12/27/a-tech-lead-howto/), by [@ivmos](https://twitter.com/ivmos)
+* [Goals](https://www.swiftbysundell.com/meta/goals), by [@johnsundell](https://twitter.com/johnsundell)
 
 **UI/UX**
 
