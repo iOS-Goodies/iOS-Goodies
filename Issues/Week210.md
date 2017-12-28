@@ -26,6 +26,7 @@
 * [Deep Pre-Decision](http://thepodcast.fm/episodes/122), by [@radexp](https://twitter.com/radexp) and [@MSliwinski](https://twitter.com/MSliwinski)
 * [A Tech Lead HOWTO](https://ivanmosquera.net/2017/12/27/a-tech-lead-howto/), by [@ivmos](https://twitter.com/ivmos)
 * [Goals](https://www.swiftbysundell.com/meta/goals), by [@johnsundell](https://twitter.com/johnsundell)
+* [Hard and Soft Skills in Tech](https://medium.com/@yonatanzunger/hard-and-soft-skills-in-tech-8be00216f67f), by [@yonatanzunger](https://twitter.com/yonatanzunger)
 
 **UI/UX**
 
