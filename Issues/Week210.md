@@ -8,6 +8,7 @@
 * [Password autofill for iOS Apps for faster login (iOS 11+)](https://medium.com/@abhimuralidharan/password-autofill-for-ios-apps-for-faster-login-ios-11-1d9f77deb35a), by [@abhilashkm1992](https://twitter.com/abhilashkm1992)
 * [Task automation in Swift with Sake](https://medium.com/ios-os-x-development/task-automation-in-swift-with-sake-a12ab974fdb7), by [@pepibumur](https://twitter.com/pepibumur)
 * [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [How to import a C library in Swift using the Swift Package Manager](https://oleb.net/blog/2017/12/importing-c-library-into-swift/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
@@ -33,4 +34,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [NaeemShaikh90](https://github.com/naeemshaikh90), [MikeChoi](https://github.com/mkchoi212)
+* [LisaDziuba](https://github.com/LisaDziuba), [NaeemShaikh90](https://github.com/naeemshaikh90), [MikeChoi](https://github.com/mkchoi212), [rbarbosa](https://github.com/rbarbosa)
