@@ -9,6 +9,7 @@
 * [Task automation in Swift with Sake](https://medium.com/ios-os-x-development/task-automation-in-swift-with-sake-a12ab974fdb7), by [@pepibumur](https://twitter.com/pepibumur)
 * [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Testing with RxBlocking, part 1](http://rx-marin.com/post/rxblocking-part1/), by [@icanzilb](https://twitter.com/icanzilb)
+* [A complete list of articles on Unit Testing with Swift from 2017](https://medium.com/flawless-app-stories/a-complete-list-of-articles-on-unit-testing-with-swift-from-2017-9be8f046ef25), by [@KoromikoNeo](https://twitter.com/KoromikoNeo)
 
 **Tools/Controls**
 
