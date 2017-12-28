@@ -30,6 +30,7 @@
 
 * [Using Framer (and only Framer) to Prototype Google Photos on the iPad](https://blog.prototypr.io/using-framer-and-only-framer-to-prototype-google-photos-on-the-ipad-529f1e701b7a), by [@toddjreynolds](https://twitter.com/toddjreynolds)
 * [How to design error messages](https://www.justinmind.com/blog/how-to-design-error-messages-downloadable-example/), by [@just_in_mind](https://twitter.com/just_in_mind)
+* [The Guide to Mobile App Design: Best Practices for 2018 and Beyond](https://www.uxpin.com/studio/mobile-design/guide-mobile-app-design-best-practices-2018-beyond/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
