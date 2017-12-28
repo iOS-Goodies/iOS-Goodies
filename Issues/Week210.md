@@ -28,7 +28,8 @@
 
 **UI/UX**
 
-* 
+* [Using Framer (and only Framer) to Prototype Google Photos on the iPad](https://blog.prototypr.io/using-framer-and-only-framer-to-prototype-google-photos-on-the-ipad-529f1e701b7a), by [@toddjreynolds](https://twitter.com/toddjreynolds)
+* [How to design error messages](https://www.justinmind.com/blog/how-to-design-error-messages-downloadable-example/), by [@just_in_mind](https://twitter.com/just_in_mind)
 
 **Videos**
 
