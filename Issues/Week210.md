@@ -10,6 +10,7 @@
 * [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Testing with RxBlocking, part 1](http://rx-marin.com/post/rxblocking-part1/), by [@icanzilb](https://twitter.com/icanzilb)
 * [A complete list of articles on Unit Testing with Swift from 2017](https://medium.com/flawless-app-stories/a-complete-list-of-articles-on-unit-testing-with-swift-from-2017-9be8f046ef25), by [@KoromikoNeo](https://twitter.com/KoromikoNeo)
+* [Creating Type-safe JSON in Swift](https://medium.com/grand-parade/creating-type-safe-json-in-swift-74a612991893), by Sergio Schechtman Sette
 
 **Tools/Controls**
 
