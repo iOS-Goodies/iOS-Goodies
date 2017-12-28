@@ -9,6 +9,7 @@
 * [Task automation in Swift with Sake](https://medium.com/ios-os-x-development/task-automation-in-swift-with-sake-a12ab974fdb7), by [@pepibumur](https://twitter.com/pepibumur)
 * [Separation of concerns using protocols in Swift](https://www.swiftbysundell.com/posts/separation-of-concerns-using-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [How to import a C library in Swift using the Swift Package Manager](https://oleb.net/blog/2017/12/importing-c-library-into-swift/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Testing with RxBlocking, part 1](http://rx-marin.com/post/rxblocking-part1/), by [@icanzilb](https://twitter.com/icanzilb)
 
 **Tools/Controls**
 
