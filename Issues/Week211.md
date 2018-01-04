@@ -9,6 +9,7 @@ The biggest news of this week is probably that [Apple is buying buddybuild](http
 * [Zero Knowledge Architectures for Mobile Applications](https://medium.com/@vixentael/zero-knowledge-architectures-for-mobile-applications-b00a231fda75), by [@vixentael](https://twitter.com/vixentael)
 * [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56), by [@SRobTweets](https://twitter.com/SRobTweets)
 * [Functional architecture for Swift](https://medium.com/@PallasR/functional-architecture-for-swift-dfa8854239cb), by [@PallasR](https://twitter.com/PallasR)
+* [Apple Acquires BuddyBuild. Oh, My Xcode Server!](http://shashikantjagtap.net/apple-acquires-buddybuild-oh-xcode-server/), by [@Shashikant86](https://twitter.com/Shashikant86)
 
 **Tools/Controls**
 
