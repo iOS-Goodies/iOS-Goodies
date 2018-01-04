@@ -7,6 +7,7 @@ The biggest news of this week is probably that [Apple is buying buddybuild](http
 * [Some useful URL schemes in Xcode 9](https://cocoaengineering.com/2018/01/01/some-useful-url-schemes-in-xcode-9/), by [@dmartincy](https://twitter.com/dmartincy/)
 * [Detecting screen capturing in iOS 11](https://medium.com/@abhimuralidharan/detecting-screen-capturing-in-ios-11-cca15881c785), by [@abhilashkm1992](https://twitter.com/abhilashkm1992)
 * [Zero Knowledge Architectures for Mobile Applications](https://medium.com/@vixentael/zero-knowledge-architectures-for-mobile-applications-b00a231fda75), by [@vixentael](https://twitter.com/vixentael)
+* [Build a Taylor Swift detector with the TensorFlow Object Detection API, ML Engine, and Swift](https://towardsdatascience.com/build-a-taylor-swift-detector-with-the-tensorflow-object-detection-api-ml-engine-and-swift-82707f5b4a56), by [@SRobTweets](https://twitter.com/SRobTweets)
 
 **Tools/Controls**
 
