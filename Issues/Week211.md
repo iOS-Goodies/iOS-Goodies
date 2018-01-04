@@ -5,6 +5,7 @@ The biggest news of this week is probably that [Apple is buying buddybuild](http
 * [My Development Toolset 2018 for iOS](https://medium.com/@pmusolino/my-development-toolset-2018-for-ios-a36594b66e79), by [@pmusolino](https://twitter.com/pmusolino)
 * [A hack for fixed-size arrays in Swift](https://oleb.net/blog/2017/12/fixed-size-arrays/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Some useful URL schemes in Xcode 9](https://cocoaengineering.com/2018/01/01/some-useful-url-schemes-in-xcode-9/), by [@dmartincy](https://twitter.com/dmartincy/)
+* [Detecting screen capturing in iOS 11](https://medium.com/@abhimuralidharan/detecting-screen-capturing-in-ios-11-cca15881c785), by [@abhilashkm1992](https://twitter.com/abhilashkm1992)
 
 **Tools/Controls**
 
