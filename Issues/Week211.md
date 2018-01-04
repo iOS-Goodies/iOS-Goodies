@@ -20,7 +20,8 @@ The biggest news of this week is probably that [Apple is buying buddybuild](http
 
 **UI/UX**
 
-* 
+* [12 Mobile UX Design Trends For 2018](https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f), by [@101babich](https://twitter.com/101babich)
+* [Exploring Conversational UX](https://blog.prototypr.io/exploring-conversational-ux-365fb39d8580), by [@margeeta](https://twitter.com/margeeta)
 
 **Videos**
 
