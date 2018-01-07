@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Do you have to manually unregister block-based NotificationCenter observers?](https://oleb.net/blog/2018/01/notificationcenter-removeobserver/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [Francisco Amado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
