@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [tevelee](https://github.com/tevelee)
