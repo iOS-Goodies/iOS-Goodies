@@ -9,6 +9,7 @@
 * [Beak](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts, by [@yonaskolb](https://twitter.com/yonaskolb)
 * [Eval](https://github.com/tevelee/Eval) - Eval is a lightweight interpreter framework written in Swift, evaluating expressions at runtime, by [@tevelee](https://twitter.com/tevelee)
 * [AddressGenerator](https://github.com/onmyway133/AddressGenerator) - A macOS app to safely generate cryptocurrency address, by [@onmyway133](https://twitter.com/onmyway133)
+* [Archery](https://github.com/vknabel/Archery) - Centralize all your project's metadata in JSON, by [@vknabel](https://twitter.com/vknabel)
 
 **Business**
 
