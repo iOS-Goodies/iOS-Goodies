@@ -4,6 +4,7 @@
 * [First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Conditional Conformance in the Standard Library](https://swift.org/blog/conditional-conformance/), by [@airspeedswift/](https://twitter.com/airspeedswift/)
 * [Best iOS hacks from Twitter: December Edition](http://pxlme.me/U6F-TaYh), by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [A Functional Interface for Imperative Code](https://www.objc.io/blog/2018/01/09/justified-flow-layout/), by [@objcio](https://twitter.com/objcio)
 
 **Tools/Controls**
 
