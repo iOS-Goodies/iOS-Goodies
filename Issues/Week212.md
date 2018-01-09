@@ -19,7 +19,7 @@
 
 **Videos**
 
-* 
+* [Pragma Conference 2017 Videos](https://www.youtube.com/watch?v=yiE1R0qd1Gg&list=PLAVm70iJlMuvrV8Ut6fDQN-_X5AhPFtux), by [@pragmamarkorg](https://twitter.com/pragmamarkorg)
 
 **Credits**
 
