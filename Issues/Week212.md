@@ -2,6 +2,7 @@
 
 * [Do you have to manually unregister block-based NotificationCenter observers?](https://oleb.net/blog/2018/01/notificationcenter-removeobserver/), by [@olebegemann](https://twitter.com/olebegemann)
 * [First class functions in Swift](https://www.swiftbysundell.com/posts/first-class-functions-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Conditional Conformance in the Standard Library](https://swift.org/blog/conditional-conformance/), by [@airspeedswift/](https://twitter.com/airspeedswift/)
 
 **Tools/Controls**
 
