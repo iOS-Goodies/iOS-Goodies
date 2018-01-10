@@ -12,6 +12,7 @@
 * [Eval](https://github.com/tevelee/Eval), by [@tevelee](https://twitter.com/tevelee)
 * [AddressGenerator](https://github.com/onmyway133/AddressGenerator), by [@onmyway133](https://twitter.com/onmyway133)
 * [Archery](https://github.com/vknabel/Archery), by [@vknabel](https://twitter.com/vknabel)
+* [State of String: ABI, Performance, Ergonomics, and You!](https://gist.github.com/milseman/bb39ef7f170641ae52c13600a512782f), by [@Ilseman](https://twitter.com/Ilseman)
 
 **Business**
 
