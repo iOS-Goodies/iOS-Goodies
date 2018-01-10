@@ -15,6 +15,7 @@
 
 **Business**
 
+* [How To Prepare To Work Successfully With a Software Developer](http://martiancraft.com/blog/2018/01/dev-checklist/), by [@kevinwenning](https://twitter.com/kevinwenning)
 * [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/), by [@dennybritz](https://twitter.com/dennybritz)
 
 **UI/UX**
