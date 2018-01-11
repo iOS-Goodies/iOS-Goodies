@@ -6,6 +6,7 @@
 * [Best iOS hacks from Twitter: December Edition](http://pxlme.me/U6F-TaYh), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 * [A Functional Interface for Imperative Code](https://www.objc.io/blog/2018/01/09/justified-flow-layout/), by [@objcio](https://twitter.com/objcio)
 * [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
+* [State of String: ABI, Performance, Ergonomics, and You!](https://gist.github.com/milseman/bb39ef7f170641ae52c13600a512782f), by [@Ilseman](https://twitter.com/Ilseman)
 
 **Tools/Controls**
 
@@ -13,7 +14,6 @@
 * [Eval](https://github.com/tevelee/Eval), by [@tevelee](https://twitter.com/tevelee)
 * [AddressGenerator](https://github.com/onmyway133/AddressGenerator), by [@onmyway133](https://twitter.com/onmyway133)
 * [Archery](https://github.com/vknabel/Archery), by [@vknabel](https://twitter.com/vknabel)
-* [State of String: ABI, Performance, Ergonomics, and You!](https://gist.github.com/milseman/bb39ef7f170641ae52c13600a512782f), by [@Ilseman](https://twitter.com/Ilseman)
 
 
 **Business**
@@ -28,6 +28,7 @@
 * [10 Latest Mobile App Interface Designs for Your Inspiration](https://www.mockplus.com/blog/post/mobile-app-ui-design-in-2018), by Snow via [@Mockplus](https://twitter.com/Mockplus)
 * [Optimized User Onboarding Strategies](https://medium.com/@aliceemmwalker/optimized-user-onboarding-strategies-432792be190a), by [@aliceemmwalker](https://twitter.com/aliceemmwalker)
 * [How to Create Mobile UI Animations That Meet Users’ Needs](https://yalantis.com/blog/how-to-create-mobile-ui-animations-that-meet-users-needs/), by [@yalantis](https://twitter.com/yalantis)
+* [How I Designed A Marketplace App That Got Acquired By A Billion Dollar Company](https://medium.muz.li/designing-stepni-a-marketplace-connecting-vehicle-owners-and-local-garages-43c0f4fa8d3f), by [@theupsideguy](https://twitter.com/theupsideguy)
 
 **Videos**
 
