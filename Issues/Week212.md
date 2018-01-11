@@ -24,6 +24,9 @@
 **UI/UX**
 
 * [App accelerators](http://engineering.nodesagency.com/articles/iOS/App-Accelerators/), by [@RoxanaJula](https://twitter.com/RoxanaJula)
+* [Herman Miller Case Study](https://medium.com/portfolio-of-evan-ames/herman-miller-liveos-case-study-3984a6e509b8), by [@AmesEvan](https://twitter.com/AmesEvan)
+* [10 Latest Mobile App Interface Designs for Your Inspiration](https://www.mockplus.com/blog/post/mobile-app-ui-design-in-2018), by Snow via [@Mockplus](https://twitter.com/Mockplus)
+* [Optimized User Onboarding Strategies](https://medium.com/@aliceemmwalker/optimized-user-onboarding-strategies-432792be190a), by [@aliceemmwalker](https://twitter.com/aliceemmwalker)
 
 **Videos**
 
