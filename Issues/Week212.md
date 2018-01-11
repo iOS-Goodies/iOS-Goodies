@@ -5,6 +5,7 @@
 * [Conditional Conformance in the Standard Library](https://swift.org/blog/conditional-conformance/), by [@airspeedswift/](https://twitter.com/airspeedswift/)
 * [Best iOS hacks from Twitter: December Edition](http://pxlme.me/U6F-TaYh), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 * [A Functional Interface for Imperative Code](https://www.objc.io/blog/2018/01/09/justified-flow-layout/), by [@objcio](https://twitter.com/objcio)
+* [Rethinking Design Patterns in Swift: The Command Pattern](https://khawerkhaliq.com/blog/swift-design-patterns-command-pattern/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
 
 **Tools/Controls**
 
@@ -13,6 +14,7 @@
 * [AddressGenerator](https://github.com/onmyway133/AddressGenerator), by [@onmyway133](https://twitter.com/onmyway133)
 * [Archery](https://github.com/vknabel/Archery), by [@vknabel](https://twitter.com/vknabel)
 * [State of String: ABI, Performance, Ergonomics, and You!](https://gist.github.com/milseman/bb39ef7f170641ae52c13600a512782f), by [@Ilseman](https://twitter.com/Ilseman)
+
 
 **Business**
 
