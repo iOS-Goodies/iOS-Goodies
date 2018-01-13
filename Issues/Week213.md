@@ -4,8 +4,7 @@
 
 **Tools/Controls**
 
-* 
-
+* [ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case), by [Uber](https://twitter.com/uber)
 
 **Business**
 
@@ -21,4 +20,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
+* [LisaDziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado)
