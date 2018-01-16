@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Turning Swift compile-time safety into safety for your users](https://medium.com/anysuggestion/turning-swift-compile-time-safety-into-safety-for-your-users-4e49a8a612f3), by [@olegdreyman](https://twitter.com/olegdreyman)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [OlegDreyman](https://github.com/dreymonde)
