@@ -8,7 +8,7 @@
 
 **Business**
 
-* 
+* [On being an Engineering Manager](http://codeplease.io/2018/01/15/on-being-an-engineering-manager/), by [@peres](https://twitter.com/peres)
 
 **UI/UX**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [LisaDziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa)
