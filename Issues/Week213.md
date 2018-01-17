@@ -1,6 +1,6 @@
 **Articles**
 
-* [How to supercharge Swift enum-based states with Sourcery](http://pxlme.me/gxzMYHnT), by [@DAlooG](https://twitter.com/DAlooG)
+* [How to supercharge Swift enum-based states with Sourcery](https://medium.com/flawless-app-stories/enums-and-sourcery-5da57cda473b), by [@DAlooG](https://twitter.com/DAlooG)
 
 **Tools/Controls**
 
