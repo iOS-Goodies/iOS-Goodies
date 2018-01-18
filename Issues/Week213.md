@@ -2,7 +2,6 @@
 
 * [Turning Swift compile-time safety into safety for your users](https://medium.com/anysuggestion/turning-swift-compile-time-safety-into-safety-for-your-users-4e49a8a612f3), by [@olegdreyman](https://twitter.com/olegdreyman)
 * [How to supercharge Swift enum-based states with Sourcery](https://medium.com/flawless-app-stories/enums-and-sourcery-5da57cda473b), by [@DAlooG](https://twitter.com/DAlooG)
-* [Getting paid to do Open Source](https://medium.com/hyperoslo/getting-paid-to-do-open-source-26a97a852738), by [@zenangst](https://twitter.com/zenangst) ([@hyperoslo](https://twitter.com/hyperoslo))
 * [Creating Views in Code](http://kean.github.io/post/creating_views), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Useful Optional Extensions](https://appventure.me/2018/01/10/optional-extensions/), by [@terhechte](https://twitter.com/terhechte)
 * [Reading your own entitlements](https://davedelong.com/blog/2018/01/10/reading-your-own-entitlements/), by [@davedelong](https://twitter.com/davedelong)
@@ -19,6 +18,7 @@
 **Business**
 
 * [On being an Engineering Manager](http://codeplease.io/2018/01/15/on-being-an-engineering-manager/), by [@peres](https://twitter.com/peres)
+* [Getting paid to do Open Source](https://medium.com/hyperoslo/getting-paid-to-do-open-source-26a97a852738), by [@zenangst](https://twitter.com/zenangst) ([@hyperoslo](https://twitter.com/hyperoslo))
 
 **UI/UX**
 
