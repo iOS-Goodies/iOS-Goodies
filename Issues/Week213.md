@@ -1,6 +1,7 @@
 **Articles**
 
 * [Turning Swift compile-time safety into safety for your users](https://medium.com/anysuggestion/turning-swift-compile-time-safety-into-safety-for-your-users-4e49a8a612f3), by [@olegdreyman](https://twitter.com/olegdreyman)
+* [How to supercharge Swift enum-based states with Sourcery](https://medium.com/flawless-app-stories/enums-and-sourcery-5da57cda473b), by [@DAlooG](https://twitter.com/DAlooG)
 
 **Tools/Controls**
 
