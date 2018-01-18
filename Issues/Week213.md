@@ -19,10 +19,15 @@
 
 * [On being an Engineering Manager](http://codeplease.io/2018/01/15/on-being-an-engineering-manager/), by [@peres](https://twitter.com/peres)
 * [Getting paid to do Open Source](https://medium.com/hyperoslo/getting-paid-to-do-open-source-26a97a852738), by [@zenangst](https://twitter.com/zenangst) ([@hyperoslo](https://twitter.com/hyperoslo))
+* [This is exactly how much it costs to make an app](https://blog.prototypr.io/this-is-exactly-how-much-it-costs-to-make-an-app-8a669f77a6a7), by [@howitson](https://twitter.com/howitson)
 
 **UI/UX**
 
 * [The 15 Rules Every UX Designer Should Know](https://theblog.adobe.com/15-rules-every-ux-designer-know/), by [@101babich](https://twitter.com/101babich)
+* [The State of Mobile User Experience](https://www.nngroup.com/articles/state-mobile-ux/), by [@rbudiu](https://twitter.com/rbudiu)
+* [The importance of motion for UX design
+](https://blog.prototypr.io/the-importance-of-motion-for-ux-design-7710edcdae3a), by Joost Reus
+* [Scaling Design](https://blog.prototypr.io/scaling-design-e1c87412ade1), by [@joepascavage](https://twitter.com/joepascavage)
 
 **Videos**
 
