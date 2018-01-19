@@ -9,6 +9,7 @@
 **Business**
 
 * [Learning faster as an entrepreneur](https://qotoqot.com/blog/learning-faster/), by [@ivmirx](https://twitter.com/ivmirx)
+* Adventures in App Store Funnel Optimization: [Part 1](https://www.youtube.com/watch?v=ktYHQ6Qrbdw) and [Part 2](https://www.youtube.com/watch?v=DlN-l5BUakQ), by [lewisMakesApps](https://twitter.com/lewisMakesApps)
 
 **UI/UX**
 
