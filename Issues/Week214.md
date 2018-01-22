@@ -4,6 +4,7 @@
 * [Xcode Activity Time Tracking. Results of 2017](https://medium.com/@taykalopaul/xcode-activity-time-tracking-results-of-2017-43d1cd6ffcdc), by [Paul Taykalo](https://twitter.com/TT_Kilew)
 * [MVVM — MVC done right](https://medium.com/@sunshinejr/why-mvvm-mvc-as-we-know-is-a-lie-and-why-im-fine-with-it-d8bc14be1f17), by [@sunshinejr](https://twitter.com/thesunshinejr)
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86), by [https://twitter.com/onmyway133](https://twitter.com/onmyway133)
+* [Swift Forums Now Open!](https://swift.org/blog/forums/), by Apple
 
 **Tools/Controls**
 
