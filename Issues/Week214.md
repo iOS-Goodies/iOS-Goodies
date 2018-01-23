@@ -20,6 +20,7 @@
 **UI/UX**
 
 * [What the Erroneous Hawaiian Missile Alert Can Teach Us About Error Prevention](https://www.nngroup.com/articles/error-prevention/), by Kim Flaherty
+* [No Cutting Corners on the iPhone X](https://medium.com/tall-west/no-cutting-corners-on-the-iphone-x-97a9413b94e), by [Brad Ellis](https://twitter.com/bradellis)
 
 **Videos**
 
