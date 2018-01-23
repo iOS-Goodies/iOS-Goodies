@@ -14,6 +14,7 @@
 
 * [Learning faster as an entrepreneur](https://qotoqot.com/blog/learning-faster/), by [@ivmirx](https://twitter.com/ivmirx)
 * Adventures in App Store Funnel Optimization: [Part 1](https://www.youtube.com/watch?v=ktYHQ6Qrbdw) and [Part 2](https://www.youtube.com/watch?v=DlN-l5BUakQ), by [lewisMakesApps](https://twitter.com/lewisMakesApps)
+* [Slopes Diaries #23: Featuring Numbers](https://blog.curtisherbert.com/slopes-diaries-23-featuring-numbers/), by [@parrots](https://twitter.com/parrots)
 
 **UI/UX**
 
