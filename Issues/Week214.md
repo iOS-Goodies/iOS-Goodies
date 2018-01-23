@@ -5,6 +5,7 @@
 * [MVVM — MVC done right](https://medium.com/@sunshinejr/why-mvvm-mvc-as-we-know-is-a-lie-and-why-im-fine-with-it-d8bc14be1f17), by [@sunshinejr](https://twitter.com/thesunshinejr)
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86), by [https://twitter.com/onmyway133](https://twitter.com/onmyway133)
 * [Swift Forums Now Open!](https://swift.org/blog/forums/), by Apple
+* [Top-down iOS error architecture](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad), by [@norapsi](https://twitter.com/norapsi)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [ivmirx](https://github.com/ivmirx), [pitiphong-p](https://github.com/pitiphong-p), [FranciscoAmado](https://github.com/FranciscoAmado), [sunshinejr](https://github.com/sunshinejr), [LisaDziuba](https://github.com/lisadziuba)
+* [ivmirx](https://github.com/ivmirx), [pitiphong-p](https://github.com/pitiphong-p), [FranciscoAmado](https://github.com/FranciscoAmado), [sunshinejr](https://github.com/sunshinejr), [LisaDziuba](https://github.com/lisadziuba), [polac24](https://github.com/polac24)
