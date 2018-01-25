@@ -6,6 +6,7 @@
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86), by [@onmyway133](https://twitter.com/onmyway133)
 * [Swift Forums Now Open!](https://swift.org/blog/forums/), by Apple
 * [Top-down iOS error architecture](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad), by [@norapsi](https://twitter.com/norapsi)
+* [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
