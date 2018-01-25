@@ -9,7 +9,8 @@
 
 **Tools/Controls**
 
-* 
+* [Promises](https://github.com/google/promises), by [@google](https://github.com/google)
+* [AppFolder](https://github.com/dreymonde/AppFolder), by [@dreymonde](https://github.com/dreymonde/)
 
 **Business**
 
@@ -17,6 +18,7 @@
 * Adventures in App Store Funnel Optimization: [Part 1](https://www.youtube.com/watch?v=ktYHQ6Qrbdw) and [Part 2](https://www.youtube.com/watch?v=DlN-l5BUakQ), by [lewisMakesApps](https://twitter.com/lewisMakesApps)
 * [Slopes Diaries #23: Featuring Numbers](https://blog.curtisherbert.com/slopes-diaries-23-featuring-numbers/), by [@parrots](https://twitter.com/parrots)
 * [The Ultimate Guide To Mobile In-App Purchases Optimization](https://blog.instabug.com/2018/01/mobile-in-app-purchases/), by Hady Elhady
+* [Testing In-App Purchases Ruins Your Phone](https://medium.com/revenuecat-blog/testing-in-app-purchases-ruins-your-phone-3751665ca5c1), by [@jeiting](https://twitter.com/jeiting)
 
 **UI/UX**
 
