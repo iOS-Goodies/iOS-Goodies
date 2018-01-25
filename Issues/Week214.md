@@ -1,10 +1,15 @@
+This was a very busy week in Apple news. First of all, the new [Swift forums are now open](https://swift.org/blog/forums/) and the old mailing lists were archived. Secondly, we've got the [first preview of iOS 11.3](https://www.apple.com/newsroom/2018/01/apple-previews-ios-11-3/). This also means we got the [first beta of Xcode 9.3](https://developer.apple.com/download/), which requires you update to High Sierra. Here are the [API diffs](https://developer.apple.com/documentation?changes=latest_minor). As part of this, [ARKit got to version 1.5](https://developer.apple.com/news/?id=01242018b), which brings, among others, vertical surface detection. Also, an [update to Swift Playgrounds app](https://developer.apple.com/news/?id=01242018a) is available.
+
+Last but not least, we got some fresh product news from Apple: [HomePod is launching on February 9, preorders start tomorrow](https://www.apple.com/newsroom/2018/01/homepod-arrives-february-9-available-to-order-this-friday/). For those wondering why anyone would buy a smart speaker with an AI that's arguably behind its competitors, [this article](http://www.loopinsight.com/2018/01/24/on-homepod-and-audio-quality/) claims the audio technology inside the HomePod is state-of-the-art and only seen before in speakers with 5-figure price tags. I also like [Joe Cieplinski's take on this](http://joecieplinski.com/blog/2018/01/23/on-homepod/): "In order for Apple to win, Amazon and Google don’t have to lose".
+
+Now on to the links 😄.
+
 **Articles**
 
 * [How to make a property of a UIView subclass supports for UIAppearance in Swift](https://pitiphong.me/how-to-make-a-property-of-a-uiview-subclass-supports-for-uiappearance-in-swift-f0938a183d0f), by [@pitiphong_p](https://twitter.com/pitiphong_p)
 * [Xcode Activity Time Tracking. Results of 2017](https://medium.com/@taykalopaul/xcode-activity-time-tracking-results-of-2017-43d1cd6ffcdc), by [Paul Taykalo](https://twitter.com/TT_Kilew)
 * [MVVM — MVC done right](https://medium.com/@sunshinejr/why-mvvm-mvc-as-we-know-is-a-lie-and-why-im-fine-with-it-d8bc14be1f17), by [@sunshinejr](https://twitter.com/thesunshinejr)
 * [A better way to update UICollectionView data in Swift with diff framework](https://medium.com/flawless-app-stories/a-better-way-to-update-uicollectionview-data-in-swift-with-diff-framework-924db158db86), by [@onmyway133](https://twitter.com/onmyway133)
-* [Swift Forums Now Open!](https://swift.org/blog/forums/), by Apple
 * [Top-down iOS error architecture](https://medium.com/@londeix/top-down-error-architecture-d8715a28d1ad), by [@norapsi](https://twitter.com/norapsi)
 * [Model-View-Controller without the Controller](https://www.cocoawithlove.com/blog/mvc-without-the-c.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
@@ -29,7 +34,7 @@
 
 **Videos**
 
-* 
+* [Swift’s Reflective Underpinnings](https://www.skilled.io/u/swiftsummit/swift-s-reflective-underpinnings-joe-groff), by [@jckarter](https://twitter.com/jckarter)
 
 **Credits**
 
