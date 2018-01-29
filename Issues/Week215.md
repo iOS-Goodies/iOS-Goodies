@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - Drop-in UIViewController subclass with a growing text input view, by [@_ryannystrom](https://twitter.com/_ryannystrom)
 
 **Business**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [kaler](https://github.com/kaler)
+* [kaler](https://github.com/kaler), [FranciscoAmado](https://github.com/FranciscoAmado)
