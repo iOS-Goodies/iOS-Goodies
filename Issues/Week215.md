@@ -1,10 +1,11 @@
 **Articles**
 
-* 
+*
 
 **Tools/Controls**
 
 * [MessageViewController](https://github.com/GitHawkApp/MessageViewController), by [@_ryannystrom](https://twitter.com/_ryannystrom)
+* [Maps SDK For iOS](https://developer.tomtom.com/maps-ios-sdk/download), by [@TomTom](https://developer.tomtom.com/)
 
 **Business**
 
@@ -12,7 +13,7 @@
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
