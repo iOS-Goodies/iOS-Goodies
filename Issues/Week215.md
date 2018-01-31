@@ -1,6 +1,6 @@
 **Articles**
 
-*
+* [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0), by [@olbrich_jan](https://twitter.com/olbrich_jan)
 
 **Tools/Controls**
 
