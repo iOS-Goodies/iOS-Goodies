@@ -13,7 +13,7 @@
 
 **UI/UX**
 
-*
+* [Designing beautiful mobile apps from scratch](https://medium.freecodecamp.org/designing-beautiful-mobile-apps-from-scratch-1a3441ebd604), by [@aroraharshita33](https://twitter.com/aroraharshita33)
 
 **Videos**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [kaler](https://github.com/kaler), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa)
+* [kaler](https://github.com/kaler), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
