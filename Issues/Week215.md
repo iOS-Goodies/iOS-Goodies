@@ -25,6 +25,7 @@
 **Videos**
 
 * [Self Sizing UICollectionViewCell in Swift](http://parveenkaler.com/posts/self-sizing-uicollectionviewcell-swift), by [@kaler](https://twitter.com/kaler)
+* [Server-Side Swift from Scratch](https://www.skilled.io/u/swiftsummit/server-side-swift-from-scratch), by [@mbrandonw](https://twitter.com/mbrandonw)
 
 **Credits**
 
