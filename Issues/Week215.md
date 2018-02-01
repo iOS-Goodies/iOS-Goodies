@@ -14,6 +14,7 @@
 **Business**
 
 * [Nobody’s buying anything in your app? Here’s what to do next](https://medium.com/swlh/nobodys-buying-anything-in-your-app-here-s-what-to-do-next-3ac4fb1c4ea4), by [@mr_markmcdonald](https://twitter.com/mr_markmcdonald)
+* [We Need Fewer Product Managers](https://hackernoon.com/we-need-fewer-product-managers-50e47dfd95a0), by [johncutlefish](https://twitter.com/johncutlefish)
 
 **UI/UX**
 
