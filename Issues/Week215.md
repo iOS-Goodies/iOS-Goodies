@@ -1,4 +1,6 @@
-This week we saw the launch of [Point-Free](https://www.pointfree.co/), a Swift video series on functional programming by [Brandon Williams](https://www.twitter.com/mbrandonw) and [Stephen Celis](https://www.twitter.com/stephencelis). It looks super interesting, and you can watch the first episode to decide if you want to subscribe or not. I've already added it to my watching list.
+This week we saw the launch of [Point-Free](https://www.pointfree.co/), a Swift video series on functional programming by [Brandon Williams](https://www.twitter.com/mbrandonw) and [Stephen Celis](https://www.twitter.com/stephencelis). It's looking very good, and you can watch the first episode to decide if you want to subscribe or not. I've already added it to my watching list.
+
+We have a few more iOS development / Swift articles this week, but I hope you'll enjoy reading them all 😄.
 
 **Articles**
 
@@ -37,3 +39,5 @@ This week we saw the launch of [Point-Free](https://www.pointfree.co/), a Swift 
 **Credits**
 
 * [kaler](https://github.com/kaler), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
+
+If you have feedback, reply to this email or contact us on Twitter with your suggestions.
