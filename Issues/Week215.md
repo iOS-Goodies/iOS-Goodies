@@ -27,7 +27,7 @@ We have a few more iOS development / Swift articles this week, but I hope you'll
 **UI/UX**
 
 * [Designing beautiful mobile apps from scratch](https://medium.freecodecamp.org/designing-beautiful-mobile-apps-from-scratch-1a3441ebd604), by [@aroraharshita33](https://twitter.com/aroraharshita33)
-* [Make me think! The design of complexity](https://blog.prototypr.io/make-me-think-90b46aa50513), by [@PrototyprIO](https://twitter.com/PrototyprIO)
+* [Make me think! The design of complexity](https://blog.prototypr.io/make-me-think-90b46aa50513), by [@ralphammer](https://twitter.com/ralphammer)
 * [Redesigning Moments App](https://medium.com/@aayush_jain28/redesigning-moments-app-25fd19519597), by [@aayush_jain28](https://twitter.com/aayush_jain28)
 * [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/), by [@101babich](https://twitter.com/101babich)
 
