@@ -3,6 +3,7 @@
 * [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0), by [@olbrich_jan](https://twitter.com/olbrich_jan)
 * [Binary Frameworks in Swift](https://pspdfkit.com/blog/2018/binary-frameworks-swift/), by [@steipete](https://twitter.com/steipete)
 * [Generating Swift Types with Sourcery](https://medium.com/@jonah_goodeggs/generating-swift-types-with-sourcery-65c72f9607bf), by [@Zalambar](https://twitter.com/Zalambar)
+* [A Flexible Routing Approach in an iOS App](https://medium.com/rosberryapps/the-flexible-routing-approach-in-an-ios-app-eb4b05aa7f52), by [@iOtbivnoe](https://twitter.com/iOtbivnoe)
 
 
 **Tools/Controls**
