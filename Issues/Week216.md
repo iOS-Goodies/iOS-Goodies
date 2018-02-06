@@ -12,7 +12,7 @@
 
 **UI/UX**
 
-* 
+* [Why Your App Looks Better in Sketch](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7), by [@nathangitter](https://twitter.com/nathangitter)
 
 **Videos**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [@ralfebert](https://github.com/ralfebert)
+* [@ralfebert](https://github.com/ralfebert), [rbarbosa](https://github.com/rbarbosa)
