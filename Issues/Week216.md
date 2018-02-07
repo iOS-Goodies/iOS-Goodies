@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [@ralfebert](https://github.com/ralfebert), [rbarbosa](https://github.com/rbarbosa)
+* [ralfebert](https://github.com/ralfebert), [rbarbosa](https://github.com/rbarbosa)
