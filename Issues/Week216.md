@@ -1,6 +1,7 @@
 **Articles**
 
 * [Dependency Management for iOS projects with the Swift package manager](http://www.ralfebert.de/ios-examples/xcode/ios-dependency-management-with-swift-package-manager/), by [@ralfebert](https://twitter.com/ralfebert)
+* [Parents and children problems 😅](https://ruiper.es/2018/02/06/parents-children-problems/), by [@peres](https://twitter.com/peres)
 
 **Tools/Controls**
 
