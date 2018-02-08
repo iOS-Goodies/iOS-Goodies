@@ -17,7 +17,8 @@ It started with a few app updates being rejected for not complying with the guid
 
 **Business**
 
-* 
+* [iOS Subscription Groups Explained](https://medium.com/revenuecat-blog/ios-subscription-groups-explained-8c5b8325d4ab), by [@jeiting](https://twitter.com/jeiting)
+* [App Santa 2017 Revenue Report](https://dancounsell.com/2018/02/02/app-santa-2017-revenue-report/), by [@dancounsell](https://twitter.com/dancounsell)
 
 **UI/UX**
 
