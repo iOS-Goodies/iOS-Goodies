@@ -9,6 +9,7 @@ It started with a few app updates being rejected for not complying with the guid
 * [Spectre and Meltdown fixes influence on iOS apps build time](https://medium.com/@rdovhaliuk/spectre-and-meltdown-fixes-influence-on-ios-apps-build-time-40b3f7b4bca6), by Rostyslav Dovhaliuk
 * [Open Sourcing ReactiveLists for iOS](https://medium.com/plangrid-technology/open-sourcing-reactivelists-for-ios-3abdf41b770a), by [@benjaminencz](https://twitter.com/benjaminencz)
 * [Notification Handling on WatchKit](http://martiancraft.com/blog/2018/02/notification-handling-on-watchkit/), by [@jablair](https://twitter.com/jablair)
+* [Circular References Between Swift and Objective-C](https://cjwirth.com/tech/circular-references-swift-objc), by [@cjwirth](https://twitter.com/cjwirth)
 
 **Tools/Controls**
 
