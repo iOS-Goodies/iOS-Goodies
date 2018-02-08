@@ -15,7 +15,7 @@ It started with a few app updates being rejected for not complying with the guid
 
 * [CapsuleView](https://github.com/umarF/capsuleview) - An easy to use drop-in view to create a beautiful card style effect with a title placeholder and body content, by [@umarF](https://github.com/umarF)
 * [ReactiveLists](https://github.com/plangrid/ReactiveLists) - React-like API for UITableView & UICollectionView, by [@PlanGrid](https://twitter.com/PlanGrid)
-* [fastlane.ci](https://github.com/fastlane/ci) - [WIP] Open source, self hosted, mobile optimized CI powered by fastlane, by [fastlane](https://github.com/fastlane)
+* [fastlane.ci](https://github.com/fastlane/ci) - [WIP] Open source, self hosted, mobile optimized CI powered by fastlane, by [@fastlanetools](https://twitter.com/fastlanetools)
 
 **Business**
 
