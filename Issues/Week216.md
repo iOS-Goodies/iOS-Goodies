@@ -23,6 +23,7 @@ It started with a few app updates being rejected for not complying with the guid
 * [App Santa 2017 Revenue Report](https://dancounsell.com/2018/02/02/app-santa-2017-revenue-report/), by [@dancounsell](https://twitter.com/dancounsell)
 * [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach](https://medium.com/@aldamiz/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7), by [@aldamiz](https://twitter.com/aldamiz)
 * [Outlasting](https://m.signalvnoise.com/outlasting-4dff3fb6aca7), by [@jasonfried](https://twitter.com/jasonfried)
+* [Numbers](http://beckyhansmeyer.com/2018/02/03/numbers/), by [@bhansmeyer](http://twitter.com/bhansmeyer)
 
 **UI/UX**
 
