@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Stealing](http://khanlou.com/2018/02/stealing/), by [@khanlou](https://twitter.com/khanlou)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* 
+* [rbarbosa](https://github.com/rbarbosa)
