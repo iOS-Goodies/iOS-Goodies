@@ -1,3 +1,7 @@
+I wasn't expecting to start an issue of iOS Goodies talking about emojis 🤷‍♂️, but what seemed to be a weird change in Apple's App Store review guidelines was one of the biggest news of the week (not considering here Falcon Heavy's [successful test flight](https://www.youtube.com/watch?v=wbSwFU6tY1c) or launching a [Tesla into space](https://www.instagram.com/p/Be6VZEzgAEk/)). 
+
+It started with a few app updates being rejected for not complying with the guidelines for using Apple's Trademarks and Copyrights. [Jeremy Burge](https://twitter.com/jeremyburge) wrote a comprehensive article about the situation on [Emojipedia](https://blog.emojipedia.org/apples-emoji-crackdown/). It seemed that using emojis in an app is ok only if it's typed by the user. However, one of the apps that got rejected [was approved](https://twitter.com/Sam0711er/status/961312320537415681) yesterday, emojis included. So now we're back at being confused 😅. A bit more consistency and clearer communication wouldn't hurt from Apple's app review team. 
+
 **Articles**
 
 * [Dependency Management for iOS projects with the Swift package manager](http://www.ralfebert.de/ios-examples/xcode/ios-dependency-management-with-swift-package-manager/), by [@ralfebert](https://twitter.com/ralfebert)
@@ -7,8 +11,9 @@
 
 **Tools/Controls**
 
-* [CapsuleView](https://github.com/umarF/capsuleview), by [@umarF](https://github.com/umarF)
-* [ReactiveLists - React-like API for UITableView & UICollectionView](https://github.com/plangrid/ReactiveLists), by [@PlanGrid](https://twitter.com/PlanGrid)
+* [CapsuleView](https://github.com/umarF/capsuleview) - An easy to use drop-in view to create a beautiful card style effect with a title placeholder and body content, by [@umarF](https://github.com/umarF)
+* [ReactiveLists](https://github.com/plangrid/ReactiveLists) - React-like API for UITableView & UICollectionView, by [@PlanGrid](https://twitter.com/PlanGrid)
+* [fastlane.ci](https://github.com/fastlane/ci) - [WIP] Open source, self hosted, mobile optimized CI powered by fastlane, by [fastlane](https://github.com/fastlane)
 
 **Business**
 
