@@ -27,6 +27,7 @@ It started with a few app updates being rejected for not complying with the guid
 **UI/UX**
 
 * [Why Your App Looks Better in Sketch](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7), by [@nathangitter](https://twitter.com/nathangitter)
+* [The 4 Golden Rules of UI Design](https://theblog.adobe.com/4-golden-rules-ui-design/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
