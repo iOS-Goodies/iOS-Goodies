@@ -8,6 +8,7 @@ It started with a few app updates being rejected for not complying with the guid
 * [Parents and children problems 😅](https://ruiper.es/2018/02/06/parents-children-problems/), by [@peres](https://twitter.com/peres)
 * [Spectre and Meltdown fixes influence on iOS apps build time](https://medium.com/@rdovhaliuk/spectre-and-meltdown-fixes-influence-on-ios-apps-build-time-40b3f7b4bca6), by Rostyslav Dovhaliuk
 * [Open Sourcing ReactiveLists for iOS](https://medium.com/plangrid-technology/open-sourcing-reactivelists-for-ios-3abdf41b770a), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [Notification Handling on WatchKit](http://martiancraft.com/blog/2018/02/notification-handling-on-watchkit/), by [@jablair](https://twitter.com/jablair)
 
 **Tools/Controls**
 
