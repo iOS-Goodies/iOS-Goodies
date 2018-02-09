@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Tuxedo](https://github.com/tevelee/Tuxedo) - Swift template engine by [@tevelee](https://twitter.com/tevelee)
 
 **Business**
 
@@ -21,3 +21,4 @@
 **Credits**
 
 * [rbarbosa](https://github.com/rbarbosa)
+* [tevelee](https://github.com/tevelee)
