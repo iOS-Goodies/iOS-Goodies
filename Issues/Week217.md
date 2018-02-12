@@ -12,7 +12,7 @@
 
 **Business**
 
-* 
+* [Let’s talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/), by James Bennett
 
 **UI/UX**
 
