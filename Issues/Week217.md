@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [tevelee](https://github.com/tevelee)
+* [rbarbosa](https://github.com/rbarbosa), [tevelee](https://github.com/tevelee), [LisaDziuba](https://github.com/lisadziuba)
