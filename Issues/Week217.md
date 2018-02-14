@@ -5,6 +5,7 @@
 * [Leaky abstractions in Swift with DispatchQueue](http://tom.lokhorst.eu/2018/02/leaky-abstractions-in-swift-with-dispatchqueue), by [@tomlokhorst](https://twitter.com/tomlokhorst)
 * [Code Size Optimization Mode in Swift 4.1](https://swift.org/blog/osize/), by Erik Eckstein
 * [Swift Protocols Wishlist](https://davedelong.com/blog/2018/02/08/swift-protocols-wishlist/), by [@davedelong](https://twitter.com/davedelong)
+* [Leveraging Machine Learning in iOS For Improved Accessibility](https://overflow.buffer.com/2018/02/13/leveraging-machine-learning-ios-improved-accessibility/), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [tevelee](https://github.com/tevelee), [LisaDziuba](https://github.com/lisadziuba)
+* [rbarbosa](https://github.com/rbarbosa), [tevelee](https://github.com/tevelee), [LisaDziuba](https://github.com/lisadziuba), [FranciscoAmado](https://github.com/FranciscoAmado)
