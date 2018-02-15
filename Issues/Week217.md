@@ -1,3 +1,5 @@
+Happy Thursday! We've got some great links for you this week, and also a small change, or at least a change proposal. Every now and then, we've had some great articles on career development. We usually had those in the **Business** section, although I admit they were not necessarily what some would expect to find in the Business section. We're trying to decide if there should be another section for this type of articles, or if we should broaden the **Business** section to officially include them too, like we're testing in the current issue. If you have any opinion or feedback on this, [please comment  here](https://github.com/iOS-Goodies/iOS-Goodies/issues/1126). And remember you can read all the links proposed for today on [the GitHub issue](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week217.md).
+
 **Articles**
 
 * [Stealing](http://khanlou.com/2018/02/stealing/), by [@khanlou](https://twitter.com/khanlou)
@@ -16,7 +18,7 @@
 * [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet), by [@danielsaidi](https://twitter.com/danielsaidi)
 * [Tags](https://github.com/pikachu987/Tags), by [@pikachu987](https://github.com/pikachu987)
 
-**Business**
+**Business / Career development**
 
 * [Let’s talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/), by James Bennett
 * [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c), by [@melissamcewen](https://twitter.com/melissamcewen)
