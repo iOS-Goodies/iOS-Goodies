@@ -8,6 +8,7 @@
 * [Leveraging Machine Learning in iOS For Improved Accessibility](https://overflow.buffer.com/2018/02/13/leveraging-machine-learning-ios-improved-accessibility/), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
 * [Expanding the Swift Knowledge Base](https://www.hackingwithswift.com/articles/54/expanding-the-swift-knowledge-base), by [@twostraws](https://twitter.com/twostraws)
 * [How to run your application in Swift playground](http://swiftyjimmy.com/run-application-swift-playground/), by [@jussisuojanen](https://twitter.com/jussisuojanen)
+* [Playground Graphs](http://indiestack.com/2018/02/playground-graphs/), by [@danielpunkass](https://twitter.com/danielpunkass)
 
 **Tools/Controls**
 
