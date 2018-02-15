@@ -6,6 +6,7 @@
 * [Code Size Optimization Mode in Swift 4.1](https://swift.org/blog/osize/), by Erik Eckstein
 * [Swift Protocols Wishlist](https://davedelong.com/blog/2018/02/08/swift-protocols-wishlist/), by [@davedelong](https://twitter.com/davedelong)
 * [Leveraging Machine Learning in iOS For Improved Accessibility](https://overflow.buffer.com/2018/02/13/leveraging-machine-learning-ios-improved-accessibility/), by [@JordanMorgan10](https://twitter.com/JordanMorgan10)
+* [Expanding the Swift Knowledge Base](https://www.hackingwithswift.com/articles/54/expanding-the-swift-knowledge-base), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
@@ -17,7 +18,9 @@
 
 **UI/UX**
 
-* 
+* [30 great UI Kits for iOS engineers](https://medium.com/flawless-app-stories/30-great-ui-kits-for-ios-engineers-41b2732896b9), by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [Best Practices for Mobile App Navigation: The Basics](https://uxplanet.org/best-practices-for-mobile-app-navigation-the-basics-17938debfa88), by UX Planet
+* [Scarcity in UX: The psychological bias that became the norm](https://uxdesign.cc/scarcity-in-ux-the-psychological-bias-that-became-the-norm-3e666b749a9a), by [@davidteodorescu](https://twitter.com/davidteodorescu)
 
 **Videos**
 
