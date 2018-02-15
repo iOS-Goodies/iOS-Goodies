@@ -28,10 +28,10 @@ As a general rule, please do not submit your link again if it was not selected t
 ## Categories
 
  * **Articles** - Generally speaking these are technical articles. They should expose the reader to code, but it's not mandatory.
+ * **Tools**- Links to tools or libraries related to iOS development. Could range from tools like Sketch (because in one way or another is used while developing iOS apps) to [fastlane](https://github.com/KrauseFx/fastlane), passing by Trending Github repos (Objective-c, Swift, Objective-c++, etc).
  * **Business** - These articles should help the typical developer to understand how business is conducted. This could be related to the App store ecosystem, or how-to run your business as an indie dev, App marketing, etc. It can also be related about your experience while working at some company, what you liked, and what you didn't like. 
- * **Tools/Libraries**- Links to tools or libraries related to iOS development. Could range from tools like Sketch (because in one way or another is used while developing iOS apps) to [fastlane](https://github.com/KrauseFx/fastlane), passing by Trending Github repos (Objective-c, Swift, Objective-c++, etc).
  * **UI/UX** - Should mainly focus on UI and UX but in an Mobile context, user flows, [maybe describing a new pattern](https://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users). It could be acceptable to use an article that, although uses Android as the example, is applicable in iOS. Some articles for Web, can also be interesting to an iOS dev. 
- * **Videos & Slides** - Self explanatory
+ * **Videos** - Self explanatory
  * **Indie Apps** - Since it's quite difficult (or expensive) for the typical Indie dev to market his/her app, we reserve this section for those awesome people.
  * **Credits** - Comma separated list of contributors to the current issue. If you make a pull request, add yourself here like this: ``[your GitHub username](your GitHub link)``
  
