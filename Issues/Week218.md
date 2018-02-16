@@ -4,6 +4,7 @@
 
 * [Functional Refactoring in Swift](https://benscheirman.com/2018/02/functional-refactoring-in-swift/), by [@subdigital](https://twitter.com/subdigital)
 * [Trusting third party SDKs](https://krausefx.com/blog/trusting-sdks), by [@KrauseFx](https://twitter.com/KrauseFx)
+* [Dynamic UITableView header view height using Auto Layout](http://www.codeido.com/2018/02/dynamic-uitableview-header-view-height-using-auto-layout/), by [@pmusolino](https://twitter.com/pmusolino)
 
 **Tools/Controls**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* 
+* [Codeido](https://github.com/Codeido)
