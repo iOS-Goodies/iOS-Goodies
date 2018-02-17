@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Customer journey mapping: The path to loyalty](https://www.thinkwithgoogle.com/marketing-resources/experience-design/customer-journey-mapping/), by Stuart Hogg.
 
 **Videos**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido)
+* [Codeido](https://github.com/Codeido), [LisaDziuba](https://github.com/lisadziuba)
