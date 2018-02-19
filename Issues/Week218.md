@@ -11,7 +11,8 @@
 
 **Tools/Controls**
 
-* 
+* [YPImagePicker](https://github.com/Yummypets/YPImagePicker), by [@Yummypets](https://github.com/Yummypets)
+* [TensorSwift](https://github.com/qoncept/TensorSwift), by [@qoncept](https://github.com/qoncept)
 
 **Business / Career development**
 
