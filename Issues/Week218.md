@@ -7,6 +7,7 @@
 * [Dynamic UITableView header view height using Auto Layout](http://www.codeido.com/2018/02/dynamic-uitableview-header-view-height-using-auto-layout/), by [@pmusolino](https://twitter.com/pmusolino)
 * [What's New In Vapor 3](https://geeks.brokenhands.io/blog/posts/whats-new-in-vapor-3), by [@0xTim](https://twitter.com/0xTim)
 * [Build tabs-based UI using Coordinators](http://aplus.rs/2018/tabbarcontroller-using-coordinators/), by [@radiantav](https://twitter.com/radiantav)
+* [Ninety-Nine Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems/), by [@eneko](https://twitter.com/eneko)
 
 **Tools/Controls**
 
