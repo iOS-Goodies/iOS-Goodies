@@ -19,7 +19,7 @@
 
 **Business / Career development**
 
-* 
+* [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **UI/UX**
 
