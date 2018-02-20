@@ -9,6 +9,7 @@
 * [Build tabs-based UI using Coordinators](http://aplus.rs/2018/tabbarcontroller-using-coordinators/), by [@radiantav](https://twitter.com/radiantav)
 * [Ninety-Nine Swift Problems](http://www.enekoalonso.com/projects/99-swift-problems/), by [@eneko](https://twitter.com/eneko)
 * [How to set up a Vapor 3 project](https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e), by [@MartinLasek](https://twitter.com/MartinLasek)
+* [A better NSManagedObjectContext​.performAndWait](https://oleb.net/blog/2018/02/performandwait/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
