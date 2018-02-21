@@ -11,6 +11,7 @@
 * [How to set up a Vapor 3 project](https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e), by [@MartinLasek](https://twitter.com/MartinLasek)
 * [A better NSManagedObjectContext​.performAndWait](https://oleb.net/blog/2018/02/performandwait/), by [@olebegemann](https://twitter.com/olebegemann)
 * [How to use Dynamic Member Lookup in Swift](https://www.hackingwithswift.com/articles/55/how-to-use-dynamic-member-lookup-in-swift), by [@twostraws](https://twitter.com/twostraws)
+* [Handling Enormous Collection Types in Swift](https://www.netguru.co/codestories/handling-enormous-collection-types-in-swift), by Piotr Sochalewski
 
 **Tools/Controls**
 
@@ -19,7 +20,7 @@
 
 **Business / Career development**
 
-* 
+* [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
 **UI/UX**
 
