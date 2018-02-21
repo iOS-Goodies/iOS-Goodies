@@ -17,6 +17,7 @@
 
 * [YPImagePicker](https://github.com/Yummypets/YPImagePicker), by [@Yummypets](https://github.com/Yummypets)
 * [TensorSwift](https://github.com/qoncept/TensorSwift), by [@qoncept](https://github.com/qoncept)
+* [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL), by [@ealeksandrov](https://twitter.com/ealeksandrov)
 
 **Business / Career development**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
+* [Codeido](https://github.com/Codeido), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [ealeksandrov](https://github.com/ealeksandrov)
