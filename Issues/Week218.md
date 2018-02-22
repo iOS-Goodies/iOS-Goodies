@@ -35,7 +35,7 @@ Something I'd like to highlight this week is [Felix Krause](https://twitter.com/
 
 **Videos**
 
-* 
+* [dotSwift 2018 videos](https://www.dotconferences.com/conference/dotswift-2018)
 
 **Credits**
 
