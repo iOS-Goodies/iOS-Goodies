@@ -1,9 +1,12 @@
-* "Starting April 2018, all new iOS apps submitted to the App Store must be built with the iOS 11 SDK" - [https://developer.apple.com/ios/submit/](https://developer.apple.com/ios/submit/) - to be expanded (Marius)
+Last week (right after we sent out iOS Goodies 😅) Apple announced that starting with April 2018, [all new iOS apps submitted to the App Store must be built with the iOS 11 SDK](https://developer.apple.com/ios/submit/). So make sure to update your Xcode to the latest version :).
+
+In other news, [Swift will participate in the Google Summer of Code program](https://twitter.com/tkremenek/status/966071276543492096). As someone who started doing iOS more seriously during GSoC 2013, I was extremely happy to hear that :). Developing a programming language in the open and encouraging students to contribute to it is something I really like about the "new" Apple and something I wouldn't have thought possible a few years ago.
+
+Something I'd like to highlight this week is [Felix Krause](https://twitter.com/KrauseFx)'s work on security in iOS. His most recent article in this series, [Trusting third party SDKs](https://krausefx.com/blog/trusting-sdks) shows how important it is to be careful when adding third party SDKs to your app.
 
 **Articles**
 
 * [Functional Refactoring in Swift](https://benscheirman.com/2018/02/functional-refactoring-in-swift/), by [@subdigital](https://twitter.com/subdigital)
-* [Trusting third party SDKs](https://krausefx.com/blog/trusting-sdks), by [@KrauseFx](https://twitter.com/KrauseFx)
 * [Dynamic UITableView header view height using Auto Layout](http://www.codeido.com/2018/02/dynamic-uitableview-header-view-height-using-auto-layout/), by [@pmusolino](https://twitter.com/pmusolino)
 * [What's New In Vapor 3](https://geeks.brokenhands.io/blog/posts/whats-new-in-vapor-3), by [@0xTim](https://twitter.com/0xTim)
 * [Build tabs-based UI using Coordinators](http://aplus.rs/2018/tabbarcontroller-using-coordinators/), by [@radiantav](https://twitter.com/radiantav)
@@ -24,6 +27,7 @@
 **Business/Career**
 
 * [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/), by [@benjaminencz](https://twitter.com/benjaminencz)
+* [The Heart of Being an Engineer](https://medium.com/blacklane-engineering/the-heart-of-being-an-engineer-b97a1039acfb), by Joseph Crick
 
 **UI/UX**
 
