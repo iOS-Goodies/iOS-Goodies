@@ -35,4 +35,4 @@
 
 **Credits**
 
-* [Codeido](https://github.com/Codeido), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [ealeksandrov](https://github.com/ealeksandrov), [@MaksimKurpa](https://github.com/MaksimKurpa/)
+* [Codeido](https://github.com/Codeido), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa), [ealeksandrov](https://github.com/ealeksandrov), [MaksimKurpa](https://github.com/MaksimKurpa/)
