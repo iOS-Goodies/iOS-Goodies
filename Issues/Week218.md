@@ -21,7 +21,7 @@
 * [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL), by [@ealeksandrov](https://twitter.com/ealeksandrov)
 * [Linker](https://github.com/MaksimKurpa/Linker), by [@maksim_kurpa](https://twitter.com/maksim_kurpa)
 
-**Business / Career development**
+**Business/Career**
 
 * [Flavors of Engineering Management](http://blog.benjamin-encz.de/post/flavors-of-engineering-management/), by [@benjaminencz](https://twitter.com/benjaminencz)
 
