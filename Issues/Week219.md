@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Repeat](https://github.com/malcommac/Repeat), by [@danielemargutti](https://twitter.com/danielemargutti)
 
 **Business/Career**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [pmusolino](https://twitter.com/pmusolino), [LisaDziuba](https://github.com/LisaDziuba)
