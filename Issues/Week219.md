@@ -4,6 +4,7 @@
 
 **Tools/Controls**
 
+* [ResumableAssert](https://github.com/google/resumable-assert), by [@google](https://github.com/google)
 * [Repeat](https://github.com/malcommac/Repeat), by [@danielemargutti](https://twitter.com/danielemargutti)
 
 **Business/Career**
@@ -20,4 +21,4 @@
 
 **Credits**
 
-* [pmusolino](https://twitter.com/pmusolino), [LisaDziuba](https://github.com/LisaDziuba)
+* [pmusolino](https://twitter.com/pmusolino), [LisaDziuba](https://github.com/LisaDziuba), [shoumikhin](https://github.com/shoumikhin)
