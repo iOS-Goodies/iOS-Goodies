@@ -16,6 +16,7 @@
 **UI/UX**
 
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886), by [@refactoringui](https://twitter.com/refactoringui)
+* [Wireframing 101](https://uxplanet.org/wireframing-101-5b7c25f4c623), by Moses Kim
 
 **Videos**
 
