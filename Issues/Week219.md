@@ -11,7 +11,7 @@
 
 **Business/Career**
 
-* 
+* [iOS Introductory Prices](https://medium.com/revenuecat-blog/ios-introductory-prices-f1efb4f1a6a2), by [@jeiting](https://twitter.com/jeiting)
 
 **UI/UX**
 
