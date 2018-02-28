@@ -8,6 +8,7 @@
 * [Repeat](https://github.com/malcommac/Repeat), by [@danielemargutti](https://twitter.com/danielemargutti)
 * [Zepcode](https://github.com/artemnovichkov/zepcode), by [@iosartem](http://twitter.com/iosartem) and [@pavelbaybara](https://twitter.com/pavelbaybara)
 * [FreeformJSON](https://github.com/fabiorodella/FreeformJSON), by Fabio Rodella
+* [tempura-swift](https://github.com/BendingSpoons/tempura-swift), by [@BendingSpoons](https://github.com/BendingSpoons)
 
 **Business/Career**
 
