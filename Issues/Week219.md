@@ -5,6 +5,10 @@ Keep up the good work and the openness, Apple 👍! The community really appreci
 **Articles**
 
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252), by [@dido_aint](https://twitter.com/dido_aint)
+* [Xcode’s Secret Performance Tests](http://indiestack.com/2018/02/xcodes-secret-performance-tests/), by [@danielpunkass](https://twitter.com/danielpunkass)
+* [Understanding, preventing and handling errors in Swift](https://khawerkhaliq.com/blog/swift-error-handling/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
+* [Code encapsulation in Swift](https://www.swiftbysundell.com/posts/code-encapsulation-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Handling Storyboard Merge Conflicts](http://martiancraft.com/blog/2018/02/handling-storyboard-merge-conflicts/), by [@jwkeeley](https://twitter.com/jwkeeley)
 
 **Tools/Controls**
 
