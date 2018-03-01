@@ -9,10 +9,12 @@
 * [Zepcode](https://github.com/artemnovichkov/zepcode), by [@iosartem](http://twitter.com/iosartem) and [@pavelbaybara](https://twitter.com/pavelbaybara)
 * [FreeformJSON](https://github.com/fabiorodella/FreeformJSON), by Fabio Rodella
 * [tempura-swift](https://github.com/BendingSpoons/tempura-swift), by [@BendingSpoons](https://github.com/BendingSpoons)
+* [swift-nio](https://github.com/apple/swift-nio), by [@apple](https://github.com/apple)
 
 **Business/Career**
 
 * [iOS Introductory Prices](https://medium.com/revenuecat-blog/ios-introductory-prices-f1efb4f1a6a2), by [@jeiting](https://twitter.com/jeiting)
+* [](https://open.buffer.com/state-remote-work-2018/), by [@hailleymari](https://twitter.com/hailleymari)
 
 **UI/UX**
 
