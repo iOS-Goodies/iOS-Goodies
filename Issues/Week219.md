@@ -27,6 +27,7 @@ Keep up the good work and the openness, Apple 👍! The community really appreci
 
 * [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886), by [@refactoringui](https://twitter.com/refactoringui)
 * [Wireframing 101](https://uxplanet.org/wireframing-101-5b7c25f4c623), by Moses Kim
+* [An Ode to Experimental Design](https://m.signalvnoise.com/an-ode-to-experimental-design-e423543cadab), by [@jonasdowney](https://twitter.com/jonasdowney)
 
 **Videos**
 
