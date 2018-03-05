@@ -2,6 +2,7 @@
 
 * [First-Class Swift API for Objective-C Frameworks](https://pspdfkit.com/blog/2018/first-class-swift-api-for-objective-c-frameworks/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [RAS S2E1](https://ruiper.es/2018/03/03/ras-s2e1/), by [@peres](https://twitter.com/peres)
+* [#50 Synchronous Unit Tests](https://swifting.io/blog/2018/03/03/50-synchronous-unit-tests/), by [@paciej00](https://twitter.com/paciej00)
 
 **Tools/Controls**
 
