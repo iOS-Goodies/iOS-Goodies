@@ -1,6 +1,7 @@
 **Articles**
 
-* 
+* [First-Class Swift API for Objective-C Frameworks](https://pspdfkit.com/blog/2018/first-class-swift-api-for-objective-c-frameworks/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [RAS S2E1](https://ruiper.es/2018/03/03/ras-s2e1/), by [@peres](https://twitter.com/peres)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [dreymonde](https://github.com/dreymonde)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [dreymonde](https://github.com/dreymonde), [rbarbosa](https://github.com/rbarbosa)
