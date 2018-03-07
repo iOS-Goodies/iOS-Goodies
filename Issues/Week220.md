@@ -6,6 +6,7 @@
 * [How I discovered Instagram's upcoming video calling feature on iOS](https://medium.com/@guilhermerambo/how-i-discovered-instagrams-upcoming-video-calling-feature-on-ios-934d7085da57), by [@_inside](https://twitter.com/_inside)
 * [Apple Networking Feedback](https://davedelong.com/blog/2018/03/02/apple-networking-feedback/), by [@davedelong](https://twitter.com/davedelong)
 * [Testable Interface Design With Enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/), by [@kandelvijaya](https://twitter.com/kandelvijaya)
+* [NSBundle.current](http://bou.io/NSBundle.current), by [@_nb](https://twitter.com/_nb)
 
 **Tools/Controls**
 
