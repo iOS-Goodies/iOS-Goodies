@@ -11,7 +11,7 @@
 
 * [MoreCodable](https://github.com/tattn/MoreCodable) - MoreCodable expands the possibilities of `Codable`, by [@tanakasan2525](https://twitter.com/tanakasan2525)
 * [swift-xcode](https://github.com/SwiftXcode/swift-xcode) - painlessly use SwiftPM with iOS projects, by [helje5](https://twitter.com/helje5)
-* [Flow](https://github.com/zenangst/Flow) - A framework that is meant to make your life easier when working with collection view flow layouts, by [@zenangst](https://twitter.com/zenangst)
+* [Blueprints](https://github.com/zenangst/Blueprints) - A framework that is meant to make your life easier when working with collection view flow layouts, by [@zenangst](https://twitter.com/zenangst)
 
 **Business/Career**
 
