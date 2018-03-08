@@ -1,3 +1,7 @@
+Today is International Women's Day, some countries also celebrate March as Women's History Month, so if we haven't done it until now, it's the perfect time to think about inclusion in our industry. And not only about women in tech, but about all the under-represented categories. And yes, no one is able to fix the diversity problem in tech on their own. But each of us can do something to make it better around them. Think about the company you work in, and try to find ways to make everyone feel more welcome working there 😊. 
+
+[Paul Hudson](https://twitter.com/twostraws) is doing an amazing job at this, [offering to have 1-on-1s with any member of an under-represented category in our community](https://twitter.com/twostraws/status/968922266833686528). Moreover, today he's [giving away free copies of his books](https://twitter.com/twostraws/status/971662471164583936) to groups that help girls and women learn to code. Hats off to Paul.
+
 **Articles**
 
 * [First-Class Swift API for Objective-C Frameworks](https://pspdfkit.com/blog/2018/first-class-swift-api-for-objective-c-frameworks/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
@@ -27,7 +31,7 @@
 
 **Videos**
 
-* 
+* [Incrementally Open Sourcing Your App](https://www.skilled.io/u/swiftsummit/incrementally-open-sourcing-your-app), by [@anat_gilboa](https://twitter.com/anat_gilboa)
 
 **Credits**
 
