@@ -7,6 +7,7 @@
 * [Apple Networking Feedback](https://davedelong.com/blog/2018/03/02/apple-networking-feedback/), by [@davedelong](https://twitter.com/davedelong)
 * [Testable Interface Design With Enums](https://kandelvijaya.com/2018/03/03/testableinterfacedesignwithenums/), by [@kandelvijaya](https://twitter.com/kandelvijaya)
 * [NSBundle.current](http://bou.io/NSBundle.current), by [@_nb](https://twitter.com/_nb)
+* [Solving a Mysterious Heap Corruption Crash](https://topologyeyewear.github.io/engineering-blog/2018/03/07/heap_corruption/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
 
 **Tools/Controls**
 
