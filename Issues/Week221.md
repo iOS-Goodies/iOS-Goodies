@@ -4,6 +4,7 @@
 
 **Tools/Controls**
 
+* [Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources ✨, by [@rechsteiner](http://twitter.com/rechsteiner)
 * [Drafter](https://github.com/L-Zephyr/Drafter) - Generate call graph in iOS project, by [LZephyr](https://github.com/L-Zephyr)
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon, by [@sindresorhus](https://twitter.com/sindresorhus)
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - 360° flyover on an MKMapView 🚁, by [@SvenTiigi](https://twitter.com/SvenTiigi)
