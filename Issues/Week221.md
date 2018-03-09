@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Diving into Vapor, Part 1: Up and Running with Vapor 3](https://medium.com/@caleb.kleveter/diving-into-vapor-part-1-up-and-running-with-vapor-3-edab3c79aab9), by [@caleb_kleveter](https://twitter.com/caleb_kleveter)
 
 **Tools/Controls**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido)
