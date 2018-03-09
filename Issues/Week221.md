@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://twitter.com/pmusolino)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido)
