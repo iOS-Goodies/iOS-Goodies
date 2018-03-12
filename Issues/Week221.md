@@ -11,6 +11,7 @@
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - 360° flyover on an MKMapView 🚁, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 * [EasyImagy](https://github.com/koher/EasyImagy) - Makes it easy to process images in Swift, by [@koher](https://github.com/koher)
 * [RxTheme](https://github.com/wddwycc/RxTheme) - Theme management based on Rx, by [@wddwycc](https://twitter.com/wddwycc)
+* [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - Context menu inspired by Things 3, by [@_ryannystrom](https://twitter.com/_ryannystrom)
 * [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks, by [@olegdreyman](https://twitter.com/olegdreyman)
 
 **Business/Career**
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido), [dreymonde](https://github.com/dreymonde)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido), [FranciscoAmado](https://github.com/FranciscoAmado), [dreymonde](https://github.com/dreymonde)
