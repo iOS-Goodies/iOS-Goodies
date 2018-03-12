@@ -2,6 +2,7 @@
 
 * [Diving into Vapor, Part 1: Up and Running with Vapor 3](https://medium.com/@caleb.kleveter/diving-into-vapor-part-1-up-and-running-with-vapor-3-edab3c79aab9), by [@caleb_kleveter](https://twitter.com/caleb_kleveter)
 * [Do you often forget \[weak self\]? Here’s the solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6), by [@olegdreyman](https://twitter.com/olegdreyman) 
+* [The template for View Controller unit testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/), by [@albertodebo](https://twitter.com/albertodebo) 
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido), [FranciscoAmado](https://github.com/FranciscoAmado), [dreymonde](https://github.com/dreymonde)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido), [FranciscoAmado](https://github.com/FranciscoAmado), [dreymonde](https://github.com/dreymonde), [albertodebortoli](https://github.com/albertodebortoli)
