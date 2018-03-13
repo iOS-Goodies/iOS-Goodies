@@ -4,6 +4,7 @@
 * [Do you often forget \[weak self\]? Here’s the solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6), by [@olegdreyman](https://twitter.com/olegdreyman) 
 * [Extensible Analytics Library Design With Tagless Final Concept](https://kandelvijaya.com/2018/03/11/extensibleanalyticslibrarydesign/), by [@kandelvijaya](https://twitter.com/kandelvijaya)
 * [The template for View Controller unit testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/), by [@albertodebo](https://twitter.com/albertodebo) 
+* [Debugging Auto Layout feedback loops](https://www.hackingwithswift.com/articles/59/debugging-auto-layout-feedback-loops), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido), [FranciscoAmado](https://github.com/FranciscoAmado), [dreymonde](https://github.com/dreymonde), [rbarbosa](https://github.com/rbarbosa), [albertodebortoli](https://github.com/albertodebortoli)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/Codeido), [FranciscoAmado](https://github.com/FranciscoAmado), [dreymonde](https://github.com/dreymonde), [rbarbosa](https://github.com/rbarbosa), [albertodebortoli](https://github.com/albertodebortoli), [LisaDziuba](https://github.com/LisaDziuba)
