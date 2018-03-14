@@ -22,7 +22,7 @@
 
 **UI/UX**
 
-* 
+* [Designing Jank-Free Apps](https://medium.com/@nathangitter/designing-jank-free-apps-9f66d43b9c87), by [@nathangitter](https://twitter.com/nathangitter)
 
 **Videos**
 
