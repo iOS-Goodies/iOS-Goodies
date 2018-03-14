@@ -6,6 +6,7 @@
 * [The template for View Controller unit testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/), by [@albertodebo](https://twitter.com/albertodebo) 
 * [Debugging Auto Layout feedback loops](https://www.hackingwithswift.com/articles/59/debugging-auto-layout-feedback-loops), by [@twostraws](https://twitter.com/twostraws)
 * [Size, Stride, Alignment](https://swiftunboxed.com/internals/size-stride-alignment/), by [@gregheo](https://twitter.com/gregheo)
+* [Better Strategies Through Types](http://www.figure.ink/blog/2018/3/11/better-strategies-through-types), by [@jemmons](https://twitter.com/jemmons)
 
 **Tools/Controls**
 
