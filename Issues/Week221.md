@@ -1,3 +1,5 @@
+* [WWDC18 Registration Now Open](https://developer.apple.com/news/?id=03132018a)
+
 **Articles**
 
 * [Diving into Vapor, Part 1: Up and Running with Vapor 3](https://medium.com/@caleb.kleveter/diving-into-vapor-part-1-up-and-running-with-vapor-3-edab3c79aab9), by [@caleb_kleveter](https://twitter.com/caleb_kleveter)
@@ -7,13 +9,13 @@
 * [Debugging Auto Layout feedback loops](https://www.hackingwithswift.com/articles/59/debugging-auto-layout-feedback-loops), by [@twostraws](https://twitter.com/twostraws)
 * [Size, Stride, Alignment](https://swiftunboxed.com/internals/size-stride-alignment/), by [@gregheo](https://twitter.com/gregheo)
 * [Better Strategies Through Types](http://www.figure.ink/blog/2018/3/11/better-strategies-through-types), by [@jemmons](https://twitter.com/jemmons)
-* [WWDC18 Registration Now Open](https://developer.apple.com/news/?id=03132018a)
+* [Immutable Model Mutability](https://blog.githawk.com/2018/03/08/Immutable-Model-Mutability.html), by [@_ryannystrom](https://twitter.com/_ryannystrom)
+* [UICollectionView All the Things!](https://pspdfkit.com/blog/2018/uicollectionview-all-the-things/), by [@_mochs](https://twitter.com/_mochs)
 
 **Tools/Controls**
 
 * [Parchment](https://github.com/rechsteiner/Parchment) - A paging view controller with a highly customizable menu. Built on UICollectionView, with support for custom layouts and infinite data sources ✨, by [@rechsteiner](http://twitter.com/rechsteiner)
 * [Drafter](https://github.com/L-Zephyr/Drafter) - Generate call graph in iOS project, by [LZephyr](https://github.com/L-Zephyr)
-* [DockProgress](https://github.com/sindresorhus/DockProgress) - Show progress in your app's Dock icon, by [@sindresorhus](https://twitter.com/sindresorhus)
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) - 360° flyover on an MKMapView 🚁, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 * [EasyImagy](https://github.com/koher/EasyImagy) - Makes it easy to process images in Swift, by [@koher](https://github.com/koher)
 * [RxTheme](https://github.com/wddwycc/RxTheme) - Theme management based on Rx, by [@wddwycc](https://twitter.com/wddwycc)
@@ -22,11 +24,15 @@
 
 **Business/Career**
 
-* 
+* [How to run your first meeting as a new manager](https://m.signalvnoise.com/how-to-run-your-first-meeting-as-a-new-manager-84aaef872c1b), by [@cjlew23](https://twitter.com/cjlew23)
+* [10 App Marketing Tips to Boost Your App's Launch Success](https://savvyapps.com/blog/10-app-marketing-tips-to-boost-your-apps-launch-success), by [@kenyarmosh](https://twitter.com/kenyarmosh)
+* [Becoming a 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer), by [@heddle317](https://twitter.com/heddle317)
+* [Apple Watch Adoption](https://david-smith.org/blog/2018/03/14/apple-watch-series-3-adoption/), by [@_DavidSmith](http://twitter.com/_DavidSmith)
 
 **UI/UX**
 
-* 
+* [Designing iPhone Screenshots](https://applypixels.com/designing-screenshots-for-iphone/), by [@ebaehr](https://twitter.com/ebaehr)
+* [How To Use Color In UI Design Wisely to Create A Perfect UI Interface?](http://cherryhappygirl.blogspot.ro/2018/03/how-to-use-color-in-ui-design-wisely-to.html), by [@zhaoxiaoyu2017](https://twitter.com/zhaoxiaoyu2017)
 
 **Videos**
 
