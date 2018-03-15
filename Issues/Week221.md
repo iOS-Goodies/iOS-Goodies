@@ -3,7 +3,6 @@ Happy Thursday, everyone! As most of you already found out, Apple announced [WWD
 **Articles**
 
 * [Diving into Vapor, Part 1: Up and Running with Vapor 3](https://medium.com/@caleb.kleveter/diving-into-vapor-part-1-up-and-running-with-vapor-3-edab3c79aab9), by [@caleb_kleveter](https://twitter.com/caleb_kleveter)
-* [Do you often forget \[weak self\]? Here’s the solution](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6), by [@olegdreyman](https://twitter.com/olegdreyman) 
 * [Extensible Analytics Library Design With Tagless Final Concept](https://kandelvijaya.com/2018/03/11/extensibleanalyticslibrarydesign/), by [@kandelvijaya](https://twitter.com/kandelvijaya)
 * [The template for View Controller unit testing](https://albertodebortoli.com/2018/03/12/easy-view-controller-unit-testing/), by [@albertodebo](https://twitter.com/albertodebo) 
 * [Debugging Auto Layout feedback loops](https://www.hackingwithswift.com/articles/59/debugging-auto-layout-feedback-loops), by [@twostraws](https://twitter.com/twostraws)
@@ -20,7 +19,7 @@ Happy Thursday, everyone! As most of you already found out, Apple announced [WWD
 * [EasyImagy](https://github.com/koher/EasyImagy) - Makes it easy to process images in Swift, by [@koher](https://github.com/koher)
 * [RxTheme](https://github.com/wddwycc/RxTheme) - Theme management based on Rx, by [@wddwycc](https://twitter.com/wddwycc)
 * [ContextMenu](https://github.com/GitHawkApp/ContextMenu) - Context menu inspired by Things 3, by [@_ryannystrom](https://twitter.com/_ryannystrom)
-* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks, by [@olegdreyman](https://twitter.com/olegdreyman)
+* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks. [Article about it here](https://medium.com/anysuggestion/preventing-memory-leaks-with-swift-compile-time-safety-49b845df4dc6), by [@olegdreyman](https://twitter.com/olegdreyman)
 
 **Business/Career**
 
