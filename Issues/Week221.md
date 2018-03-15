@@ -1,4 +1,4 @@
-* [WWDC18 Registration Now Open](https://developer.apple.com/news/?id=03132018a)
+Happy Thursday, everyone! As most of you already found out, Apple announced [WWDC 2018](https://developer.apple.com/wwdc) and [opened registrations](https://developer.apple.com/news/?id=03132018a). Confirming the general prediction, the dates are June 4-8, and the location is San Jose, California, same as last year. You have exactly one week from now to register for a spot in the lottery draw. The enthusiasts and curious among us spent some time looking at the small intro video on the WWDC website, already finding there confirmation for the rumours that we've already had for a while. Marzipan, anyone 😁?
 
 **Articles**
 
@@ -36,7 +36,8 @@
 
 **Videos**
 
-* 
+* [Introducing Charles for iOS](https://www.youtube.com/watch?v=RWotEyTeJhc), by [@avon](https://twitter.com/avon)
+* [RxSwift - Debunking the Myth of Hard](https://www.youtube.com/watch?v=I-npe1z6HbA) - (in Hebrew, enable subtitles), by [@freak4pc](https://twitter.com/freak4pc)
 
 **Credits**
 
