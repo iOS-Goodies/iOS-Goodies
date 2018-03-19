@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-* 
+* [Apple App Acquisitions](https://appstories.net/episodes/47/) by AppStories
 
 **UI/UX**
 
