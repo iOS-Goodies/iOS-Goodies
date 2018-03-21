@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [GoogleStaticMapsKit](https://github.com/PoissonBallon/GoogleStaticMapsKit), by [@PoissonBallon](https://github.com/PoissonBallon)
 
 **Business/Career**
 
