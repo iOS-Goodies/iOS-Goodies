@@ -8,9 +8,9 @@
 
 **Tools/Controls**
 
-* [GoogleStaticMapsKit](https://github.com/PoissonBallon/GoogleStaticMapsKit), by [@PoissonBallon](https://github.com/PoissonBallon)
-* [AppStoreReceiptChecker](https://github.com/delicious-monster/AppStoreReceiptChecker), by [@delicious-monster](https://github.com/delicious-monster)
-* [PredicateFlow](https://github.com/andreadelfante/PredicateFlow), by [@andreadelfante](https://github.com/andreadelfante)
+* [GoogleStaticMapsKit](https://github.com/PoissonBallon/GoogleStaticMapsKit), by [@PoissonBallon](https://twitter.com/poissonballon)
+* [AppStoreReceiptChecker](https://github.com/delicious-monster/AppStoreReceiptChecker), by [@wilshipley](https://twitter.com/wilshipley)
+* [PredicateFlow](https://github.com/andreadelfante/PredicateFlow), by Andrea Del Fante
 
 **Business/Career**
 
