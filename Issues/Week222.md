@@ -16,7 +16,7 @@
 
 **Business/Career**
 
-* [Apple App Acquisitions](https://appstories.net/episodes/47/) by AppStories
+* [Apple App Acquisitions](https://appstories.net/episodes/47/) by [@AppStoriesNet](https://twitter.com/AppStoriesNet)
 * [Has iOS 11 really affected star ratings?](https://stories.appbot.co/has-ios-11-really-affected-star-ratings-d9122b8c0403), by Christie Mouritz-Beckx
 
 **UI/UX**
