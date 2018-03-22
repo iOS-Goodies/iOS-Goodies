@@ -25,7 +25,7 @@
 
 **Videos**
 
-* 
+* [Investing time into developer tools and experience](https://www.youtube.com/watch?v=yAQQ0cIxSF8), by [@merowing_](https://twitter.com/merowing_)
 
 **Credits**
 
