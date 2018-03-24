@@ -19,8 +19,8 @@ A helper for working with temporary files in Swift](https://oleb.net/blog/2018/0
 
 **Videos**
 
-* 
+* [iOSCon 2018 videos](https://skillsmatter.com/conferences/9319-ioscon-2018-the-conference-for-ios-and-swift-developers#program), by [@skillsmatter](https://twitter.com/skillsmatter)
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
