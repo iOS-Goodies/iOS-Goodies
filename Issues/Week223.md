@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-* 
+* [Animated Transitions in Mobile Apps](https://uxplanet.org/animated-transitions-in-mobile-apps-412b8e8478e7), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
