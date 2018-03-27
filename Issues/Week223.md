@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-* 
+* [Dark Scrum: Hills and Affordances](https://ronjeffries.com/articles/018-01ff/ds-hills-affordances/), by [@RonJeffries](https://twitter.com/RonJeffries) 
 
 **UI/UX**
 
