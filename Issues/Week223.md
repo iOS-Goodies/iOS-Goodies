@@ -14,6 +14,7 @@
 **Business/Career**
 
 * [Best countries to relocate to for freelancers and solo founders](https://qotoqot.com/blog/best-countries/), by [@ivmirx](https://twitter.com/ivmirx)
+* [Dark Scrum: Hills and Affordances](https://ronjeffries.com/articles/018-01ff/ds-hills-affordances/), by [@RonJeffries](https://twitter.com/RonJeffries)
 
 **UI/UX**
 
