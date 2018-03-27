@@ -5,6 +5,8 @@
 * [
 A helper for working with temporary files in Swift](https://oleb.net/blog/2018/03/temp-file-helper/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Functor >> Applicative >> Monad](https://kandelvijaya.com/2018/03/25/functorapplicativemonad/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
+* [
+Making illegal states unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
