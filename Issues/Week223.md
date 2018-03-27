@@ -5,6 +5,7 @@
 * [A helper for working with temporary files in Swift](https://oleb.net/blog/2018/03/temp-file-helper/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Functor >> Applicative >> Monad](https://kandelvijaya.com/2018/03/25/functorapplicativemonad/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
 * [Making illegal states unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Async I/O for Dummies](http://www.alwaysrightinstitute.com/async-io-by-example/), by [@helje5](https://twitter.com/helje5)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [abiaad](https://github.com/abiaad)
