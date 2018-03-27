@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-* 
+* [Best countries to relocate to for freelancers and solo founders](https://qotoqot.com/blog/best-countries/), by [@ivmirx](https://twitter.com/ivmirx)
 
 **UI/UX**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [abiaad](https://github.com/abiaad)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [abiaad](https://github.com/abiaad), [ivmirx](https://github.com/ivmirx)
