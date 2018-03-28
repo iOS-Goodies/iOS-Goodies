@@ -6,6 +6,7 @@
 * [Functor >> Applicative >> Monad](https://kandelvijaya.com/2018/03/25/functorapplicativemonad/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
 * [Making illegal states unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Async I/O for Dummies](http://www.alwaysrightinstitute.com/async-io-by-example/), by [@helje5](https://twitter.com/helje5)
+*  [Caveats of Swift default protocol extensions](http://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [abiaad](https://github.com/abiaad), [ivmirx](https://github.com/ivmirx)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [abiaad](https://github.com/abiaad), [ivmirx](https://github.com/ivmirx), [lucianomarisi](https://github.com/lucianomarisi)
