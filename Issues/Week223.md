@@ -1,3 +1,9 @@
+So, did you get a ticket for the WWDC? Even if you didn't, San Jose is still the place to be in the second week of June, with no less than 3 other conferences (which you can find [on this list](https://github.com/Lascorbe/CocoaConferences)) and many other community events. 
+
+In other news, Apple had its spring event this week, where, despite some rumours, we only saw announcements related to education. [MacRumors](https://www.macrumors.com/2018/03/27/everything-apple-announced-at-chicago-event/) made a quick recap of the event.
+
+On to the links!
+
 **Articles**
 
 * [Better Generic Types in Swift With the Numeric Protocol](https://khawerkhaliq.com/blog/swift-generic-types-numeric-protocol/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
