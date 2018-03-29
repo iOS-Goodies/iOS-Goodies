@@ -14,6 +14,7 @@ On to the links!
 * [Async I/O for Dummies](http://www.alwaysrightinstitute.com/async-io-by-example/), by [@helje5](https://twitter.com/helje5)
 * [Caveats of Swift default protocol extensions](http://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
 * [UIView Auto Layout life cycle](http://www.vadimbulavin.com/view-auto-layout-life-cycle/), by [@V8tr](https://twitter.com/V8tr)
+* [Protocol Oriented Programming in Swift: Is it better than Object Oriented Programming?](https://www.appcoda.com/pop-vs-oop/), by [@iosbrain](https://twitter.com/iosbrain)
 
 **Tools/Controls**
 
