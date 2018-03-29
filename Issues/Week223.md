@@ -23,6 +23,7 @@ On to the links!
 * [Best countries to relocate to for freelancers and solo founders](https://qotoqot.com/blog/best-countries/), by [@ivmirx](https://twitter.com/ivmirx)
 * [Dark Scrum: Hills and Affordances](https://ronjeffries.com/articles/018-01ff/ds-hills-affordances/), by [@RonJeffries](https://twitter.com/RonJeffries)
 * [Going nomad](https://krausefx.com/blog/going-nomad), by [@KrauseFx](https://twitter.com/KrauseFx)
+* [The Productivity Paradox: How Working Less Will Make You More Productive](https://hackernoon.com/the-productivity-paradox-how-working-less-will-make-you-more-productive-b7c6d3df442c), by Nils Salzgeber
 
 **UI/UX**
 
