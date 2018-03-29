@@ -12,7 +12,8 @@ On to the links!
 * [Functor >> Applicative >> Monad](https://kandelvijaya.com/2018/03/25/functorapplicativemonad/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
 * [Making illegal states unrepresentable](https://oleb.net/blog/2018/03/making-illegal-states-unrepresentable/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Async I/O for Dummies](http://www.alwaysrightinstitute.com/async-io-by-example/), by [@helje5](https://twitter.com/helje5)
-*  [Caveats of Swift default protocol extensions](http://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [Caveats of Swift default protocol extensions](http://www.marisibrothers.com/2018/03/caveats-of-swift-default-protocol.html), by [@lucianomarisi](https://twitter.com/lucianomarisi)
+* [UIView Auto Layout life cycle](http://www.vadimbulavin.com/view-auto-layout-life-cycle/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
