@@ -31,6 +31,7 @@ On to the links!
 
 * [Animated Transitions in Mobile Apps](https://uxplanet.org/animated-transitions-in-mobile-apps-412b8e8478e7), by [@101babich](https://twitter.com/101babich)
 * [The UX Designer’s Guide for Post-Launch Success](https://medium.com/@Appseecom/the-ux-designers-guide-for-post-launch-success-e69d7f7a72de), by [@Appseecom](https://twitter.com/Appseecom)
+* [Here’s everything I’ve learned from designing 10,000+ UI screens as a lead product designer](https://medium.com/ux-power-tools/heres-everything-i-ve-learned-from-designing-10-000-ui-screens-as-a-lead-product-designer-7d2810bee810), by [@uxpowertools](https://twitter.com/uxpowertools)
 
 **Videos**
 
