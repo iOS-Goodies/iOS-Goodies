@@ -6,6 +6,7 @@
 * [What’s New in Swift 4.1?](https://www.raywenderlich.com/187826/whats-new-in-swift-4-1), by [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 * [Clean iOS Localizable Files](https://buildingvts.com/clean-ios-localizable-files-8b910413b985), by Gino Wu
 * [Open Source Adventures #1 - Xiblint](http://sunshinejr.com/2018/04/03/open-source-adventures-xiblint/), by [@thesunshinejr](https://twitter.com/thesunshinejr)
+* [Expanding Swift's Reach](https://appventure.me/2018/05/03/expanding-swifts-reach/), by [@terhechte](https://twitter.com/terhechte)
 
 
 **Tools/Controls**
@@ -26,5 +27,5 @@
 
 **Credits**
 
-* [allewun](https://github.com/allewun), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://github.com/KaramazovShogun), [sunshinejr](https://github.com/sunshinejr)
+* [allewun](https://github.com/allewun), [LisaDziuba](https://github.com/lisadziuba), [KaramazovShogun](https://github.com/KaramazovShogun), [sunshinejr](https://github.com/sunshinejr), [rbarbosa](https://github.com/rbarbosa)
 
