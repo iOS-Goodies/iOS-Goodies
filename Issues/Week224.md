@@ -18,7 +18,7 @@
 
 **Business/Career**
 
-* 
+* [iOS Developers Ship 29% Fewer Apps in 2017, the First Ever Decline – And More Trends to Watch](https://blog.appfigures.com/ios-developers-ship-less-apps-for-first-time/), by [@arielmichaeli](https://twitter.com/arielmichaeli)
 
 **UI/UX**
 
