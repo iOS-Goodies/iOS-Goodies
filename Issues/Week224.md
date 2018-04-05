@@ -14,6 +14,7 @@
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - UIMenuItem with image and closure(block) action, by [@_cxa](https://twitter.com/_cxa)
 * [HomeButton](https://github.com/nathangitter/HomeButton) - Bringing the home button back to iPhone X, by [@nathangitter](https://twitter.com/nathangitter) and [@ian_mcdowell](https://twitter.com/ian_mcdowell)
 * [MerchantKit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS, by [@bzamayo](http://twitter.com/bzamayo)
+* [Xcode playground with new Swift 4.1 features](https://github.com/twostraws/whats-new-in-swift-4-1), by [@twostraws](https://twitter.com/twostraws)
 
 
 **Business/Career**
