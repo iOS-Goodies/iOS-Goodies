@@ -19,7 +19,8 @@
 
 **UI/UX**
 
-* 
+* [Mobile User Testing](https://medium.com/the-mobile-company/mobile-user-testing-e9070f9633b9), by [@Ammarceker](https://twitter.com/Ammarceker)
+* [Localize App!](https://medium.com/@katsolberg/localize-app-a71609d6866b), by [@Ksolberg](https://twitter.com/Ksolberg)
 
 **Videos**
 
