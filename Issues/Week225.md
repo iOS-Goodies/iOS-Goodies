@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [@iosartem](https://twitter.com/iosartem)
+* [artemnovichkov](https://github.com/artemnovichkov)
