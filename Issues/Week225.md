@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [artemnovichkov](https://github.com/artemnovichkov)
+* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba)
