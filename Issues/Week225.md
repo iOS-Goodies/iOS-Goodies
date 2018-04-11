@@ -2,6 +2,7 @@
 
 * [Swift, Plist and Two Smoking Scripts](https://medium.com/rosberryapps/swift-plist-and-two-smoking-scripts-94bb54cbeded), by [@iosartem](https://twitter.com/iosartem)
 * [Build it, Test it, Deliver it! Complete iOS Guide on Continuous Delivery with fastlane and Jenkins](https://medium.com/flawless-app-stories/build-it-test-it-deliver-it-complete-ios-guide-on-continuous-delivery-with-fastlane-and-jenkins-cbe44e996ac5), by [@KoromikoNeo](https://twitter.com/KoromikoNeo)
+* [Scaling Moya in production](http://sunshinejr.com/2018/04/11/scaling-moya-in-production/), by [@thesunshinejr](https://twitter.com/thesunshinejr)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba)
+* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr)
