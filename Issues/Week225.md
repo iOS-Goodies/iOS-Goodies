@@ -1,3 +1,7 @@
+This week we're highlighting one awesome conference for iOS developers: [App Design and Development Conference](https://addconf.com?utm_source=iosgoodies) with a unique concept that brings mobile app developers and designers together. Last year's edition was a success, and this year's edition aims to do even better. They're currently announcing the speaker lineup and tickets are still available. If you want to attend a conference and you're not sure which one, ADDC can be an excellent option 👌.
+
+[ADDC](https://addconf.com?utm_source=iosgoodies) is offering a free conference ticket to one lucky iOS Goodies subscriber. All you have to do is be subscribed to iOS Goodies and retweet [this tweet](https://twitter.com/iOSGoodies/status/984443176479084545) and you will enter the draw for a free ticket. [Details about the random draw](https://gist.github.com/mariusc/e10301112e7b6153d45dfb0202466107). We will hold the random drawing on April 25th.
+
 **Articles**
 
 * [Swift, Plist and Two Smoking Scripts](https://medium.com/rosberryapps/swift-plist-and-two-smoking-scripts-94bb54cbeded), by [@iosartem](https://twitter.com/iosartem)
