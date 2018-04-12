@@ -8,6 +8,7 @@
 * [Using Advanced Auto Layout Techniques to Adapt Interfaces to Screen and Content](https://savvyapps.com/blog/using-advanced-auto-layout-techniques-to-adapt-interfaces-to-screen-content-intrinsic-content-size-stack-views), by [@emiliopelaez](https://twitter.com/emiliopelaez)
 * [Handling Secrets in iOS open source projects](https://medium.com/@nunogonalves/handling-secrets-in-ios-open-source-projects-b5a212f4e28c), by [@goncalvescmnuno](http://www.twitter.com/goncalvescmnuno)
 * [Behind-the scenes improvements in Swift 4.1](https://medium.com/@slavapestov/behind-the-scenes-improvements-in-swift-4-1-269dd56e30c2), by [@slava_pestov](https://twitter.com/slava_pestov)
+* [React Native: my native developer first impressions](https://medium.com/@otusweb/react-native-my-native-developer-first-impressions-aafc5a19c823), by [@otusweb](https://twitter.com/otusweb)
 
 **Tools/Controls**
 
