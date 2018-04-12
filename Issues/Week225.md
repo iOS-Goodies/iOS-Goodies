@@ -7,6 +7,7 @@
 * [Enums And Optionals](http://khanlou.com/2018/04/enums-and-optionals/), by [@khanlou](http://www.twitter.com/khanlou)
 * [Using Advanced Auto Layout Techniques to Adapt Interfaces to Screen and Content](https://savvyapps.com/blog/using-advanced-auto-layout-techniques-to-adapt-interfaces-to-screen-content-intrinsic-content-size-stack-views), by [@emiliopelaez](https://twitter.com/emiliopelaez)
 * [Handling Secrets in iOS open source projects](https://medium.com/@nunogonalves/handling-secrets-in-ios-open-source-projects-b5a212f4e28c), by [@goncalvescmnuno](http://www.twitter.com/goncalvescmnuno)
+* [Behind-the scenes improvements in Swift 4.1](https://medium.com/@slavapestov/behind-the-scenes-improvements-in-swift-4-1-269dd56e30c2), by [@slava_pestov](https://twitter.com/slava_pestov)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr), [nunogoncalves](https://github.com/nunogoncalves)
+* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr), [nunogoncalves](https://github.com/nunogoncalves), [rbarbosa](https://github.com/rbarbosa)
