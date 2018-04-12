@@ -6,6 +6,7 @@
 * [Optional Emptiness](https://indiestack.com/2018/04/optional-emptiness/), by [@danielpunkass](https://twitter.com/danielpunkass)
 * [Enums And Optionals](http://khanlou.com/2018/04/enums-and-optionals/), by [@khanlou](http://www.twitter.com/khanlou)
 * [Using Advanced Auto Layout Techniques to Adapt Interfaces to Screen and Content](https://savvyapps.com/blog/using-advanced-auto-layout-techniques-to-adapt-interfaces-to-screen-content-intrinsic-content-size-stack-views), by [@emiliopelaez](https://twitter.com/emiliopelaez)
+* [Handling Secrets in iOS open source projects](https://medium.com/@nunogonalves/handling-secrets-in-ios-open-source-projects-b5a212f4e28c), by [@goncalvescmnuno](http://www.twitter.com/goncalvescmnuno)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr)
+* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr), [Nuno Gonçalves](https://github.com/nunogoncalves)
