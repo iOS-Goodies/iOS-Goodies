@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr), [Nuno Gonçalves](https://github.com/nunogoncalves)
+* [artemnovichkov](https://github.com/artemnovichkov), [LisaDziuba](https://github.com/lisadziuba), [sunshinejr](https://github.com/sunshinejr), [nunogoncalves](https://github.com/nunogoncalves)
