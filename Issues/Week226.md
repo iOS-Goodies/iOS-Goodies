@@ -4,7 +4,7 @@
 * [Quick and Nimble - Sometimes...](http://drekka.ghost.io/quick-and-nimble-sometimes/), by [@d4rkf1br3](https://twitter.com/d4rkf1br3)
 
 **Tools/Controls**
-* [Binder](https://github.com/khuong291/Binder) - A lightweight data binding for components on iOS, by [khuong291](https://khuong291.github.io/home)
+* [Binder](https://github.com/khuong291/Binder) - A lightweight data binding for components on iOS, by [Khuong](https://twitter.com/khuong291)
 * 
 
 **Business/Career**
