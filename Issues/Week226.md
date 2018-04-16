@@ -2,7 +2,7 @@
 
 * [Hosting View Controllers in Cells](http://williamboles.me/hosting-viewcontrollers-in-cells/), by [@wibosco](https://twitter.com/wibosco)
 * [Quick and Nimble - Sometimes...](http://drekka.ghost.io/quick-and-nimble-sometimes/), by [@d4rkf1br3](https://twitter.com/d4rkf1br3)
-* [Introducing Flow - Asynchronous programming made easy](https://medium.com/izettle-engineering/introducing-flow-42de51988aea), by [iZettle](https://twitter.com/iZettle)
+* [Introducing Flow - Asynchronous programming made easy](https://medium.com/izettle-engineering/introducing-flow-42de51988aea), by [@iZettle](https://twitter.com/iZettle)
 
 **Tools/Controls**
 
