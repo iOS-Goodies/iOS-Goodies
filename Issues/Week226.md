@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [khuong291](https://github.com/khuong291), [nataliya_bg](https://github.com/nataliq)
+* [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [khuong291](https://github.com/khuong291), [nataliya_bg](https://github.com/nataliq), [minikin](https://github.com/minikin)
