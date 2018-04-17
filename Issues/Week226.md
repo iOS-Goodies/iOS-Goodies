@@ -10,6 +10,7 @@
 * [Bento](https://github.com/Babylonpartners/Bento) - Swift library for building component-based interfaces on top of UITableView, by [@babylonhealth](https://twitter.com/babylonhealth)
 * [Flow](https://github.com/izettle/Flow) - Swift library for working with asynchronous flows and life cycles, by [@iZettle](https://twitter.com/iZettle)
 * [ItemsDataSource](https://github.com/minikin/ItemsDataSource) - Generic datasource for UICollectionView, by [@minikin](https://twitter.com/minikin)
+* [swift-tagged](https://github.com/pointfreeco/swift-tagged) - A library for safer types, by [@pointfreeco](https://twitter.com/pointfreeco)
 
 **Business/Career**
 
