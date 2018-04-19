@@ -1,4 +1,4 @@
-Happy Thursday! This week we're happy to announce that iOS Goodies is a comunity partner for [Swift Island](https://swiftisland.nl/), a new conference having its first edition between 4-5 July 2018 on an actual island in the Netherlands. It's an experimental, hands-on conference, where attendees get the chance to dig into the latest material and APIs shown at WWDC, guided by 8 top-notch mentors. If you're interested in joining, [tickets are still available](https://swiftisland.nl/#tickets). 
+Happy Thursday! This week we're happy to announce that iOS Goodies is a community partner for [Swift Island](https://swiftisland.nl/), a new conference having its first edition between 4-5 July 2018 on an actual island in the Netherlands. It's an experimental, hands-on conference, where attendees get the chance to dig into the latest material and APIs shown at WWDC, guided by 8 top-notch mentors. If you're interested in joining, [tickets are still available](https://swiftisland.nl/#tickets). Use the `ISLANDGOODIES` discount code to get a €25 discount. The code is valid until the 3rd of May.
 
 On to the links!
 
