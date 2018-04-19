@@ -22,6 +22,7 @@
 **UI/UX**
 
 * [Checkboxes or radio buttons? Let the UI design battle commence!](https://blog.prototypr.io/checkboxes-or-radio-buttons-let-the-ui-design-battle-commence-b46aea686e23), by [@Justinmind](https://twitter.com/just_in_mind)
+* [7 Basic Rules for Button Design](http://babich.biz/7-rules-of-buttons/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
