@@ -17,6 +17,7 @@
 **Business/Career**
 
 * [Adding new features to your product is not going to make it better](https://blog.prototypr.io/adding-new-features-to-your-product-is-not-going-to-make-it-better-449f07ab397e), by [@esanueugen](https://twitter.com/esanueugen)
+* [A Pocket Guide to Product Development & Release Management](https://medium.com/productcamp/a-pocket-guide-to-product-development-release-management-b8240a9591a8), by [@gannonh](https://twitter.com/gannonh)
 
 **UI/UX**
 
