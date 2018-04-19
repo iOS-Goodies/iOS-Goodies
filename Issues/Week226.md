@@ -4,6 +4,7 @@
 * [Quick and Nimble - Sometimes...](http://drekka.ghost.io/quick-and-nimble-sometimes/), by [@d4rkf1br3](https://twitter.com/d4rkf1br3)
 * [Introducing Flow - Asynchronous programming made easy](https://medium.com/izettle-engineering/introducing-flow-42de51988aea), by [@iZettle](https://twitter.com/iZettle)
 * [View Descriptors](https://152percent.com/blog/2018/4/16/view-descriptors), by [@shaps](https://twitter.com/shaps)
+* [Playground driven development in Swift](https://medium.com/flawless-app-stories/playground-driven-development-in-swift-cf167489fe7b), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Tools/Controls**
 
@@ -15,7 +16,7 @@
 
 **Business/Career**
 
-* 
+* [Adding new features to your product is not going to make it better](https://blog.prototypr.io/adding-new-features-to-your-product-is-not-going-to-make-it-better-449f07ab397e), by [@esanueugen](https://twitter.com/esanueugen)
 
 **UI/UX**
 
