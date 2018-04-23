@@ -1,6 +1,7 @@
 **Articles**
 
-* [Blurring the Lines Between MVVM and VIPER](https://theswiftpost.co/blurring-the-lines-between-mvvm-and-viper/), by [@gokselkk](https://:twitter.com/gokselkk) 
+* [Blurring the Lines Between MVVM and VIPER](https://theswiftpost.co/blurring-the-lines-between-mvvm-and-viper/), by [@gokselkk](https://:twitter.com/gokselkk)
+* [Memory Management and Performance of Value Types](https://swiftrocks.com/memory-management-and-performance-of-value-types.html), by [@rockthebruno](https://twitter.com/rockthebruno) 
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [zhangxiaogang](https://github.com/github-xiaogang), [candostdagdeviren](https://github.com/candostdagdeviren/)
+* [zhangxiaogang](https://github.com/github-xiaogang), [candostdagdeviren](https://github.com/candostdagdeviren/), [rbarbosa](https://github.com/rbarbosa)
