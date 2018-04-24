@@ -8,8 +8,8 @@
 
 * [WoodPecker](http://www.woodpeck.cn) - View App's sandbox files, network request and edit UserDefaults on Mac, by [@appwoodpecker](https://twitter.com/appwoodpecker)
 * [Alicerce](https://github.com/Mindera/Alicerce) - A base for iOS Applications with ❤️ from Mindera 🤠, by [@minderaswcraft](https://twitter.com/minderaswcraft)
+* [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar which responds to user input events, by [@cgoldsby](https://twitter.com/GoldsbyChris)
 * [CoreCharts](https://github.com/cagricolak/CoreCharts) - Elegant way to use charts on iOS with CoreCharts by [@cgcolak](https://twitter.com/cgcolak)
- 
 
 **Business/Career**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [zhangxiaogang](https://github.com/github-xiaogang), [candostdagdeviren](https://github.com/candostdagdeviren/), [rbarbosa](https://github.com/rbarbosa), [polac24](https://github.com/polac24), [cagricolak](https://github.com/cagricolak)
+* [zhangxiaogang](https://github.com/github-xiaogang), [candostdagdeviren](https://github.com/candostdagdeviren/), [rbarbosa](https://github.com/rbarbosa), [polac24](https://github.com/polac24), [dcordero](https://github.com/dcordero), [cagricolak](https://github.com/cagricolak)
