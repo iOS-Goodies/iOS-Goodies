@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [zhangxiaogang](https://github.com/github-xiaogang), [candostdagdeviren](https://github.com/candostdagdeviren/), [rbarbosa](https://github.com/rbarbosa), [polac24](https://github.com/polac24)
+* [zhangxiaogang](https://github.com/github-xiaogang), [candostdagdeviren](https://github.com/candostdagdeviren/), [rbarbosa](https://github.com/rbarbosa), [polac24](https://github.com/polac24), [dcordero](https://github.com/dcordero)
