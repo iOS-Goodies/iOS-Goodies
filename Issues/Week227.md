@@ -8,7 +8,7 @@
 
 * [WoodPecker](http://www.woodpeck.cn) - View App's sandbox files, network request and edit UserDefaults on Mac, by [@appwoodpecker](https://twitter.com/appwoodpecker)
 * [Alicerce](https://github.com/Mindera/Alicerce) - A base for iOS Applications with ❤️ from Mindera 🤠, by [@minderaswcraft](https://twitter.com/minderaswcraft)
- 
+* [LoginCritter](https://github.com/cgoldsby/LoginCritter) - An animated avatar which responds to user input events, by [@cgoldsby](https://twitter.com/GoldsbyChris)
 
 **Business/Career**
 
