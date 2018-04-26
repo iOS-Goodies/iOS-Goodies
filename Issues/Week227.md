@@ -5,6 +5,7 @@
 * [Watch out for protocol extensions in your Swift API (unit tests trap)](https://medium.com/@londeix/watch-out-for-protocol-extensions-in-your-swift-api-unit-tests-trap-e28ad4ef3268), by [@norapsi](https://twitter.com/norapsi) 
 * [5 steps to make your iOS app more secure](https://www.netguru.co/codestories/5-steps-to-make-your-ios-app-more-secure), by Piotr Sochalewski
 * [So Swift, So Clean Architecture for iOS](http://basememara.com/swift-clean-architecture/), by [@basememara](https://twitter.com/basememara)
+* [What's new in Swift?](https://www.whatsnewinswift.com/), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
@@ -15,11 +16,13 @@
 
 **Business/Career**
 
-* 
+* [Presentation Nerves](https://davedelong.com/blog/2018/04/23/presentation-nerves/), by [@davedelong](https://twitter.com/davedelong)
+* [The Little Trade-Offs](https://m.signalvnoise.com/the-little-trade-offs-7b31043b8584), by [@cjlew23](https://twitter.com/cjlew23)
 
 **UI/UX**
 
-* 
+* [Designing Better Notifications](http://martiancraft.com/blog/2018/04/designing-better-notifications/), by [@benjaminbrooks](http://twitter.com/benjaminbrooks)
+* [Exploring Apps Without Jailbreaking](https://medium.com/@nathangitter/exploring-apps-without-jailbreaking-e932904f9863), by [@nathangitter](https://twitter.com/nathangitter)
 
 **Videos**
 
