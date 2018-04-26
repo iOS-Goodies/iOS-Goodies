@@ -4,6 +4,7 @@
 * [Memory Management and Performance of Value Types](https://swiftrocks.com/memory-management-and-performance-of-value-types.html), by [@rockthebruno](https://twitter.com/rockthebruno) 
 * [Watch out for protocol extensions in your Swift API (unit tests trap)](https://medium.com/@londeix/watch-out-for-protocol-extensions-in-your-swift-api-unit-tests-trap-e28ad4ef3268), by [@norapsi](https://twitter.com/norapsi) 
 * [5 steps to make your iOS app more secure](https://www.netguru.co/codestories/5-steps-to-make-your-ios-app-more-secure), by Piotr Sochalewski
+* [So Swift, So Clean Architecture for iOS](http://basememara.com/swift-clean-architecture/), by [@basememara](https://twitter.com/basememara)
 
 **Tools/Controls**
 
