@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Implementing Night Mode](https://www.latenightswift.com/2018/04/26/implementing-night-mode/), by [@latenightswift_](https://twitter.com/latenightswift_)
 
 **Tools/Controls**
 
