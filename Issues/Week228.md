@@ -11,6 +11,7 @@
 **Business/Career**
 
 * [The top mistakes on online tech recruitment approaches](https://blog.landing.jobs/the-top-mistakes-on-online-tech-recruitment-approaches-665db38e979f), by [@Landing_jobs](https://twitter.com/Landing_jobs)
+* [Hiring Juniors](https://ashfurrow.com/blog/hiring-juniors/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **UI/UX**
 
