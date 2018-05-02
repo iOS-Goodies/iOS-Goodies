@@ -4,6 +4,7 @@
 * [Implementing Night Mode](https://www.latenightswift.com/2018/04/26/implementing-night-mode/), by [@latenightswift_](https://twitter.com/latenightswift_)
 * [API Design: Deriving a Signal type](https://medium.com/izettle-engineering/deriving-signal-2adb8687e9bf) and [API Design: Expanding on signals](https://medium.com/izettle-engineering/expanding-on-signals-ad25daee4d64), by [@iZettle](https://twitter.com/iZettle)
 * [Swift 4.1](https://oleb.net/blog/2018/04/swift-4-1/), by [@olebegemann](https://twitter.com/olebegemann)
+* [How To Build A Blockchain App With Swift](https://learnappmaking.com/blockchain-app-swift-how-to/), by [@reinder42](https://twitter.com/reinder42)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [rbarbosa](https://github.com/rbarbosa), [nataliq](https://github.com/nataliq)
+* [rbarbosa](https://github.com/rbarbosa), [nataliq](https://github.com/nataliq), [reinder42](https://github.com/reinder42)
