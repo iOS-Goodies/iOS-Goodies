@@ -1,3 +1,6 @@
+Apple released their updated financial results, confirming that the iPhone X model is becoming the first choice for people buying an iPhone. So don't you forget about those Safe Area Guides in your apps 😉. 
+
+We're one month away from WWDC, and both the excitement and the expectations are growing. Possibly to temper these expectations, [an article](https://daringfireball.net/2018/04/scuttlebutt_regarding_ui_project) published this week confirmed the existence of a previously rumoured unified UI API for macOS and iOS, but set the expected date for next year. Don't know about you, but even without the prospects of this framework, I'm still super excited about WWDC 😄.
 
 **Articles**
 
