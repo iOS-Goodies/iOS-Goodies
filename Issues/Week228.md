@@ -6,6 +6,8 @@
 * [Swift 4.1](https://oleb.net/blog/2018/04/swift-4-1/), by [@olebegemann](https://twitter.com/olebegemann)
 * [How To Build A Blockchain App With Swift](https://learnappmaking.com/blockchain-app-swift-how-to/), by [@reinder42](https://twitter.com/reinder42)
 * [Strongly typed access to Info.plist file using Swift](http://danielemargutti.com/2018/04/28/strongly-typed-access-to-info-plist-file-using-swift/), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [Class Only Protocols In Swift 4](https://useyourloaf.com/blog/class-only-protocols-in-swift-4/), by [@kharrison](https://twitter.com/kharrison)
+* [Type safe network layer 2.0](https://twittemb.github.io/swift/network/type%20safe/codable/pattern/2018/04/28/type-safe-network-layer-2-0/), by [@thwittem](https://twitter.com/thwittem)
 
 **Tools/Controls**
 
@@ -20,7 +22,8 @@
 
 **UI/UX**
 
-* 
+* [How to develop an eye for Design](https://uxdesign.cc/how-to-develop-an-eye-for-design-c5a4c64bb26c), by [@kathleen_warner](https://twitter.com/kathleen_warner)
+* [Designing for real people](https://uxplanet.org/designing-for-real-people-582a2d45b3d2), by [@bahe007](https://twitter.com/bahe007)
 
 **Videos**
 
