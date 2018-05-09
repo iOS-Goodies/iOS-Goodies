@@ -12,7 +12,7 @@
 
 **UI/UX**
 
-* 
+* [iOS Design Inconsistencies Across Apple's Apps](http://benjaminmayo.co.uk/ios-11-design-inconsistencies), by [@bzamayo](https://twitter.com/bzamayo)
 
 **Videos**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [plivesey](https://github.com/plivesey)
+* [plivesey](https://github.com/plivesey), [LisaDziuba](https://github.com/lisadziuba)
