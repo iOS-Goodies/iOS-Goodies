@@ -1,3 +1,5 @@
+Apple has [announced](https://developer.apple.com/news/?id=05072018a) that starting July 2018, all app updates submitted to the App Store have to be built with the iOS 11 SDK. That's a pretty big step-up in requirements, since right now it's possible to submit a build with Xcode 6. On the other hand, it was clear that this was coming, since in February [they announced that starting Aoril, all new apps have to be build with iOS 11 SDK](http://ios-goodies.com/post/171167123973/week-218). This time, it's about updates too. And this will only mean that more apps will add support for iPhone X 😄. I'd be curious to know if this causes a spike in the Xcode 8 downloads, so develoeprs who still had projects in Swift 2 can upgrade first to Swift 3 (with Xcode 8) and then to Swift 4 (with Xcode 9).
+
 **Articles**
 
 * [Advanced Swift Debugging for UIKit](https://blog.superhuman.com/advanced-swift-debugging-for-uikit-e154d1c28aaf), by [@plivesey453](https://twitter.com/plivesey453)
@@ -10,7 +12,7 @@
 
 **Tools/Controls**
 
-* [AnyCodable](https://github.com/Flight-School/AnyCodable), by [@mattt](https://twitter.com/mattt)
+* [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values, by [@mattt](https://twitter.com/mattt)
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - a banner presenter library for iOS. It can be used to easily display pop-ups and notification-like views within your iOS apps, by Daniel Huri
 * [Differific](https://github.com/zenangst/Differific) - ⛽️ Differific - a fast and convenient diffing framework, by [@zenangst](https://twitter.com/zenangst)
 * [UserInterface](https://github.com/zenangst/UserInterface) - 🚥 UserInterface - a collection of convenience extensions specifically tailored to building user interfaces in Swift, by [@zenangst](https://twitter.com/zenangst)
