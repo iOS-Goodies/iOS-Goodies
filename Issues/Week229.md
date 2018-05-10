@@ -5,6 +5,7 @@
 * [Memory Leaks in Swift](https://medium.com/flawless-app-stories/memory-leaks-in-swift-bfd5f95f3a74), by Leandro Pérez
 * [Touch ID and Face ID on iOS](http://michael-brown.net/2018/touch-id-and-face-id-on-ios/), by [@mluisbrown](https://twitter.com/mluisbrown)
 * [The Laws of Core Data](https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/), by [@davedelong](https://twitter.com/davedelong)
+* [Codable in practice](http://ilya.puchka.me/codable-in-practice/), by [@ilyapuchka](https://twitter.com/ilyapuchka)
 
 **Tools/Controls**
 
@@ -12,7 +13,8 @@
 
 **Business/Career**
 
-* 
+* [How to deliver a talk at a programming conference](https://www.hackingwithswift.com/articles/96/how-to-deliver-a-talk-at-a-programming-conference), by [@twostraws](https://twitter.com/twostraws)
+* [Increase Downloads of Your iOS App by Including Awesome Features](https://medium.com/ios-os-x-development/increase-downloads-of-your-ios-app-by-including-awesome-features-4b39be3af548), by [@SteelKiwiDev](https://twitter.com/SteelKiwiDev)
 
 **UI/UX**
 
