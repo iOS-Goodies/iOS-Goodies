@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Generating Random Numbers in Swift](https://www.netguru.co/codestories/generating-random-numbers-in-swift), by Piotr Sochalewski
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [sochalewski](https://github.com/sochalewski)
