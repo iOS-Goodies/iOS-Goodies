@@ -12,7 +12,7 @@
 
 **Business/Career**
 
-* [11 principles that help me write better code](https://larder.io/blog/code-principles/), by Belle
+* [11 principles that help me write better code](https://larder.io/blog/code-principles/), by Belle B. Cooper
 
 **UI/UX**
 
