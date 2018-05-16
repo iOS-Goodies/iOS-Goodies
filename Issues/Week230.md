@@ -1,3 +1,4 @@
+[Top 5000 CocoaPods](https://gist.github.com/orta/5c66adbab469d5fe8c4381eaec190eb5) by download count (to be expanded)
 
 **Articles**
 
@@ -5,6 +6,7 @@
 * [Response: The Laws Of Core Data](http://www.cimgf.com/2018/05/10/response-the-laws-of-core-data/), by [@mzarra](https://twitter.com/mzarra)
 * [Detecting Avengers superheroes in your iOS app with IBM Watson and CoreML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1), by [@onmyway133](https://twitter.com/onmyway133)
 * [How StackView help your iOS app to be more dynamic](https://blog.customerly.io/engineering/2018/05/14/how-stackview-help-your-ios-app-to-be-more-dynamic), by [@pmusolino](https://twitter.com/pmusolino)
+* [Natural Language Processing on iOS with Turi Create](https://www.raywenderlich.com/185515/natural-language-processing-on-ios-with-turi-create), by [@TheMikeKatz](https://twitter.com/TheMikeKatz)
 
 **Tools/Controls**
 
