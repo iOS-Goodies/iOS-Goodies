@@ -1,4 +1,6 @@
-[Top 5000 CocoaPods](https://gist.github.com/orta/5c66adbab469d5fe8c4381eaec190eb5) by download count (to be expanded)
+I saw the list of the [top 5000 CocoaPods](https://gist.github.com/orta/5c66adbab469d5fe8c4381eaec190eb5) by download count, shared by [Orta](https://twitter.com/orta). What got my attention was that more than half of the top 35 pods listed are owned by big companies (Google, Facebook). And as Nick Lockwood [observed on Twitter](https://twitter.com/nicklockwood/status/996683992207384576), some of those pods aren't even really open source, being only a Swift wrapper over a precompiled framework. Now don't get me wrong, those are solid, stable tools that get the job done, and I've also used and still use some of them in the projects I work on. I just wanted to reiterate on something that I also wrote about in a previous issue: we as developers need to be aware of all the implications of adding other SDKs to our app. The SDKs included in an app get access to the same data as the app (which can include keychain data, photos, location, camera, logins and others).
+
+On a lighter note, you'll notice that I've added a 🙃 next to one of the tools included in this edition. That's because although I doubt anyone will find it useful in a real world app, I had too much fun when I saw it not to include it in this week's nesletter 😄.
 
 **Articles**
 
