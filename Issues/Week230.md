@@ -14,6 +14,8 @@
 **Tools/Controls**
 
 * [Guide to Codable Sample Code](https://github.com/Flight-School/Guide-to-Codable-Sample-Code) - Xcode Playground Sample Code for the Flight School Guide to Codable, by [@mattt](https://twitter.com/mattt)
+* [Sample Code of the App Architecture Book](https://github.com/objcio/app-architecture), by [@objcio](https://twitter.com/objcio)
+* [ClassicKit](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components for iOS, by [@blaketsuzaki](https://twitter.com/blaketsuzaki) -  🙃
 
 **Business/Career**
 
