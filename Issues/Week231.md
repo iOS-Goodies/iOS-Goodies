@@ -8,6 +8,7 @@
 * [Launch arguments in Swift](https://www.swiftbysundell.com/posts/launch-arguments-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift Lazy Property Initialization](https://useyourloaf.com/blog/swift-lazy-property-initialization/), by [@kharrison](https://twitter.com/kharrison)
 * [Developing UIViews in Xcode Playgrounds](https://topologyeyewear.github.io/engineering-blog/2018/05/21/playgrounds/), by [@alexisgallagher](https://twitter.com/alexisgallagher)
+* [Continuous Integration Services for iPhone Apps in 2018](https://iosreviewed.com/reviews-1/2018/5/22/continuous-integration-services-for-iphone-apps-in-2018), by [@ocrickard](https://twitter.com/ocrickard)
 
 **Tools/Controls**
 
