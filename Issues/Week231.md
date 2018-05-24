@@ -1,4 +1,4 @@
-[The Developers Union](http://www.thedevelopersunion.org/)
+If you, as an app developer, were thinking that Apple isn't listening to your feedback and suggestions, or isn't doing enough to support developers, you were probably not alone. To increase the chances that their voices are heard, developers formed [The Developers Union](http://www.thedevelopersunion.org/), which already gathers almost 500 supporters and more than 500 apps. Their initial focus on getting Apple to allow free trials on apps in the App Store. I'm very curious to see Apple's response to this. And while I'm a bit skeptical on the outcome of this situation, I'd really be happy for a more open dialogue between Apple and the developers.
 
 **Articles**
 
