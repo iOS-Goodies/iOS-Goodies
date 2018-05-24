@@ -13,6 +13,8 @@
 **Tools/Controls**
 
 * [Yams](https://github.com/jpsim/Yams) - A Sweet and Swifty YAML parser, by [@simjp](https://twitter.com/simjp)
+* [CardParts](https://github.com/intuit/CardParts) - A reactive, card-based UI framework built on UIKit for iOS developers, by [@Intuit](https://twitter.com/Intuit)
+* [CloudKitCodable](https://github.com/insidegui/CloudKitCodable) - An encoder and decoder for CKRecord, by [@_inside](https://twitter.com/_inside)
 
 **Business/Career**
 
@@ -22,10 +24,11 @@
 **UI/UX**
 
 * [Design for Humans](https://uxplanet.org/design-for-humans-e8fc7924286d), by [@abiduzz420](https://twitter.com/abiduzz420)
+* [How to Build a Better Product with UX Writing](https://uxdesign.cc/how-to-build-a-better-product-with-ux-writing-926d78209ce8), by Anastasiia Marushevska
 
 **Videos**
 
-* 
+* [UIKonf videos](https://www.youtube.com/watch?v=Nx0cKEQcbz4&list=PLdr22uU_wISohI7PIhzq0gotGfKZl1lGo)
 
 **Credits**
 
