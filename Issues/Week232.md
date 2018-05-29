@@ -5,7 +5,7 @@
 * [Benchmark of Swift extensions vs methods: Swift 4.1 (May 2018)](https://medium.com/@minikin/benchmark-of-swift-extensions-vs-methods-swift-4-1-may-2018-2df3229f76fe), by [@minikin](https://twitter.com/minikin)
 * [http://www.vadimbulavin.com/multicast-delegate/](Multicast Delegate and Delegates Composition), by [@V8tr](https://twitter.com/V8tr)
 * [How Does Alamofire Make HTTP Requests?](https://grokswift.com/alamofire-how-requests/), [@GrokSwift](https://twitter.com/GrokSwift)
-* [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta), by [@SanketFirodiya] (https://twitter.com/SanketFirodiya)
+* [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta), by [@SanketFirodiya](https://twitter.com/SanketFirodiya)
 
 **Tools/Controls**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [minikin](https://github.com/minikin), [rbarbosa](https://github.com/rbarbosa), [SanketFirodiya] (https://twitter.com/SanketFirodiya)
+* [LisaDziuba](https://github.com/LisaDziuba), [minikin](https://github.com/minikin), [rbarbosa](https://github.com/rbarbosa), [SanketFirodiya](https://twitter.com/SanketFirodiya)
