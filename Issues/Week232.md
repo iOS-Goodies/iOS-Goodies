@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [minikin](https://github.com/minikin), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/LisaDziuba), [minikin](https://github.com/minikin), [rbarbosa](https://github.com/rbarbosa), [SanketFirodiya] (https://twitter.com/SanketFirodiya)
