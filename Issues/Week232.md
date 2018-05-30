@@ -6,6 +6,7 @@
 * [http://www.vadimbulavin.com/multicast-delegate/](Multicast Delegate and Delegates Composition), by [@V8tr](https://twitter.com/V8tr)
 * [How Does Alamofire Make HTTP Requests?](https://grokswift.com/alamofire-how-requests/), [@GrokSwift](https://twitter.com/GrokSwift)
 * [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta), by [@SanketFirodiya](https://twitter.com/SanketFirodiya)
+* [Any[Object]](https://blog.krzyzanowskim.com/2018/05/29/any-object/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **Tools/Controls**
 
