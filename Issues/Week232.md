@@ -3,11 +3,12 @@
 * Machine Learning in iOS: [Turi Create](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26) and [Azure Custom Vision](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee) guides, by [@onmyway133](https://twitter.com/onmyway133)
 * [Creating and Distributing an iOS Binary Framework](https://blog.instabug.com/2018/05/ios-binary-framework/), by [@JO_ADAM](https://twitter.com/JO_ADAM)
 * [Benchmark of Swift extensions vs methods: Swift 4.1 (May 2018)](https://medium.com/@minikin/benchmark-of-swift-extensions-vs-methods-swift-4-1-may-2018-2df3229f76fe), by [@minikin](https://twitter.com/minikin)
-* [http://www.vadimbulavin.com/multicast-delegate/](Multicast Delegate and Delegates Composition), by [@V8tr](https://twitter.com/V8tr)
+* [Multicast Delegate and Delegates Composition](http://www.vadimbulavin.com/multicast-delegate/), by [@V8tr](https://twitter.com/V8tr)
 * [How Does Alamofire Make HTTP Requests?](https://grokswift.com/alamofire-how-requests/), [@GrokSwift](https://twitter.com/GrokSwift)
 * [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta), by [@SanketFirodiya](https://twitter.com/SanketFirodiya)
 * [Any[Object]](https://blog.krzyzanowskim.com/2018/05/29/any-object/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 * [Using generics and descriptors to standardise icons, images and placeholders on iOS](https://medium.com/asos-techblog/using-generics-and-descriptors-to-standardise-icons-images-and-placeholders-on-ios-35dded0650be), by [@mwaterfall](https://twitter.com/mwaterfall)
+* [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f), by [@ifndefgt](https://twitter.com/ifndefgt)
 
 **Tools/Controls**
 
