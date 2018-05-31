@@ -20,11 +20,12 @@ sharing, by [@naturaln0va](https://twitter.com/naturaln0va)
 
 **Business/Career**
 
-* 
+* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels), by [@soundclouddev](https://twitter.com/soundclouddev)
 
 **UI/UX**
 
 * [Tab Bars are the new Hamburger Menus](https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4), by Fabian Sebastian
+* [Splash Screens and Creating Great First Impression for Mobile Users](http://babich.biz/splash-screens-and-creating-great-first-impression-for-mobile-users/) by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
