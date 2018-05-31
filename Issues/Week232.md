@@ -1,3 +1,5 @@
+😱It's happening!!! WWDC starts on Monday!! The schedule is available in the [official iOS app](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8), and there's also an [unofficial WWDC app for macOS](https://wwdc.io/). And check your local iOS dev community, they may be organizing a screening :)
+
 **Articles**
 
 * Machine Learning in iOS: [Turi Create](https://medium.com/flawless-app-stories/machine-learning-in-ios-turi-create-and-coreml-5ddce0dc8e26) and [Azure Custom Vision](https://medium.com/flawless-app-stories/machine-learning-in-ios-azure-custom-vision-and-coreml-645e93f35eee) guides, by [@onmyway133](https://twitter.com/onmyway133)
