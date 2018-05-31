@@ -7,6 +7,7 @@
 * [How Does Alamofire Make HTTP Requests?](https://grokswift.com/alamofire-how-requests/), [@GrokSwift](https://twitter.com/GrokSwift)
 * [How to make a RESTful app with Siesta](https://www.raywenderlich.com/182219/make-restful-app-siesta), by [@SanketFirodiya](https://twitter.com/SanketFirodiya)
 * [Any[Object]](https://blog.krzyzanowskim.com/2018/05/29/any-object/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
+* [Using generics and descriptors to standardise icons, images and placeholders on iOS](https://medium.com/asos-techblog/using-generics-and-descriptors-to-standardise-icons-images-and-placeholders-on-ios-35dded0650be), by [@mwaterfall](https://twitter.com/mwaterfall)
 * [Stop Using Structs!](https://medium.com/commencis/stop-using-structs-e1be9a86376f), by [@ifndefgt](https://twitter.com/ifndefgt)
 
 **Tools/Controls**
