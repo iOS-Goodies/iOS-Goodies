@@ -26,6 +26,7 @@ sharing, by [@naturaln0va](https://twitter.com/naturaln0va)
 
 * [Tab Bars are the new Hamburger Menus](https://uxplanet.org/tab-bars-are-the-new-hamburger-menus-9138891e98f4), by Fabian Sebastian
 * [Splash Screens and Creating Great First Impression for Mobile Users](http://babich.biz/splash-screens-and-creating-great-first-impression-for-mobile-users/) by [@101babich](https://twitter.com/101babich)
+* [How not to write an error message](https://webflow.com/blog/how-not-to-write-an-error-message), by [@johnamwill](http://www.twitter.com/johnamwill)
 
 **Videos**
 
