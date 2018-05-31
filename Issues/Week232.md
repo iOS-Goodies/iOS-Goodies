@@ -12,7 +12,11 @@
 
 **Tools/Controls**
 
-* 
+* [VisualActivityViewController](https://github.com/naturaln0va/VisualActivityViewController) - A way to represent what you’re 
+sharing, by [@naturaln0va](https://twitter.com/naturaln0va)
+* [xcprojectlint](https://github.com/americanexpress/xcprojectlint) - A security blanket for Xcode project files, by American Express
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features, by [@SvenTiigi](https://twitter.com/SvenTiigi)
+* [ConsentKit](https://github.com/ralcr/ConsentKit) - Swift library to help you add GDPR functionality to your app, by [@cristi_tulcea](https://twitter.com/cristi_tulcea)
 
 **Business/Career**
 
