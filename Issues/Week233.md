@@ -4,7 +4,7 @@
 * [Code Injection In Swift](https://medium.com/itch-design-no/code-injection-in-swift-c49be095414c), by [@zenangst](https://twitter.com/zenangst)
 
 **Tools/Controls**
-* [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease, by [@zenangst](https://twitter.com/zenangst)
+* [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease, by [@zenangst](https://github.com/zenangst)
 
 
 **Business/Career**
