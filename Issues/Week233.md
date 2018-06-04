@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 * [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease, by [@zenangst](https://github.com/zenangst)
-
+* [Crossroad](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Scheme, by [@giginet](https://twitter.com/giginet)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [zenangst](https://github.com/zenangst)
+* [zenangst](https://github.com/zenangst), [FranciscoAmado](https://github.com/FranciscoAmado)
