@@ -22,6 +22,7 @@
 * [Why I build my apps using Texture (and why you should too)](https://medium.com/flawless-app-stories/why-i-build-my-apps-using-texture-and-why-you-should-too-99587c73f278), by [@codeOfRobin](https://twitter.com/codeOfRobin)
 
 **Tools/Controls**
+* [xcperfect](https://github.com/mkchoi212/xcperfect) - Make your xccov outputs prettier, by [@bananamlkshake2](https://twitter.com/Bananamlkshake2)
 * [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease, by [@zenangst](https://github.com/zenangst)
 * [Crossroad](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Scheme, by [@giginet](https://twitter.com/giginet)
 
@@ -39,4 +40,4 @@
 
 **Credits**
 
-* [zenangst](https://github.com/zenangst), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [zenangst](https://github.com/zenangst), [FranciscoAmado](https://github.com/FranciscoAmado), [mkchoi212](https://github.com/mkchoi212)
