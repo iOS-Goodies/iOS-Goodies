@@ -23,8 +23,9 @@
 
 **Tools/Controls**
 * [xcperfect](https://github.com/mkchoi212/xcperfect) - Make your xccov outputs prettier, by [@bananamlkshake2](https://twitter.com/Bananamlkshake2)
-* [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease, by [@zenangst](https://github.com/zenangst)
+* [Vaccine](https://github.com/zenangst/Vaccine) - Vaccine is a framework that aims to make your apps immune to recompile-decease, by [@zenangst](https://twitter.com/zenangst)
 * [Crossroad](https://github.com/giginet/Crossroad) - Crossroad is an URL router focused on handling Custom URL Scheme, by [@giginet](https://twitter.com/giginet)
+* [MarzipanTool](https://github.com/zhuowei/MarzipanTool/), by [@zhuowei](https://twitter.com/zhuowei)
 
 **Business/Career**
 
