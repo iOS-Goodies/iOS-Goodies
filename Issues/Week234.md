@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [AppTalk](https://github.com/pietropizzi/app-talk) - A user contributable directory of iOS apps with x-callback-urls, by [@pietropizzi](http://twitter.com/pietropizzi)
 
 **Business**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [KaramazovShogun](https://github.com/KaramazovShogun)
+* [pmusolino](https://github.com/pmusolino), [KaramazovShogun](https://github.com/KaramazovShogun), [pietropizzi](https://github.com/pietropizzi)
