@@ -17,11 +17,13 @@
 
 **Business**
 
-* 
+* [What’s the best use of a leader’s time?](https://m.signalvnoise.com/whats-the-best-use-of-a-leader-s-time-758c10a69228), by [@cjlew23](https://twitter.com/cjlew23)
+* [5 Skills a Modern Product Manager Must Have](https://uxplanet.org/who-the-f-is-a-product-manager-a383c30aba40), by Eugen Eșanu
 
 **UI/UX**
 
-* 
+* [Usability vs. Desirability in UX Design](https://theblog.adobe.com/usability-vs-desirability-ux-design/), by [@Marc_Schenker](https://twitter.com/Marc_Schenker)
+* [Why Developers should be in your design sprints](https://blog.prototypr.io/why-developers-should-be-in-your-design-sprints-127a385507c9), by Paul Aston
 
 **Videos**
 
