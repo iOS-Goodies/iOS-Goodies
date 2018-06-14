@@ -13,6 +13,7 @@
 **Tools/Controls**
 
 * [AppTalk](https://github.com/pietropizzi/app-talk) - A user contributable directory of iOS apps with x-callback-urls, by [@pietropizzi](http://twitter.com/pietropizzi)
+* [IAPKit](https://github.com/blackpixel/IAPKit) - A simple approach to Apple In App Purchases (IAP) that handles the presentation of products, purchasing, receipt validation, and timed free trials, by [@blackpixel](https://twitter.com/blackpixel)
 
 **Business**
 
