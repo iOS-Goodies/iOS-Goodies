@@ -10,7 +10,7 @@
 
 **Business**
 
-* 
+* [What we learned about CI/CD analysing 75k builds](https://nevercode.io/blog/what-we-learned-about-ci-cd-tool-analysing-75k-builds/), by [@nevercodehq](https://twitter.com/nevercodehq)
 
 **UI/UX**
 
