@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [cocoapods-graph - generates a dependencies graph report](https://github.com/erickjung/cocoapods-graph), by [@erickjung](https://twitter.com/erickjung)
 
 **Business**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [dobreandl](https://github.com/dobreandl), [onmyway133](https://github.com/onmyway133), [t-unit](https://github.com/t-unit)
+* [dobreandl](https://github.com/dobreandl), [onmyway133](https://github.com/onmyway133), [t-unit](https://github.com/t-unit), [FranciscoAmado](https://github.com/FranciscoAmado)
