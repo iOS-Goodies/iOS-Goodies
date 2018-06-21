@@ -18,6 +18,7 @@
 **UI/UX**
 
 * [The Story Behind Susan Kare’s Iconic Design Work for Apple](https://milanote.com/the-work/the-story-behind-susan-kares-iconic-design-work-for-apple), by [@oliebol](https://twitter.com/oliebol)
+* [How we built Goodshows App🍿 — design process, challenges, and learnings of building a social network](https://uxdesign.cc/how-we-built-goodshows-app-design-process-challenges-and-the-learnings-of-building-a-social-24325d9afb04), by [@farhanrazaak](https://twitter.com/farhanrazaak)
 
 **Videos**
 
