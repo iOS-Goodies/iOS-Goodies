@@ -8,7 +8,7 @@
 
 **Business**
 
-* 
+* [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/), by [@steipete](https://twitter.com/steipete)
 
 **UI/UX**
 
