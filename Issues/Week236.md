@@ -4,15 +4,18 @@
 * [Parallel Programming with Swift: What could possibly go wrong?](https://medium.com/flawless-app-stories/parallel-programming-with-swift-what-could-possibly-go-wrong-f5bcc38b1814) by [@olbrich_jan](https://twitter.com/olbrich_jan)
 * [Open Sourcing NonEmpty](https://www.pointfree.co/blog/posts/7-open-sourcing-nonempty), by [@pointfreeco](https://twitter.com/pointfreeco)
 * [Thoughts on @dynamicMemberLookup](https://oleb.net/blog/2018/06/dynamic-member-lookup/), by [@olebegemann](https://twitter.com/olebegemann)
-* 
+* [Test your UI using Unit Tests](https://medium.com/@pardel/test-your-ui-using-unit-tests-c0e835c8194b), by [@pardel](https://twitter.com/pardel)
+* [iPad Navigation Bar and Toolbar Height Changes in iOS 12](https://medium.com/@hacknicity/ipad-navigation-bar-and-toolbar-height-changes-in-ios-12-91c5766809f4), by [@geoffhackworth](https://twitter.com/geoffhackworth)
 
 **Tools/Controls**
 
-* 
+* [NonEmpty](https://github.com/pointfreeco/swift-nonempty) - 🎁 A compile-time guarantee that a collection contains a value, by [@pointfreeco](https://twitter.com/pointfreeco)
+* [Money](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency, by [@mattt](https://twitter.com/mattt)
 
-**Business**
+**Business/Career**
 
 * [How to Use Slack and Not Go Crazy](https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-crazy/), by [@steipete](https://twitter.com/steipete)
+* [A Year of Monument Valley 2](https://medium.com/@ustwogames/a-year-of-monument-valley-2-36754517a386), by [@ustwogames](https://twitter.com/ustwogames)
 
 **UI/UX**
 
