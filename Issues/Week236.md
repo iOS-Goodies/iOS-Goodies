@@ -12,6 +12,7 @@
 
 * [NonEmpty](https://github.com/pointfreeco/swift-nonempty) - 🎁 A compile-time guarantee that a collection contains a value, by [@pointfreeco](https://twitter.com/pointfreeco)
 * [Money](https://github.com/Flight-School/Money) - A precise, type-safe representation of a monetary amount in a given currency, by [@mattt](https://twitter.com/mattt)
+* [Bartinter](https://github.com/MaximKotliar/Bartinter) - Changes your status bar depending on content behind it, by [@Maxim_Kotliar](https://twitter.com/Maxim_Kotliar)
 
 **Business/Career**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa), [FranciscoAmado](https://github.com/FranciscoAmado)
