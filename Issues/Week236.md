@@ -1,3 +1,5 @@
+I wrote last issue about the React Native at Aribnb series, and also mentioned Artsy in my comment. This week, I really enjoyed reading [Ash Furrow's reaction post](https://ashfurrow.com/blog/airbnb-and-react-native-expectations/), which pretty much sums up my opinon as well. Go ahead and read that, then continue with the rest of the links 😄
+
 **Articles**
 
 * [Debugging on iOS With Unified Logging System](https://agostini.tech/2018/06/24/unified-logging-system/), by [@dagostin](https://twitter.com/dagostin)
