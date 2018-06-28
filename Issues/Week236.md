@@ -6,6 +6,7 @@
 * [Thoughts on @dynamicMemberLookup](https://oleb.net/blog/2018/06/dynamic-member-lookup/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Test your UI using Unit Tests](https://medium.com/@pardel/test-your-ui-using-unit-tests-c0e835c8194b), by [@pardel](https://twitter.com/pardel)
 * [iPad Navigation Bar and Toolbar Height Changes in iOS 12](https://medium.com/@hacknicity/ipad-navigation-bar-and-toolbar-height-changes-in-ios-12-91c5766809f4), by [@geoffhackworth](https://twitter.com/geoffhackworth)
+* [Swift Tip: Refactoring with Deprecations](https://www.objc.io/blog/2018/06/26/refactoring-with-deprecations/), by [@objcio](https://twitter.com/objcio)
 
 **Tools/Controls**
 
