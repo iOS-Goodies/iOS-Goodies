@@ -14,6 +14,7 @@
 **Business/Career**
 
 * [The Best Career Advice From Dev Chats](https://www.samjarman.co.nz/blog/career-advice), by [@samjarman](https://twitter.com/samjarman)
+* [15 Years Ago, I Went Indie and Didn’t Know It.](https://medium.com/building-ulysses/15-years-ago-i-went-indie-and-didnt-know-it-cca7ab53c8d2), by [@macguru17](https://twitter.com/macguru17)
 
 **UI/UX**
 
