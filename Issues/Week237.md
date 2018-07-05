@@ -13,11 +13,11 @@
 
 **Business/Career**
 
-* 
+* [The Best Career Advice From Dev Chats](https://www.samjarman.co.nz/blog/career-advice), by [@samjarman](https://twitter.com/samjarman)
 
 **UI/UX**
 
-* 
+* [6 Common Pitfalls When Prototyping](http://babich.biz/prototyping-pitfalls/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
