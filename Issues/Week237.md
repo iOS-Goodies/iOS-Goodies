@@ -9,7 +9,9 @@
 
 **Tools/Controls**
 
-* 
+* [Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation, by [@mattt](https://twitter.com/mattt)
+* [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - Why not use UserDefaults to store Codable objects, by [@omaralbeik](https://twitter.com/omaralbeik)
+* [Sica](https://github.com/cats-oss/Sica) - 🦌 Simple Interface Core Animation. Run type-safe animation sequencially or parallery, by [@marty_suzuki](https://twitter.com/marty_suzuki)
 
 **Business/Career**
 
@@ -19,6 +21,7 @@
 **UI/UX**
 
 * [6 Common Pitfalls When Prototyping](http://babich.biz/prototyping-pitfalls/), by [@101babich](https://twitter.com/101babich)
+* [Busting UX Research Myths](https://theblog.adobe.com/busting-ux-research-myths/), by [@wittster](https://twitter.com/wittster)
 
 **Videos**
 
