@@ -4,6 +4,7 @@
 * [Smart Grid Sizing](https://pspdfkit.com/blog/2018/smart-grid-sizing/), by [@qdoug](https://twitter.com/qdoug) for [@PSPDFKit](https://twitter.com/PSPDFKit)
 * [Swift GYB](https://nshipster.com/swift-gyb/), by [@mattt](https://twitter.com/mattt)
 * [Make your app accessible for everyone](https://medium.com/@mecid/make-your-app-accessible-for-everyone-a3f8dc178a2c), by [@mecid](http://twitter.com/mecid)
+* [Extension Approach to Keeping UITextFields in Sight](https://medium.com/@kmlong1183/extension-approach-to-keeping-uitextfields-in-sight-9fe8695c2ac6), by Kevin Long
 
 **Tools/Controls**
 
