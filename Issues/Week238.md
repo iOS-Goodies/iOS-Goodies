@@ -1,3 +1,7 @@
+July 10th 2008 is the day the App Store was introduced. Which means that this week, the App Store turned 10 🎉. In those 10 years, the number of apps on the App Store grew from 500 to milions. A lot has changed in those 10 years, but there are [apps that were on the App Store from the first day until now](https://www.macstories.net/news/a-decade-on-the-app-store-from-day-one-through-today/). 10 years ago, I was finishing high school and I hadn't seen a real-life iPhone yet. I had also no idea what Objective-C was (Swift wans't born back then), or that 10 years later I would make a living by making iOS apps.
+
+In other news, [NSHipster is back](https://nshipster.com/return/). For those who got into iOS development more recently, NSHipster used to publish an article every Monday on an obscure topic of iOS development. Mattt, the author, joined Apple and took a break from writing. I'm very happy to hear about NSHipster's return. And you may already know Mattt from [Flight School](https://twitter.com/flightdotschool) 😄
+
 **Articles**
 
 * [UIWindow, rootViewController, visual artifacts and leaks.](https://medium.com/appssemble/uiwindow-rootviewcontroller-visual-artifacts-and-leaks-6b6676f92a49), by [@dobreandl](https://twitter.com/dobreandl)
