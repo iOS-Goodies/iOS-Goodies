@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-* 
+* [The importance of Design QA in digital product design](https://uxdesign.cc/the-importance-of-design-qa-in-digital-product-design-c3f3d128270), by [@jesseddy](https://twitter.com/jesseddy)
 
 **Videos**
 
