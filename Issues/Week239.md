@@ -2,6 +2,7 @@
 
 * [Bug Reporting](https://nshipster.com/bug-reporting/), by [@mattt](https://twitter.com/mattt)
 * [Refactoring Swift code for testability](https://www.swiftbysundell.com/posts/refactoring-swift-code-for-testability), by [@johnsundell](https://twitter.com/johnsundell)
+* [Eliminating Impossible States with Never ](http://matt.diephouse.com/2018/07/eliminating-impossible-states-with-never/), by [@mdiep](https://twitter.com/mdiep)
 
 **Tools/Controls**
 
