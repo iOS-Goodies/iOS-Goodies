@@ -2,6 +2,7 @@
 
 * [Bug Reporting](https://nshipster.com/bug-reporting/), by [@mattt](https://twitter.com/mattt)
 * [Refactoring Swift code for testability](https://www.swiftbysundell.com/posts/refactoring-swift-code-for-testability), by [@johnsundell](https://twitter.com/johnsundell)
+* [Taking Advantage of Generics and Codable in Swift](https://medium.com/@mpesate/taking-advantage-of-generics-and-codable-in-swift-b5e28cdeb6fa), by [MikePT28](https://twitter.com/mikept28)
 * [Eliminating Impossible States with Never ](http://matt.diephouse.com/2018/07/eliminating-impossible-states-with-never/), by [@mdiep](https://twitter.com/mdiep)
 
 **Tools/Controls**
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* 
+* [MikePT28](https://github.com/MikePT28)
