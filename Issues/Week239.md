@@ -19,6 +19,7 @@
 * [Estimations And Orders Of Magnitude](https://cate.blog/2018/07/17/estimations-and-orders-of-magnitude/), by [@catehstn](https://twitter.com/catehstn/)
 * [Story points: there’s no right way to do it](https://www.sicpers.info/2018/07/story-points/), by [@iwasleeg](https://twitter.com/iwasleeg)
 * [My app business failed. What’s next?](https://www.davenott.co.uk/2018/07/11/my-app-business-failed-whats-next/), by [@_davenott](https://www.twitter.com/_davenott)
+* [App Stores and Monetization](https://techpinions.com/app-stores-and-monetization/53274), by [@caro_milanesi](https://twitter.com/caro_milanesi)
 
 
 **UI/UX**
