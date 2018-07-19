@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍♂️, by [@pmusolino](https://twitter.com/pmusolino)
+* [SiriusObfuscator tool](https://github.com/Polidea/SiriusObfuscator) and [article](https://www.polidea.com/blog/open-source-code-obfuscation-tool-for-protecting-ios-apps/), by [@polidea](https://twitter.com/polidea)
 
 **Business/Career**
 
