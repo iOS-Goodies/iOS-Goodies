@@ -7,7 +7,7 @@
 * [Xcode's Auto Generated Interfaces](https://deadbeef.me/2018/07/auto-generated-interfaces), by [@bananamlkshake2](https://twitter.com/Bananamlkshake2)
 * [Swift dependency injection design pattern](https://theswiftdev.com/2018/07/17/swift-dependency-injection-design-pattern/), by Tibor Bödecs
 * [Keeping Things Going When the User Leaves with Background Transfers](https://williamboles.me/keeping-things-going-when-the-user-leaves-with-urlsession-and-background-transfers/), by [@wibosco](https://twitter.com/wibosco)
-* 
+
 
 **Tools/Controls**
 
@@ -19,7 +19,7 @@
 * [Estimations And Orders Of Magnitude](https://cate.blog/2018/07/17/estimations-and-orders-of-magnitude/), by [@catehstn](https://twitter.com/catehstn/)
 * [Story points: there’s no right way to do it](https://www.sicpers.info/2018/07/story-points/), by [@iwasleeg](https://twitter.com/iwasleeg)
 * [My app business failed. What’s next?](https://www.davenott.co.uk/2018/07/11/my-app-business-failed-whats-next/), by [@_davenott](https://www.twitter.com/_davenott)
-* [The open-plan office is a terrible, horrible, no good, very bad idea](https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3), by [@dhh](https://twitter.com/dhh)
+
 
 **UI/UX**
 
