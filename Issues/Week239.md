@@ -1,9 +1,11 @@
+Happy Thursday, everyone! Apple released Xcode 10 beta 4 this week. As noted by [@XcodeReleases](https://twitter.com/XcodeReleases/status/1019274383255166977), it seems Apple is still working full speed on Xcode 10. The pace is likely to be slowing down as we get closer to the autumn, but if you haven't started testing your apps against Xcode 10 and iOS 12, now is probably a good time to start 😄
+
 **Articles**
 
 * [Bug Reporting](https://nshipster.com/bug-reporting/), by [@mattt](https://twitter.com/mattt)
 * [Refactoring Swift code for testability](https://www.swiftbysundell.com/posts/refactoring-swift-code-for-testability), by [@johnsundell](https://twitter.com/johnsundell)
 * [Taking Advantage of Generics and Codable in Swift](https://medium.com/@mpesate/taking-advantage-of-generics-and-codable-in-swift-b5e28cdeb6fa), by [MikePT28](https://twitter.com/mikept28)
-* [Eliminating Impossible States with Never ](http://matt.diephouse.com/2018/07/eliminating-impossible-states-with-never/), by [@mdiep](https://twitter.com/mdiep)
+* [Eliminating Impossible States with Never](http://matt.diephouse.com/2018/07/eliminating-impossible-states-with-never/), by [@mdiep](https://twitter.com/mdiep)
 * [Xcode's Auto Generated Interfaces](https://deadbeef.me/2018/07/auto-generated-interfaces), by [@bananamlkshake2](https://twitter.com/Bananamlkshake2)
 * [Swift dependency injection design pattern](https://theswiftdev.com/2018/07/17/swift-dependency-injection-design-pattern/), by Tibor Bödecs
 * [Keeping Things Going When the User Leaves with Background Transfers](https://williamboles.me/keeping-things-going-when-the-user-leaves-with-urlsession-and-background-transfers/), by [@wibosco](https://twitter.com/wibosco)
