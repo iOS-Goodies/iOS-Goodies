@@ -17,10 +17,13 @@
 * [State of Mobile App Quality 2018: What We Learned From Analyzing 100 Million Bugs](https://instabug.com/state-of-mobile-app-quality-2018)
 * [Now I see you, now I don’t](https://medium.com/@S_Lindemann/now-i-see-you-now-i-dont-8e5b260376ac), by [@S_Lindemann](https://twitter.com/S_Lindemann)
 * [Imaginary problems, the root of bad software](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8), by [@Cerebralab2](https://twitter.com/Cerebralab2)
+* [Library Rules: How to make an open office plan work](https://m.signalvnoise.com/library-rules-how-to-make-an-open-office-plan-work-f9f6d69a2d4c), by [@jasonfried](https://twitter.com/jasonfried)
 
 **UI/UX**
 
-* 
+* [What Can Bike Sharing Apps Teach Us About Mobile On-boarding Design?](https://www.lukew.com/ff/entry.asp?1995), by [@lukew](https://twitter.com/lukew)
+* [Stop letting the data decide](http://www.nielshoven.com/stop-letting-the-data-decide/), by [@NielsHoven](https://twitter.com/NielsHoven)
+* [Rounded or Sharp-Corner Buttons? - Trivial Design Decisions That Actually Matter](https://uxplanet.org/rounded-or-sharp-corner-buttons-def3977ed7c4), by [@taimekoe](https://twitter.com/@taimekoe)
 
 **Videos**
 
