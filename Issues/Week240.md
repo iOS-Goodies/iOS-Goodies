@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [@onmyway133](https://twitter.com/onmyway133), [@amadeuPT](https://twitter.com/amadeuPT)
+* [onmyway133](https://github.com/onmyway133), [ajandrade](https://github.com/ajandrade), [rbarbosa](https://github.com/rbarbosa)
