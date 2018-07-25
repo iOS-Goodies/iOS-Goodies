@@ -18,7 +18,7 @@
 
 **Videos**
 
-* 
+* [Designing For Augmented Reality](https://www.youtube.com/watch?v=-r1VtYxvVIc), by [@flarup](https://twitter.com/flarup)
 
 **Credits**
 
