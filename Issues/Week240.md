@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-* [State of Mobile App Quality 2018: What We Learned From Analyzing 100 Million Bugs] (https://instabug.com/state-of-mobile-app-quality-2018)
+* [State of Mobile App Quality 2018: What We Learned From Analyzing 100 Million Bugs](https://instabug.com/state-of-mobile-app-quality-2018)
 
 **UI/UX**
 
