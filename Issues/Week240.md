@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [Best 12 tools to create amazing screenshots for your mobile apps (2018)](https://medium.com/appmanager/best-12-tools-to-create-amazing-screenshots-for-your-mobile-apps-2018-1cbf6f8660ba), by [@ott_max](https://twitter.com/ott_max) via [AppManager](https://appmanager.io)
+* [TypingIndicator](https://github.com/nathantannar4/TypingIndicator) - A replica of iMessage's typing indicator bubble with support for a variety of animations, by [@nathantannar4](https://twitter.com/nathantannar4)
 
 **Business/Career**
 
