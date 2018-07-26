@@ -1,3 +1,7 @@
+Happy Thursday! It was a quiet vacation week among my colleagues, at least, so I decided it's the perfect time to add [SwiftLint](https://github.com/realm/SwiftLint) to our biggest project. SwiftLint is a great tool, a mature and solid project, and I totally recommend it. However, adding it to a project that was started more than 2 years ago can take a bit of time 😅.
+
+Even though it's the middle of the summer, there was again a lot of new content. Our iOS community never ceases to surprise me coming up with new and quality materials. I'm happy to be a part of it ☺️.
+
 **Articles**
 
 * [Building a camera calculator with Vision and Tesseract OCR in iOS](https://heartbeat.fritz.ai/building-a-camera-calculator-with-vision-and-tesseract-ocr-in-ios-26f16240fe51), by [@onmyway133](https://twitter.com/onmyway133) via [Heartbeart](https://heartbeat.fritz.ai/)
