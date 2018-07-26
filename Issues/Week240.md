@@ -18,7 +18,7 @@ Even though it's the middle of the summer, there was again a lot of new content.
 
 **Business/Career**
 
-* [State of Mobile App Quality 2018: What We Learned From Analyzing 100 Million Bugs](https://instabug.com/state-of-mobile-app-quality-2018)
+* [State of Mobile App Quality 2018: What We Learned From Analyzing 100 Million Bugs](https://instabug.com/state-of-mobile-app-quality-2018), by [@instabug](https://twitter.com/instabug)
 * [Now I see you, now I don’t](https://medium.com/@S_Lindemann/now-i-see-you-now-i-dont-8e5b260376ac), by [@S_Lindemann](https://twitter.com/S_Lindemann)
 * [Imaginary problems, the root of bad software](https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8), by [@Cerebralab2](https://twitter.com/Cerebralab2)
 * [Library Rules: How to make an open office plan work](https://m.signalvnoise.com/library-rules-how-to-make-an-open-office-plan-work-f9f6d69a2d4c), by [@jasonfried](https://twitter.com/jasonfried)
