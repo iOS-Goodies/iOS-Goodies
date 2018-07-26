@@ -2,16 +2,14 @@
 
 * [Building a camera calculator with Vision and Tesseract OCR in iOS](https://heartbeat.fritz.ai/building-a-camera-calculator-with-vision-and-tesseract-ocr-in-ios-26f16240fe51), by [@onmyway133](https://twitter.com/onmyway133) via [Heartbeart](https://heartbeat.fritz.ai/)
 * [Updating Strings For Swift 4.2](https://useyourloaf.com/blog/updating-strings-for-swift-4.2/), by [@kharrison](https://twitter.com/kharrison)
-* [Better iOS projects: Getting (nearly) rid of Xcodeproject - A (not so) short Introduction to Xcodegen](https://www.number42.de/blog/2018/07/24/xcodegen-article.html), by [@wlborg](https://twitter.com/wlborg)
 * [Custom Types for Powerful Matching](http://www.figure.ink/blog/2018/7/23/custom-types-for-powerful-matching), by [@jemmons](https://twitter.com/jemmons)
 * [Writing Cleaner View Code in Swift By Overriding loadView()](https://swiftrocks.com/writing-cleaner-view-code-by-overriding-loadview.html), by [@rockthebruno](https://twitter.com/rockthebruno)
-* [Better iOS projects: Getting (nearly) rid of Xcodeproject ](https://www.number42.de/blog/2018/07/24/xcodegen-article.html), by [@Number42Apps](https://twitter.com/Number42Apps)
+* [Better iOS projects: Getting (nearly) rid of Xcodeproject](https://www.number42.de/blog/2018/07/24/xcodegen-article.html), by [@wlborg](https://twitter.com/wlborg)
 * [Design Patterns in Swift #1: Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/), by [@iosbrain](https://twitter.com/iosbrain)
-* [Best 12 tools to create amazing screenshots for your mobile apps (2018)](https://medium.com/appmanager/best-12-tools-to-create-amazing-screenshots-for-your-mobile-apps-2018-1cbf6f8660ba), by [@ott_max](https://twitter.com/ott_max) via [AppManager](https://appmanager.io)
 
 **Tools/Controls**
 
-* 
+* [Best 12 tools to create amazing screenshots for your mobile apps (2018)](https://medium.com/appmanager/best-12-tools-to-create-amazing-screenshots-for-your-mobile-apps-2018-1cbf6f8660ba), by [@ott_max](https://twitter.com/ott_max) via [AppManager](https://appmanager.io)
 
 **Business/Career**
 
