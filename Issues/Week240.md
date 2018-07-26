@@ -7,6 +7,7 @@
 * [Writing Cleaner View Code in Swift By Overriding loadView()](https://swiftrocks.com/writing-cleaner-view-code-by-overriding-loadview.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 * [Better iOS projects: Getting (nearly) rid of Xcodeproject ](https://www.number42.de/blog/2018/07/24/xcodegen-article.html), by [@Number42Apps](https://twitter.com/Number42Apps)
 * [Design Patterns in Swift #1: Factory Method and Singleton](https://www.appcoda.com/design-pattern-creational/), by [@iosbrain](https://twitter.com/iosbrain)
+* [Best 12 tools to create amazing screenshots for your mobile apps (2018)](https://medium.com/appmanager/best-12-tools-to-create-amazing-screenshots-for-your-mobile-apps-2018-1cbf6f8660ba), by [@ott_max](https://twitter.com/ott_max) via [AppManager](https://appmanager.io)
 
 **Tools/Controls**
 
