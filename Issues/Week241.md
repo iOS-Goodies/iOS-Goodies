@@ -1,6 +1,7 @@
 **Articles**
 
 * [Scrollable UIStackView](https://blog.alltheflow.com/scrollable-uistackview/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
+* [5 secrets of Swift API design](https://binarapps.com/blog/5-secrets-of-swift-api-design), by [@tbakengineer](https://twitter.com/tbakengineer)
 
 **Tools/Controls**
 
@@ -20,4 +21,4 @@
 
 **Credits**
 
-* [ajandrade](https://github.com/ajandrade), [@Boris-Em](http://github.com/boris-em)
+* [ajandrade](https://github.com/ajandrade), [@Boris-Em](http://github.com/boris-em), [tomaszbak](https://github.com/tomaszbakbinar)
