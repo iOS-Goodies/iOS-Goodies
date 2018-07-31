@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning made easy for iOS by [@WeTransfer](https://twitter.com/WeTransfer)
 
 **Business/Career**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [ajandrade](https://github.com/ajandrade)
+* [ajandrade](https://github.com/ajandrade), [@Boris-Em](http://github.com/boris-em)
