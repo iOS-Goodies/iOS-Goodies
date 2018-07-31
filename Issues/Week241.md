@@ -16,7 +16,7 @@
 
 **Videos**
 
-* 
+* [ADDC videos](https://www.youtube.com/playlist?list=PLwR4QwnnbBuLHBfsD0Spj6hAcI4yT3uib)
 
 **Credits**
 
