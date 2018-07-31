@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Scrollable UIStackView](https://blog.alltheflow.com/scrollable-uistackview/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [@Boris-Em](http://github.com/boris-em)
+* [ajandrade](https://github.com/ajandrade), [@Boris-Em](http://github.com/boris-em)
