@@ -2,10 +2,14 @@
 
 * [Scrollable UIStackView](https://blog.alltheflow.com/scrollable-uistackview/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
 * [5 secrets of Swift API design](https://binarapps.com/blog/5-secrets-of-swift-api-design), by [@tbakengineer](https://twitter.com/tbakengineer)
+* [Equatable](https://swiftunboxed.com/protocols/equatable/), by [@gregheo](https://twitter.com/gregheo)
+* [Synthesized Conformance to Equatable](https://swiftunboxed.com/internals/synthesized-equatable-conformance/), by [@gregheo](https://twitter.com/gregheo)
+* [Never](https://nshipster.com/never/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning made easy for iOS by [@WeTransfer](https://twitter.com/WeTransfer)
+* [SourceEditor](https://github.com/louisdh/source-editor)- A native source editor for iOS and macOS, written in Swift, by [@LouisDhauwe](https://twitter.com/LouisDhauwe)
 
 **Business/Career**
 
@@ -13,7 +17,9 @@
 
 **UI/UX**
 
-* 
+* [Apple Design Resources](https://developer.apple.com/design/resources/)
+* [Is Digital ‘Dumbing Down’ Desirable?](https://usabilitygeek.com/is-digital-dumbing-down-desirable/), by Roxanne Abercrombie
+* [Negative Space in UI Design: Tips and Best Practices](https://uxplanet.org/negative-space-in-ui-design-tips-and-best-practices-98311cb2ad16), by [@tubikstudio](https://twitter.com/tubikstudio)
 
 **Videos**
 
