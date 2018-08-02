@@ -15,7 +15,7 @@ There's a thing by Apple called the Affiliate Program. Through it, if you promot
 
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning made easy for iOS by [@WeTransfer](https://twitter.com/WeTransfer)
 * [SourceEditor](https://github.com/louisdh/source-editor)- A native source editor for iOS and macOS, written in Swift, by [@LouisDhauwe](https://twitter.com/LouisDhauwe)
-* [PasswordRules](https://github.com/NSHipster/PasswordRules) - A Swift library for defining strong password generation rules. 
+* [PasswordRules](https://github.com/NSHipster/PasswordRules) - A Swift library for defining strong password generation rules, by [@mattt](https://twitter.com/mattt)
 
 **Business/Career**
 
