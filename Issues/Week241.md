@@ -10,10 +10,12 @@
 
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning made easy for iOS by [@WeTransfer](https://twitter.com/WeTransfer)
 * [SourceEditor](https://github.com/louisdh/source-editor)- A native source editor for iOS and macOS, written in Swift, by [@LouisDhauwe](https://twitter.com/LouisDhauwe)
+* [PasswordRules](https://github.com/NSHipster/PasswordRules) - A Swift library for defining strong password generation rules. 
 
 **Business/Career**
 
-* 
+* [The Big Deal](https://allenpike.com/2018/the-big-deal/), by [@apike](http://www.twitter.com/apike/)
+* [Slack is for Friends, Too](https://blog.lickability.com/slack-is-for-friends-too-57ab3f9d9da0), by [@jilliangmeehan](https://twitter.com/jilliangmeehan)
 
 **UI/UX**
 
