@@ -5,6 +5,7 @@
 * [Equatable](https://swiftunboxed.com/protocols/equatable/), by [@gregheo](https://twitter.com/gregheo)
 * [Synthesized Conformance to Equatable](https://swiftunboxed.com/internals/synthesized-equatable-conformance/), by [@gregheo](https://twitter.com/gregheo)
 * [Never](https://nshipster.com/never/), by [@mattt](https://twitter.com/mattt)
+* [Migrating an Objective-C class to Swift: a piecemeal approach](https://oleb.net/2018/objc-swift-transition/), by [@olebegemann](https://twitter.com/olebegemann)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [ajandrade](https://github.com/ajandrade), [@Boris-Em](http://github.com/boris-em), [tomaszbak](https://github.com/tomaszbakbinar)
+* [ajandrade](https://github.com/ajandrade), [boris-em](http://github.com/boris-em), [tomaszbakbinar](https://github.com/tomaszbakbinar), [rbarbosa](https://github.com/rbarbosa)
