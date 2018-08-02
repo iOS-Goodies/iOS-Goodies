@@ -7,6 +7,7 @@
 * [Never](https://nshipster.com/never/), by [@mattt](https://twitter.com/mattt)
 * [Migrating an Objective-C class to Swift: a piecemeal approach](https://oleb.net/2018/objc-swift-transition/), by [@olebegemann](https://twitter.com/olebegemann)
 * [Conditional Compilation in Swift, Part 1](https://davedelong.com/blog/2018/07/25/conditional-compilation-in-swift-part-1/), [Part2](https://davedelong.com/blog/2018/07/25/conditional-compilation-in-swift-part-2/), by [@davedelong](https://twitter.com/davedelong)
+* [Swift tip: Building arrays with compactMap](https://www.jessesquires.com/blog/swift-tip-building-arrays-with-compactmap/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Tools/Controls**
 
