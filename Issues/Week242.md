@@ -24,6 +24,7 @@
 
 * [Bad Idea Rejection Tokens](http://blog.jaredsinclair.com/post/176737572155/bad-idea-rejection-tokens), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
+* [Effective Remote Communication](https://pspdfkit.com/blog/2018/effective-remote-communication/), by [@steipete](https://twitter.com/steipete)
 
 **UI/UX**
 
