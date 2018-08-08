@@ -4,6 +4,7 @@
 * [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5), by [@nathangitter](https://twitter.com/nathangitter)
 * [Refactoring Massive App Delegate](http://www.vadimbulavin.com/refactoring-massive-app-delegate/), by [@V8tr](https://twitter.com/V8tr)
 * [Extracting the location from a photo](https://rolandleth.com/extracting-the-location-from-a-photo), by [@rolandleth](https://twitter.com/rolandleth)
+* [Creating a Bottom Sheet](https://skagedal.github.io/2018/08/03/bottom-sheet.html), by [@skagedal](https://twitter.com/skagedal)
 
 **Tools/Controls**
 
