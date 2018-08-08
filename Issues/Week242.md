@@ -2,6 +2,7 @@
 
 * [6 Steps to Integrate ClassKit into Your App](https://www.netguru.co/codestories/6-steps-to-integrate-classkit-into-your-app?utm_campaign=Codestories&utm_source=iosgoodies&utm_medium=social), by [@kwiecien_co](https://twitter.com/kwiecien_co)
 * [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5), by [@nathangitter](https://twitter.com/nathangitter)
+* [Refactoring Massive App Delegate](http://www.vadimbulavin.com/refactoring-massive-app-delegate/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -19,11 +20,12 @@
 
 **Business/Career**
 
-* 
+* [Bad Idea Rejection Tokens](http://blog.jaredsinclair.com/post/176737572155/bad-idea-rejection-tokens), by [@jaredsinclair](https://twitter.com/jaredsinclair)
+* [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
 
 **UI/UX**
 
-* 
+* [How to fix dragging animation in UI with simple math](https://uxdesign.cc/how-to-fix-dragging-animation-in-ui-with-simple-math-4bbc10deccf7), by [@NashVail](https://twitter.com/NashVail)
 
 **Videos**
 
