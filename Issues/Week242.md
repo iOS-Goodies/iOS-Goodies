@@ -1,4 +1,6 @@
-I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangitter)'s work on building fluid interfaces. [The WWDC talk that inspired him](https://developer.apple.com/videos/play/wwdc2018/803/) is one of the most interesting ones this year (totally recommend it, btw), but it's more of a theoretical / inspirational / design session than a coding one. Nathan takes it one step further, writing an article and open sourcing the code for 8 interfaces that cover the topics in the presentation. You can find both of them below.
+I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangitter)'s work on building fluid interfaces. [The WWDC talk that inspired him](https://developer.apple.com/videos/play/wwdc2018/803/) is one of the most interesting ones this year (totally recommend it, btw), but it's more of a theoretical / inspirational / design session than a coding one. Nathan takes it one step further, writing an article and open sourcing the code for 8 interfaces that cover the topics in the presentation. You can find both the article and the code for them below.
+
+We've had a lot of great articles this week, and unfortunately we can't fit all of them in the newsletter. If you're curious to see the rest, you can [read our issue on GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week242.md). And make sure to check out this week's sponsored message 😄
 
 **Articles**
 
