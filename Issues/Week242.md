@@ -17,7 +17,8 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 * [swiff](https://github.com/agens-no/swiff) - Tool for inspecting time spent on tasks in e.g. build logs, by [@hfossli](https://twitter.com/hfossli)
 * [Building Fluid Interfaces - Demo App](https://github.com/nathangitter/fluid-interfaces) - Natural gestures and animations inspired by Apple's WWDC18 talk "Designing Fluid Interfaces", by [@nathangitter](https://twitter.com/nathangitter)
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 💻 A fast and flexible O(n) difference algorithm framework for Swift collection, by [@ra1028fe5](https://twitter.com/ra1028fe5)
-* [Cabbage](https://github.com/VideoFlint/Cabbage), by [@NoairZhangwei](https://twitter.com/NoairZhangwei)
+* [Cabbage](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation, by [@NoairZhangwei](https://twitter.com/NoairZhangwei)
+* [Unwrap](https://github.com/twostraws/Unwrap) - Learn Swift interactively on your iPhone, by [@twostraws](https://twitter.com/twostraws)
 
 **Sponsored Link**
 
