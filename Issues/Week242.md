@@ -7,6 +7,9 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 * [Extracting the location from a photo](https://rolandleth.com/extracting-the-location-from-a-photo), by [@rolandleth](https://twitter.com/rolandleth)
 * [Creating a Bottom Sheet](https://skagedal.github.io/2018/08/03/bottom-sheet.html), by [@skagedal](https://twitter.com/skagedal)
 * [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html), by [@rockthebruno](https://twitter.com/rockthebruno)
+* [How to Dim the Background of a Popover on iOS](https://spin.atomicobject.com/2018/08/08/dim-popover-background/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
+* [Getting All Cases Of An Enum](https://useyourloaf.com/blog/getting-all-cases-of-an-enum/), by [@kharrison](https://twitter.com/kharrison)
+* [Where usage in Swift](https://www.avanderlee.com/swift/where-using-swift/), [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -28,6 +31,7 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 * [Bad Idea Rejection Tokens](http://blog.jaredsinclair.com/post/176737572155/bad-idea-rejection-tokens), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
 * [Effective Remote Communication](https://pspdfkit.com/blog/2018/effective-remote-communication/), by [@steipete](https://twitter.com/steipete)
+* [Building a Great Engineering Team: Part One - Start With You](https://www.bignerdranch.com/blog/building-a-great-engineering-team-part-one-start-with-you/), by [@ strickland](https://twitter.com/strickland)
 
 **UI/UX**
 
@@ -40,4 +44,4 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [ra1028](https://github.com/ra1028), [hfossli](https://github.com/hfossli), [MichalTKwiecien](https://github.com/MichalTKwiecien)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [ra1028](https://github.com/ra1028), [hfossli](https://github.com/hfossli), [MichalTKwiecien](https://github.com/MichalTKwiecien), [rbarbosa](https://github.com/rbarbosa)
