@@ -9,7 +9,7 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 * [Writing Custom Pattern Matching in Swift](https://swiftrocks.com/writing-custom-pattern-matching-rules-in-swift.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 * [How to Dim the Background of a Popover on iOS](https://spin.atomicobject.com/2018/08/08/dim-popover-background/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
 * [Getting All Cases Of An Enum](https://useyourloaf.com/blog/getting-all-cases-of-an-enum/), by [@kharrison](https://twitter.com/kharrison)
-* [Where usage in Swift](https://www.avanderlee.com/swift/where-using-swift/), [@twannl](https://twitter.com/twannl)
+* [Where usage in Swift](https://www.avanderlee.com/swift/where-using-swift/), by [@twannl](https://twitter.com/twannl)
 * [Working with IndexPaths](https://152percent.com/blog/2018/8/7/working-with-indexpaths), by [@shaps](https://twitter.com/shaps)
 
 **Tools/Controls**
