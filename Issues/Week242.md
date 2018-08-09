@@ -38,6 +38,7 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 
 * [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5), by [@nathangitter](https://twitter.com/nathangitter)
 * [How to fix dragging animation in UI with simple math](https://uxdesign.cc/how-to-fix-dragging-animation-in-ui-with-simple-math-4bbc10deccf7), by [@NashVail](https://twitter.com/NashVail)
+* [How to Use Smart Defaults to Reduce Cognitive Load](https://www.shopify.com/partners/blog/cognitive-load), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -45,4 +46,4 @@ I was really impressed this week by [Nathan Gitter](https://twitter.com/nathangi
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [ra1028](https://github.com/ra1028), [hfossli](https://github.com/hfossli), [MichalTKwiecien](https://github.com/MichalTKwiecien), [rbarbosa](https://github.com/rbarbosa)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [ra1028](https://github.com/ra1028), [hfossli](https://github.com/hfossli), [MichalTKwiecien](https://github.com/MichalTKwiecien), [rbarbosa](https://github.com/rbarbosa), [pmusolino](https://github.com/pmusolino)
