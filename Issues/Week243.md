@@ -20,4 +20,4 @@
 
 **Credits**
 
-*  [@onmyway133](https://twitter.com/onmyway133)
+*  [onmyway133](https://github.com/onmyway133)
