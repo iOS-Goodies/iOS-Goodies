@@ -23,7 +23,7 @@ There's a new podcast in the iOS community - [Contravariance](https://contravari
 
 **UI/UX**
 
-* 
+* [Interaction Design: 7 Basic Types of UI Animation](https://icons8.com/articles/interaction-design-basic-types-ui-animation/), by [@MYalanska](https://twitter.com/MYalanska)
 
 **Videos**
 
