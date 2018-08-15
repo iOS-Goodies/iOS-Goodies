@@ -24,6 +24,7 @@ There's a new podcast in the iOS community - [Contravariance](https://contravari
 **UI/UX**
 
 * [Interaction Design: 7 Basic Types of UI Animation](https://icons8.com/articles/interaction-design-basic-types-ui-animation/), by [@MYalanska](https://twitter.com/MYalanska)
+* [Motion design in digital products: a white paper](https://medium.com/ux-in-motion/motion-design-in-digital-products-a-white-paper-48da834261dd), by [@UX_in_Motion](https://twitter.com/UX_in_Motion)
 
 **Videos**
 
