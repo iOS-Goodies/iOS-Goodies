@@ -1,4 +1,4 @@
-Happy Thursday! Another week, another packed iOS Goodies issue 😄. As last week, not all the articles could make it into the newsletter. You can read all of them on [GitHub](https://github.com/iOS-Goodies/iOS-Goodies/edit/master/Issues/Week243.md).
+Happy Thursday! Another week, another packed iOS Goodies issue 😄. As last week, not all the articles could make it into the newsletter. You can read all of them on [GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week243.md).
 
 There's a new podcast in the iOS community - [Contravariance](https://contravariance.rocks/) by [Benedikt Terhechte](https://twitter.com/terhechte) and [Bas Broek](https://twitter.com/BasThomas). We're wishing them good luck, and many more episodes.
 
