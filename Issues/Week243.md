@@ -18,7 +18,7 @@ There's a new podcast in the iOS community - [Contravariance](https://contravari
 
 **Business/Career**
 
-* 
+* [Building a Great Engineering Team: Part Two - Start With Who You Have](https://www.bignerdranch.com/blog/building-a-great-engineering-team-part-two-start-with-who-you-have/), by [@strickland](https://twitter.com/strickland)
 
 **UI/UX**
 
