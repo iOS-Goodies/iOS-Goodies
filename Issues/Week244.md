@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [swift-validated](https://github.com/pointfreeco/swift-validated), by [@pointfreeco](https://twitter.com/pointfreeco)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [@onmyway133](https://twitter.com/onmyway133), [piotr-sekara](https://github.com/piotr-sekara)
+* [onmyway133](https://github.com/onmyway133), [piotr-sekara](https://github.com/piotr-sekara), [rbarbosa](https://github.com/rbarbosa)
