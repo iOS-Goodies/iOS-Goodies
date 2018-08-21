@@ -16,8 +16,8 @@
 
 **Videos**
 
-* 
+* [ADDC 2018](https://addconf.com/2018/recap/)
 
 **Credits**
 
-* [@onmyway133](https://twitter.com/onmyway133)
+* [@onmyway133](https://twitter.com/onmyway133), [@naeemshaikh90](https://github.com/naeemshaikh90)
