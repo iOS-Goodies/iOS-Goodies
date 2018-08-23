@@ -22,7 +22,7 @@
 
 **UI/UX**
 
-* 
+* [Carousels on Mobile Devices](https://www.nngroup.com/articles/mobile-carousels/), by [@rbudiu](https://twitter.com/rbudiu)
 
 **Videos**
 
