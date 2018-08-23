@@ -2,7 +2,7 @@ Hey, everyone! Next week it's going to be a year since I've been sending out con
 
 **Articles**
 
-* [A taste of MVVM and Reactive paradigm](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/), by [onmyway133](https://github.com/onmyway133)
+* [A taste of MVVM and Reactive paradigm](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/), by [onmyway133](https://twitter.com/onmyway133)
 * [Introduction to HomeKit](https://www.netguru.co/codestories/introduction-to-homekit), by Piotr Sękara
 * [Similar Prefixes](http://khanlou.com/2018/08/similar-prefixes/), by [@khanlou](https://twitter.com/khanlou)
 * [Swift Property Observers](https://nshipster.com/swift-property-observers/), by [@mattt](https://twitter.com/mattt)
