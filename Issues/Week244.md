@@ -23,6 +23,7 @@
 **UI/UX**
 
 * [Carousels on Mobile Devices](https://www.nngroup.com/articles/mobile-carousels/), by [@rbudiu](https://twitter.com/rbudiu)
+* [How UX Designers Make Developers More Efficient](https://icons8.com/articles/ux-designers-make-developers-efficient/), by [@pfranchise](https://twitter.com/pfranchise)
 
 **Videos**
 
