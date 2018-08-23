@@ -1,3 +1,5 @@
+Hey, everyone! Next week it's going to be a year since I've been sending out constantly this newsletter.  Of course, this wouldn't have been possible without the great help of [Rui Barbosa](https://twitter.com/rbarbosa) and without [our contributors](https://github.com/iOS-Goodies/iOS-Goodies/graphs/contributors). And let's not forget [Rui Peres](https://twitter.com/peres) and [Tiago Almeida](https://twitter.com/_tiagoalmeida), who started this newsletter many years ago, and laid a solid foundation on top of which we could build further. I'm planning to write an article about the experience of making iOS Goodies, so if you have any questions, reply here and I'll try to cover them. 
+
 **Articles**
 
 * [A taste of MVVM and Reactive paradigm](https://flawlessapp.io/blog/a-taste-of-mvvm-and-reactive-paradigm/), by [onmyway133](https://github.com/onmyway133)
@@ -10,8 +12,8 @@
 
 **Tools/Controls**
 
-* [swift-validated](https://github.com/pointfreeco/swift-validated) - A result type that accumulates multiple errors., by [@pointfreeco](https://twitter.com/pointfreeco)
-* [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client., by [@hartlco](https://twitter.com/hartlco)
+* [Validated](https://github.com/pointfreeco/swift-validated) - A result type that accumulates multiple errors, by [@pointfreeco](https://twitter.com/pointfreeco)
+* [Icro](https://github.com/hartlco/Icro) - Icro, a third-party micro.blog client, by [@hartlco](https://twitter.com/hartlco)
 
 **Business/Career**
 
