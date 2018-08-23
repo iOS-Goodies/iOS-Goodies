@@ -9,7 +9,7 @@
 
 **Business/Career**
 
-* 
+* [How to Hire Your First Engineer](https://blog.ycombinator.com/how-to-hire-your-first-engineer/), by [@Harjeet](https://twitter.com/Harjeet)
 
 **UI/UX**
 
