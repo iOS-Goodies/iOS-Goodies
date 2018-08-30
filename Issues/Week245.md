@@ -6,7 +6,7 @@
 * [Implementing a Custom Key Strategy For Coding Types](https://martiancraft.com/blog/2018/08/Implementing-custom-key-strategy-for-coding-types/), by [@richturton](https://twitter.com/richturton)
 * [Want to Write Clearer Code? Follow the Cooperative Principle](https://spin.atomicobject.com/2018/08/25/cooperative-principle-software/), by Aaron King
 * [Improving Your Build Time in Xcode 10](https://patrickbalestra.com/blog/2018/08/27/improving-your-build-time-in-xcode-10.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
-
+* [NSDataAsset](https://nshipster.com/nsdataasset/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
@@ -15,6 +15,7 @@
 **Business/Career**
 
 * [How to build yourself a community as a remote worker](https://www.invisionapp.com/blog/build-community-remote-worker/), by [@sophiemcaulay](https://twitter.com/sophiemcaulay)
+* [Defining Our Engineering Guiding Principles](http://artsy.github.io/blog/2018/08/22/engineering-guiding-principles/), by [@ashfurrow](htps://twitter.com/ashfurrow)
 
 **UI/UX**
 
