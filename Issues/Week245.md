@@ -5,6 +5,7 @@
 * [When You Refactor, Are You Using Small Steps?](https://qualitycoding.org/refactor-small-steps/), by [@qcoding](https://twitter.com/qcoding)
 * [Implementing a Custom Key Strategy For Coding Types](https://martiancraft.com/blog/2018/08/Implementing-custom-key-strategy-for-coding-types/), by [@richturton](https://twitter.com/richturton)
 * [Want to Write Clearer Code? Follow the Cooperative Principle](https://spin.atomicobject.com/2018/08/25/cooperative-principle-software/), by Aaron King
+* [Improving Your Build Time in Xcode 10](https://patrickbalestra.com/blog/2018/08/27/improving-your-build-time-in-xcode-10.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
 
 
 **Tools/Controls**
@@ -18,6 +19,7 @@
 **UI/UX**
 
 * [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/), by [@101babich](https://twitter.com/101babich)
+* [What are App Store Updates and why are they needed?](https://www.nodesagency.com/why-are-app-store-updates-needed/), by [@Nodes_Apps](https://twitter.com/Nodes_Apps)
 
 **Videos**
 
