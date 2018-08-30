@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-* 
+* [How to build yourself a community as a remote worker](https://www.invisionapp.com/blog/build-community-remote-worker/), by [@sophiemcaulay](https://twitter.com/sophiemcaulay)
 
 **UI/UX**
 
