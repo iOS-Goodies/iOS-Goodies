@@ -1,3 +1,5 @@
+It's almost September, and all the rumours point that the next Apple event will be on September 12. No official confirmation yet, though but I'm thinking that next week we should find out something official about this. No new Xcode 10 beta, but we got iOS 12 Beta 11. We're getting close to the iOS 12 launch, so make sure you test your apps! 😄
+
 **Articles**
 
 * [Building Dependencies on iOS with Carthage](https://appunite.com/blog/dependencies-ios-carthage), by Szymon Mrozek
@@ -16,11 +18,13 @@
 
 * [How to build yourself a community as a remote worker](https://www.invisionapp.com/blog/build-community-remote-worker/), by [@sophiemcaulay](https://twitter.com/sophiemcaulay)
 * [Defining Our Engineering Guiding Principles](http://artsy.github.io/blog/2018/08/22/engineering-guiding-principles/), by [@ashfurrow](htps://twitter.com/ashfurrow)
+* [What are App Store Updates and why are they needed?](https://www.nodesagency.com/why-are-app-store-updates-needed/), by [@Nodes_Apps](https://twitter.com/Nodes_Apps)
 
 **UI/UX**
 
 * [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/), by [@101babich](https://twitter.com/101babich)
-* [What are App Store Updates and why are they needed?](https://www.nodesagency.com/why-are-app-store-updates-needed/), by [@Nodes_Apps](https://twitter.com/Nodes_Apps)
+* [Why Personalized Experiences Is The Trend In 2018?](http://sherif-amin.com/personalized-experiences-trend/), by [@sherifamin91](https://twitter.com/sherifamin91)
+
 
 **Videos**
 
