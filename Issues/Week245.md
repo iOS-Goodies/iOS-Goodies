@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [navigation-toolbar](https://github.com/Ramotion/navigation-toolbar), by [@ramotion](https://twitter.com/ramotion)
 
 **Business/Career**
 
@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
