@@ -7,6 +7,8 @@
 * [Enums like never before…](https://agostini.tech/2018/09/02/enums-like-never-before/), by Giuseppe Lanza
 * [UIView Auto Layout life cycle](http://www.vadimbulavin.com/view-auto-layout-life-cycle/), by [@V8tr](https://twitter.com/V8tr)
 * [Why you’re not supposed to call description](https://oleb.net/2018/dont-call-description/), by [@olebegemann](https://twitter.com/olebegemann)
+* [How to use RxSwift with MVVM pattern part 2](http://swiftyjimmy.com/rxswift-with-mvvm-part-2/), by [@jussisuojanen](https://twitter.com/jussisuojanen)
+* [Creating Swift Package Manager tools from your existing codebase](https://paul-samuels.com/blog/2018/09/01/creating-spm-tools-from-your-existing-codebase/), by [@paulio87](https://twitter.com/paulio87)
 
 
 **Tools/Controls**
