@@ -6,6 +6,7 @@
 * [Private properties in protocols](http://alisoftware.github.io/swift/protocols/2018/09/02/protocols-private-properties/), by [@aligatr](https://twitter.com/aligatr)
 * [Enums like never before…](https://agostini.tech/2018/09/02/enums-like-never-before/), by Giuseppe Lanza
 * [UIView Auto Layout life cycle](http://www.vadimbulavin.com/view-auto-layout-life-cycle/), by [@V8tr](https://twitter.com/V8tr)
+* [Why you’re not supposed to call description](https://oleb.net/2018/dont-call-description/), by [@olebegemann](https://twitter.com/olebegemann)
 
 
 **Tools/Controls**
@@ -14,11 +15,11 @@
 
 **Business/Career**
 
-* 
+* [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/), by [@b0rk](https://twitter.com/b0rk)
 
 **UI/UX**
 
-* 
+* [How to Simplify the Process of Credit Card Data Input on Mobile](http://babich.biz/mobile-card-payments/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [podkovyrin](https://github.com/podkovyrin),
+* [podkovyrin](https://github.com/podkovyrin), [rbarbosa](https://github.com/rbarbosa)
