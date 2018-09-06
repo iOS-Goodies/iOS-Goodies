@@ -1,3 +1,5 @@
+Happy Thursday! 30 minutes after we sent out last week's edition, Apple confirmed the 12th of September as the date of their next event. And then there were even more rumours, more leaks and even higher expectations. I'm looking forward to the event. But don't be taken away by all the new flashy things they will launch. It's usually one week after the September event when the new iOS version will be released. So make sure you're testing your app on iOS 12 😄
+
 **Articles**
 
 * [How drawing works in an Xcode playground](http://iosbrain.com/blog/2018/09/03/how-drawing-works-in-an-xcode-playground/), by [@iosbrain](https://twitter.com/iosbrain)
@@ -15,14 +17,20 @@
 
 * [DSJSONSchemaValidation](https://github.com/dashevo/JSONSchemaValidation) - JSON Schema draft 4, draft 6 and draft 7 parsing and validation library, by [@podkovyr](https://twitter.com/podkovyr)
 * [Trailer](https://www.trailerapp.io/) - create app marketing videos in minutes, by [@markohlebar](https://twitter.com/markohlebar)
+* [Mew](https://github.com/mercari/Mew) - The framework that support making MicroViewController, by [@mercari_app](https://twitter.com/mercari_app)
+* [SwiftSyntax](https://github.com/apple/swift-syntax) - SwiftPM package for SwiftSyntax library, by Apple
+* [DataSourceKit](https://github.com/apple/swift-syntax) - Declarative, testable data source of UICollectionView and UITableView, by [@_ishkawa](https://twitter.com/_ishkawa)
 
 **Business/Career**
 
 * [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/), by [@b0rk](https://twitter.com/b0rk)
+* [A Farewell to StreamToMe](https://www.cocoawithlove.com/blog/a-farewell-to-streamtome.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [How To Leverage Apple Pre-order For Your iOS App Launch](https://www.apptamin.com/blog/apple-pre-order-app/), by [2sylvainww](https://twitter.com/sylvainww)
 
 **UI/UX**
 
 * [How to Simplify the Process of Credit Card Data Input on Mobile](http://babich.biz/mobile-card-payments/), by [@101babich](https://twitter.com/101babich)
+* [When Motion Creates Emotion](http://babich.biz/animation-emotions/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
