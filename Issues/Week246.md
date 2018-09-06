@@ -13,6 +13,7 @@
 **Tools/Controls**
 
 * [DSJSONSchemaValidation](https://github.com/dashevo/JSONSchemaValidation) - JSON Schema draft 4, draft 6 and draft 7 parsing and validation library, by [@podkovyr](https://twitter.com/podkovyr)
+* [Trailer](https://www.trailerapp.io/) - create app marketing videos in minutes, by [@markohlebar](https://twitter.com/markohlebar)
 
 **Business/Career**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [podkovyrin](https://github.com/podkovyrin), [rbarbosa](https://github.com/rbarbosa)
+* [podkovyrin](https://github.com/podkovyrin), [rbarbosa](https://github.com/rbarbosa), [markohlebar](https://github.com/markohlebar)
