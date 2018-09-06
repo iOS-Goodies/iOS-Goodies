@@ -1,5 +1,7 @@
 Happy Thursday! 30 minutes after we sent out last week's edition, Apple confirmed the 12th of September as the date of their next event. And then there were even more rumours, more leaks and even higher expectations. I'm looking forward to the event. But don't be taken away by all the new flashy things they will launch. It's usually one week after the September event when the new iOS version will be released. So make sure you're testing your app on iOS 12 😄
 
+We got more submissions than we included in our newsletter. If you want, you can check out the rest on our [GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week246.md)
+
 **Articles**
 
 * [How drawing works in an Xcode playground](http://iosbrain.com/blog/2018/09/03/how-drawing-works-in-an-xcode-playground/), by [@iosbrain](https://twitter.com/iosbrain)
