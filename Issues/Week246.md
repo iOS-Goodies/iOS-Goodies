@@ -21,7 +21,7 @@ We got more submissions than we included in our newsletter. If you want, you can
 * [Trailer](https://www.trailerapp.io/) - create app marketing videos in minutes, by [@markohlebar](https://twitter.com/markohlebar)
 * [Mew](https://github.com/mercari/Mew) - The framework that support making MicroViewController, by [@mercari_app](https://twitter.com/mercari_app)
 * [SwiftSyntax](https://github.com/apple/swift-syntax) - SwiftPM package for SwiftSyntax library, by Apple
-* [DataSourceKit](https://github.com/apple/swift-syntax) - Declarative, testable data source of UICollectionView and UITableView, by [@_ishkawa](https://twitter.com/_ishkawa)
+* [DataSourceKit](https://github.com/ishkawa/DataSourceKit) - Declarative, testable data source of UICollectionView and UITableView, by [@_ishkawa](https://twitter.com/_ishkawa)
 
 **Business/Career**
 
