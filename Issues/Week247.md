@@ -14,7 +14,7 @@
 
 **UI/UX**
 
-* 
+* [5 App Design Tools – Nodes Design Stack 2018](https://www.nodesagency.com/nodes-design-stack-2018/), by [@Nodes_Apps](https://twitter.com/Nodes_Apps)
 
 **Videos**
 
