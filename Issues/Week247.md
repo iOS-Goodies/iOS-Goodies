@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [xcbeautify](https://github.com/thii/xcbeautify) - A little beautifier tool for xcodebuild, by [@thii](https://github.com/thii)
 
 **Business/Career**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [th3m477](https://github.com/th3m477)
+* [th3m477](https://github.com/th3m477), [@thii](https://github.com/thii)
