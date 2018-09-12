@@ -2,6 +2,7 @@
 
 * [Building Ethereum Dapps on iOS with web3.swift](https://medium.com/argenthq/building-ethereum-dapps-on-ios-a413c72f47f7), by [@th3m477](https://twitter.com/th3m477)
 * [Prototyping with code](https://medium.com/produkt-blog/prototyping-with-code-a0d2fe4ddb4f), by [@victorbaro](https://twitter.com/victorbaro)
+* [Learn iOS best practices by building a simple recipes app](https://medium.freecodecamp.org/learn-ios-best-practices-by-building-a-simple-recipes-app-9bcbce4d10d), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [th3m477](https://github.com/th3m477), [@thii](https://github.com/thii), [MichalTKwiecien](https://github.com/MichalTKwiecien)
+* [th3m477](https://github.com/th3m477), [@thii](https://github.com/thii), [MichalTKwiecien](https://github.com/MichalTKwiecien), [@onmyway133](https://github.com/onmyway133)
