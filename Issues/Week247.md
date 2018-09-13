@@ -1,3 +1,5 @@
+Did you all watch the Apple event yesterday? I won't go into details about the devices, but here's what I can say as from an iOS developer's perspective: the Xcode 10 GM is out, you can [get it from here](https://developer.apple.com/download/). You don't necessarily have to upgrade your app to Swift 4, Xcode 10 still compile apps written in Swift 3.2. Starting in March 2019, all new apps and app updates will need to be built with the iOS 12 SDK and support iPhone XS Max. iOS 12 will go out on Monday, 17 September, so make sure your apps are ready by then. As far as I can tell, most of the apps that support iPhone X should work without any changes on the new devices, but there can be exceptions, so it's better to check.
+
 **Articles**
 
 * [Building Ethereum Dapps on iOS with web3.swift](https://medium.com/argenthq/building-ethereum-dapps-on-ios-a413c72f47f7), by [@th3m477](https://twitter.com/th3m477)
