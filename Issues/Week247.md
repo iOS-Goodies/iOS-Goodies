@@ -13,7 +13,9 @@ Did you all watch the Apple event yesterday? I won't go into details about the d
 **Tools/Controls**
 
 * [Layoutable](https://github.com/michaltkwiecien/layoutable) - Lightweight extension for UIView that make use of Auto Layout easier, by [@kwiecien_co](https://twitter.com/kwiecien_co)
-* [xcbeautify](https://github.com/thii/xcbeautify) - A little beautifier tool for xcodebuild, by [@thii](https://github.com/thii)
+* [xcbeautify](https://github.com/thii/xcbeautify) - A little beautifier tool for xcodebuild, by Thi
+* [ImageSizeFetcher](https://github.com/malcommac/ImageSizeFetcher), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [HeadGazeLib](https://github.com/eBay/HeadGazeLib), by eBay
 
 **Business/Career**
 
