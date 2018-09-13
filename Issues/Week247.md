@@ -17,6 +17,9 @@
 **UI/UX**
 
 * [5 App Design Tools – Nodes Design Stack 2018](https://www.nodesagency.com/nodes-design-stack-2018/), by [@Nodes_Apps](https://twitter.com/Nodes_Apps)
+* [What I Learned Making 5 ARKit Prototypes](https://medium.com/@nathangitter/what-i-learned-making-five-arkit-prototypes-7a30c0cd3956), by [@nathangitter](https://twitter.com/nathangitter)
+* [4 Creative Mobile Onboarding Concepts](http://babich.biz/mobile-onboarding-concepts/), by [@101babich](https://twitter.com/101babich)
+* [Top 4 Principles of Human-Centered Design](http://babich.biz/principles-of-human-centered-design/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
