@@ -12,7 +12,7 @@
 
 **Business/Career**
 
-* 
+* [Surviving the App Store](https://github.com/amirrajan/survivingtheappstore), by [@amirrajan](https://twitter.com/amirrajan)
 
 **UI/UX**
 
