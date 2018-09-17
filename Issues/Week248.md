@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [plivesey453](https://github.com/plivesey)
+* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [plivesey](https://github.com/plivesey)
