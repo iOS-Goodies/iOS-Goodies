@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [5 Steps to a Better Onboarding Experience](https://medium.com/device-blogs/5-steps-to-a-better-onboarding-experience-11945f0b8abf), by [@plivesey453](https://twitter.com/plivesey453)
 
 **Videos**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa)
+* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [plivesey453](https://github.com/plivesey)
