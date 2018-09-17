@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [TypedTextAttributes](https://github.com/muukii/TypedTextAttributes) by [@muukii0803](https://twitter.com/muukii0803)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [bellebethcooper](https://github.com/bellebethcooper)
+* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii)
