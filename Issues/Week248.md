@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [@bellebethcooper](https://github.com/bellebethcooper)
+* [bellebethcooper](https://github.com/bellebethcooper)
