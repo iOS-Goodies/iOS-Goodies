@@ -20,8 +20,8 @@
 
 **Videos**
 
-* 
+* [Swift & Fika 2018](https://www.youtube.com/watch?v=EPXodAD6wXI) - Full videos from Swift & Fika conference in Stockholm, Sweden. Talks by [@simjp](https://twitter.com/simjp), (@johnsundell)[https://twitter.com/johnsundell], (@twostraws)[https://twitter.com/twostraws] and more.
 
 **Credits**
 
-* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa)
+* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [fassko](https://github.com/fassko)
