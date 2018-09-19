@@ -7,6 +7,7 @@
 * [Swift Associated Types With Default Values](https://swiftrocks.com/swift-associated-types-with-default-values.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 * [Access Control Management with Swift](https://medium.com/ios-os-x-development/access-control-management-with-swift-cc3c3d68cbc3), by [@mmabdellateef](https://twitter.com/mmabdellateef)
 * [Prefetching images size without downloading them [entirely] in Swift](http://danielemargutti.com/2018/09/09/prefetching-images-size-without-downloading-them-entirely-in-swift/), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [Bloom Filters and Swift 4.2](http://khanlou.com/2018/09/bloom-filters/), by [@khanlou](https://twitter.com/khanlou)
 
 **Tools/Controls**
 
