@@ -6,6 +6,7 @@
 * [i​OS 12](https://nshipster.com/ios-12/), by [@mattt](https://twitter.com/mattt)
 * [Swift Associated Types With Default Values](https://swiftrocks.com/swift-associated-types-with-default-values.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 * [Access Control Management with Swift](https://medium.com/ios-os-x-development/access-control-management-with-swift-cc3c3d68cbc3), by [@mmabdellateef](https://twitter.com/mmabdellateef)
+* [Prefetching images size without downloading them [entirely] in Swift](http://danielemargutti.com/2018/09/09/prefetching-images-size-without-downloading-them-entirely-in-swift/), by [@danielemargutti](https://twitter.com/danielemargutti)
 
 **Tools/Controls**
 
@@ -18,6 +19,7 @@
 **UI/UX**
 
 * [5 Steps to a Better Onboarding Experience](https://medium.com/device-blogs/5-steps-to-a-better-onboarding-experience-11945f0b8abf), by [@plivesey453](https://twitter.com/plivesey453)
+* [Everything You Always Wanted to Know About Rapid Prototyping](https://www.shopify.com/partners/blog/rapid-prototyping), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
