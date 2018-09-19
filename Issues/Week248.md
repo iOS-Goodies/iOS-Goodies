@@ -5,6 +5,7 @@
 * [Capturing Self with Swift 4.2](https://benscheirman.com/2018/09/capturing-self-with-swift-4-2/), by [@subdigital](https://twitter.com/subdigital)
 * [i​OS 12](https://nshipster.com/ios-12/), by [@mattt](https://twitter.com/mattt)
 * [Swift Associated Types With Default Values](https://swiftrocks.com/swift-associated-types-with-default-values.html), by [@rockthebruno](https://twitter.com/rockthebruno)
+* [Access Control Management with Swift](https://medium.com/ios-os-x-development/access-control-management-with-swift-cc3c3d68cbc3), by [@mmabdellateef](https://twitter.com/mmabdellateef)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [fassko](https://github.com/fassko), [plivesey](https://github.com/plivesey)
+* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [fassko](https://github.com/fassko), [plivesey](https://github.com/plivesey), [mmabdelateef](https://github.com/mmabdelateef)
