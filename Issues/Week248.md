@@ -24,6 +24,7 @@
 
 * [5 Steps to a Better Onboarding Experience](https://medium.com/device-blogs/5-steps-to-a-better-onboarding-experience-11945f0b8abf), by [@plivesey453](https://twitter.com/plivesey453)
 * [Everything You Always Wanted to Know About Rapid Prototyping](https://www.shopify.com/partners/blog/rapid-prototyping), by [@101babich](https://twitter.com/101babich)
+* [Add fireworks and sparks to a UIView](http://szulctomasz.com/programming-blog/2018/09/add-fireworks-and-sparks-to-a-uiview/), by [@tomkowz](https://twitter.com/tomkowz)
 
 **Videos**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [fassko](https://github.com/fassko), [plivesey](https://github.com/plivesey), [mmabdelateef](https://github.com/mmabdelateef)
+* [bellebethcooper](https://github.com/bellebethcooper), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [fassko](https://github.com/fassko), [plivesey](https://github.com/plivesey), [mmabdelateef](https://github.com/mmabdelateef), [tomkowz](https://github.com/tomkowz)
