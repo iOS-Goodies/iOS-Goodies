@@ -7,11 +7,11 @@ The release of iOS 12 also means we got the official [release of Swift 4.2](http
 * [🔒 Type-Safe Swift Models](https://medium.com/@farzadshbfn/type-safe-swift-models-fce55d6eccc7), by [@FarzadShbfn](https://twitter.com/FarzadShbfn)
 * [What's in your Larder: iOS testing frameworks](https://larder.io/blog/larder-links-07-ios-testing/), by [@bellebcooper](http://www.twitter.com/bellebcooper)
 * [Capturing Self with Swift 4.2](https://benscheirman.com/2018/09/capturing-self-with-swift-4-2/), by [@subdigital](https://twitter.com/subdigital)
+* [Strong Self in Swift](http://roundwallsoftware.com/strong-self/), by [@samuelgoodwin](https://twitter.com/samuelgoodwin)
 * [Swift Associated Types With Default Values](https://swiftrocks.com/swift-associated-types-with-default-values.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 * [Access Control Management with Swift](https://medium.com/ios-os-x-development/access-control-management-with-swift-cc3c3d68cbc3), by [@mmabdellateef](https://twitter.com/mmabdellateef)
 * [Prefetching images size without downloading them [entirely] in Swift](http://danielemargutti.com/2018/09/09/prefetching-images-size-without-downloading-them-entirely-in-swift/), by [@danielemargutti](https://twitter.com/danielemargutti)
 * [Bloom Filters and Swift 4.2](http://khanlou.com/2018/09/bloom-filters/), by [@khanlou](https://twitter.com/khanlou)
-* [Strong Self in Swift](http://roundwallsoftware.com/strong-self/), by [@samuelgoodwin](https://twitter.com/samuelgoodwin)
 
 **Tools/Controls**
 
