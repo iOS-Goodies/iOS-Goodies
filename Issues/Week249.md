@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Analysis](https://github.com/BasThomas/Analysis) - A tool helping you to extract useful information from strings, by [@BasThomas](https://twitter.com/BasThomas)
 
 **Business/Career**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [LisaDziuba](https://github.com/LisaDziuba), [FranciscoAmado](https://github.com/FranciscoAmado)
