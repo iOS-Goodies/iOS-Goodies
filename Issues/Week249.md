@@ -18,6 +18,8 @@
 **UI/UX**
 
 * [60+ great UI kits for iOS engineers](https://flawlessapp.io/blog/60-great-ui-kits-for-ios-engineers/), by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [User Experience: How to Design Onboarding for Your Mobile App](https://icons8.com/articles/ux-design-onboarding-mobile-app/), by [@MYalanska](https://twitter.com/MYalanska)
+* [Your color picker is killing me!](https://uxplanet.org/your-color-picker-is-killing-me-a4cd485ac66f), by [@talflorentinux](https://twitter.com/talflorentinux)
 
 **Videos**
 
