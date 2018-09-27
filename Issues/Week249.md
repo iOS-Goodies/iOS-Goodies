@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* [60+ great UI kits for iOS engineers](https://flawlessapp.io/blog/60-great-ui-kits-for-ios-engineers/), by [@LisaDziuba](https://twitter.com/LisaDziuba), [rbarbosa](https://github.com/rbarbosa)
+* [60+ great UI kits for iOS engineers](https://flawlessapp.io/blog/60-great-ui-kits-for-ios-engineers/), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 
 **Videos**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [LisaDziuba](https://github.com/LisaDziuba), [FranciscoAmado](https://github.com/FranciscoAmado), [rbarbosa](https://github.com/rbarbosa)
