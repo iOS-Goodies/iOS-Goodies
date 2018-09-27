@@ -4,7 +4,7 @@ I've seen so many good articles this week that it's been particularly hard to wr
 
 We also got [@timacfr](https://twitter.com/timacfr)'s yearly analisys on [the presence of Swift in Apple's iOS apps](https://blog.timac.org/2018/0924-state-of-swift-ios12/) and the trends are positive.
 
-As much as I would like, I just couldn't fit every interesting article in the newsletter. If you want to read all the suggested ones, you can do it, as always, [on our GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week249.md)
+As much as I would like, I just couldn't fit every interesting article in the newsletter. If you want to read all the suggested ones, you can do it, as always, [on our GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week249.md).
 
 **Articles**
 
