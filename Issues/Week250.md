@@ -6,6 +6,7 @@
 
 **Tools/Controls**
 
+* [AlignedCollectionViewFlowLayout](https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout), by [@mischa-hildebrand](https://github.com/mischa-hildebrand)
 * 
 
 **Business/Career**
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [basememara](https://github.com/basememara)
+* [basememara](https://github.com/basememara), [pmusolino](https://github.com/pmusolino)
