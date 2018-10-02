@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [Sizes - View your app on different device and font sizes](https://github.com/marcosgriselli/Sizes), by [@marcosgriselli](https://twitter.com/marcosgriselli)
 
 **Business/Career**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [basememara](https://github.com/basememara)
+* [basememara](https://github.com/basememara), [FranciscoAmado](https://github.com/FranciscoAmado)
