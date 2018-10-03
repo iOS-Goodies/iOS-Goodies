@@ -24,7 +24,7 @@
 
 **Videos**
 
-* 
+* [SwiftConf 2018](https://www.youtube.com/playlist?list=PLgUjQUYKwG_hkD2ZcfAs7bTZwbEtAnNFs), by [@swiftconf](https://twitter.com/swiftconf)
 
 **Credits**
 
