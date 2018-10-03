@@ -15,7 +15,7 @@
 
 **Business/Career**
 
-* 
+* [What makes developers bad at business?](https://qotoqot.com/blog/blind-spots/), by [@ivmirx](https://twitter.com/ivmirx)
 
 **UI/UX**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [basememara](https://github.com/basememara), [pmusolino](https://github.com/pmusolino), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba)
+* [basememara](https://github.com/basememara), [pmusolino](https://github.com/pmusolino), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [ivmirx](https://github.com/ivmirx)
