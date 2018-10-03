@@ -3,6 +3,7 @@
 **Articles**
 
 * [Protocol-Oriented Themes for iOS Apps](http://basememara.com/protocol-oriented-themes-for-ios-apps/), by [@basememara](https://twitter.com/basememara)
+* [Integrating PSPDFKit with CocoaPods](https://pspdfkit.com/blog/2018/integrating-pspdfkit-with-cocoapods/), by [@jgrosshauser]
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [basememara](https://github.com/basememara), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [basememara](https://github.com/basememara), [FranciscoAmado](https://github.com/FranciscoAmado), [tn-tran] (https://github.com/tn-tran)
