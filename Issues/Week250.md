@@ -12,6 +12,7 @@
 * [AlignedCollectionViewFlowLayout](https://github.com/mischa-hildebrand/AlignedCollectionViewFlowLayout), by [@mischa-hildebrand](https://github.com/mischa-hildebrand)
 * [Sizes - View your app on different device and font sizes](https://github.com/marcosgriselli/Sizes), by [@marcosgriselli](https://twitter.com/marcosgriselli)
 * [PermissionsKit - convenience wrapper on macOS permissions API](https://github.com/MacPaw/PermissionsKit), by Serg Krivoblotsky
+* [CSProgress - A higher-performing, easier-to-use replacement class for Apple's NSProgress](https://github.com/CharlesJS/CSProgress), by CharlesJS
 
 
 **Business/Career**
