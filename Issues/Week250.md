@@ -5,6 +5,7 @@
 * [Protocol-Oriented Themes for iOS Apps](http://basememara.com/protocol-oriented-themes-for-ios-apps/), by [@basememara](https://twitter.com/basememara)
 * [PhotoKit’s data model](https://oleb.net/2018/photos-data-model), by [@olebegemann](https://twitter.com/olebegemann)
 * [Best iOS hacks from Twitter: September Edition](https://flawlessapp.io/blog/best-ios-hacks-from-twitter-september-edition/), by [@lisadziuba](https://twitter.com/LisaDziuba)
+* [Swift in 2018 - The State of Developer Ecosystem](https://www.jetbrains.com/research/devecosystem-2018/swift-objc/), by [@jetbrains](https://twitter.com/jetbrains)
 
 **Tools/Controls**
 
