@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [basememara](https://github.com/basememara), [FranciscoAmado](https://github.com/FranciscoAmado), [tn-tran] (https://github.com/tn-tran)
+* [basememara](https://github.com/basememara), [FranciscoAmado](https://github.com/FranciscoAmado), [tn-tran](https://github.com/tn-tran)
