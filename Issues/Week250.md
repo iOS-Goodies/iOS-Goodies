@@ -6,6 +6,9 @@
 * [PhotoKit’s data model](https://oleb.net/2018/photos-data-model), by [@olebegemann](https://twitter.com/olebegemann)
 * [Best iOS hacks from Twitter: September Edition](https://flawlessapp.io/blog/best-ios-hacks-from-twitter-september-edition/), by [@lisadziuba](https://twitter.com/LisaDziuba)
 * [Swift in 2018 - The State of Developer Ecosystem](https://www.jetbrains.com/research/devecosystem-2018/swift-objc/), by [@jetbrains](https://twitter.com/jetbrains)
+* [Parse Boolean Search Expressions in Swift](http://christiantietze.de/posts/2018/09/search-string-parser/), by [@ctietze](https://twitter.com/ctietze)
+* [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/), by [@V8tr](https://twitter.com/V8tr)
+* [Best Practices for Building Swift Classes](https://www.appcoda.com/swift-class-best-practice/), by [@iosbrain](https://twitter.com/iosbrain)
 
 **Tools/Controls**
 
@@ -29,4 +32,4 @@
 
 **Credits**
 
-* [basememara](https://github.com/basememara), [pmusolino](https://github.com/pmusolino), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [ivmirx](https://github.com/ivmirx)
+* [basememara](https://github.com/basememara), [pmusolino](https://github.com/pmusolino), [FranciscoAmado](https://github.com/FranciscoAmado), [LisaDziuba](https://github.com/LisaDziuba), [ivmirx](https://github.com/ivmirx), [rbarbosa](https://github.com/rbarbosa)
