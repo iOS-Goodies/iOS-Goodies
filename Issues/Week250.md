@@ -1,11 +1,12 @@
 iOS Goodies is a community newsletter. In our years of being open source, almost 200 contributors committed something to our newsletter. We believe in the open source culture, and we encourage people to contribute to open source repos. This is why initiatives that aim to increase the number of people who contribute to open source projects are something we care for in particular. We're very happy to share that the fifth edition of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) has just started. Contribute to open source and earn a limited edition T-Shirt. This is not a sponsored message. We just ❤️ open source.
 
+[Jetbrains](https://twitter.com/jetbrains) has released the 2018 edition of [The State of Developer Ecosystem](https://www.jetbrains.com/research/devecosystem-2018/swift-objc/). If you like looking at survey results and statistics, this could be interesting. 
+
 **Articles**
 
 * [Protocol-Oriented Themes for iOS Apps](http://basememara.com/protocol-oriented-themes-for-ios-apps/), by [@basememara](https://twitter.com/basememara)
 * [PhotoKit’s data model](https://oleb.net/2018/photos-data-model), by [@olebegemann](https://twitter.com/olebegemann)
 * [Best iOS hacks from Twitter: September Edition](https://flawlessapp.io/blog/best-ios-hacks-from-twitter-september-edition/), by [@lisadziuba](https://twitter.com/LisaDziuba)
-* [Swift in 2018 - The State of Developer Ecosystem](https://www.jetbrains.com/research/devecosystem-2018/swift-objc/), by [@jetbrains](https://twitter.com/jetbrains)
 * [Parse Boolean Search Expressions in Swift](http://christiantietze.de/posts/2018/09/search-string-parser/), by [@ctietze](https://twitter.com/ctietze)
 * [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Best Practices for Building Swift Classes](https://www.appcoda.com/swift-class-best-practice/), by [@iosbrain](https://twitter.com/iosbrain)
