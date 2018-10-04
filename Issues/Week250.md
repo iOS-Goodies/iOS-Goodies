@@ -21,6 +21,7 @@
 **Business/Career**
 
 * [What makes developers bad at business?](https://qotoqot.com/blog/blind-spots/), by [@ivmirx](https://twitter.com/ivmirx)
+* [Career choices](https://ruiper.es/2018/10/01/career-choices/), by [@peres](https://twitter.com/peres)
 
 **UI/UX**
 
