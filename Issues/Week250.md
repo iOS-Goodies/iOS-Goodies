@@ -1,4 +1,4 @@
-* [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+iOS Goodies is a community newsletter. In our years of being open source, almost 200 contributors committed something to our newsletter. We believe in the open source culture, and we encourage people to contribute to open source repos. This is why initiatives that aim to increase the number of people who contribute to open source projects are something we care for in particular. We're very happy to share that the fifth edition of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) has just started. Contribute to open source and earn a limited edition T-Shirt. This is not a sponsored message. We just ❤️ open source.
 
 **Articles**
 
@@ -21,11 +21,13 @@
 **Business/Career**
 
 * [What makes developers bad at business?](https://qotoqot.com/blog/blind-spots/), by [@ivmirx](https://twitter.com/ivmirx)
+* [We gave our app away for free. What happened next will amaze you.](https://medium.com/@benricem/i-gave-my-app-away-for-free-what-happens-next-will-amaze-you-22f07bf1616f), by [@BenRiceM](https://twitter.com/BenRiceM)
 * [Career choices](https://ruiper.es/2018/10/01/career-choices/), by [@peres](https://twitter.com/peres)
 
 **UI/UX**
 
-* 
+* [iPhone XS mockups](https://applypixels.com/template/iphone-xs/#sketch), by [@applypixels](https://twitter.com/applypixels)
+* [iPhone XR mockups](https://applypixels.com/template/iphone-xr/#sketch), by [@applypixels](https://twitter.com/applypixels)
 
 **Videos**
 
