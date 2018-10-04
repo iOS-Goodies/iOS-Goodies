@@ -1,6 +1,6 @@
 iOS Goodies is a community newsletter. In our years of being open source, almost 200 contributors committed something to our newsletter. We believe in the open source culture, and we encourage people to contribute to open source repos. This is why initiatives that aim to increase the number of people who contribute to open source projects are something we care for in particular. We're very happy to share that the fifth edition of [Hacktoberfest](https://hacktoberfest.digitalocean.com/) has just started. Contribute to open source and earn a limited edition T-Shirt. This is not a sponsored message. We just ❤️ open source.
 
-[Jetbrains](https://twitter.com/jetbrains) has released the 2018 edition of [The State of Developer Ecosystem](https://www.jetbrains.com/research/devecosystem-2018/swift-objc/). If you like looking at survey results and statistics, this could be interesting. 
+[Jetbrains](https://twitter.com/jetbrains) has released the 2018 edition of [The State of Developer Ecosystem](https://www.jetbrains.com/research/devecosystem-2018/swift-objc/). If you like looking at survey results and statistics, you may find this interesting. 
 
 **Articles**
 
