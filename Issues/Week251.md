@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/pmusolino)
+* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/pmusolino), [rbarbosa](https://github.com/rbarbosa)
