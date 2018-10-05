@@ -2,6 +2,7 @@
 **Articles**
 
 * [Implement Push Notification easily using CloudKit](https://fluffy.es/push-notification-cloudkit/), by [@soulchildpls](https://twitter.com/soulchildpls)
+* [Unleashing the power of asset catalogs and bundles on iOS](https://rambo.codes/ios/2018/10/03/unleashing-the-power-of-asset-catalogs-and-bundles-on-ios.html), by [@_inside](https://twitter.com/_inside)
 
 **Tools/Controls**
 
