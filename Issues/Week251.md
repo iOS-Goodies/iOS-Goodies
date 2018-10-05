@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Implement Push Notification easily using CloudKit](https://fluffy.es/push-notification-cloudkit/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/pmusolino)
