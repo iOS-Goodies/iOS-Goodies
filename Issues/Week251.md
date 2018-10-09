@@ -11,6 +11,7 @@
 * [anim](https://github.com/onurersel/anim), by [@ethestel](https://twitter.com/ethestel)
 * [Smoke Framework](https://github.com/amzn/smoke-framework), by [@Amazon](https://github.com/amzn)
 * [Triangulation](https://github.com/younatics/Triangulation), by [@younatics](https://twitter.com/younatics)
+* [LiveCollections](https://github.com/scribd/LiveCollections), by [@scribd](https://twitter.com/scribd)
 
 **Business/Career**
 
