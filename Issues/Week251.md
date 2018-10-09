@@ -21,6 +21,7 @@
 * [LiveCollections](https://github.com/scribd/LiveCollections), by [@scribd](https://twitter.com/scribd)
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift), by [@mobpassport](https://twitter.com/mobpassport)
 * [CascadeKit](https://github.com/YTech/CascadeKit), by [@ynap](https://twitter.com/ynap)
+* [Panels](https://github.com/antoniocasero/Panels), by [@acaserop](https://twitter.com/acaserop)
 
 **Business/Career**
 
