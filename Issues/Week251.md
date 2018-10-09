@@ -4,6 +4,7 @@
 * [Implement Push Notification easily using CloudKit](https://fluffy.es/push-notification-cloudkit/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Unleashing the power of asset catalogs and bundles on iOS](https://rambo.codes/ios/2018/10/03/unleashing-the-power-of-asset-catalogs-and-bundles-on-ios.html), by [@_inside](https://twitter.com/_inside)
 * [Layout Libraries for iOS. UIKit is Not The Only One](https://www.netguru.co/codestories/layout-libraries-for-ios-uikit-is-not-the-only-one#comment-4134431360), by Piotr Sochalewski
+* [Making Space For Dynamic Type](https://useyourloaf.com/blog/making-space-for-dynamic-type/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -12,6 +13,7 @@
 * [Smoke Framework](https://github.com/amzn/smoke-framework), by [@Amazon](https://github.com/amzn)
 * [Triangulation](https://github.com/younatics/Triangulation), by [@younatics](https://twitter.com/younatics)
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift), by [@mobpassport](https://twitter.com/mobpassport)
+* [CascadeKit](https://github.com/YTech/CascadeKit), by [@ynap](https://twitter.com/ynap)
 
 **Business/Career**
 
