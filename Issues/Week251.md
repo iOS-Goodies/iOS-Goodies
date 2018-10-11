@@ -26,7 +26,7 @@
 
 **Business/Career**
 
-* 
+* [What's a senior engineer's job?](https://jvns.ca/blog/senior-engineer/), by [@b0rk](https://twitter.com/b0rk)
 
 **UI/UX**
 
