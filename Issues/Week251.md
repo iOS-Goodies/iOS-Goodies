@@ -30,7 +30,8 @@
 
 **UI/UX**
 
-* 
+* [Uber’s Undoing Part I: Whipping Boy](http://www.elischiff.com/blog/2018/10/10/ubers-undoing-part-i-whipping-boy), by [@eli_schiff](http://www.twitter.com/eli_schiff)
+* [4 Creative Concepts of Slider Control](http://babich.biz/slider-concepts/), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
