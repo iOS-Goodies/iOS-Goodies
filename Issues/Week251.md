@@ -1,4 +1,4 @@
-Happy Thursday, everyone! We've got a lot of submissions this week. Unfortunately, we couldn't fit all of them in the newsletter, so if you're curious, you can go to our [GitHib](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week251.md) and read the rest of them.
+Happy Thursday, everyone! We've got a lot of submissions this week. Unfortunately, we couldn't fit all of them in the newsletter, so if you're curious, you can go to our [GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week251.md) and read the rest of them.
 
 **Articles**
 
