@@ -11,6 +11,7 @@
 * [Streamlining tests setup with fixtures in Swift](http://www.mokacoding.com/blog/streamlining-tests-setup-with-fixtures-in-swift/), by [@mokagio](https://twitter.com/mokagio)
 * [Hiding Implementation Details Using internal Properties](http://holko.pl/2018/10/08/internal-modifier/), by [@arekholko](https://twitter.com/arekholko)
 * [iOS UI Automation Tests at Babylon](http://ilya.puchka.me/ios-ui-automation-tests-at-babylon/), by [@ilyapuchka](https://twitter.com/ilyapuchka)
+* [How to Control the World](https://www.pointfree.co/blog/posts/21-how-to-control-the-world), [@stephencelis](https://twitter.com/stephencelis)
 
 **Tools/Controls**
 
