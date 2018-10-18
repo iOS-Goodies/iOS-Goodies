@@ -14,7 +14,6 @@
 **Tools/Controls**
 
 * [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels., by [@acaserop](https://twitter.com/acaserop)
-* [Sizes](https://github.com/marcosgriselli/Sizes) - View your app on different device and font sizes, by [@marcosgriselli](https://twitter.com/marcosgriselli)
 
 **Business/Career**
 
@@ -23,7 +22,7 @@
 
 **UI/UX**
 
-* [Uber’s Undoing Part I: Whipping Boy](http://www.elischiff.com/blog/2018/10/10/ubers-undoing-part-i-whipping-boy), [Part II: Local vs. Global](http://www.elischiff.com/blog/2018/10/17/ubers-undoing-part-ii-local-vs-global), by [@eli_schiff](https://twitter.com/eli_schiff)
+* [Uber’s Undoing Part II: Local vs. Global](http://www.elischiff.com/blog/2018/10/17/ubers-undoing-part-ii-local-vs-global), by [@eli_schiff](https://twitter.com/eli_schiff)
 
 **Videos**
 
