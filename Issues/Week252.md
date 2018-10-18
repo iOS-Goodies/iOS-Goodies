@@ -1,3 +1,4 @@
+Happy Thursday, everyone! On the Swift Forums we saw a thread this week announcing that [Apple will build an LSP language service supporting Swift and C-family languages for any editor and platform](https://forums.swift.org/t/new-lsp-language-service-supporting-swift-and-c-family-languages-for-any-editor-and-platform/17024). What exactly does this mean? The Language Server Protocol (LSP) is a protocol for source code editors (Atom, VS Code, etc) to provide autocompletion and syntax highlighting for various programming languages. Apple just announced that it's working on something that will improve the experience of writing Swift on other IDEs and platofrms. Why did I want to start this iOS Goodies issue with this? Mostly because of [Doug Gregor](https://twitter.com/dgregor79)'s quote: "That’s important because the Swift community extends beyond Xcode users". On to the links!
 
 **Articles**
 
@@ -23,6 +24,7 @@
 **UI/UX**
 
 * [Uber’s Undoing Part II: Local vs. Global](http://www.elischiff.com/blog/2018/10/17/ubers-undoing-part-ii-local-vs-global), by [@eli_schiff](https://twitter.com/eli_schiff)
+* [Reasons Your Mobile App Retention Rate Might Be So Low](https://www.smashingmagazine.com/2018/10/mobile-app-retention-rate/), by [@sescacca](https://twitter.com/sescacca)
 
 **Videos**
 
