@@ -19,7 +19,7 @@
 
 **UI/UX**
 
-* 
+* [Uber’s Undoing Part I: Whipping Boy](http://www.elischiff.com/blog/2018/10/10/ubers-undoing-part-i-whipping-boy), [Part II: Local vs. Global](http://www.elischiff.com/blog/2018/10/17/ubers-undoing-part-ii-local-vs-global), by [@eli_schiff](https://twitter.com/eli_schiff)
 
 **Videos**
 
