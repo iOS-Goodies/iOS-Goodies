@@ -5,6 +5,7 @@
 * [Building an iOS App Without Xcode's Build System](https://vojtastavik.com/2018/10/15/building-ios-app-without-xcode/), by [@VojtaStavik](https://twitter.com/vojtastavik)
 * [Upload image to server using URLSessionUploadTask](https://fluffy.es/upload-image-to-server/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Migrating to Swift](https://jjrscott.com/migrating-to-swift/), by [@jjrscott](https://twitter.com/jjrscott)
+* [numeric​Cast(_:)](https://nshipster.com/numericcast/), by [@mattt](https://twitter.com/mattt)
 
 * 
 
