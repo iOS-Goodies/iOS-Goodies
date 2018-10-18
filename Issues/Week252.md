@@ -13,7 +13,8 @@
 
 **Tools/Controls**
 
-* 
+* [Arrows](https://github.com/antoniocasero/Arrows) - Arrows is an animated custom view to give feedback about your UI sliding panels., by [@acaserop](https://twitter.com/acaserop)
+* [Sizes](https://github.com/marcosgriselli/Sizes) - View your app on different device and font sizes, by [@marcosgriselli](https://twitter.com/marcosgriselli)
 
 **Business/Career**
 
