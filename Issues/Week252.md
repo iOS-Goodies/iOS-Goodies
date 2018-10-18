@@ -6,7 +6,7 @@ Happy Thursday, everyone! On the Swift Forums we saw a thread this week announci
 * [Building an iOS App Without Xcode's Build System](https://vojtastavik.com/2018/10/15/building-ios-app-without-xcode/), by [@VojtaStavik](https://twitter.com/vojtastavik)
 * [Upload image to server using URLSessionUploadTask](https://fluffy.es/upload-image-to-server/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Migrating to Swift](https://jjrscott.com/migrating-to-swift/), by [@jjrscott](https://twitter.com/jjrscott)
-* [numeric​Cast(_:)](https://nshipster.com/numericcast/), by [@mattt](https://twitter.com/mattt)te
+* [numeric​Cast(_:)](https://nshipster.com/numericcast/), by [@mattt](https://twitter.com/mattt)
 * [Improving Dynamic Type Support](https://pspdfkit.com/blog/2018/improving-dynamic-type-support/), by [@steviki](https://twitter.com/steviki)
 * [Avoiding the keyboard on UITextField focus](https://rolandleth.com/avoiding-the-keyboard-on-uitextfield-focus), by [@rolandleth](https://twitter.com/rolandleth)
 * [Exploring Custom watchOS Watch Faces](https://david-smith.org/blog/2018/10/12/exploring-custom-watchos-watch-faces/), by [@_DavidSmith](http://twitter.com/_DavidSmith)
