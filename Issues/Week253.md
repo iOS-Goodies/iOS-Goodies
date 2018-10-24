@@ -4,7 +4,7 @@
 
 **Tools/Controls**
 
-* 
+* [Piano](https://github.com/saoudrizwan/Piano), by [@sdrzn](https://twitter.com/sdrzn)
 
 **Business/Career**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [michaeleisel](https://github.com/michaeleisel)
+* [michaeleisel](https://github.com/michaeleisel), [pmusolino](https://github.com/pmusolino)
