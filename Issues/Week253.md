@@ -5,12 +5,12 @@
 
 **Tools/Controls**
 
-* [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS., by [@sdrzn](https://twitter.com/sdrzn)
-* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful codable API requests builder and manager for iOS. Based on Alamofire., by [@MihaelIsaev](https://twitter.com/MihaelIsaev)
+* [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS, by [@sdrzn](https://twitter.com/sdrzn)
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful codable API requests builder and manager for iOS. Based on Alamofire, by [@MihaelIsaev](https://twitter.com/MihaelIsaev)
 * [MVCTodo](https://github.com/davedelong/MVCTodo) - A very simple "To Do" app to illustrate the principles from my "A Better MVC" talk, by [@davedelong](https://twitter.com/davedelong)
-* [DropdownTitleView](https://github.com/GitHawkApp/DropdownTitleView) - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown, by [_ryannystro](https://twitter.com/_ryannystrom)
-* [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift, by [_ryannystro](https://twitter.com/_ryannystrom)
-* [GitHawkRoutes](https://github.com/GitHawkApp/GitHawkRoutes) - GitHawk routes and deep links, by [_ryannystro](https://twitter.com/_ryannystrom)
+* [DropdownTitleView](https://github.com/GitHawkApp/DropdownTitleView) - A UINavigationItem.titleView compatible UIControl with a title, subtitle, and dropdown, by [_ryannystrom](https://twitter.com/_ryannystrom)
+* [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift, by [_ryannystrom](https://twitter.com/_ryannystrom)
+* [GitHawkRoutes](https://github.com/GitHawkApp/GitHawkRoutes) - GitHawk routes and deep links, by [_ryannystrom](https://twitter.com/_ryannystrom)
 * [FlatCache](https://github.com/GitHawkApp/FlatCache) - Implementation of Soroush Khanlou's Flat Cache, by [@_ryannystrom](https://twitter.com/_ryannystrom)
 
 **Business/Career**
