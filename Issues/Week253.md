@@ -14,6 +14,7 @@
 * [Squawk](https://github.com/GitHawkApp/Squawk) - Quick & interactive iOS alerts in Swift, by [@_ryannystrom](https://twitter.com/_ryannystrom)
 * [GitHawkRoutes](https://github.com/GitHawkApp/GitHawkRoutes) - GitHawk routes and deep links, by [@_ryannystrom](https://twitter.com/_ryannystrom)
 * [FlatCache](https://github.com/GitHawkApp/FlatCache) - Implementation of Soroush Khanlou's Flat Cache, by [@_ryannystrom](https://twitter.com/_ryannystrom)
+* [VersaPlayer](https://github.com/josejuanqm/VersaPlayer) - Customizable AVPlayer implementation, by [@josejuanqm](https://twitter.com/josejuanqm)
 
 **Business/Career**
 
