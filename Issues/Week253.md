@@ -1,9 +1,12 @@
+There's an Apple event next week, where rumours say we'll see new iPads and new Macs. And tomorrow's the day when iPhone XR goes on sale, a phone which received surprisingly good reviews. Exciting times, right? 😄
+
 **Articles**
 
 * [One Quick Way to Drastically Reduce Your App's Download Size](https://medium.com/@michael.eisel/one-trick-to-drastically-reduce-your-ios-apps-downlsize-ae68aad0d369), by [@michaeleisel](https://twitter.com/michaeleisel)
 * [Specializing protocols in Swift](https://www.swiftbysundell.com/posts/specializing-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Best strategies for configuring multiple environments in Xcode projects](https://kenb.us/best-strategies-for-configuring-multiple-environments-in-xcode-projects), by [@kenboreham](https://twitter.com/kenboreham)
 * [Running Other Apps' Siri Shortcuts Through Deep Links in Swift](https://swiftrocks.com/running-other-apps-siri-shortcuts-through-deep-links-in-swift.html), by [@rockthebruno](https://twitter.com/rockthebruno)
+* [The Hows and Whys of Pair Programming](http://artsy.github.io/blog/2018/10/19/pair-programming/), by [@yuki24](https://twitter.com/yuki24) and [@orta](https://twitter.com/orta)
 
 **Tools/Controls**
 
