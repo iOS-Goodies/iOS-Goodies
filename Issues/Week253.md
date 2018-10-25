@@ -2,6 +2,8 @@
 
 * [One Quick Way to Drastically Reduce Your App's Download Size](https://medium.com/@michael.eisel/one-trick-to-drastically-reduce-your-ios-apps-downlsize-ae68aad0d369), by [@michaeleisel](https://twitter.com/michaeleisel)
 * [Specializing protocols in Swift](https://www.swiftbysundell.com/posts/specializing-protocols-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Best strategies for configuring multiple environments in Xcode projects](https://kenb.us/best-strategies-for-configuring-multiple-environments-in-xcode-projects), by [@kenboreham](https://twitter.com/kenboreham)
+* [Running Other Apps' Siri Shortcuts Through Deep Links in Swift](https://swiftrocks.com/running-other-apps-siri-shortcuts-through-deep-links-in-swift.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 
 **Tools/Controls**
 
@@ -28,4 +30,4 @@
 
 **Credits**
 
-* [michaeleisel](https://github.com/michaeleisel), [pmusolino](https://github.com/pmusolino)
+* [michaeleisel](https://github.com/michaeleisel), [pmusolino](https://github.com/pmusolino), [rbarbosa](https://github.com/rbarbosa)
