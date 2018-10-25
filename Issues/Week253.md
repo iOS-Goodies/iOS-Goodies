@@ -27,6 +27,7 @@ There's an Apple event next week, where rumours say we'll see new iPads and new 
 **UI/UX**
 
 * [Uber’s Undoing Part III: Redemption](http://www.elischiff.com/blog/2018/10/24/ubers-undoing-part-iii-redemption), by [@eli_schiff](https://twitter.com/eli_schiff)
+* [Design an “ugly” post image component](https://blog.prototypr.io/design-an-ugly-post-image-component-c091d4cad944), by Ian Tran
 
 **Videos**
 
