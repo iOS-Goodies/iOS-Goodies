@@ -23,7 +23,7 @@
 
 **UI/UX**
 
-* 
+* [Uber’s Undoing Part III: Redemption](http://www.elischiff.com/blog/2018/10/24/ubers-undoing-part-iii-redemption), by [@eli_schiff](https://twitter.com/eli_schiff)
 
 **Videos**
 
