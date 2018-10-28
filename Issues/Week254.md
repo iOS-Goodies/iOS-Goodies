@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [albertojauregui](https://twitter.com/albertojauregui)
+* [albertojauregui](https://github.com/albertojauregui)
