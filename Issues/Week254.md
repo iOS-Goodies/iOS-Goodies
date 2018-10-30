@@ -1,6 +1,11 @@
 **Articles**
 
-* 
+* [Writing Unit Tests With Quick](https://agostini.tech/2018/10/29/writing-unit-tests-with-quick/), by [@dagostin](https://twitter.com/dagostin)
+* [The power of key paths in Swift](https://www.swiftbysundell.com/posts/the-power-of-key-paths-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [What's .self, .Type and .Protocol? Understanding Swift Metatypes](https://swiftrocks.com/whats-type-and-self-swift-metatypes.html), by [@rockthebruno](https://twitter.com/rockthebruno)
+* [Let's Set Up Your iOS Environments](https://robots.thoughtbot.com/let-s-setup-your-ios-environments), by [@p_montalto](https://twitter.com/p_montalto)
+* [Sneaky Date Formatters Exposing More Than You Think](https://williamboles.me/sneaky-date-formatters-exposing-more-than-you-think/), by [@wibosco](https://twitter.com/wibosco)
+* [Swift 4.2: How the weirdest error message led to reimagining implicitly unwrapped optionals](http://iosbrain.com/blog/2018/10/24/swift-4-2-how-the-weirdest-error-message-led-to-reimagining-implicitly-unwrapped-optionals/), by [@iosbrain](https://twitter.com/iosbrain)
 
 **Tools/Controls**
 
@@ -24,4 +29,4 @@
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [albertojauregui](https://github.com/albertojauregui), [pmusolino](https://github.com/pmusolino), [AlexandrGraschenkov](https://github.com/AlexandrGraschenkov), [muukii](https://github.com/muukii)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [albertojauregui](https://github.com/albertojauregui), [pmusolino](https://github.com/pmusolino), [AlexandrGraschenkov](https://github.com/AlexandrGraschenkov), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa)
