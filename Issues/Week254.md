@@ -21,7 +21,7 @@
 
 **UI/UX**
 
-* 
+* [Designing a travel log mobile app.](https://blog.prototypr.io/designing-a-travel-log-mobile-app-ac7b55f7081b) - The process of designing a mobile app, from user interview to marvel prototype, by [@pinusatk](https://twitter.com/pinusatk)
 
 **Videos**
 
