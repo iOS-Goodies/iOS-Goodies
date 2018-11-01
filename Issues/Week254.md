@@ -21,7 +21,7 @@
 
 **Business/Career**
 
-* 
+* [Fresh Opportunities in the New New Mac App Store](https://blog.appfigures.com/opportunities-in-the-new-new-mac-app-store/), by [@magicwindowapp](https://twitter.com/magicwindowapp/)
 
 **UI/UX**
 
