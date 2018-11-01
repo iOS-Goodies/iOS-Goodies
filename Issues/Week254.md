@@ -1,3 +1,9 @@
+Did you watch the Apple Event? I did, and I was really impressed by the energy it transmitted. And the products were very impressive too, in my opinion. There are already [benchmarks](https://twitter.com/stroughtonsmith/status/1057901466025947136) that show the new iPads can easily match gaming PCs in processing power. I'm also a big fan of the shape of the new iPads, I like the fact that the're back to the iPhone 4 form factor. Really looking forward to seeing new apps for professionals that make good use of those new devices.
+
+In other news this week, iOS 12.1 is out, with new emojis. And we also got Xcode 10.1. 
+
+And last but not least before the links, [Paul Hudson](https://twitter.com/twostraws), who seems to be on a mission to teach everyone Swift 😄, has started gathering contributions to translate the Hacking With Swift tutorials to other languages. [Have a look and consider if you can help](https://github.com/twostraws/HWSTranslation) 😎
+
 **Articles**
 
 * [Writing Unit Tests With Quick](https://agostini.tech/2018/10/29/writing-unit-tests-with-quick/), by [@dagostin](https://twitter.com/dagostin)
