@@ -7,6 +7,7 @@
 * [Sneaky Date Formatters Exposing More Than You Think](https://williamboles.me/sneaky-date-formatters-exposing-more-than-you-think/), by [@wibosco](https://twitter.com/wibosco)
 * [Swift 4.2: How the weirdest error message led to reimagining implicitly unwrapped optionals](http://iosbrain.com/blog/2018/10/24/swift-4-2-how-the-weirdest-error-message-led-to-reimagining-implicitly-unwrapped-optionals/), by [@iosbrain](https://twitter.com/iosbrain)
 * [Five Things You Must Know About Xcode 10 New Build System](https://medium.com/xcblog/five-things-you-must-know-about-xcode-10-new-build-system-41676cd5fd6c), by [@Shashikant86](https://twitter.com/Shashikant86)
+* [Tricks & treats to make UI testing less terrifying - Part 1](https://blog.novoda.com/ui-testing-part-1/), [Part 2](https://blog.novoda.com/ui-testing-part-2/) and [Part 3](https://blog.novoda.com/ui-testing-part-3/), by Fabia Schäufele
 
 **Tools/Controls**
 
@@ -25,6 +26,8 @@
 **UI/UX**
 
 * [Designing a travel log mobile app.](https://blog.prototypr.io/designing-a-travel-log-mobile-app-ac7b55f7081b) - The process of designing a mobile app, from user interview to marvel prototype, by [@pinusatk](https://twitter.com/pinusatk)
+* [Apple Pencil Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/apple-pencil/)
+* [Accessibility in UX: How to Make Mobile App Design Work for Everyone](https://icons8.com/articles/accessibility-ux-mobile-app-design/), by [@todavchich](https://twitter.com/todavchich)
 
 **Videos**
 
