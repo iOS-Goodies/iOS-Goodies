@@ -8,6 +8,7 @@
 * [Swift 4.2: How the weirdest error message led to reimagining implicitly unwrapped optionals](http://iosbrain.com/blog/2018/10/24/swift-4-2-how-the-weirdest-error-message-led-to-reimagining-implicitly-unwrapped-optionals/), by [@iosbrain](https://twitter.com/iosbrain)
 * [Five Things You Must Know About Xcode 10 New Build System](https://medium.com/xcblog/five-things-you-must-know-about-xcode-10-new-build-system-41676cd5fd6c), by [@Shashikant86](https://twitter.com/Shashikant86)
 * [Tricks & treats to make UI testing less terrifying - Part 1](https://blog.novoda.com/ui-testing-part-1/), [Part 2](https://blog.novoda.com/ui-testing-part-2/) and [Part 3](https://blog.novoda.com/ui-testing-part-3/), by Fabia Schäufele
+* [So you want to automate iOS biometrics?](https://edit.theappbusiness.com/so-you-want-to-automate-ios-biometrics-81bd015f5d38), by [@KaneCheshire](https://twitter.com/KaneCheshire)
 
 **Tools/Controls**
 
@@ -22,6 +23,7 @@
 **Business/Career**
 
 * [Fresh Opportunities in the New New Mac App Store](https://blog.appfigures.com/opportunities-in-the-new-new-mac-app-store/), by [@magicwindowapp](https://twitter.com/magicwindowapp/)
+* [I followed these 7 simple steps and became an iOS coding test BOSS](https://edit.theappbusiness.com/i-followed-these-7-simple-steps-and-became-an-ios-coding-test-boss-7da963c3a40d), by [@dodsios](https://twitter.com/dodsios)
 
 **UI/UX**
 
@@ -35,4 +37,4 @@
 
 **Credits**
 
-* [FranciscoAmado](https://github.com/FranciscoAmado), [albertojauregui](https://github.com/albertojauregui), [pmusolino](https://github.com/pmusolino), [AlexandrGraschenkov](https://github.com/AlexandrGraschenkov), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa)
+* [FranciscoAmado](https://github.com/FranciscoAmado), [albertojauregui](https://github.com/albertojauregui), [pmusolino](https://github.com/pmusolino), [AlexandrGraschenkov](https://github.com/AlexandrGraschenkov), [muukii](https://github.com/muukii), [rbarbosa](https://github.com/rbarbosa), [samdods](https://github.com/samdods)
