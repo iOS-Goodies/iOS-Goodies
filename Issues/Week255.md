@@ -1,8 +1,6 @@
-https://twitter.com/johnsundell/status/1060202832987611136
+I've talked briefly lat week about the new iPads. [@JohnSundell](https://twitter.com/johnsundell) show us a [quick example of live editing a game level](https://twitter.com/johnsundell/status/1060202832987611136) on the new iPad Pro, and I think this is just awesome. I'm very curious to see some more creative usages of the new devices.
 
-Learn Talks
-
-https://www.hackingwithswift.com/awards
+In other news, I'm very happy to see that, for the second year in a row, we're nominated to the [Swift Community Awards](https://www.hackingwithswift.com/awards) in the Best Newsletter category. We consider this a result of our commitment to deliver the best iOS development articles every Thursday to our subscribers, and it means a lot to us. If you enjoy our newsletter, we'd appreciate a vote 😁.
 
 **Articles**
 
