@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Stubbing in pair with Swift compiler](https://medium.com/@londeix/stubbing-in-pair-with-swift-compiler-c951770a295b), by [@norapsi](https://twitter.com/norapsi)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [polac24](https://github.com/polac24)
