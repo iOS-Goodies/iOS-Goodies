@@ -1,3 +1,4 @@
+Happy Thursday! There were a lot of very good new articles this week, so some of them didn't make it into the newsletter. You can read all of them on our [GitHub repo](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week256.md)
 
 **Articles**
 
@@ -31,7 +32,7 @@
 * [On crafting products](https://blog.prototypr.io/on-crafting-products-a105f7582b6), by Tina He
 
 **Books**
-* [Design Patterns in Swift'](https://github.com/VamshiIITBHU14/DesignPatternsInSwift), by [@vamshi_k7](https://twitter.com/vamshi_k7)
+* [Design Patterns in Swift](https://github.com/VamshiIITBHU14/DesignPatternsInSwift), by [@vamshi_k7](https://twitter.com/vamshi_k7)
 
 **Videos**
 
