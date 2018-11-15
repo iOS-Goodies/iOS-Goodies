@@ -3,6 +3,7 @@
 
 * [Stubbing in pair with Swift compiler](https://medium.com/@londeix/stubbing-in-pair-with-swift-compiler-c951770a295b), by [@norapsi](https://twitter.com/norapsi)
 * [CreateML: Start Your Adventure in Machine Learning with Swift](https://www.netguru.co/codestories/createml-start-your-adventure-in-machine-learning-with-swift), by [@shkarlinska](https://twitter.com/shkarlinska)
+* [Animations are assets: using Core Animation archives on iOS](https://rambo.codes/ios/2018/11/11/animations-are-assets.html), by [@_inside](https://www.twitter.com/_inside)
 
 **Tools/Controls**
 
