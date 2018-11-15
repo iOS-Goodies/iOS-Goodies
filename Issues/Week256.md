@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [Building the perfect splash screen](https://medium.com/@duncancampbell/building-the-perfect-splash-screen-46e080395f06), by Duncan Campbell
 
 **Videos**
 
