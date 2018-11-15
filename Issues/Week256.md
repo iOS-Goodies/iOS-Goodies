@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [Into the Deep](https://git.kabellmunk.dk/talks/into-the-deep) - interactive presentation on depth sensing technology, by [@tobiasdm](https://twitter.com/tobiasdm)
+* [SourceKit-LSP](https://github.com/apple/sourcekit-lsp), by Apple
 
 **Business/Career**
 
@@ -20,6 +21,9 @@
 * [Building the perfect splash screen](https://medium.com/@duncancampbell/building-the-perfect-splash-screen-46e080395f06), by Duncan Campbell
 * [10 UX design tips for Apple TV apps](https://www.justinmind.com/blog/10-ux-design-tips-for-apple-tv-apps/), by Tom Clarke
 * [Use Case For Augmented Reality In Design](https://www.smashingmagazine.com/2018/11/use-case-for-augmented-reality-in-design/), by [@sescacca](https://twitter.com/sescacca)
+
+**Books**
+* [Design Patterns in Swift'](https://github.com/VamshiIITBHU14/DesignPatternsInSwift), by [@vamshi_k7](https://twitter.com/vamshi_k7)
 
 **Videos**
 
