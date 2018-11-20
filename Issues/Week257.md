@@ -16,8 +16,8 @@
 
 **Videos**
 
-* 
+* [Swift Heroes 2018 - all Talks](https://www.youtube.com/playlist?list=PLfCiO1zYKkASAdaBB92r6Ii6tdU8TJN-_), by [@swiftheroes_it](https://twitter.com/swiftheroes_it)
 
 **Credits**
 
-* [michaeleisel](https://github.com/michaeleisel)
+* [michaeleisel](https://github.com/michaeleisel), [pmusolino](https://github.com/pmusolino)
