@@ -25,7 +25,7 @@ Usually, in this period you can find great deals and discounts on software or bo
 
 * [Designing Weather Up](https://blog.prototypr.io/designing-weather-up-cf248e47b5d8), by [@flarup](https://twitter.com/flarup)
 * [Five Mistakes in Designing Mobile Push Notifications](https://www.nngroup.com/articles/push-notification/), by [@alitamjoyce](https://twitter.com/alitamjoyce)
-* [Great UX designers to follow on Twitter](https://flawlessapp.io/blog/great-ux-designers-to-follow-on-twitter/, by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [Great UX designers to follow on Twitter](https://flawlessapp.io/blog/great-ux-designers-to-follow-on-twitter/), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 
 **Videos**
 
