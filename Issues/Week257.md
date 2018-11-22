@@ -18,7 +18,8 @@
 
 **UI/UX**
 
-* 
+* [Designing Weather Up](https://blog.prototypr.io/designing-weather-up-cf248e47b5d8), by [@flarup](https://twitter.com/flarup)
+* [Five Mistakes in Designing Mobile Push Notifications](https://www.nngroup.com/articles/push-notification/), by [@alitamjoyce](https://twitter.com/alitamjoyce)
 
 **Videos**
 
