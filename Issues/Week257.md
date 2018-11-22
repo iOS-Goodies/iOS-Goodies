@@ -1,4 +1,4 @@
-Happy Thursday! It's Thanksgiving today, and although we don't celebrate it in my area, I like the idea of taking some time to think what we're thankful for. Here are my very thematic ones: I'm thankful for our developer community, which creates an amazing amount of quality content every week; I'm thankful for the 3rd party apps that I use every day for the development proecess, making me more productive and helping me solve issues faster; and I'm thankful for the iPhone, a device I love to use and which allowed me to have a carreer writing software that runs on it; 
+Happy Thursday! It's Thanksgiving today, and although we don't celebrate it in my area, I like the idea of taking some time to think what we're thankful for. Here are my very thematic ones: I'm thankful for our developer community, which creates an amazing amount of quality content every week; I'm thankful for the 3rd party apps that I use every day for the development process, making me more productive and helping me solve issues faster; and I'm thankful for the iPhone, a device I love to use and which allowed me to have a career writing software that runs on it; 
 
 Usually, in this period you can find great deals and discounts on software or books. So keep an eye out and make sure to get what you want 😄. 
 
@@ -14,7 +14,7 @@ Usually, in this period you can find great deals and discounts on software or bo
 
 **Tools/Controls**
 
-* [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX - Excel spreadsheet (XLSX) format support in pure Swift, by [@maxdesiatov](https://twitter.com/maxdesiatov)
+* [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) - Excel spreadsheet (XLSX) format support in pure Swift, by [@maxdesiatov](https://twitter.com/maxdesiatov)
 * [30-seconds-of-swift-code](https://github.com/elizabethsiegle/30-seconds-of-swift-code) - A curated collection of useful Swift 4 snippets that you can understand in 30 seconds or less, by [@lizziepika](https://twitter.com/lizziepika)
 
 **Business/Career**
