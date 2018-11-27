@@ -1,3 +1,7 @@
+- https://github.com/dominictarr/event-stream/issues/116 & https://sandofsky.com/blog/third-party-libraries.html
+- https://developer.apple.com/entrepreneur-camp/
+- https://www.hackingwithswift.com/awards
+
 **Articles**
 
 * [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2-6-95c318a3bb89) by [@mxcl](https://twitter.com/mxcl)
@@ -13,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Linking to Subscription Management Settings](https://joecieplinski.com/blog/2018/11/26/linking-to-subscription-management-settings/), by [@jcieplinski](http://twitter.com/jcieplinski)
 
 **Videos**
 
