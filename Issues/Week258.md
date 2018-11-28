@@ -14,6 +14,7 @@
 * [Restoring Your UI With State Restoration](https://agostini.tech/2018/11/25/restoring-your-ui-with-state-restoration/), by [@dagostin](https://twitter.com/dagostin)
 * [Unit testing view controller memory leaks](https://blog.kulman.sk/unit-testing-memory-leaks/), by [@igorkulman](https://twitter.com/igorkulman)
 * [When to use UserDefaults, Keychain, or Core Data](https://fluffy.es/persist-data/), by [@soulchildpls](https://twitter.com/soulchildpls)
+* [simctl](https://nshipster.com/simctl/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
