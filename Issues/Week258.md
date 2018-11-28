@@ -21,7 +21,7 @@
 
 **Business/Career**
 
-* 
+* [How to Game the App Store](http://davidbarnard.com/post/180568817995/how-to-game-the-app-store), by [@drbarnard](https://twitter.com/drbarnard)
 
 **UI/UX**
 
