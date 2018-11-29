@@ -1,6 +1,8 @@
-- https://github.com/dominictarr/event-stream/issues/116 & https://sandofsky.com/blog/third-party-libraries.html
-- https://developer.apple.com/entrepreneur-camp/
-- https://www.hackingwithswift.com/awards
+Happy Thursday! I'll start this edition talking about npm 🙃. One open source package was transferred to someone else, who released a new version which had some malware code in it. It's very interesting to [read the whole thread](https://github.com/dominictarr/event-stream/issues/116) (although a bit long), and see people's reactions. It's also a nice group effort of developers working together to figure out what the malware code does and how to undo it. It'a also very good to think about the responsibilities an open source developer has. And last but not least, it's a good opportunity to think again about the deeper implications of using 3rd party libraries. Don't get me wrong, I'm pro using 3rd party libraries, and I don't like reinventing the wheel. But each of us has to take a decision on this, and it's ok if that's pro using 3rd party dependencies, and it's ok if it's against that, and it's also ok if it's different for each project we work on. But it has to be a conscious decision, and one for which each of us takes responsibility. It's also a good time to read again [When to Avoid Libraries](https://sandofsky.com/blog/third-party-libraries.html).
+
+In other news, Apple announced an [entrepreneur camp for organizations founded or lead by women](https://developer.apple.com/entrepreneur-camp/). It's great to see big companies try to support diversity in our industry. 
+
+And lastly, iOS Goodies was "highly commended" in the Best Newsletter section of the [Swift Community Awards](https://www.hackingwithswift.com/awards). Congrats to the winners and to all the nominees. And if you haven't already, check out all the nominees, the list is full of goodies 😁
 
 **Articles**
 
@@ -18,7 +20,8 @@
 
 **Tools/Controls**
 
-* 
+* [Komondor](https://github.com/orta/Komondor) - Git Hooks for Swift projects 🐩, by [@orta](https://twitter.com/orta/)
+* [RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links, by [@tophat](https://twitter.com/tophat)
 
 **Business/Career**
 
