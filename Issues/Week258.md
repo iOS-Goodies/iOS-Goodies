@@ -38,4 +38,4 @@ And lastly, iOS Goodies was "highly commended" in the Best Newsletter section of
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [MikePT28](https://github.com/MikePT28), [bellebethcooper](https://github.com/bellebethcooper/), [rbarbosa](https://github.com/rbarbosa)
+* [pmusolino](https://github.com/pmusolino), [MikePT28](https://github.com/MikePT28), [bellebethcooper](https://github.com/bellebethcooper/), [rbarbosa](https://github.com/rbarbosa), [lordcodes](https://github.com/lordcodes)
