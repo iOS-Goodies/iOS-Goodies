@@ -17,6 +17,7 @@ And lastly, iOS Goodies was "highly commended" in the Best Newsletter section of
 * [Unit testing view controller memory leaks](https://blog.kulman.sk/unit-testing-memory-leaks/), by [@igorkulman](https://twitter.com/igorkulman)
 * [When to use UserDefaults, Keychain, or Core Data](https://fluffy.es/persist-data/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [simctl](https://nshipster.com/simctl/), by [@mattt](https://twitter.com/mattt)
+* [A modular analytics layer in Swift](https://www.lordcodes.com/posts/a-modular-analytics-layer-in-swift), by [@lordcodes](https://twitter.com/lordcodes)
 
 **Tools/Controls**
 
