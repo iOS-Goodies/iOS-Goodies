@@ -22,6 +22,7 @@ And lastly, iOS Goodies was "highly commended" in the Best Newsletter section of
 
 * [Komondor](https://github.com/orta/Komondor) - Git Hooks for Swift projects 🐩, by [@orta](https://twitter.com/orta/)
 * [RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links, by [@tophat](https://twitter.com/tophat)
+* [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments, by [@vel_is_lava](https://twitter.com/vel_is_lava)
 
 **Business/Career**
 
@@ -37,4 +38,4 @@ And lastly, iOS Goodies was "highly commended" in the Best Newsletter section of
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [MikePT28](https://github.com/MikePT28), [bellebethcooper](https://github.com/bellebethcooper/), [rbarbosa](https://github.com/rbarbosa)
+* [pmusolino](https://github.com/pmusolino), [MikePT28](https://github.com/MikePT28), [bellebethcooper](https://github.com/bellebethcooper/), [rbarbosa](https://github.com/rbarbosa), [@vel_is_lava](https://twitter.com/vel_is_lava)
