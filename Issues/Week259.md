@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments, by [@vel_is_lava](https://twitter.com/vel_is_lava)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [lordcodes](https://github.com/lordcodes), [polac24](https://github.com/polac24)
+* [lordcodes](https://github.com/lordcodes), [polac24](https://github.com/polac24), [@vel_is_lava](https://twitter.com/vel_is_lava)
