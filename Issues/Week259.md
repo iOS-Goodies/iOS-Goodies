@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [lordcodes](https://github.com/lordcodes), [polac24](https://github.com/polac24), [@vel_is_lava](https://twitter.com/vel_is_lava)
+* [lordcodes](https://github.com/lordcodes), [polac24](https://github.com/polac24), [velyan](https://github.com/velyan)
