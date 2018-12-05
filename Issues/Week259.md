@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) - Xcode extension for spell checking and auto correcting code comments, by [@vel_is_lava](https://twitter.com/vel_is_lava)
+* [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing) - Delightful Swift snapshot testing, by [@pointfreeco](https://www.twitter.com/pointfreeco)
 
 **Business/Career**
 
