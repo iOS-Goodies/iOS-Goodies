@@ -10,6 +10,7 @@
 * [RxSwift and Animations in iOS
 ](https://www.toptal.com/ios/rxswift-animations-ios), by Vadim Dagman
 * [NS for iOS Devs – Testability](https://theswiftpost.co/testability/), by [@candostEN](https://twitter.com/candostEN)
+* [Seemingly Impossible Swift Programs](https://www.fewbutripe.com/2018/12/05/seemingly-impossible.html), by [@mbrandonw](https://twitter.com/mbrandonw)
 
 **Tools/Controls**
 
