@@ -7,6 +7,9 @@
 * [Dependency Injection on iOS](https://medium.com/@fernandodelrio/dependency-injection-on-ios-part-1-4-8847f302b3d9), by [@fernandohdelrio](https://twitter.com/fernandohdelrio)
 * [Implementing Siri support using NSUserActivity](https://www.avanderlee.com/swift/siri-support-nsuseractivity/), by [@twannl](https://www.twitter.com/twannl)
 * [Unexpected Results from a Date Formatter](https://www.objc.io/blog/2018/12/04/unexpected-results-from-a-date-formatter/), by [@objcio](https://twitter.com/objcio)
+* [RxSwift and Animations in iOS
+](https://www.toptal.com/ios/rxswift-animations-ios), by Vadim Dagman
+* [NS for iOS Devs – Testability](https://theswiftpost.co/testability/), by [@candostEN](https://twitter.com/candostEN)
 
 **Tools/Controls**
 
@@ -27,4 +30,4 @@
 
 **Credits**
 
-* [lordcodes](https://github.com/lordcodes), [polac24](https://github.com/polac24), [velyan](https://github.com/velyan), [fernandodelrio](https://github.com/fernandodelrio)
+* [lordcodes](https://github.com/lordcodes), [polac24](https://github.com/polac24), [velyan](https://github.com/velyan), [fernandodelrio](https://github.com/fernandodelrio), [rbarbosa](https://github.com/rbarbosa)
