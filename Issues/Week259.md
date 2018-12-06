@@ -12,7 +12,7 @@
 * [NS for iOS Devs – Testability](https://theswiftpost.co/testability/), by [@candostEN](https://twitter.com/candostEN)
 * [Seemingly Impossible Swift Programs](https://www.fewbutripe.com/2018/12/05/seemingly-impossible.html), by [@mbrandonw](https://twitter.com/mbrandonw)
 * [Make a Mess to Clean a Mess: Refactoring, Continued](https://qualitycoding.org/reactoring-small-steps-continued/), by [@qcoding](https://twitter.com/qcoding)
-* [Swiftly Bite #1: Testing Swift Optionals](https://medium.com/@mpesate/swiftly-bite-1-testing-swift-optionals-f218f36970ae), by [MikePT28](https://twitter.com/mikept28)
+* [Swiftly Bite #1: Testing Swift Optionals](https://medium.com/@mpesate/swiftly-bite-1-testing-swift-optionals-f218f36970ae), by [@mikept28](https://twitter.com/mikept28)
 
 **Tools/Controls**
 
