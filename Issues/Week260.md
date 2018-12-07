@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Solving dependencies in Swift](https://medium.com/@JuanpeCatalan/solving-dependencies-in-swift-9ee6ad4a8941), by [@JuanpeCatalan](https://twitter.com/JuanpeCatalan)
 
 **Tools/Controls**
 
