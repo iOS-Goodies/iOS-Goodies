@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-* 
+* [Worldwide App Store Optimization](https://appmanager.io/blog/guest-article/worldwide-app-store-optimization/), by [@ilyakuh](https://twitter.com/ilyakuh)
 
 **UI/UX**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino)
+* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott)
