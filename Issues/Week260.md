@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [@ott_max](https://twitter.com/ott_max)
+* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [@ott_max](https://github.com/max-ott)
