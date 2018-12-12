@@ -5,6 +5,7 @@
 **Tools/Controls**
 
 * [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar) - the calendar UI framework you need, by CleverPumpkin
+* [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations
 
 **Business/Career**
 
@@ -20,4 +21,4 @@
 
 **Credits**
 
-* 
+* [pmusolino](https://www.github.com/pmusolino)
