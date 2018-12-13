@@ -16,6 +16,7 @@
 
 * [Worldwide App Store Optimization](https://appmanager.io/blog/guest-article/worldwide-app-store-optimization/), by [@ilyakuh](https://twitter.com/ilyakuh)
 * [How I Survived My First Conference Talk as an Introvert](https://tolkiana.com/how-i-survived-my-first-conference-talk-as-an-introvert/), by [@tolkiana](https://twitter.com/tolkiana)
+* [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course), by [@andreasklinger](https://twitter.com/andreasklinger)
 
 **UI/UX**
 
