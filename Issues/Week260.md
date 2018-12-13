@@ -2,6 +2,7 @@
 
 * [Solving dependencies in Swift](https://medium.com/@JuanpeCatalan/solving-dependencies-in-swift-9ee6ad4a8941), by [@JuanpeCatalan](https://twitter.com/JuanpeCatalan)
 * [How to convert your Xcode plugins to Xcode extensions](https://medium.freecodecamp.org/how-to-convert-your-xcode-plugins-to-xcode-extensions-ac90f32ae0e3), by [@onmyway133](https://twitter.com/onmyway133)
+* [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/), by [@MikeMikina](https://twitter.com/mikemikina)
 
 **Tools/Controls**
 
@@ -14,12 +15,12 @@
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+*
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott)
+* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott), [mikina](https://www.github.com/mikina)
