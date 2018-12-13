@@ -6,6 +6,8 @@
 * [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/), by [@MikeMikina](https://twitter.com/mikemikina)
 * [Is your iOS app accessible? Probably not, here’s how to find out](https://medium.com/@nickbona/is-your-ios-app-accessible-probably-not-heres-how-to-tell-for-sure-2950feee9165), by [@nickbona](https://twitter.com/nickbona)
 * [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/), by [@V8tr](https://twitter.com/V8tr)
+* [Keeping Dates Local](https://williamboles.me/keeping-dates-local/), by [@wibosco](https://twitter.com/wibosco)
+* [Flutter will change everything and is an excellent choice for iOS development](https://medium.com/coding-with-flutter/flutter-will-change-everything-and-apple-wont-do-anything-about-it-f495e7087802), by [@biz84](https://twitter.com/biz84)
 
 **Tools/Controls**
 
@@ -32,4 +34,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott), [mikina](https://www.github.com/mikina), [michaeleisel](https://github.com/michaeleisel)
+* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott), [mikina](https://www.github.com/mikina), [michaeleisel](https://github.com/michaeleisel), [LisaDziuba](https://github.com/lisadziuba)
