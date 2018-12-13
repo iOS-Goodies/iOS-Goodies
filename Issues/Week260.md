@@ -11,17 +11,20 @@
 
 * [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar) - the calendar UI framework you need, by CleverPumpkin
 * [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations, by [@igorkulman](https://twitter.com/igorkulman)
+* [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) - Swift code formatter using SwiftSyntax, by [@inamiy](https://twitter.com/inamiy/)
 
 **Business/Career**
 
 * [Worldwide App Store Optimization](https://appmanager.io/blog/guest-article/worldwide-app-store-optimization/), by [@ilyakuh](https://twitter.com/ilyakuh)
 * [How I Survived My First Conference Talk as an Introvert](https://tolkiana.com/how-i-survived-my-first-conference-talk-as-an-introvert/), by [@tolkiana](https://twitter.com/tolkiana)
 * [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course), by [@andreasklinger](https://twitter.com/andreasklinger)
+* [Can You Grow a Startup on the Side?](https://justinjackson.ca/sideproject), by [@mijustin](https://twitter.com/mijustin)
 
 **UI/UX**
 
 * [The State of UX in 2019](https://trends.uxdesign.cc/2019), by [@caioab](https://twitter.com/caioab) and [@fabriciot](https://twitter.com/fabriciot)
 * [Delightful animations](https://rolandleth.com/delightful-animations), by [@rolandleth](https://twitter.com/rolandleth)
+* [The Thumb Zone](https://joecieplinski.com/blog/2018/12/10/the-thumb-zone/), by [@jcieplinski](https://twitter.com/jcieplinski)
 
 **Videos**
 
