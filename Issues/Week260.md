@@ -22,6 +22,7 @@
 * [How I Survived My First Conference Talk as an Introvert](https://tolkiana.com/how-i-survived-my-first-conference-talk-as-an-introvert/), by [@tolkiana](https://twitter.com/tolkiana)
 * [Managing Remote Teams - A Crash Course](http://klinger.io/post/180989912140/managing-remote-teams-a-crash-course), by [@andreasklinger](https://twitter.com/andreasklinger)
 * [Can You Grow a Startup on the Side?](https://justinjackson.ca/sideproject), by [@mijustin](https://twitter.com/mijustin)
+* [The Homework App, the end of a 8 year iOS journey.](https://hackernoon.com/the-homework-app-the-end-of-a-8-year-ios-journey-4cc9f5c27c4f), by [@kermankohli](https://twitter.com/kermankohli)
 
 **UI/UX**
 
