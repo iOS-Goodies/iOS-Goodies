@@ -1,3 +1,5 @@
+Happy Thursday! One article that was shared quite a lot this week is "[Flutter will change everything and is an excellent choice for iOS development](https://medium.com/coding-with-flutter/flutter-will-change-everything-and-apple-wont-do-anything-about-it-f495e7087802)", by [@biz84](https://twitter.com/biz84). While it is an interesting read, I can't help but disagree with it. I'm probably biased, since I love native iOS development, and I've done this for years. But I've also worked on a Flutter app that was released to the App Store and Google Play, so I like to think I can evaluate Flutter a bit more objectively. In my opinion, Flutter is no silver bullet, and it won't change everyhting. Don't get me wrong, there are apps, and there are teams for which Flutter can really be a better choice than native. But I still prefere native over Flutter, and I'm sure there will be certain features of an app for which native would make a lot more sense than Flutter. Coming back to the article, it's funny how certain aspects of iOS development that are presented as being bad in the article (UIKit, Auto Layout) are actually good things in my opinion 😅. I encourage you to read the blogpost carefully, try to be objective and don't get too pasionately attached to one side or another. Take things for what they are, see if the arguments made there apply in your cases and maybe even give Flutter a try before jumping to conclusions. And last but not least, we have to admire the enthusiasm of the author 😁.
+
 **Articles**
 
 * [8 Runtime Linters to Help Clean Up Your Code Base](https://medium.com/@michael.eisel/runtime-checking-on-ios-1234b5294998), by [@michaeleisel](https://twitter.com/michaeleisel)
@@ -7,7 +9,6 @@
 * [Is your iOS app accessible? Probably not, here’s how to find out](https://medium.com/@nickbona/is-your-ios-app-accessible-probably-not-heres-how-to-tell-for-sure-2950feee9165), by [@nickbona](https://twitter.com/nickbona)
 * [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/), by [@V8tr](https://twitter.com/V8tr)
 * [Keeping Dates Local](https://williamboles.me/keeping-dates-local/), by [@wibosco](https://twitter.com/wibosco)
-* [Flutter will change everything and is an excellent choice for iOS development](https://medium.com/coding-with-flutter/flutter-will-change-everything-and-apple-wont-do-anything-about-it-f495e7087802), by [@biz84](https://twitter.com/biz84)
 * [Animating tab bar buttons on tap](https://blog.kulman.sk/animating-tab-bar-buttons/), by [@igorkulman](https://twitter.com/igorkulman)
 
 **Tools/Controls**
