@@ -8,6 +8,7 @@
 * [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/), by [@V8tr](https://twitter.com/V8tr)
 * [Keeping Dates Local](https://williamboles.me/keeping-dates-local/), by [@wibosco](https://twitter.com/wibosco)
 * [Flutter will change everything and is an excellent choice for iOS development](https://medium.com/coding-with-flutter/flutter-will-change-everything-and-apple-wont-do-anything-about-it-f495e7087802), by [@biz84](https://twitter.com/biz84)
+* [Animating tab bar buttons on tap](https://blog.kulman.sk/animating-tab-bar-buttons/), by [@igorkulman](https://twitter.com/igorkulman)
 
 **Tools/Controls**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott), [mikina](https://www.github.com/mikina), [michaeleisel](https://github.com/michaeleisel), [LisaDziuba](https://github.com/lisadziuba)
+* [onmyway133](https://github.com/onmyway133), [pmusolino](https://www.github.com/pmusolino), [ott_max](https://github.com/max-ott), [mikina](https://www.github.com/mikina), [michaeleisel](https://github.com/michaeleisel), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
