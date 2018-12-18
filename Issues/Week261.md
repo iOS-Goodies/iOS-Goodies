@@ -2,6 +2,8 @@
 **Articles**
 
 * [Create Xcode file templates and share them with your team](https://www.lordcodes.com/posts/create-xcode-file-templates), by [@lordcodes](https://twitter.com/lordcodes)
+* [Why iOS developers should pay attention to Flutter in 2019](https://flawlessapp.io/blog/why-ios-developers-should-pay-attention-to-flutter-in-2019/), by [@Shashikant86](https://twitter.com/Shashikant86)
+* [Bundles and Packages](https://nshipster.com/bundles-and-packages/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
