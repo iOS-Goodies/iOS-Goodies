@@ -1,4 +1,4 @@
-- https://cocoaconferences.com/
+Happy Thursday! The holidays are getting close, but we're still getting a lot of new content this period from our community. Same as last year, we plan to send out an issue next week as well if we have enought content. 
 
 **Articles**
 
