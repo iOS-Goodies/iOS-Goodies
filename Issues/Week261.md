@@ -10,6 +10,7 @@
 * [Unbreakable reference cycles in Swift no one is talking about](https://desiatov.com/swift-reference-cycles/), by [@maxdesiatov](https://twitter.com/maxdesiatov)
 * [Analyzing Complexity](http://khanlou.com/2018/12/analyzing-complexity/), by [@khanlou](http://www.twitter.com/khanlou)
 * [Building voice responsive AR apps](https://martinmitrevski.com/2018/12/16/building-voice-responsive-ar-apps/), by [@mitrevski](https://twitter.com/mitrevski)
+* [A guide to writing your own iOS CI/CD integration script](https://medium.com/appssemble/a-guide-to-writing-your-own-ios-ci-cd-integration-script-186be1b99575), by [@dobreandl](https://twitter.com/dobreandl)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [lordcodes](https://github.com/lordcodes), [LisaDziuba](https://github.com/lisadziuba)
+* [lordcodes](https://github.com/lordcodes), [LisaDziuba](https://github.com/lisadziuba), [dobreandl](https://github.com/dobreandl)
