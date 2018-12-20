@@ -15,6 +15,8 @@
 **Tools/Controls**
 
 * [Shapeshift](https://github.com/JohnSundell/Shapeshift) - Quickly convert a folder containing Swift files into an iPad-compatible Playground, by [@JohnSundell](https://twitter.com/JohnSundell)
+* [MagazineLayout](https://github.com/airbnb/MagazineLayout) - A collection view layout capable of laying out views in vertically scrolling grids and lists, by [@airbnbeng](https://twitter.com/airbnbeng)
+* [CardPresentationController](https://github.com/radianttap/CardPresentationController) - Custom UIPresentationController which mimics the behavior of Apple Music UI, by [@radiantav](https://twitter.com/radiantav)
 
 **Business/Career**
 
