@@ -18,6 +18,7 @@ The iOS Goodies team wishes all our readers Happy Holidays and a Happy New Year.
 
 * [Model2App](https://github.com/Q-Mobile/Model2App) - Turn your Swift data model into a working CRUD app, by [@karolkulesza](https://twitter.com/karolkulesza)
 * [Shortcuts Swift](https://github.com/a2/shortcuts-swift) - Write Shortcuts in Playgrounds, by [@a2](https://twitter.com/a2) and [@_alexaubry](https://twitter.com/_alexaubry)
+* [Swift Studio](https://swiftstudio.app/), by [@krzyzanowskim](https://twitter.com/krzyzanowskim)
 
 **Business/Career**
 
