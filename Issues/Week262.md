@@ -9,10 +9,12 @@
 * [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/), by [@radiantav](https://twitter.com/radiantav)
 * [Mocking With Protocols in Swift](https://www.bignerdranch.com/blog/mocking-with-protocols-in-swift/), by [@JCubedApps](https://twitter.com/JCubedApps)
 * [Building Expectations](https://pfandrade.me/blog/building-expectations/), by [@pfandrade_](https://twitter.com/pfandrade_)
+* [ISO-8601, YYYY, yyyy, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/), by [@ericasadun](https://twitter.com/ericasadun)
 
 **Tools/Controls**
 
 * [Model2App](https://github.com/Q-Mobile/Model2App) - Turn your Swift data model into a working CRUD app, by [@karolkulesza](https://twitter.com/karolkulesza)
+* [Shortcuts Swift](https://github.com/a2/shortcuts-swift) - Write Shortcuts in Playgrounds, by [@a2](https://twitter.com/a2) and [@_alexaubry](https://twitter.com/_alexaubry)
 
 **Business/Career**
 
