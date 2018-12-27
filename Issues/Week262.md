@@ -1,4 +1,4 @@
-Here we are, the last iOS Goodies issue of 2018. It's been a great year, in which I, personally, have learned a lot. It was amazing to be able to send an issue filled with goodies every Thursday. Lots of thanks and appreciation for that go our contributors, who made this possible, and to our awesome iOS community who produced valuable contetn day after day. We have some great links this week as well, even though it's right in the middle of the holiday period. 
+Here we are, the last iOS Goodies issue of 2018. It's been a great year, in which I, personally, have learned a lot. It was amazing to be able to send an issue filled with goodies every Thursday. Lots of thanks and appreciation for that go our contributors, who made this possible, and to our awesome iOS community who produced valuable content day after day. We have some great links this week as well, even though it's right in the middle of the holiday period. 
 
 The iOS Goodies team wishes all our readers Happy Holidays and a Happy New Year. See you in 2019 :)
 
