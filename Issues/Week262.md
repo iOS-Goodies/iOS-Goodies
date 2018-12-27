@@ -2,7 +2,6 @@
 **Articles**
 
 * [Why is the Swift Package Manager taking so long?](http://artsy.github.io/blog/2018/12/21/why-is-swiftpm-taking-so-long/), by [@orta](https://twitter.com/orta)
-* [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/), by [@radiantav](http://twitter.com/radiantav)
 * [Swift playgrounds tips & tricks](https://www.swiftbysundell.com/posts/swift-playgrounds-tips-tricks), by [@johnsundell](https://twitter.com/johnsundell)
 * [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers), by [@twostraws](https://twitter.com/twostraws)
 * [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/), by [@soulchildpls](https://twitter.com/soulchildpls)
