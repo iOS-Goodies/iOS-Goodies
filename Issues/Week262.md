@@ -6,6 +6,8 @@
 * [Swift playgrounds tips & tricks](https://www.swiftbysundell.com/posts/swift-playgrounds-tips-tricks), by [@johnsundell](https://twitter.com/johnsundell)
 * [How to refactor massive view controllers](https://www.hackingwithswift.com/articles/159/how-to-refactor-massive-view-controllers), by [@twostraws](https://twitter.com/twostraws)
 * [Solving duplicated / repeating cells in Table view](https://fluffy.es/solve-duplicated-cells/), by [@soulchildpls](https://twitter.com/soulchildpls)
+* [Swift 5 gives us Nice Things™: Custom string delimiters](https://ericasadun.com/2018/12/26/swift-5-gives-us-nice-things-custom-string-delimiters/), by [@ericasadun](https://twitter.com/ericasadun)
+* [Coordinator: the missing pattern in UIKit](http://aplus.rs/2018/coordinator-missing-pattern-uikit/), by [@radiantav](https://twitter.com/radiantav)
 
 **Tools/Controls**
 
@@ -26,4 +28,4 @@
 
 **Credits**
 
-* [karolkulesza](https://github.com/karolkulesza)
+* [karolkulesza](https://github.com/karolkulesza), [rbarbosa](https://github.com/rbarbosa)
