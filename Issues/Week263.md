@@ -10,6 +10,7 @@
 * [XCoordinator](https://github.com/quickbirdstudios/XCoordinator), by [@quickbirdstudios](https://github.com/quickbirdstudios)
 * [Connectivity](https://github.com/rwbutler/Connectivity), by [@ross_w_butler](https://twitter.com/ross_w_butler)
 * [FeatureFlags](https://github.com/rwbutler/FeatureFlags), by [@ross_w_butler](https://twitter.com/ross_w_butler)
+* [Shortcuts Swift](https://github.com/a2/shortcuts-swift), by [@a2](https://twitter.com/a2), [@_alexaubry](https://twitter.com/_alexaubry)
 
 **Business/Career**
 
