@@ -1,6 +1,7 @@
 **Articles**
 
-*
+* [Reasoning about protocols](https://swiftindepth.com/2019-01-01/reasoning-about-protocols), by [@tjeerdintveen](https://twitter.com/tjeerdintveen)
+* [UI Testing Quick Guide](https://useyourloaf.com/blog/ui-testing-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
