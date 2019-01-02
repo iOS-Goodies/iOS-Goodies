@@ -2,6 +2,7 @@
 
 * [Reasoning about protocols](https://swiftindepth.com/2019-01-01/reasoning-about-protocols), by [@tjeerdintveen](https://twitter.com/tjeerdintveen)
 * [UI Testing Quick Guide](https://useyourloaf.com/blog/ui-testing-quick-guide/), by [@kharrison](https://twitter.com/kharrison)
+* [Using launch arguments / environment variables to simulate in-app purchase purchased and etc](https://fluffy.es/launch-arguments-environment-variables/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
