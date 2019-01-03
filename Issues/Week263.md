@@ -6,6 +6,7 @@
 * [Integration Testing for Memory Leaks](https://developers.soundcloud.com/blog/integration-testing-for-memory-leaks), by [@meanestcreature](https://twitter.com/meanestcreature)
 * [QR Code generation with a custom logo and color using Swift](https://www.avanderlee.com/swift/qr-code-generation-swift/), by [@twannl](https://www.twitter.com/twannl)
 * [The iOS Menu](https://codea.io/blog/the-ios-menu/), by [@twolivesleft](https://twitter.com/twolivesleft)
+* [Requesting App Ratings and Reviews ](https://www.raywenderlich.com/9009-requesting-app-ratings-and-reviews-tutorial-for-ios), by [@SanketFirodiya](https://twitter.com/SanketFirodiya)
 
 **Tools/Controls**
 
