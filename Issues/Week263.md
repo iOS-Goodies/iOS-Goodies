@@ -16,7 +16,7 @@
 
 **Business/Career**
 
-* 
+* [Avoiding the App Store Tax: Can It Be Done and Its Impact on Mobile Marketing](https://blog.gummicube.com/2019/01/avoiding-the-app-store-tax-can-it-be-done-and-its-impact-on-mobile-marketing/), by [@Gummicube](https://twitter.com/Gummicube)
 
 **UI/UX**
 
