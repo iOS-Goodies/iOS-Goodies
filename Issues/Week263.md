@@ -37,4 +37,4 @@ In other news, if you go to the UI/UX section, you'll see that I actually linked
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [@sanketfirodiya](https://github.com/sanketfirodiya)
