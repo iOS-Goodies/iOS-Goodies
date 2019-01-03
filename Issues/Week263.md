@@ -1,3 +1,7 @@
+Happy New Year! I really enjoyed reading [Monorepos: Please don’t!](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b) by [Matt Klein](https://twitter.com/mattklein123). While not related specifically to iOS development, it's a very good read for any developer. I really enjoyed the thorough analysis and I think he makes some really good points.
+
+In other news, if you go to the UI/UX section, you'll see that I actually linked to a research paper. And yes, I know the study is 3 years old, but it's still relevant and interesting to read it.
+
 **Articles**
 
 * [Reasoning about protocols](https://swiftindepth.com/2019-01-01/reasoning-about-protocols), by [@tjeerdintveen](https://twitter.com/tjeerdintveen)
