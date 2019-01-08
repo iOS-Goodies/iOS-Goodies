@@ -6,6 +6,7 @@
 * [Swift Import Declarations](https://nshipster.com/import/), by [@mattt](https://twitter.com/mattt)
 * [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift), by [@PierreFelgines](https://twitter.com/PierreFelgines)
+* [Let’s Talk About: Double Standards in Testing](https://pedrommcarrasco.github.io/posts/lets-talk-about-double-standards/), by [@pedrommcarrasco](https://twitter.com/pedrommcarrasco)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [NSMyself](https://twitter.com/NSMyself)
