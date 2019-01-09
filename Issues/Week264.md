@@ -6,6 +6,7 @@
 * [Swift Import Declarations](https://nshipster.com/import/), by [@mattt](https://twitter.com/mattt)
 * [Controller Hierarchies](https://sandofsky.com/blog/controller-hierarchies.html), by [@sandofsky](https://twitter.com/sandofsky)
 * [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift), by [@PierreFelgines](https://twitter.com/PierreFelgines)
+* [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3), by [@plivesey453](https://twitter.com/plivesey453)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [plivesey](https://github.com/plivesey)
