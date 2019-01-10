@@ -1,3 +1,6 @@
+Happy Thursday! It's the beginning of new year, and if you haven't done it already, maybe it's time to think about which conferences you want to attent this year. For inspiration, you can use [Paul Hudson's article](https://www.hackingwithswift.com/articles/165/the-best-swift-and-ios-conferences-in-2019), or the continuous updating list of upcoming conferences at [https://cocoaconferences.com/](https://cocoaconferences.com). I'll be going to iOSCon in March, and we'll see what the rest of the year will bring :). Which conferences are you planning to attend?
+
+We've had more proposals than we could fit in this issue; if you want to read them all, you can do it on [our GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week264.md). 
 
 **Articles**
 
@@ -12,10 +15,13 @@
 * [Converting an Attributed String to a PDF](https://pspdfkit.com/blog/2019/converting-attributed-string-to-pdf/), by [@steviki](https://twitter.com/steviki)
 * [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/), by [@paulio87](https://twitter.com/paulio87)
 * [Why is there a "lag" in iOS gesture detection near the edges of the screen?](https://blog.kulman.sk/why-ios-gestures-lag-at-the-screen-edges/), by [@igorkulman](https://twitter.com/igorkulman)
+* [It's time to use Swift Package Manager](http://artsy.github.io/blog/2019/01/05/its-time-to-use-spm/), by [@orta](https://twitter.com/orta)
+* [Detailing the iOS Menu](https://codea.io/blog/detailing-the-ios-menu/), by [@twolivesleft](https://twitter.com/twolivesleft)
 
 **Tools/Controls**
 
-* [LayoutLoopHunter](https://github.com/rsrbk/LayoutLoopHunter)
+* [LayoutLoopHunter](https://github.com/rsrbk/LayoutLoopHunter) - Runtime-based setup for tracking autolayout feedback loops, by [rsrbk123](http://twitter.com/rsrbk123)
+* [Menu](https://github.com/TwoLivesLeft/Menu) - The iOS Menu, by [@twolivesleft](https://twitter.com/twolivesleft)
 
 **Business/Career**
 
@@ -25,6 +31,7 @@
 
 * [Embracing Your Animated Future](https://medium.com/movingui/embracing-your-animated-future-67f963063251), by [@createwithflow](https://twitter.com/createwithflow)
 * [Sound collection from popular mobile apps](https://uisounds.prototypr.io/), by [@graeme_fulton](https://twitter.com/@graeme_fulton)
+* [How To Design Search For Your Mobile App](https://www.smashingmagazine.com/2019/01/design-search-mobile-app/), by [@sescacca](https://twitter.com/sescacca)
 
 **Videos**
 
