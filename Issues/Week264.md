@@ -8,10 +8,11 @@
 * [Implementing Promises in Swift](https://felginep.github.io/2019-01-06/implementing-promises-in-swift), by [@PierreFelgines](https://twitter.com/PierreFelgines)
 * [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3), by [@plivesey453](https://twitter.com/plivesey453)
 * [Let’s Talk About: Double Standards in Testing](https://pedrommcarrasco.github.io/posts/lets-talk-about-double-standards/), by [@pedrommcarrasco](https://twitter.com/pedrommcarrasco)
+* [Runtime magic for catching OOMs](https://www.appcoda.com/layout-feedback-loop/), by [rsrbk123](http://twitter.com/rsrbk123)
 
 **Tools/Controls**
 
-* 
+* [LayoutLoopHunter](https://github.com/rsrbk/LayoutLoopHunter)
 
 **Business/Career**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [plivesey](https://github.com/plivesey), [NSMyself](https://github.com/NSMyself)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [plivesey](https://github.com/plivesey), [NSMyself](https://github.com/NSMyself), [rsrbk1](https://github.com/rsrbk)
