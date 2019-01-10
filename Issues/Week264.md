@@ -20,7 +20,7 @@
 
 **UI/UX**
 
-* 
+* [Embracing Your Animated Future](https://medium.com/movingui/embracing-your-animated-future-67f963063251), by [@createwithflow](https://twitter.com/createwithflow)
 
 **Videos**
 
