@@ -21,6 +21,7 @@
 **UI/UX**
 
 * [Embracing Your Animated Future](https://medium.com/movingui/embracing-your-animated-future-67f963063251), by [@createwithflow](https://twitter.com/createwithflow)
+* [Sound collection from popular mobile apps](https://uisounds.prototypr.io/), by [@graeme_fulton](https://twitter.com/@graeme_fulton)
 
 **Videos**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [plivesey](https://github.com/plivesey), [NSMyself](https://github.com/NSMyself), [rsrbk1](https://github.com/rsrbk)
+* [onmyway133](https://github.com/onmyway133), [rbarbosa](https://github.com/rbarbosa), [plivesey](https://github.com/plivesey), [NSMyself](https://github.com/NSMyself), [rsrbk1](https://github.com/rsrbk), [LisaDziuba](https://github.com/lisadziuba)
