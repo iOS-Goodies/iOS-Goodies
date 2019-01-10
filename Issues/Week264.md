@@ -9,6 +9,7 @@
 * [The Many Offline Options for iOS Apps](https://medium.com/device-blogs/the-many-offline-options-for-ios-apps-2922c9b3bff3), by [@plivesey453](https://twitter.com/plivesey453)
 * [Let’s Talk About: Double Standards in Testing](https://pedrommcarrasco.github.io/posts/lets-talk-about-double-standards/), by [@pedrommcarrasco](https://twitter.com/pedrommcarrasco)
 * [Runtime magic for catching OOMs](https://www.appcoda.com/layout-feedback-loop/), by [rsrbk123](http://twitter.com/rsrbk123)
+* [Converting an Attributed String to a PDF](https://pspdfkit.com/blog/2019/converting-attributed-string-to-pdf/), by [@steviki](https://twitter.com/steviki)
 
 **Tools/Controls**
 
