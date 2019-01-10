@@ -10,6 +10,8 @@
 * [Let’s Talk About: Double Standards in Testing](https://pedrommcarrasco.github.io/posts/lets-talk-about-double-standards/), by [@pedrommcarrasco](https://twitter.com/pedrommcarrasco)
 * [Runtime magic for catching OOMs](https://www.appcoda.com/layout-feedback-loop/), by [rsrbk123](http://twitter.com/rsrbk123)
 * [Converting an Attributed String to a PDF](https://pspdfkit.com/blog/2019/converting-attributed-string-to-pdf/), by [@steviki](https://twitter.com/steviki)
+* [Swift Codable Testing](https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/), by [@paulio87](https://twitter.com/paulio87)
+* [Why is there a "lag" in iOS gesture detection near the edges of the screen?](https://blog.kulman.sk/why-ios-gestures-lag-at-the-screen-edges/), by [@igorkulman](https://twitter.com/igorkulman)
 
 **Tools/Controls**
 
