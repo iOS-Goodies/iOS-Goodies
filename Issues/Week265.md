@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Dive deep into Swift String](https://flawlessapp.io/blog/dive-deep-into-swift-string/), by [@KoromikoNeo](https://twitter.com/KoromikoNeo)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [LisaDziuba](https://github.com/LisaDziuba)
