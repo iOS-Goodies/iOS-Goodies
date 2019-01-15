@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes)
+* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen)
