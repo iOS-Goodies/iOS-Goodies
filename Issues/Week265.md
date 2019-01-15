@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout), by [@netguru](https://twitter.com/netguru)
 
 **Business/Career**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen)
+* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen), [anyashka](https://github.com/anyashka)
