@@ -6,6 +6,7 @@
 * [Clear and searchable logging in Swift with OSLog](https://www.lordcodes.com/posts/clear-and-searchable-logging-in-swift-with-oslog), by [@lordcodes](https://twitter.com/lordcodes)
 * [Object serialization in iOS](https://dmtopolog.com/object-serialization-in-ios/), by [@dmtopolog](https://twitter.com/dmtopolog)
 * [The subtleties of protocol extensions](https://swiftindepth.com/2019-01-13/the-subtleties-of-protocol-extensions), by [@tjeerdintveen](https://twitter.com/tjeerdintveen)
+* [Hey Siri, make my app AMAZING](https://medium.com/badi-engineering/hey-siri-make-my-app-amazing-d6c17b7b44d), by [@tonik_12](https://twitter.com/tonik_12)
 
 **Tools/Controls**
 
@@ -18,7 +19,7 @@
 
 **UI/UX**
 
-* 
+* [6 Interesting Concepts for AR Experiences](http://babich.biz/ar-experiences/) by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen), [anyashka](https://github.com/anyashka), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen), [anyashka](https://github.com/anyashka), [FranciscoAmado](https://github.com/FranciscoAmado), [tonik12](https://github.com/tonik12)
