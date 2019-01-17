@@ -1,4 +1,6 @@
-- [Swift Community Podcast](https://www.swiftcommunitypodcast.org/), by [John Sundell](https://twitter.com/johnsundell), [Garric Nahapetian](https://twitter.com/garricn), [Chris Lattner](https://twitter.com/clattner_llvm)
+Happy Thursday, everyone! I realised there are very few articles about Core Data, I think we've only had around 5 articles on Core Data in the last year. And I don't think I've seen any recent conference talks about Core Data, and very few tutorials on it. Given that so few people talk about it, you could easily imagine that not that many people use it. So I've [asked today on Twitter](https://twitter.com/marius_const/status/1085893804991770625) about Core Data and persistency solutions. I got more replies than I imagined (I know that statistically, that's totally irrelevant 😅). Then why do we see so few articles or conference talks about it? My take on that is that it's an old enough framework so that the hype around it is mostly gone; it's a huge framwork, and and talking only about a small part/feature/usecase of it could still be a lot; it's a complex topic and not many people think they know enough to be worth sharing. I could be wrong, all those are mostly assumptions. But I really think there's a lack of good articles on Core Data in our community. So if you hear of any good ones, or if you want to write some, send them my way and I'll gladly feature them 😄
+
+A new prodcast was launched this week, and it sounds really interesting: [Swift Community Podcast](https://www.swiftcommunitypodcast.org/), hosted by [John Sundell](https://twitter.com/johnsundell), [Garric Nahapetian](https://twitter.com/garricn), [Chris Lattner](https://twitter.com/clattner_llvm). I didn't get to listen to the first episode yet, but it's definitely on my list.
 
 **Articles**
 
@@ -16,8 +18,9 @@
 **Tools/Controls**
 
 * CarLensCollectionViewLayout [repository](https://github.com/netguru/CarLensCollectionViewLayout) and [article](https://www.netguru.com/codestories/introducing-carlenscollectionviewlayout-a-new-open-source-ios-tool-by-netguru), by [@netguru](https://twitter.com/netguru)
-* [Spectrum](https://github.com/facebookincubator/spectrum), by [@fb_engineering](https://twitter.com/fb_engineering)
-* [swift-sh](https://github.com/mxcl/swift-sh), by [@mxcl](https://twitter.com/mxcl)
+* [Spectrum](https://github.com/facebookincubator/spectrum) - A client-side image transcoding library, by [@fb_engineering](https://twitter.com/fb_engineering)
+* [swift-sh](https://github.com/mxcl/swift-sh) - Easily import third-party dependencies in your Swift scripts, by [@mxcl](https://twitter.com/mxcl)
+* [Bagel](https://github.com/yagiz/Bagel) - a little native network debugging tool for iOS, by Yagiz Gurgul
 
 **Business/Career**
 
