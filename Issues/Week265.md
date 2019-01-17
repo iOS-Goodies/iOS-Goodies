@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-* [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout), by [@netguru](https://twitter.com/netguru)
+* CarLensCollectionViewLayout [repository](https://github.com/netguru/CarLensCollectionViewLayout) and [article](https://www.netguru.com/codestories/introducing-carlenscollectionviewlayout-a-new-open-source-ios-tool-by-netguru), by [@netguru](https://twitter.com/netguru)
 * [Spectrum](https://github.com/facebookincubator/spectrum), by [@fb_engineering](https://twitter.com/fb_engineering)
 * [swift-sh](https://github.com/mxcl/swift-sh), by [@mxcl](https://twitter.com/mxcl)
 
