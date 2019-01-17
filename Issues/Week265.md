@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout), by [@netguru](https://twitter.com/netguru)
+* CarLensCollectionViewLayout [repository](https://github.com/netguru/CarLensCollectionViewLayout) and [article](https://www.netguru.com/codestories/introducing-carlenscollectionviewlayout-a-new-open-source-ios-tool-by-netguru), by [@netguru](https://twitter.com/netguru)
 
 **Business/Career**
 
