@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout), by [@netguru](https://twitter.com/netguru)
+* [Spectrum](https://github.com/facebookincubator/spectrum), by [@fb_engineering](https://twitter.com/fb_engineering)
 
 **Business/Career**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen), [anyashka](https://github.com/anyashka)
+* [LisaDziuba](https://github.com/LisaDziuba), [sochalewski](https://github.com/sochalewski), [lordcodes](https://github.com/lordcodes), [tjeerdintveen](https://github.com/tjeerdintveen), [anyashka](https://github.com/anyashka), [pmusolino](https://github.com/pmusolino)
