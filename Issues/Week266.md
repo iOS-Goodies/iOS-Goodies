@@ -22,4 +22,4 @@
 **Credits**
 
 * [LisaDziuba](https://github.com/lisadziuba)
-* [mecid](https://twitter.com/mecid)
+* [mecid](https://github.com/mecid)
