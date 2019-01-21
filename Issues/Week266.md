@@ -21,5 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
-* [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
