@@ -7,6 +7,8 @@
 **Tools/Controls**
 
 * [UIKitSwiftDSL](https://github.com/mecid/UIKitSwiftDSL), by [@mecid](https://twitter.com/mecid)
+* [CleanyModal](https://github.com/loryhuz/CleanyModal), by [@loryhuz](https://twitter.com/LoryHuz)
+
 **Business/Career**
 
 * 
@@ -21,4 +23,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [LoryHuz](https://github.com/loryhuz)
