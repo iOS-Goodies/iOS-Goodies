@@ -16,6 +16,7 @@
 **UI/UX**
 
 * [Why I ignore the design industry on purpose](https://m.signalvnoise.com/why-i-ignore-the-design-industry-on-purpose/), by [@jonasdowney](https://twitter.com/jonasdowney)
+* [Building Brand Loyalty and Reducing Anxiety with UI Animation](https://github.com/CocoaPods/Rome), by [@createwithflow](https://twitter.com/createwithflow)
 
 **Videos**
 
