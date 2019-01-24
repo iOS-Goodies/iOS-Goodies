@@ -30,7 +30,7 @@ This week we got news from Apple, who will [unify the team roles across App Stor
 **UI/UX**
 
 * [Why I ignore the design industry on purpose](https://m.signalvnoise.com/why-i-ignore-the-design-industry-on-purpose/), by [@jonasdowney](https://twitter.com/jonasdowney)
-* [Building Brand Loyalty and Reducing Anxiety with UI Animation](https://github.com/CocoaPods/Rome), by [@createwithflow](https://twitter.com/createwithflow)
+* [Building Brand Loyalty and Reducing Anxiety with UI Animation](https://medium.com/movingui/building-brand-loyalty-and-reducing-anxiety-with-ui-animation-1cf6d6307033), by [@createwithflow](https://twitter.com/createwithflow)
 * [Checklist for Using Icons In UI](https://uxplanet.org/checklist-for-using-icons-in-ui-acb6dee36e8a), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
