@@ -9,6 +9,7 @@
 * [A RunLoop for your Swift script](https://alejandromp.com/blog/2019/01/19/a-runloop-for-your-swift-script/), by [@alexito4](https://twitter.com/alexito4)
 * [Server-provided animations in iOS apps](https://badootech.badoo.com/server-provided-animations-in-ios-apps-b51ce63beff3), by [@chevtaev](https://twitter.com/chevtaev)
 * [Fixing Vague Swift Error Logs](https://kristina.io/fixing-vague-swift-error-logs/), by [@krstnfx](https://twitter.com/krstnfx)
+* [Getting Started with ARKit](https://blog.novoda.com/getting-started-with-arkit/), by [@bertadevant](https://twitter.com/bertadevant)
 
 **Tools/Controls**
 
@@ -21,6 +22,8 @@
 
 * [Phased vs Regular Update Adoption Rates](https://david-smith.org/blog/2019/01/22/phased-vs-regular-update-adoption-rates/), by [@_DavidSmith](http://twitter.com/_DavidSmith)
 * [Eight Hours: Recreation](https://pspdfkit.com/blog/2019/eight-hours-recreation/), by Nick Winder
+* [Get Your iOS App Featured on the App Store with These 11 Tips](https://appfigures.com/resources/get-your-ios-app-featured-on-the-app-store), by [@appfigures](https://twitter.com/appfigures)
+* [Trouble hiring senior engineers? It's probably you](https://hiringengineersbook.com/post/trouble-hiring/), by [@alexhiring](https://twitter.com/alexhiring)
 
 **UI/UX**
 
