@@ -12,8 +12,10 @@
 
 **Tools/Controls**
 
-* [UIKitSwiftDSL](https://github.com/mecid/UIKitSwiftDSL), by [@mecid](https://twitter.com/mecid)
-* [CleanyModal](https://github.com/loryhuz/CleanyModal), by [@loryhuz](https://twitter.com/LoryHuz)
+* [UIKitSwiftDSL](https://github.com/mecid/UIKitSwiftDSL) - Swift DSL for UIKit, by [@mecid](https://twitter.com/mecid)
+* [CleanyModal](https://github.com/loryhuz/CleanyModal) - Swift UI Kit to present clean modal/aler, by [@loryhuz](https://twitter.com/LoryHuz)
+* [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - A floating panel for your iOS Apps , by [@mindnode](https://twitter.com/mindnode)
+* [Path.swift](https://github.com/mxcl/Path.swift) - Delightful, robust, cross-platform and chainable file-pathing functions, by [@mxcl](https://twitter.com/mxcl)
 
 **Business/Career**
 
