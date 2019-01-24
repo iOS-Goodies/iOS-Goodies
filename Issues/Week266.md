@@ -3,6 +3,7 @@
 
 * [Using protocols as composable extensions](https://mecid.github.io/2019/01/17/using-protocols-as-composable-extensions/), by [@mecid](https://twitter.com/mecid)
 * [How I created Apple’s Voice Memos clone](https://medium.com/flawless-app-stories/how-i-created-apples-voice-memos-clone-b6cd6d65f580), by [@hassanedesouky](https://twitter.com/hassanedesouky)
+* [Improving accessibility for iOS apps with VoiceOver](https://medium.com/snowdog-labs/improving-accessibility-for-ios-app-part-2-33a0ecd9a500), by @snowdogapps
 
 **Tools/Controls**
 
