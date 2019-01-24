@@ -1,4 +1,6 @@
-[Unified Development Teams for Organizations](https://developer.apple.com/support/teams/)
+Happy Thursday! I asked last week about Core Data, and I got some more replies. It seems that many people still use Core Data, but it's just an area of iOS that not many people write or talk about too often. Personally, I'd be happy to see more articles on this topic being published each week, I think a lot of developers could benefit from that. Thanks to all who replied :)
+
+This week we got news from Apple, who will [unify the team roles across App Store Connect (the old iTunes Connect) and Apple Developer website](https://developer.apple.com/support/teams/). This seems like great news, as, from my experience, they were always a source of confusion for a lot of people: "You need access to Apple Developer so you can create a provisioning profile? Sure, I can help with that, I'll add you to App Store Connect" 😄. Hopefully, that's all in the past now 😁
 
 **Articles**
 
