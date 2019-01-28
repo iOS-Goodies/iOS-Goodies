@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [Ihor Savynskyi](https://github.com/isavynskyi)
+* [Ihor Savynskyi](https://github.com/isavynskyi), [mecid](https://github.com/mecid)
