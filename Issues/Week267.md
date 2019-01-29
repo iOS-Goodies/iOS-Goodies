@@ -1,6 +1,8 @@
 **Articles**
 
 * [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/), by [@mecid](https://twitter.com/mecid)
+* [Debugging Tips & Tricks](https://agostini.tech/2019/01/27/debugging-tipstricks/), by [@dagostin](https://twitter.com/dagostin)
+* [Rust on iOS](https://medium.com/visly/rust-on-ios-39f799b3c1dd), by [@emilsjolander](https://twitter.com/emilsjolander)
 
 **Tools/Controls**
 
@@ -20,4 +22,4 @@
 
 **Credits**
 
-* [Ihor Savynskyi](https://github.com/isavynskyi), [mecid](https://github.com/mecid)
+* [Ihor Savynskyi](https://github.com/isavynskyi), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
