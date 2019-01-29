@@ -1,6 +1,7 @@
 **Articles**
 
-* 
+* [Debugging Tips & Tricks](https://agostini.tech/2019/01/27/debugging-tipstricks/), by [@dagostin](https://twitter.com/dagostin)
+* [Rust on iOS](https://medium.com/visly/rust-on-ios-39f799b3c1dd), by [@emilsjolander](https://twitter.com/emilsjolander)
 
 **Tools/Controls**
 
@@ -20,4 +21,4 @@
 
 **Credits**
 
-* [Ihor Savynskyi](https://github.com/isavynskyi)
+* [Ihor Savynskyi](https://github.com/isavynskyi), [LisaDziuba](https://github.com/lisadziuba)
