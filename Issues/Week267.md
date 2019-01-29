@@ -18,8 +18,8 @@
 
 **Videos**
 
-* 
+* [Scraping Instagram using Swift](https://www.youtube.com/watch?v=0jTyKu9DGm8), by [@martinlasek](https://twitter.com/martinlasek)
 
 **Credits**
 
-* [Ihor Savynskyi](https://github.com/isavynskyi), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
+* [Ihor Savynskyi](https://github.com/isavynskyi), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [pmusolino](https://github.com/pmusolino)
