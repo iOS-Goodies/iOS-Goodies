@@ -3,6 +3,8 @@
 * [Maintaining State in Your ViewControllers](https://mecid.github.io/2019/01/23/maintaining-state-in-view-controllers/), by [@mecid](https://twitter.com/mecid)
 * [Debugging Tips & Tricks](https://agostini.tech/2019/01/27/debugging-tipstricks/), by [@dagostin](https://twitter.com/dagostin)
 * [Rust on iOS](https://medium.com/visly/rust-on-ios-39f799b3c1dd), by [@emilsjolander](https://twitter.com/emilsjolander)
+* [Alamofire vs URLSession: a comparison for networking in Swift](https://www.avanderlee.com/swift/alamofire-vs-urlsession/), by [@twannl](https://www.twitter.com/twannl)
+* [iOS Color Wheel Using CIFilter](https://noahgilmore.com/blog/cifilter-colorwheel/), by [@noahsark769](https://twitter.com/noahsark769)
 
 **Tools/Controls**
 
