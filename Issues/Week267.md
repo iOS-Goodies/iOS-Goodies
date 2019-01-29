@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-* 
+* [5 UX and Mobile Marketing tips to get users hooked to your app](https://medium.com/flawless-app-stories/5-ux-and-mobile-marketing-tips-to-get-users-hooked-to-your-app-67956c713037), by [@HandesUp](https://twitter.com/HandesUp)
 
 **UI/UX**
 
