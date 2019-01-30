@@ -16,6 +16,7 @@
 
 * [5 UX and Mobile Marketing tips to get users hooked to your app](https://medium.com/flawless-app-stories/5-ux-and-mobile-marketing-tips-to-get-users-hooked-to-your-app-67956c713037), by [@HandesUp](https://twitter.com/HandesUp)
 * [The Guide to Remote Work That Isn't Trying to Sell You Anything](https://blog.stephsmith.io/the-guide-to-remote-work/), by [@stephsmithio](https://twitter.com/stephsmithio)
+* [Why Are Young People Pretending to Love Work?](https://www.nytimes.com/2019/01/26/business/against-hustle-culture-rise-and-grind-tgim.html) by [@eringriffith](https://twitter.com/eringriffith)
 
 **UI/UX**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [Ihor Savynskyi](https://github.com/isavynskyi), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [pmusolino](https://github.com/pmusolino), rbarbosa](https://github.com/rbarbosa)
+* [Ihor Savynskyi](https://github.com/isavynskyi), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [pmusolino](https://github.com/pmusolino), [rbarbosa](https://github.com/rbarbosa)
