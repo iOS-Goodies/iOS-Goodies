@@ -16,6 +16,11 @@ In other news, iOS Goodies has had a Patreon running for the last almost 2 years
 * [Faster App Setup For Unit Tests](https://useyourloaf.com/blog/faster-app-setup-for-unit-tests/), by [@kharrison](https://twitter.com/kharrison)
 * [Encapsulating Domain Data, Logic and Business Rules With Value Types in Swift](https://khawerkhaliq.com/blog/swift-domain-logic-business-rules-value-types/), by [@khawerkhaliq](https://twitter.com/khawerkhaliq)
 * [Adding the finishing touches to 3D models in Xcode](https://blog.novoda.com/adding-the-finishing-touches-to-3d-models-in-xcode/), by [@BashaChris](http://twitter.com/BashaChris)
+* [Debugging iOS network traffic](https://blog.kulman.sk/debugging-ios-network-traffic/), by [@igorkulman](https://twitter.com/igorkulman)
+* [@dynamicCallable Part 2: Swift/ObjC Bridge](http://www.alwaysrightinstitute.com/swift-objc-bridge/), by [@ar_institute](https://twitter.com/ar_institute)
+* [Creating DSL in Swift](https://mecid.github.io/2019/01/30/creating-dsl-in-swift/), by [@mecid](https://twitter.com/mecid)
+* [Xcode 10.2, macOS Mojave 10.14.4, iOS 12.1 and other betas](https://badootech.badoo.com/xcode-10-2-macos-mojave-10-14-4-ios-12-1-and-other-betas-99ee9bf4f858), by Artem Loenko
+
 
 **Tools/Controls**
 
