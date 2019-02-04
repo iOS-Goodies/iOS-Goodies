@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko)
+* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko), [latenightswift](https://github.com/latenightswift)
