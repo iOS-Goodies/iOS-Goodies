@@ -1,7 +1,7 @@
 **Articles**
 
 * [Avoiding race conditions in Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26), by [@mmabdellateef](https://twitter.com/mmabdellateef)
-*
+* [Unknown Enum Cases](https://www.latenightswift.com/2019/02/04/unknown-enum-cases/), by [@latenightswift_](https://twitter.com/latenightswift_)
 
 **Tools/Controls**
 
