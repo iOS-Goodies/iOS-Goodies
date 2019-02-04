@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [Mostafa Abdellateef](https://github.com/mmabdelateef), [Kristaps Grinbergs](https://github.com/fassko)
+* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko)
