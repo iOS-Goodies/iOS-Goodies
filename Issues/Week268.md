@@ -9,6 +9,7 @@
 * [Swift 5 Exclusivity Enforcement](https://swift.org/blog/swift-5-exclusivity/), by [@AndrewTrick](https://twitter.com/AndrewTrick)
 * [Using two-cased enums in place of a Boolean](https://www.hackingwithswift.com/articles/172/using-two-cased-enums-in-place-of-a-boolean), by [@twostraws](https://twitter.com/twostraws)
 * [Get started with RxSwift and reactive programming](https://agostini.tech/2019/02/04/get-started-with-rxswift-and-reactive-programming/), by [@yuriwriting](https://twitter.com/yuriwriting)
+* [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko), [latenightswift](https://github.com/latenightswift), [pmusolino](https://github.com/pmusolino), [max-ott](https://github.com/max-ott), [DmIvanov](https://github.com/DmIvanov), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa)
+* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko), [latenightswift](https://github.com/latenightswift), [pmusolino](https://github.com/pmusolino), [max-ott](https://github.com/max-ott), [DmIvanov](https://github.com/DmIvanov), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),[mecid](https://github.com/mecid)
