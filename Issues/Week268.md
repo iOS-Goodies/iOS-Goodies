@@ -1,3 +1,7 @@
+Happy Thursday! I was glad to see that [UIKonf](http://www.uikonf.com/), one of the best iOS conferences in Europe, [decided to go with an all female speaker lineup this year](http://www.uikonf.com/blog/). There's a [great write-up](https://www.hackingwithswift.com/articles/174/uikonf-goes-all-female-for-2019-speakers) on that by [Paul Hudson](https://twitter.com/twostraws), including interviews with the organizers and speakers. I especially like the way they communicate this: their decision is not a way to fix the diversity problem, but it's a way of raising awarenes. I hope this experiment will be a success and wish them good luck.
+
+We had so many good articles suggested this week. You can read all of them on [our GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week268.md).
+
 **Articles**
 
 * [Avoiding race conditions in Swift](https://medium.com/swiftcairo/avoiding-race-conditions-in-swift-9ccef0ec0b26), by [@mmabdellateef](https://twitter.com/mmabdellateef)
