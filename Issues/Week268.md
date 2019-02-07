@@ -11,6 +11,7 @@
 * [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/), by [@mecid](https://twitter.com/mecid)
 * [UITableView swipe actions on iOS](https://augmentedcode.io/2019/02/03/uitableview-swipe-actions-on-ios/), by [@toomasvahter](https://twitter.com/toomasvahter)
 * [Progressive Core Data Migration](https://williamboles.me/progressive-core-data-migration/), by [@wibosco](https://twitter.com/wibosco)
+* [Airbnb Swift Style Guide Is Now Open Source](https://medium.com/airbnb-engineering/our-swift-style-guide-is-now-open-source-d5cb99d2f626), by [@fco_diaz](https://twitter.com/fco_diaz)
 
 **Tools/Controls**
 
