@@ -14,6 +14,7 @@
 
 **Tools/Controls**
 
+* [ViewModelOwners](https://github.com/krzysztofzablocki/ViewModelOwners) - Protocols that help make your MVVM setup more consistent, by [@merowing_](https://twitter.com/merowing_)
 * [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification bedge icon to a UIView, by [@imjog24](https://twitter.com/imjog24)
 
 **Business/Career**
@@ -26,6 +27,7 @@
 **UI/UX**
 
 * [Navigation Should Be Boring](https://allenpike.com/2019/navigation-should-be-boring), by [@apike](http://www.twitter.com/apike/)
+* [Constraint Layout (for Designers)](https://medium.com/tap-to-dismiss/constraint-layout-for-designers-3c665cb4d074), by [@taptodismiss](https://twitter.com/taptodismiss)
 * [10 Unique Illustrations Styles](https://uxplanet.org/10-unique-illustrations-styles-bf0f470dc1a4), by [@101babich](https://twitter.com/101babich)
 * [7 tips to design faster](https://uxdesign.cc/7-tips-to-design-faster-ae01c6fa71f2), by [@zecarlostorre](https://twitter.com/zecarlostorre)
 
