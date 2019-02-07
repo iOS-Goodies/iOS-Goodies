@@ -10,18 +10,23 @@
 * [Using two-cased enums in place of a Boolean](https://www.hackingwithswift.com/articles/172/using-two-cased-enums-in-place-of-a-boolean), by [@twostraws](https://twitter.com/twostraws)
 * [Get started with RxSwift and reactive programming](https://agostini.tech/2019/02/04/get-started-with-rxswift-and-reactive-programming/), by [@yuriwriting](https://twitter.com/yuriwriting)
 * [Pattern Matching with case let](https://mecid.github.io/2019/02/06/pattern-matching-with-case-let/), by [@mecid](https://twitter.com/mecid)
+* [UITableView swipe actions on iOS](https://augmentedcode.io/2019/02/03/uitableview-swipe-actions-on-ios/), by [@toomasvahter](https://twitter.com/toomasvahter)
+* [Progressive Core Data Migration](https://williamboles.me/progressive-core-data-migration/), by [@wibosco](https://twitter.com/wibosco)
 
 **Tools/Controls**
 
-* 
+* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification bedge icon to a UIView, by [@imjog24](https://twitter.com/imjog24)
 
 **Business/Career**
 
 * [What we've learned about hiring engineering managers](https://circleci.com/blog/what-we-ve-learned-about-hiring-engineering-managers/), by [@lrnrd](https://twitter.com/lrnrd)
+* [Despair, Thy Name is App Store](http://ikennd.ac/blog/2019/02/despair-thy-name-is-app-store/), by [@iKenndac](http://twitter.com/iKenndac)
+* [The right amount of perfect](https://m.signalvnoise.com/the-right-amount-of-perfect/), by [@jonasdowney](https://twitter.com/jonasdowney)
 
 **UI/UX**
 
-* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification bedge icon to a UIView, by [@imjog24](https://twitter.com/imjog24)
+* [Navigation Should Be Boring](https://allenpike.com/2019/navigation-should-be-boring), by [@apike](http://www.twitter.com/apike/)
+* [10 Unique Illustrations Styles](https://uxplanet.org/10-unique-illustrations-styles-bf0f470dc1a4), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
