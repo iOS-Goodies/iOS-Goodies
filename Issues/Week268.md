@@ -21,7 +21,7 @@
 
 **UI/UX**
 
-* 
+* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub) - Make any UIView a full fledged animated notification center. It is a way to quickly add a notification bedge icon to a UIView, by [@imjog24](https://twitter.com/imjog24)
 
 **Videos**
 
@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko), [latenightswift](https://github.com/latenightswift), [pmusolino](https://github.com/pmusolino), [max-ott](https://github.com/max-ott), [DmIvanov](https://github.com/DmIvanov), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),[mecid](https://github.com/mecid)
+* [mmabdelateef](https://github.com/mmabdelateef), [fassko](https://github.com/fassko), [latenightswift](https://github.com/latenightswift), [pmusolino](https://github.com/pmusolino), [max-ott](https://github.com/max-ott), [DmIvanov](https://github.com/DmIvanov), [LisaDziuba](https://github.com/lisadziuba), [rbarbosa](https://github.com/rbarbosa),[mecid](https://github.com/mecid), [jogendra](https://github.com/jogendra)
