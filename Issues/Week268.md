@@ -27,6 +27,7 @@
 
 * [Navigation Should Be Boring](https://allenpike.com/2019/navigation-should-be-boring), by [@apike](http://www.twitter.com/apike/)
 * [10 Unique Illustrations Styles](https://uxplanet.org/10-unique-illustrations-styles-bf0f470dc1a4), by [@101babich](https://twitter.com/101babich)
+* [7 tips to design faster](https://uxdesign.cc/7-tips-to-design-faster-ae01c6fa71f2), by [@zecarlostorre](https://twitter.com/zecarlostorre)
 
 **Videos**
 
