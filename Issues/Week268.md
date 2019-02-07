@@ -24,6 +24,7 @@
 * [Despair, Thy Name is App Store](http://ikennd.ac/blog/2019/02/despair-thy-name-is-app-store/), by [@iKenndac](http://twitter.com/iKenndac)
 * [The right amount of perfect](https://m.signalvnoise.com/the-right-amount-of-perfect/), by [@jonasdowney](https://twitter.com/jonasdowney)
 * [8 Mistakes Made by QA when Releasing an App](https://appmanager.io/blog/tips-and-tricks/8-mistakes-made-by-qa-when-releasing-an-app/), by [@davytsai](https://twitter.com/davytsai)
+* [Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7), by [@shl](https://twitter.com/shl)
 
 **UI/UX**
 
