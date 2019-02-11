@@ -2,6 +2,7 @@
 **Articles**
 
 * [Outsourcing Requests - Retaining Control of Application Stability](https://mattwyskiel.com/posts/2019/02/08/outsourcing-requests.html), by [@MattWyskiel](https://twitter.com/MattWyskiel)
+* [ABI Stability and More](https://swift.org/blog/abi-stability-and-more), by [@UINT_MIN](https://twitter.com/UINT_MIN/)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel)
+* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino)
