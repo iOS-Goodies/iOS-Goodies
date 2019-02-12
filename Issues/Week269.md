@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [smoke-aws](https://github.com/amzn/smoke-aws), by [@Awscloud](https://twitter.com/awscloud)
 
 **Business/Career**
 
