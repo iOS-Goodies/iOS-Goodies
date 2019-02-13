@@ -6,6 +6,7 @@
 * [Implementing In-App purchases without Keychain and UserDefaults](https://medium.com/@rdovhaliuk/implementing-in-app-purchases-without-keychain-and-userdefaults-52a43c0f76e8), by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693), by [@Mohammad_z74](https://twitter.com/Mohammad_z74)
 * [Localization in Swift like a Pro](https://medium.com/@Dschee/localization-in-swift-like-a-pro-48164203afe2), by [@Dschee](https://twitter.com/Dschee)
+* [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino), [RenGate](https://github.com/rengate)
+* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino), [RenGate](https://github.com/rengate), [mecid](http://github.com/mecid)
