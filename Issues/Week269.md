@@ -14,6 +14,7 @@
 * [Xcode Hardware Performance](https://github.com/ashfurrow/xcode-hardware-performance), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/), by [@twannl](https://twitter.com/twannl)
 * [Handle disabled mobile data setting](https://drivy.engineering/handle-disabled-mobile-data-setting-on-ios/), by [@thomassenkman](https://twitter.com/thomassenkman)
+* [Evolving Swift On Apple Platforms After ABI Stability](https://swift.org/blog/abi-stability-and-apple/), by [@jckarter](https://twitter.com/jckarter/)
 
 **Tools/Controls**
 
