@@ -13,6 +13,7 @@
 * [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/), by [@mattt](https://twitter.com/mattt)
 * [Xcode Hardware Performance](https://github.com/ashfurrow/xcode-hardware-performance), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/), by [@twannl](https://twitter.com/twannl)
+* [Handle disabled mobile data setting](https://drivy.engineering/handle-disabled-mobile-data-setting-on-ios/), by [@thomassenkman](https://twitter.com/thomassenkman)
 
 **Tools/Controls**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino), [RenGate](https://github.com/rengate), [mecid](http://github.com/mecid), [sochalewski](https://github.com/sochalewski), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino), [RenGate](https://github.com/rengate), [mecid](http://github.com/mecid), [sochalewski](https://github.com/sochalewski), [rbarbosa](https://github.com/rbarbosa), [thomassenkman](https://github.com/thomassenkman)
