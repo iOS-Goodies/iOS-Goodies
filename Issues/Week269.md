@@ -15,6 +15,7 @@
 **Tools/Controls**
 
 * [smoke-aws](https://github.com/amzn/smoke-aws), by [@Awscloud](https://twitter.com/awscloud)
+* [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis), by [@tensorflow](https://twitter.com/tensorflow)
 
 **Business/Career**
 
