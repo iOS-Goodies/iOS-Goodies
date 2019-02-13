@@ -1,8 +1,9 @@
+Happy Thursday! There's been a lot of talk in the last years about Swift's ABI stability; many of us wanted Swift to be ABI stable, almost turning it into some sort of Holy Grail that would solve all of our problems. This is probably also because many people, myself included 😅, didn't fully understand all the implications of ABI stability. The Swift team probably realised this, because it published two great articles on their blog: [ABI Stability and More](https://swift.org/blog/abi-stability-and-more), by [@UINT_MIN](https://twitter.com/UINT_MIN/) and [Evolving Swift On Apple Platforms After ABI Stability](https://swift.org/blog/abi-stability-and-apple/), by [@jckarter](https://twitter.com/jckarter/).
 
+Again, we've had a lot of very good articles submitted, and not all of them could fit in the newsletter. You can read all of them on [our GitHub](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week269.md).
 **Articles**
 
 * [Outsourcing Requests - Retaining Control of Application Stability](https://mattwyskiel.com/posts/2019/02/08/outsourcing-requests.html), by [@MattWyskiel](https://twitter.com/MattWyskiel)
-* [ABI Stability and More](https://swift.org/blog/abi-stability-and-more), by [@UINT_MIN](https://twitter.com/UINT_MIN/)
 * [Implementing In-App purchases without Keychain and UserDefaults](https://medium.com/@rdovhaliuk/implementing-in-app-purchases-without-keychain-and-userdefaults-52a43c0f76e8), by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [Practical MVVM + RxSwift](https://medium.com/flawless-app-stories/practical-mvvm-rxswift-a330db6aa693), by [@Mohammad_z74](https://twitter.com/Mohammad_z74)
 * [Localization in Swift like a Pro](https://medium.com/@Dschee/localization-in-swift-like-a-pro-48164203afe2), by [@Dschee](https://twitter.com/Dschee)
@@ -14,7 +15,6 @@
 * [Xcode Hardware Performance](https://github.com/ashfurrow/xcode-hardware-performance), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/), by [@twannl](https://twitter.com/twannl)
 * [Handle disabled mobile data setting](https://drivy.engineering/handle-disabled-mobile-data-setting-on-ios/), by [@thomassenkman](https://twitter.com/thomassenkman)
-* [Evolving Swift On Apple Platforms After ABI Stability](https://swift.org/blog/abi-stability-and-apple/), by [@jckarter](https://twitter.com/jckarter/)
 
 **Tools/Controls**
 
