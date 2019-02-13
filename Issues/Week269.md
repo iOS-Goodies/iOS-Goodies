@@ -12,6 +12,7 @@
 * [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios), by [@twostraws](https://twitter.com/twostraws)
 * [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/), by [@mattt](https://twitter.com/mattt)
 * [Xcode Hardware Performance](https://github.com/ashfurrow/xcode-hardware-performance), by [@ashfurrow](https://twitter.com/ashfurrow)
+* [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
