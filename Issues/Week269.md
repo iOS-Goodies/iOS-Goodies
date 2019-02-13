@@ -19,8 +19,10 @@
 **Tools/Controls**
 
 * [smoke-aws](https://github.com/amzn/smoke-aws), by [@Awscloud](https://twitter.com/awscloud)
-* [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis), by [@tensorflow](https://twitter.com/tensorflow)
-* [Carbon](https://github.com/ra1028/Carbon), by [@ra1028fe5](https://twitter.com/ra1028fe5)
+* [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis) - Deep learning library for Swift for TensorFlow , by [@tensorflow](https://twitter.com/tensorflow)
+* [Carbon](https://github.com/ra1028/Carbon) - A declarative library for building component-based user interfaces in UITableView and UICollectionView, by [@ra1028fe5](https://twitter.com/ra1028fe5)
+* [SegementSlide](https://github.com/Jiar/SegementSlide) - Multi-tier UIScrollView nested scrolling solution, by [@JiarYoo](https://twitter.com/JiarYoo)
+* [Dismissable](https://github.com/younatics/Dismissable) - Dismissable is super convenient to dismiss with gesture, by [@younatics](https://twitter.com/younatics)
 
 **Business/Career**
 
