@@ -8,6 +8,8 @@
 * [Localization in Swift like a Pro](https://medium.com/@Dschee/localization-in-swift-like-a-pro-48164203afe2), by [@Dschee](https://twitter.com/Dschee)
 * [Creating a Pixel-Perfect iOS App with Flutter](https://www.netguru.com/codestories/creating-a-pixel-perfect-ios-app-with-flutter), by Piotr Sochalewski
 * [Hiding third-party dependencies with protocols and extensions](https://mecid.github.io/2019/02/13/hiding-third-party-dependencies-with-protocols-and-extensions/), by [@mecid](https://twitter.com/mecid)
+* [How to TDD in Swift, a step by step guide](https://www.mokacoding.com/blog/step-by-step-tdd-in-swift-part-1/), by [@mokagio](https://twitter.com/mokagio)
+* [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios), by [@twostraws](https://twitter.com/twostraws)
 
 **Tools/Controls**
 
@@ -28,4 +30,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino), [RenGate](https://github.com/rengate), [mecid](http://github.com/mecid), [sochalewski](https://github.com/sochalewski)
+* [LisaDziuba](https://github.com/lisadziuba), [mattwyskiel](https://github.com/mattwyskiel), [pmusolino](https://github.com/pmusolino), [RenGate](https://github.com/rengate), [mecid](http://github.com/mecid), [sochalewski](https://github.com/sochalewski), [rbarbosa](https://github.com/rbarbosa)
