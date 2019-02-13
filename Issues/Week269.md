@@ -11,6 +11,7 @@
 * [How to TDD in Swift, a step by step guide](https://www.mokacoding.com/blog/step-by-step-tdd-in-swift-part-1/), by [@mokagio](https://twitter.com/mokagio)
 * [Advanced coordinators in iOS](https://www.hackingwithswift.com/articles/175/advanced-coordinator-pattern-tutorial-ios), by [@twostraws](https://twitter.com/twostraws)
 * [Regular Expressions in Swift](https://nshipster.com/swift-regular-expressions/), by [@mattt](https://twitter.com/mattt)
+* [Xcode Hardware Performance](https://github.com/ashfurrow/xcode-hardware-performance), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **Tools/Controls**
 
