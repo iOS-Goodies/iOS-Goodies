@@ -16,6 +16,7 @@ Again, we've had a lot of very good articles submitted, and not all of them coul
 * [Xcode Hardware Performance](https://github.com/ashfurrow/xcode-hardware-performance), by [@ashfurrow](https://twitter.com/ashfurrow)
 * [Speeding up development: a collection of tips](https://www.avanderlee.com/optimization/speeding-up-development-a-collection-of-tips/), by [@twannl](https://twitter.com/twannl)
 * [Handle disabled mobile data setting](https://drivy.engineering/handle-disabled-mobile-data-setting-on-ios/), by [@thomassenkman](https://twitter.com/thomassenkman)
+* [Custom View Controller Presentation Tips & Tricks](https://kylebashour.com/posts/custom-view-controller-presentation-tips), by [@kylebshr](https://twitter.com/kylebshr)
 
 **Tools/Controls**
 
