@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [material-navigation-bar](https://github.com/jogendra/material-navigation-bar) - Custom UINavigationBar with Google Material style for iOS, with very smooth animations, by [@imjog24](https://twitter.com/imjog24)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [bellebethcooper](https://github.com/bellebethcooper/)
+* [valianka](https://github.com/valianka), [bellebethcooper](https://github.com/bellebethcooper/), [jogendra](https://github.com/jogendra/)
