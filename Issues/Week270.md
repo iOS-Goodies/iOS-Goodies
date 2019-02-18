@@ -21,5 +21,4 @@
 
 **Credits**
 
-* [Valia Havruliyk](https://github.com/valianka)
-* [Belle B. Cooper](https://github.com/bellebethcooper/)
+* [valianka](https://github.com/valianka), [bellebethcooper](https://github.com/bellebethcooper/)
