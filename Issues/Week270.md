@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Adding a wiggle animation to a UIBarButtonItem](http://blog.hellocode.co/post/wiggle-animation-uibarbuttonitem/) by [@bellebcooper](http://www.twitter.com/bellebcooper)
 
 **Tools/Controls**
 
@@ -22,3 +22,4 @@
 **Credits**
 
 * [Valia Havruliyk](https://github.com/valianka)
+* [Belle B. Cooper](https://github.com/bellebethcooper/)
