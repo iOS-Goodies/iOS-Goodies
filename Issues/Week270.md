@@ -26,7 +26,7 @@
 
 **Videos**
 
-* 
+* [dotSwift 2019](https://www.dotconferences.com/conference/dotswift-2019), by [@dotSwift](https://twitter.com/dotSwift)
 
 **Credits**
 
