@@ -9,6 +9,7 @@
 * [Styling by subclassing](https://theswiftdev.com/2019/02/19/styling-by-subclassing/), by [@tiborbodecs](https://twitter.com/tiborbodecs)
 * [How many apps use Swift in 2019?](https://blog.andrewmadsen.com/post/182862756395/how-many-apps-use-swift-in-2019), by [@armadsen](https://twitter.com/armadsen)
 * [Chris Lattner on the origins of Swift](https://oleb.net/2019/chris-lattner-swift-origins/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Notes From the Margins](https://martiancraft.com/blog/2019/02/notes-from-the-margins/), by [@richturton](https://twitter.com/richturton)
 
 **Tools/Controls**
 
