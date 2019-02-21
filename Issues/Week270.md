@@ -14,6 +14,8 @@
 **Tools/Controls**
 
 * [material-navigation-bar](https://github.com/jogendra/material-navigation-bar) - Custom UINavigationBar with Google Material style for iOS, with very smooth animations, by [@imjog24](https://twitter.com/imjog24)
+* [Nantes](https://github.com/instacart/Nantes) - TTTAttributedLabel replacement, by [@Instacart](https://twitter.com/Instacart)
+* [CameraKit](https://github.com/CameraKit/camerakit-ios) - Library for iOS Camera API. Massively increase performance and ease of use within your next iOS Project, by CameraKit
 
 **Business/Career**
 
