@@ -1,3 +1,4 @@
+Happy Thursday! I've kept my eyes on the iOSCon conference in London for a few years now, they've always had a great lineup of speakers, and I consider them to be one of the better conferences in our community. This year I'm happy to announce that iOS Goodies is going to be a media partner for iOSCon 2019, organized by [@skillsmatter](http://twitter.com/skillsmatter) from 21-22 March in London. Check out all the details on [the conference website](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers). I'm also attending this year (not part of the media partnership), so I look forward to seeing you all there!
 
 **Articles**
 
