@@ -21,5 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
-* [Astemir Eleev](https://github.com/jVirus)
+* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus)
