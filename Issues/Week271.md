@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [API Pollution in Swift Modules](https://nshipster.com/swift-api-pollution/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
+* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus)
