@@ -2,6 +2,7 @@
 **Articles**
 
 * [API Pollution in Swift Modules](https://nshipster.com/swift-api-pollution/), by [@mattt](https://twitter.com/mattt)
+* [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
