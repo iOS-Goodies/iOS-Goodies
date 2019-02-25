@@ -12,6 +12,7 @@
 **Business/Career**
 
 * [How to write an awesome junior developer résumé in a few simple steps](https://medium.freecodecamp.org/how-to-write-an-awesome-junior-developer-r%C3%A9sum%C3%A9-in-a-few-simple-steps-316010db80ec), by [@chrisblakely01](https://twitter.com/chrisblakely01)
+* [Engineering estimations](https://twitter.com/jesse_squires/status/1099113115080257537) by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **UI/UX**
 
