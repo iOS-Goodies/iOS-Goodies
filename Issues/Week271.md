@@ -3,6 +3,7 @@
 
 * [API Pollution in Swift Modules](https://nshipster.com/swift-api-pollution/), by [@mattt](https://twitter.com/mattt)
 * [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334), by [@norapsi](https://twitter.com/norapsi)
 
 **Tools/Controls**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus), [abiaad](https://github.com/abiaad)
+* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus), [abiaad](https://github.com/abiaad), [polac24](https://github.com/polac24)
