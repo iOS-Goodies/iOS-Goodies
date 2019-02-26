@@ -1,3 +1,4 @@
+* [Engineering estimations](https://twitter.com/jesse_squires/status/1099113115080257537) by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Articles**
 
