@@ -5,6 +5,7 @@
 * [API Pollution in Swift Modules](https://nshipster.com/swift-api-pollution/), by [@mattt](https://twitter.com/mattt)
 * [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?source=friends_link&sk=4c53201908a22bed1245b38a7f3c5227), by [@norapsi](https://twitter.com/norapsi)
+* [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda), by Artem Loenko
 
 **Tools/Controls**
 
