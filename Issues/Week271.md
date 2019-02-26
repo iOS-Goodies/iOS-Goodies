@@ -6,6 +6,7 @@
 * [Pattern matching in Swift](https://www.swiftbysundell.com/posts/pattern-matching-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?source=friends_link&sk=4c53201908a22bed1245b38a7f3c5227), by [@norapsi](https://twitter.com/norapsi)
 * [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda), by Artem Loenko
+* [Building complex screens with Child ViewControllers](https://mecid.github.io/2019/02/27/building-complex-screens-with-child-viewcontrollers/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus), [abiaad](https://github.com/abiaad), [polac24](https://github.com/polac24)
+* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus), [abiaad](https://github.com/abiaad), [polac24](https://github.com/polac24), [mecid](https://github.com/mecid)
