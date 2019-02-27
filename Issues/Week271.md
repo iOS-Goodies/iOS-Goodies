@@ -7,6 +7,7 @@
 * [Swift weak reference assertion](https://medium.com/@londeix/swift-weak-reference-assertion-cf04fef6c334?source=friends_link&sk=4c53201908a22bed1245b38a7f3c5227), by [@norapsi](https://twitter.com/norapsi)
 * [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda), by Artem Loenko
 * [Building complex screens with Child ViewControllers](https://mecid.github.io/2019/02/27/building-complex-screens-with-child-viewcontrollers/), by [@mecid](https://twitter.com/mecid)
+* [A Best in Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/), by [@jordanmorgan10](https://twitter.com/jordanmorgan10/)
 
 **Tools/Controls**
 
