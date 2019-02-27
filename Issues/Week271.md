@@ -8,15 +8,18 @@
 * [Swift Package Manager builds iOS frameworks](https://badootech.badoo.com/swift-package-manager-builds-ios-frameworks-updated-xcode-10-2-beta-19b3e6741bda), by Artem Loenko
 * [Building complex screens with Child ViewControllers](https://mecid.github.io/2019/02/27/building-complex-screens-with-child-viewcontrollers/), by [@mecid](https://twitter.com/mecid)
 * [A Best in Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/), by [@jordanmorgan10](https://twitter.com/jordanmorgan10/)
+* [Preflight possible universal links before opening SFSafariController](https://recoursive.com/2019/02/22/preflight_universal_links/), by [@robinkunde](https://twitter.com/robinkunde)
+* [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/), by [@terhechte](https://twitter.com/terhechte)
 
 **Tools/Controls**
 
-* 
+* [BinaryCodable](https://github.com/jverkoey/BinaryCodable) - Swift Codable-like interfaces for binary representations., by [@featherless](https://twitter.com/featherless)
 
 **Business/Career**
 
 * [How to write an awesome junior developer résumé in a few simple steps](https://medium.freecodecamp.org/how-to-write-an-awesome-junior-developer-r%C3%A9sum%C3%A9-in-a-few-simple-steps-316010db80ec), by [@chrisblakely01](https://twitter.com/chrisblakely01)
 * [Report: how do indie makers pay the bills?](https://makermag.com/2019/02/25/indie-makers-money/), by Anne-Laure Le Cunff
+* [Experimenting With Pricing Lifted My App Revenue Almost 500%](https://stories.appbot.co/experimenting-with-pricing-lifted-my-app-revenue-almost-500-79d90546e7fe), by [@stuartkhall](https://twitter.com/stuartkhall)
 
 **UI/UX**
 
