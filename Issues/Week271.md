@@ -16,6 +16,7 @@
 **Business/Career**
 
 * [How to write an awesome junior developer résumé in a few simple steps](https://medium.freecodecamp.org/how-to-write-an-awesome-junior-developer-r%C3%A9sum%C3%A9-in-a-few-simple-steps-316010db80ec), by [@chrisblakely01](https://twitter.com/chrisblakely01)
+* [Report: how do indie makers pay the bills?](https://makermag.com/2019/02/25/indie-makers-money/), by Anne-Laure Le Cunff
 
 **UI/UX**
 
