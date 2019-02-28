@@ -1,3 +1,7 @@
+Happy Thursday! Apple announced it will be possible to create [special offers for subscriptions on the App Store](https://developer.apple.com/app-store/subscriptions/#subscription-offers). The feature is still in beta, but it should go out in iOS 12.2. 
+
+We've had so many good articles this week that it's been hard to select the ones that go in the newsltter. You can read all the links on our [GitHub repo](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week271.md).
+
 * [Engineering estimations](https://twitter.com/jesse_squires/status/1099113115080257537) by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Articles**
