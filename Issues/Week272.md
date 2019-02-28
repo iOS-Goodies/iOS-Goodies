@@ -9,7 +9,7 @@
 
 **Business/Career**
 
-* 
+* [Did Strava copy its mobile route builder from another app?](https://cyclingtips.com/2019/02/did-strava-copy-its-mobile-route-builder-from-another-app/) by Matt de Neef
 
 **UI/UX**
 
