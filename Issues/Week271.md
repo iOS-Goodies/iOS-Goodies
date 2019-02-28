@@ -13,6 +13,7 @@
 * [Dark mode on iOS preparations using asset catalog colors](https://www.avanderlee.com/xcode/dark-mode-on-ios-preparations-using-asset-catalog-colors/), by [@twannl](https://twitter.com/twannl)
 * [From Optionals to Errors](https://www.objc.io/blog/2019/02/26/from-optionals-to-errors/), by [@objcio](https://twitter.com/objcio)
 * [The Law - Atomics are hard](http://www.russbishop.net/the-law), by [@xenadu02](https://twitter.com/xenadu02)
+* [Functional views](https://medium.com/izettle-engineering/functional-views-d4fbedd105da), by [@nataliya_bg](https://twitter.com/nataliya_bg)
 
 **Tools/Controls**
 
@@ -23,7 +24,7 @@
 * [How to write an awesome junior developer résumé in a few simple steps](https://medium.freecodecamp.org/how-to-write-an-awesome-junior-developer-r%C3%A9sum%C3%A9-in-a-few-simple-steps-316010db80ec), by [@chrisblakely01](https://twitter.com/chrisblakely01)
 * [Report: how do indie makers pay the bills?](https://makermag.com/2019/02/25/indie-makers-money/), by Anne-Laure Le Cunff
 * [Experimenting With Pricing Lifted My App Revenue Almost 500%](https://stories.appbot.co/experimenting-with-pricing-lifted-my-app-revenue-almost-500-79d90546e7fe), by [@stuartkhall](https://twitter.com/stuartkhall)
-* [The Anti-Mentor](https://m.signalvnoise.com/the-anti-mentor/)[@clairejlew](https://twitter.com/clairejlew)
+* [The Anti-Mentor](https://m.signalvnoise.com/the-anti-mentor/), by [@clairejlew](https://twitter.com/clairejlew)
 
 **UI/UX**
 
