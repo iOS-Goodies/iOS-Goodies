@@ -10,6 +10,7 @@
 * [A Best in Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/), by [@jordanmorgan10](https://twitter.com/jordanmorgan10/)
 * [Preflight possible universal links before opening SFSafariController](https://recoursive.com/2019/02/22/preflight_universal_links/), by [@robinkunde](https://twitter.com/robinkunde)
 * [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/), by [@terhechte](https://twitter.com/terhechte)
+* [Dark mode on iOS preparations using asset catalog colors](https://www.avanderlee.com/xcode/dark-mode-on-ios-preparations-using-asset-catalog-colors/), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus), [abiaad](https://github.com/abiaad), [polac24](https://github.com/polac24), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/lisadziuba), [jVirus](https://github.com/jVirus), [abiaad](https://github.com/abiaad), [polac24](https://github.com/polac24), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa)
