@@ -11,6 +11,7 @@
 * [Preflight possible universal links before opening SFSafariController](https://recoursive.com/2019/02/22/preflight_universal_links/), by [@robinkunde](https://twitter.com/robinkunde)
 * [Cleaner Classes with Structs and Tuples](http://appventure.me/2019/02/24/anonymous-tuple-structs/), by [@terhechte](https://twitter.com/terhechte)
 * [Dark mode on iOS preparations using asset catalog colors](https://www.avanderlee.com/xcode/dark-mode-on-ios-preparations-using-asset-catalog-colors/), by [@twannl](https://twitter.com/twannl)
+* [From Optionals to Errors](https://www.objc.io/blog/2019/02/26/from-optionals-to-errors/), by [@objcio](https://twitter.com/objcio)
 
 **Tools/Controls**
 
