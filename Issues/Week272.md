@@ -3,10 +3,12 @@
 
 * [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270), by [@jeantimex](https://twitter.com/jeantimex)
 * [Adopting Reactive programming in iOS, finally](https://sakunlabs.com/blog/reactive_ios), by [@raheel](https://twitter.com/raheel)
+* [Open Source user consent SDK for iOS & Android apps](https://www.smartlook.com/blog/open-source-user-consent-sdk-ios-android-apps-smartlook/), by [@getSmartlook](https://twitter.com/getSmartlook) (added to tools as well)
+
 
 **Tools/Controls**
 
-* 
+* [Open Source User Consent SDK](https://github.com/smartlook/ios-consent-sdk), by[https://github.com/smartlook]
 
 **Business/Career**
 
@@ -23,3 +25,4 @@
 **Credits**
 
 * [LisaDziuba](https://github.com/LisaDziuba), [raheelahmad](https://github.com/raheelahmad)
+* [superasperauts](https://github.com/superasperatus)
