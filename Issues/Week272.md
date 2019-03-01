@@ -2,6 +2,7 @@
 **Articles**
 
 * [Create your own CocoaPods library](https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270), by [@jeantimex](https://twitter.com/jeantimex)
+* [Adopting Reactive programming in iOS, finally](https://sakunlabs.com/blog/reactive_ios), by [@raheel](https://twitter.com/raheel)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [LisaDziuba](https://github.com/LisaDziuba), [raheelahmad](https://github.com/raheelahmad)
