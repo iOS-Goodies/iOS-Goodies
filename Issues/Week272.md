@@ -14,6 +14,7 @@
 **Business/Career**
 
 * [Did Strava copy its mobile route builder from another app?](https://cyclingtips.com/2019/02/did-strava-copy-its-mobile-route-builder-from-another-app/) by Matt de Neef
+* [What does a great software engineer look like?](https://medium.com/airtribe/what-does-a-great-software-engineer-look-like-27ae75eabf79), by [@fwouts](https://twitter.com/fwouts)
 
 **UI/UX**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [raheelahmad](https://github.com/raheelahmad), [superasperauts](https://github.com/superasperatus)
+* [LisaDziuba](https://github.com/LisaDziuba), [raheelahmad](https://github.com/raheelahmad), [superasperauts](https://github.com/superasperatus), [rbarbosa](https://github.com/rbarbosa)
