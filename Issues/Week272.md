@@ -5,6 +5,7 @@
 * [Adopting Reactive programming in iOS, finally](https://sakunlabs.com/blog/reactive_ios), by [@raheel](https://twitter.com/raheel)
 * [Open Source user consent SDK for iOS & Android apps](https://www.smartlook.com/blog/open-source-user-consent-sdk-ios-android-apps-smartlook/), by [@getSmartlook](https://twitter.com/getSmartlook)
 * [Creating Pull to Dismiss / Pull to Reach animation using Swift](http://exploringswift.com/creating-pull-to-dismiss-pull-to-reach-animation-using-swift/), by [@madebyon](https://twitter.com/madebyon)
+* [Intro to ReSwift](https://agostini.tech/2019/03/03/intro-to-reswift/), by [@dagostin](https://twitter.com/dagostin)
 
 **Tools/Controls**
 
