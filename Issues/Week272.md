@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-* 
+* [UI Copy: UX Guidelines for Command Names and Keyboard Shortcuts](https://www.nngroup.com/articles/ui-copy/), by Anna Kaley
 
 **Videos**
 
