@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [UI Copy: UX Guidelines for Command Names and Keyboard Shortcuts](https://www.nngroup.com/articles/ui-copy/), by Anna Kaley
+* [Redesigning Github repository page](http://tonsky.me/blog/github-redesign/), by [@nikitonsky](https://twitter.com/nikitonsky)
 
 **Videos**
 
