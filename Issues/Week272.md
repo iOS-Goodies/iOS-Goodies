@@ -8,6 +8,7 @@
 * [Intro to ReSwift](https://agostini.tech/2019/03/03/intro-to-reswift/), by [@dagostin](https://twitter.com/dagostin)
 * [Dependency Injection in Swift with Protocols](https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/), by [@mecid](https://twitter.com/mecid)
 * [Two Takes on Adaptive Cell Layout](https://blog.alltheflow.com/two-takes-on-adaptive-cell-layout/), by [@vasarhelyia](https://twitter.com/@vasarhelyia)
+* [Safely supporting new versions of Swift](https://medium.com/@alanzeino/safely-supporting-new-versions-of-swift-e722b7eb9963), by [@alanzeino](https://twitter.com/alanzeino)
 
 **Tools/Controls**
 
