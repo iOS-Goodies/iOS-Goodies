@@ -15,6 +15,7 @@
 * [Open Source User Consent SDK](https://github.com/smartlook/ios-consent-sdk), by [@getSmartlook](https://twitter.com/getSmartlook)
 * [Cake](https://github.com/mxcl/Cake) - A delicious, quality‑of‑life supplement for your app‑development toolbox, by [@mxcl](https://twitter.com/mxcl/)
 * [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps, by [@ebaehr](https://twitter.com/ebaehr/)
+* [marzipanify](https://github.com/steventroughtonsmith/marzipanify) - Convert an iOS Simulator app bundle to an iOSMac (Marzipan) one, by [@stroughtonsmith](https://twitter.com/stroughtonsmith/)
 
 **Business/Career**
 
@@ -23,12 +24,12 @@
 
 **UI/UX**
 
-* [UI Copy: UX Guidelines for Command Names and Keyboard Shortcuts](https://www.nngroup.com/articles/ui-copy/), by Anna Kaley
+* [UI Copy: UX Guidelines for Command Names and Keyboard Shortcuts](https://www.nngroup.com/articles/ui-copy/), by [@akaleyux](https://twitter.com/akaleyux)
 * [The Power of Design Sprints](https://blog.novoda.com/design-sprints/), by [@khdzy_](https://twitter.com/khdzy_)
 
 **Videos**
 
-* 
+* [Understanding Artificial Neural Networks, Niels van Hoorn (English)](https://www.youtube.com/watch?v=BA_EEsPGZ8U), by [@nvh](https://twitter.com/nvh/)
 
 **Credits**
 
