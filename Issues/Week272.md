@@ -1,3 +1,4 @@
+Happy Thursday! Our partners at [@skillsmatter](https://twitter.com/skillsmatter), who organize iOSCon [have published the final schedule of the conference](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#program), and the line-up of speakers is very impressive, a perfect mix between up-and-coming and established members of our community. Deciding which sessions to attend seems really complicated. I look forward to meeting as many of you as possible there, so if you see me, make sure to say hi. There's a chance I'll have some iOS Goodies stickers 😉.
 
 **Articles**
 
@@ -9,6 +10,7 @@
 * [Dependency Injection in Swift with Protocols](https://mecid.github.io/2019/03/06/dependency-injection-in-swift-with-protocols/), by [@mecid](https://twitter.com/mecid)
 * [Two Takes on Adaptive Cell Layout](https://blog.alltheflow.com/two-takes-on-adaptive-cell-layout/), by [@vasarhelyia](https://twitter.com/@vasarhelyia)
 * [Safely supporting new versions of Swift](https://medium.com/@alanzeino/safely-supporting-new-versions-of-swift-e722b7eb9963), by [@alanzeino](https://twitter.com/alanzeino)
+* [Adding Logging to Crash Reports](https://pspdfkit.com/blog/2019/logs-for-your-crash-reports/), by [@steipete](https://twitter.com/steipete)
 
 **Tools/Controls**
 
@@ -29,7 +31,7 @@
 
 **Videos**
 
-* [Understanding Artificial Neural Networks, Niels van Hoorn (English)](https://www.youtube.com/watch?v=BA_EEsPGZ8U), by [@nvh](https://twitter.com/nvh/)
+* [Understanding Artificial Neural Networks](https://www.youtube.com/watch?v=BA_EEsPGZ8U), by [@nvh](https://twitter.com/nvh/)
 
 **Credits**
 
