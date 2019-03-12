@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac, by [@zagahr](https://twitter.com/zagahr) 
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [Mario Negro](https://github.com/emenegro)
+* [Mario Negro](https://github.com/emenegro), [zagahr](https://github.com/zagahr)
