@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [Fundamentals of Design: Colour](https://8thlight.com/blog/daisy-m%C3%B8lving/2019/03/12/fundamentals-of-design-colour.html), by Daisy Mølving
 
 **Videos**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [Mario Negro](https://github.com/emenegro), [popei69](https://github.com/popei69), [zagahr](https://github.com/zagahr), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid)
+* [Mario Negro](https://github.com/emenegro), [popei69](https://github.com/popei69), [zagahr](https://github.com/zagahr), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/lisadziuba)
