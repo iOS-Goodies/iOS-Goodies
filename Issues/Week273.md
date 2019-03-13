@@ -5,6 +5,7 @@
 * [Help! My app freezes but no error appears](https://fluffy.es/help-my-app-freezes/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Introduction to Coordinator pattern in Swift](https://benoitpasquier.com/coordinator-pattern-swift/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/), by [@mecid](https://twitter.com/mecid)
+* [Self-sizing Child Views](https://useyourloaf.com/blog/self-sizing-child-views/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
