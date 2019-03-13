@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac, by [@zagahr](https://twitter.com/zagahr) 
+* [Loaf](https://github.com/schmidyy/Loaf) - A swifty framework for easy iOS toasts, by [@schmidyy](https://github.com/schmidyy) 
 
 **Business/Career**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [Mario Negro](https://github.com/emenegro), [popei69](https://github.com/popei69), [zagahr](https://github.com/zagahr), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/lisadziuba)
+* [Mario Negro](https://github.com/emenegro), [popei69](https://github.com/popei69), [zagahr](https://github.com/zagahr), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino)
