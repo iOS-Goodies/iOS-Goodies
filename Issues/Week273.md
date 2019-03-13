@@ -6,6 +6,7 @@
 * [Introduction to Coordinator pattern in Swift](https://benoitpasquier.com/coordinator-pattern-swift/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/), by [@mecid](https://twitter.com/mecid)
 * [Self-sizing Child Views](https://useyourloaf.com/blog/self-sizing-child-views/), by [@kharrison](https://twitter.com/kharrison)
+* [A case against assertionFailure](https://binarapps.com/blog/2019-02-28-case-against-assertionfailure/), by [@tbakengineer](https://twitter.com/tbakengineer)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [Mario Negro](https://github.com/emenegro), [popei69](https://github.com/popei69), [zagahr](https://github.com/zagahr), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino)
+* [Mario Negro](https://github.com/emenegro), [popei69](https://github.com/popei69), [zagahr](https://github.com/zagahr), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino), [@tbakengineer](https://twitter.com/tbakengineer)
