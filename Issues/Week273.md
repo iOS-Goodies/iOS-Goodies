@@ -7,6 +7,7 @@
 * [Animating changes in UITableView and UICollectionView](https://mecid.github.io/2019/03/13/animating-changes-in-uitableview-and-uicollectionview/), by [@mecid](https://twitter.com/mecid)
 * [Self-sizing Child Views](https://useyourloaf.com/blog/self-sizing-child-views/), by [@kharrison](https://twitter.com/kharrison)
 * [A case against assertionFailure](https://binarapps.com/blog/2019-02-28-case-against-assertionfailure/), by [@tbakengineer](https://twitter.com/tbakengineer)
+* [Automated tests for a Swift CLI tool with Cucumber](https://ppinera.es/2019/03/13/cucumber), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Tools/Controls**
 
