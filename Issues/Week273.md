@@ -1,3 +1,4 @@
+Happy Thursday! You might've seen [Spotify's public message](https://timetoplayfair.com/) this week which draws attention to the situation of their apps on Apple's platforms. Read [the timeline](https://timetoplayfair.com/timeline/), but I'd advise to take it with a grain of salt, because it seems to me that quite a lot of the facts there were also spinned in a way that helps Spotify prove its point. However, in my opinion, one thing is pretty clear, and should change: Apple doesn't play by the same rules they set for others on their own platform. I'm curious to see the outcome of this, since Spotify asked the European Comission to look into this matter. 
 
 **Articles**
 
@@ -30,7 +31,7 @@
 
 **Videos**
 
-* [Trailing Swipe Actions](https://www.youtube.com/watch?v=IBwBN2W1Eqc), by [@martinlasek](https://twitter.com/martinlasek)
+* [UITableView - Trailing Swipe Actions](https://www.youtube.com/watch?v=IBwBN2W1Eqc), by [@martinlasek](https://twitter.com/martinlasek)
 
 **Credits**
 
