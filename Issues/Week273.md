@@ -20,6 +20,7 @@
 
 **Business/Career**
 
+* [iOS Subscription Offers](https://www.revenuecat.com/2019/03/12/subscription-offers), by [@jeiting](https://twitter.com/jeiting)
 * [The 3 most effective ways to build trust as a leader](https://m.signalvnoise.com/the-3-most-effective-ways-to-build-trust-as-a-leader/), by [@clairejlew](https://twitter.com/clairejlew)
 * [App Preview Guide: Convince Users to Download Your App in 30 Seconds](https://savvyapps.com/blog/app-preview-story-convert-users), by Michel Faulkner
 
