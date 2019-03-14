@@ -30,7 +30,7 @@
 
 **Videos**
 
-* 
+* [Trailing Swipe Actions](https://www.youtube.com/watch?v=IBwBN2W1Eqc), by [@martinlasek](https://twitter.com/martinlasek)
 
 **Credits**
 
