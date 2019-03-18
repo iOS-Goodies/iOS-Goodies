@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [swift-log](https://github.com/apple/swift-log), by Apple
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino)
