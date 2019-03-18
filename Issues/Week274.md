@@ -3,6 +3,7 @@
 
 * [How to find memory leaks in an iOS app](https://tim.engineering/how-to-find-memory-leaks-in-ios-app/), by Tim Miko
 * [Using protocol composition to untangle your codebase](http://appventure.me/2019/03/17/protocol-composition-untangle-codebase/), by [@terhechte](https://twitter.com/terhechte)
+* [Interacting with Xcode projects in Swift](https://ppinera.es/2019/03/15/xcodeproj.html), by [@pepibumur](https://twitter.com/pepibumur)
 
 **Tools/Controls**
 
