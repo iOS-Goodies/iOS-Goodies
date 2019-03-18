@@ -12,7 +12,7 @@
 
 **Business/Career**
 
-* 
+* [So You Want to Be an Engineer](http://artsy.github.io/blog/2019/03/12/so-you-want-to-be-an-engineer/), by Matt Dole
 
 **UI/UX**
 
