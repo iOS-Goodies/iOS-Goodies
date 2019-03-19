@@ -12,6 +12,7 @@
 * [swift-log](https://github.com/apple/swift-log), by Apple
 * [MetricPrefixNumberFormatter](https://github.com/RenGate/MetricPrefixNumberFormatter) - NSNumberFormatter subclass designed to format large and small numbers using the metric prefixes, by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [PanModal](https://github.com/slackhq/PanModal) - PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS, by [@tosinaf](https://twitter.com/tosinaf) and [@StephenSowole](https://twitter.com/StephenSowole)
+* [esoteric-swift](https://github.com/jessesquires/esoteric-swift), by [@jesse_squires](https://twitter.com/jesse_squires) 
 
 **Business/Career**
 
