@@ -5,6 +5,7 @@
 * [Using protocol composition to untangle your codebase](http://appventure.me/2019/03/17/protocol-composition-untangle-codebase/), by [@terhechte](https://twitter.com/terhechte)
 * [Interacting with Xcode projects in Swift](https://ppinera.es/2019/03/15/xcodeproj.html), by [@pepibumur](https://twitter.com/pepibumur)
 * [Localized​Error, Recoverable​Error, Custom​NSError](https://nshipster.com/swift-foundation-error-protocols/), by [@mattt](https://twitter.com/mattt)
+* [Make an iOS app using flutter](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3), by Felix Angelov
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa)
+* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak)
