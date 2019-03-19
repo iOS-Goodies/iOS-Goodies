@@ -6,6 +6,7 @@
 * [Interacting with Xcode projects in Swift](https://ppinera.es/2019/03/15/xcodeproj.html), by [@pepibumur](https://twitter.com/pepibumur)
 * [Localized​Error, Recoverable​Error, Custom​NSError](https://nshipster.com/swift-foundation-error-protocols/), by [@mattt](https://twitter.com/mattt)
 * [Make an iOS app using flutter](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3), by Felix Angelov
+* [Deep dive into Pattern matching with ~= operator](https://mecid.github.io/2019/03/20/pattern-matching-operator/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak)
+* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid)
