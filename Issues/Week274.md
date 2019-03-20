@@ -27,6 +27,7 @@
 **UI/UX**
 
 * [Dos and Don’ts for creating an onboarding journey on iOS](https://benoitpasquier.com/dos-donts-onboarding-ios/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [Everything you need to know about Loading Animations](https://medium.com/flawless-app-stories/everything-you-need-to-know-about-loading-animations-10db7f9b61e), by [@LisaDziuba](https://twitter.com/LisaDziuba)
 
 **Videos**
 
