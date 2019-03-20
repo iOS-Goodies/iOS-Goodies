@@ -30,7 +30,7 @@
 
 **Videos**
 
-* 
+* [RxSwift & MVVM: Your First Steps](https://www.youtube.com/watch?v=6KXqa4iLCUM) (in Hebrew, enable subtitles), by [@freak4pc](https://twitter.com/freak4pc)
 
 **Credits**
 
