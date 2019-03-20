@@ -13,6 +13,7 @@
 * [Custom Transitions Using Segues](https://agostini.tech/2019/03/18/custom-transitions-using-segues/), by [@dagostin](https://twitter.com/dagostin)
 * [Serialisation of enum with associated type](https://dmtopolog.com/serialisation-of-enum-with-associated-type/), by [@dmtopolog](https://twitter.com/dmtopolog)
 * [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/), by [@mikemikina](https://twitter.com/mikemikina)
+* [Connecting CoreBluetooth to an Exercise Bike in iOS](https://medium.com/@hungtruong/making-an-ios-zwift-clone-to-save-15-a-month-part-1-core-bluetooth-9925bba79f7a), by [@hungtruong](https://twitter.com/hungtruong)
 
 **Tools/Controls**
 
