@@ -12,6 +12,7 @@
 * [How to Test UIAlertController](http://masilotti.com/testing-uialertcontroller/), by [@joemasilotti](http://twitter.com/joemasilotti)
 * [Custom Transitions Using Segues](https://agostini.tech/2019/03/18/custom-transitions-using-segues/), by [@dagostin](https://twitter.com/dagostin)
 * [Serialisation of enum with associated type](https://dmtopolog.com/serialisation-of-enum-with-associated-type/), by [@dmtopolog](https://twitter.com/dmtopolog)
+* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/), by [@mikemikina](https://twitter.com/mikemikina)
 
 **Tools/Controls**
 
@@ -37,4 +38,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid), [DmIvanov](https://github.com/DmIvanov)
+* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid), [DmIvanov](https://github.com/DmIvanov), [mikina](https://github.com/mikina)
