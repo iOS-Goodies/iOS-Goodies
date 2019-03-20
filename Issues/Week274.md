@@ -18,6 +18,7 @@
 * [MetricPrefixNumberFormatter](https://github.com/RenGate/MetricPrefixNumberFormatter) - NSNumberFormatter subclass designed to format large and small numbers using the metric prefixes, by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [PanModal](https://github.com/slackhq/PanModal) - PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS, by [@tosinaf](https://twitter.com/tosinaf) and [@StephenSowole](https://twitter.com/StephenSowole)
 * [esoteric-swift](https://github.com/jessesquires/esoteric-swift), by [@jesse_squires](https://twitter.com/jesse_squires) 
+* [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being, by [@JonYablonski](https://twitter.com/JonYablonski)
 
 **Business/Career**
 
