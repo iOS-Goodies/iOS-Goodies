@@ -11,6 +11,7 @@
 * [Embracing the Limits of UIActivityViewController](https://pspdfkit.com/blog/2019/embracing-the-limits-of-uiactivityviewcontroller/), by [@Swanros](https://twitter.com/Swanros)
 * [How to Test UIAlertController](http://masilotti.com/testing-uialertcontroller/), by [@joemasilotti](http://twitter.com/joemasilotti)
 * [Custom Transitions Using Segues](https://agostini.tech/2019/03/18/custom-transitions-using-segues/), by [@dagostin](https://twitter.com/dagostin)
+* [Serialisation of enum with associated type](https://dmtopolog.com/serialisation-of-enum-with-associated-type/), by [@dmtopolog](https://twitter.com/dmtopolog)
 
 **Tools/Controls**
 
@@ -36,4 +37,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid), [DmIvanov](https://github.com/DmIvanov)
