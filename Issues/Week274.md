@@ -1,3 +1,4 @@
+- https://www.hackingwithswift.com/articles/60/want-to-win-a-wwdc-scholarship-previous-attendees-give-their-advice
 
 **Articles**
 
@@ -7,6 +8,9 @@
 * [Localized​Error, Recoverable​Error, Custom​NSError](https://nshipster.com/swift-foundation-error-protocols/), by [@mattt](https://twitter.com/mattt)
 * [Make an iOS app using flutter](https://medium.com/flutter-community/flutter-todos-tutorial-with-flutter-bloc-d9dd833f9df3), by Felix Angelov
 * [Deep dive into Pattern matching with ~= operator](https://mecid.github.io/2019/03/20/pattern-matching-operator/), by [@mecid](https://twitter.com/mecid)
+* [Embracing the Limits of UIActivityViewController](https://pspdfkit.com/blog/2019/embracing-the-limits-of-uiactivityviewcontroller/), by [@Swanros](https://twitter.com/Swanros)
+* [How to Test UIAlertController](http://masilotti.com/testing-uialertcontroller/), by [@joemasilotti](http://twitter.com/joemasilotti)
+* [Custom Transitions Using Segues](https://agostini.tech/2019/03/18/custom-transitions-using-segues/), by [@dagostin](https://twitter.com/dagostin)
 
 **Tools/Controls**
 
@@ -18,6 +22,7 @@
 **Business/Career**
 
 * [So You Want to Be an Engineer](http://artsy.github.io/blog/2019/03/12/so-you-want-to-be-an-engineer/), by Matt Dole
+* [Blog about Swift: Tips and ideas to start your own](https://www.avanderlee.com/swift/blog-about-swift/), by [@twannl](https://www.twitter.com/twannl)
 
 **UI/UX**
 
