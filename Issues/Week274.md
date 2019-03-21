@@ -1,4 +1,6 @@
-- https://www.hackingwithswift.com/articles/60/want-to-win-a-wwdc-scholarship-previous-attendees-give-their-advice
+Happy Thursday! One of the goals of iOS Goodies has always been to bring forward new faces in our community. For more than 4 years, iOS Goodies has been open source, and anyone could submit their content to the newsletter. I know there's still room for improvement, but I'm also very happy with the community we have around iOS Goodies and with all the people whose work we've featured in our newsletter. Still, we'd like to showcase the work of people who don't have a very big audience yet and help them share their knowledge with more developers. And we're not the only ones :). [Dave Verwer](https://twitter.com/daveverwer) has created [iOS Dev Directory](https://iosdevdirectory.com/), a place that features an impressive list of sites about iOS development topics. You can add your own there, or use it to get to know more people in our community. 
+
+Speaking of bringing forward new people in our community, there's still time to apply for a [WWDC scholarship](https://developer.apple.com/wwdc19/scholarships/). If you're a student or a member of a STEM organization, you can apply for a scholarship that will cover the WWDC ticket cost and acommodation for the event. [Paul Hudson](https://twitter.com/twostraws) has an interview with previous WWDC scholarship winners who [give their advice](https://www.hackingwithswift.com/articles/60/want-to-win-a-wwdc-scholarship-previous-attendees-give-their-advice) on how to do it.
 
 **Articles**
 
@@ -20,7 +22,6 @@
 * [MetricPrefixNumberFormatter](https://github.com/RenGate/MetricPrefixNumberFormatter) - NSNumberFormatter subclass designed to format large and small numbers using the metric prefixes, by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [PanModal](https://github.com/slackhq/PanModal) - PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS, by [@tosinaf](https://twitter.com/tosinaf) and [@StephenSowole](https://twitter.com/StephenSowole)
 * [esoteric-swift](https://github.com/jessesquires/esoteric-swift), by [@jesse_squires](https://twitter.com/jesse_squires) 
-* [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being, by [@JonYablonski](https://twitter.com/JonYablonski)
 
 **Business/Career**
 
@@ -31,6 +32,7 @@
 
 * [Dos and Don’ts for creating an onboarding journey on iOS](https://benoitpasquier.com/dos-donts-onboarding-ios/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [Everything you need to know about Loading Animations](https://medium.com/flawless-app-stories/everything-you-need-to-know-about-loading-animations-10db7f9b61e), by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being, by [@JonYablonski](https://twitter.com/JonYablonski)
 
 **Videos**
 
