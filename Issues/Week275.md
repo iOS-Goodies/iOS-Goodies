@@ -3,6 +3,7 @@
 
 * [Connecting to an Exercise Bike Using CoreBluetooth in iOS](https://medium.com/@hungtruong/making-an-ios-zwift-clone-to-save-15-a-month-part-1-core-bluetooth-9925bba79f7a), by [@hungtruong](https://twitter.com/hungtruong)
 * [UTF-8 String](https://swift.org/blog/utf8-string/), by [@ilseman](https://twitter.com/ilseman)
+* [Localized​Error, Recoverable​Error, Custom​NSError](https://nshipster.com/swift-foundation-error-protocols/), by [@mattt](https://twitter.com/mattt)
 
 
 **Tools/Controls**
