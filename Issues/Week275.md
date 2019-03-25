@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90), [valianka](https://github.com/valianka)
