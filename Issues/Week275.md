@@ -5,6 +5,7 @@
 * [UTF-8 String](https://swift.org/blog/utf8-string/), by [@ilseman](https://twitter.com/ilseman)
 * [Localized​Error, Recoverable​Error, Custom​NSError](https://nshipster.com/swift-foundation-error-protocols/), by [@mattt](https://twitter.com/mattt)
 * [File Coordination](http://khanlou.com/2019/03/file-coordination/), by [@khanlou](http://www.twitter.com/khanlou)
+* [Integration tests in Swift](https://www.swiftbysundell.com/posts/integration-tests-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 
 
 **Tools/Controls**
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90), [pmusolino](https://github.com/pmusolino)
