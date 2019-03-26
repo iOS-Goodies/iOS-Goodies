@@ -8,7 +8,7 @@
 * [Keep using Fastlane with Apple's 2FA changes](https://drobinin.com/posts/keep-using-fastlane-with-apples-2fa-changes/), by [@valzevul](https://twitter.com/valzevul)
 * [Integration tests in Swift](https://www.swiftbysundell.com/posts/integration-tests-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Building URLRequests with ease](https://medium.com/flawless-app-stories/building-urlrequests-with-ease-f0136cdd56c3), by [@JuanpeCatalan](https://twitter.com/JuanpeCatalan)
-* [Swift 5 Released!](https://swift.org/blog/swift-5-released/), by [@tkremenek](https://github.com/tkremenek/)
+* [Swift 5 Released!](https://swift.org/blog/swift-5-released/), by [@tkremenek](https://twitter.com/tkremenek)
 * [Swift 5 Release Notes for Xcode 10.2](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/swift_5_release_notes_for_xcode_10_2)
 
 **Tools/Controls**
