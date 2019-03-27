@@ -14,6 +14,7 @@
 **Tools/Controls**
 
 * [Reversi - An elegant A/B testing framework for iOS in Swift](https://github.com/popei69/reversi), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [RoughSwift - Create hand-drawn, sketchy, comic shape in Swift](https://github.com/onmyway133/RoughSwift), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
