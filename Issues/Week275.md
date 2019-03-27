@@ -14,6 +14,7 @@
 **Tools/Controls**
 
 * [Reversi - An elegant A/B testing framework for iOS in Swift](https://github.com/popei69/reversi), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [RoughSwift](https://github.com/onmyway133/RoughSwift), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90), [valzevul](https://github.com/valzevul), [pmusolino](https://github.com/pmusolino), [valianka](https://github.com/valianka), [popei69](https://github.com/popei69)
+* [hungtruong](https://twitter.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90), [valzevul](https://github.com/valzevul), [pmusolino](https://github.com/pmusolino), [valianka](https://github.com/valianka), [popei69](https://github.com/popei69), [onmyway133](https://github.com/onmyway133)
