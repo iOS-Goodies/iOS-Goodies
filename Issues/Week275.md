@@ -15,6 +15,7 @@
 
 * [Reversi - An elegant A/B testing framework for iOS in Swift](https://github.com/popei69/reversi), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [RoughSwift - Create hand-drawn, sketchy, comic shape in Swift](https://github.com/onmyway133/RoughSwift), by [@onmyway133](https://twitter.com/onmyway133)
+* [PMAlertController 4 - customizable alert in Swift 5 that can substitute UIAlertController](https://github.com/pmusolino/PMAlertController), by [@pmusolino](https://twitter.com/pmusolino)
 
 **Business/Career**
 
