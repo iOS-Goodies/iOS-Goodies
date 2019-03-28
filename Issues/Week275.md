@@ -11,6 +11,7 @@
 * [Building URLRequests with ease](https://medium.com/flawless-app-stories/building-urlrequests-with-ease-f0136cdd56c3), by [@JuanpeCatalan](https://twitter.com/JuanpeCatalan)
 * [Swift 5 Released!](https://swift.org/blog/swift-5-released/), by [@tkremenek](https://twitter.com/tkremenek)
 * [Swift 5 Release Notes for Xcode 10.2](https://developer.apple.com/documentation/xcode_release_notes/xcode_10_2_release_notes/swift_5_release_notes_for_xcode_10_2)
+* [Xcode​Kit and Xcode Source Editor Extensions](https://nshipster.com/xcode-source-extensions/), by [@zoejessica](https://twitter.com/zoejessica)
 
 **Tools/Controls**
 
@@ -20,7 +21,7 @@
 
 **Business/Career**
 
-* 
+* [iOS "versus" JavaScript: How to Learn From Other Programming Communities](https://ashfurrow.com/blog/learning-from-other-programming-communities/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **UI/UX**
 
