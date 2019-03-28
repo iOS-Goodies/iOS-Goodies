@@ -22,10 +22,12 @@
 **Business/Career**
 
 * [iOS "versus" JavaScript: How to Learn From Other Programming Communities](https://ashfurrow.com/blog/learning-from-other-programming-communities/), by [@ashfurrow](https://twitter.com/ashfurrow)
+* [Don’t solve the problem](https://m.signalvnoise.com/dont-solve-the-problem/), by [@clairejlew](https://twitter.com/clairejlew)
 
 **UI/UX**
 
-* 
+* [10 Principles of Animation in Material Design](https://uxplanet.org/10-principles-of-animation-in-material-design-53b870e74629), by [@uxplanet](https://twitter.com/uxplanet)
+* [Common Reasons People Avoid Usability Testing](https://www.prolificinteractive.com/2019/03/25/common-reasons-people-avoid-usability-testing/), by [@linabreslav](https://twitter.com/linabreslav)
 
 **Videos**
 
