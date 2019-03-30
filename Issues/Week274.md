@@ -1,4 +1,6 @@
-- https://www.hackingwithswift.com/articles/60/want-to-win-a-wwdc-scholarship-previous-attendees-give-their-advice
+Happy Thursday! One of the goals of iOS Goodies has always been to bring forward new faces in our community. For more than 4 years, iOS Goodies has been open source, and anyone could submit their content to the newsletter. I know there's still room for improvement, but I'm also very happy with the community we have around iOS Goodies and with all the people whose work we've featured in our newsletter. Still, we'd like to showcase the work of people who don't have a very big audience yet and help them share their knowledge with more developers. And we're not the only ones :). [Dave Verwer](https://twitter.com/daveverwer) has created [iOS Dev Directory](https://iosdevdirectory.com/), a place that features an impressive list of sites about iOS development topics. You can add your own there, or use it to get to know more people in our community. 
+
+Speaking of bringing forward new people in our community, there's still time to apply for a [WWDC scholarship](https://developer.apple.com/wwdc19/scholarships/). If you're a student or a member of a STEM organization, you can apply for a scholarship that will cover the WWDC ticket cost and acommodation for the event. [Paul Hudson](https://twitter.com/twostraws) has an interview with previous WWDC scholarship winners who [give their advice](https://www.hackingwithswift.com/articles/60/want-to-win-a-wwdc-scholarship-previous-attendees-give-their-advice) on how to do it.
 
 **Articles**
 
@@ -12,6 +14,7 @@
 * [How to Test UIAlertController](http://masilotti.com/testing-uialertcontroller/), by [@joemasilotti](http://twitter.com/joemasilotti)
 * [Custom Transitions Using Segues](https://agostini.tech/2019/03/18/custom-transitions-using-segues/), by [@dagostin](https://twitter.com/dagostin)
 * [Serialisation of enum with associated type](https://dmtopolog.com/serialisation-of-enum-with-associated-type/), by [@dmtopolog](https://twitter.com/dmtopolog)
+* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/), by [@mikemikina](https://twitter.com/mikemikina)
 
 **Tools/Controls**
 
@@ -28,6 +31,8 @@
 **UI/UX**
 
 * [Dos and Don’ts for creating an onboarding journey on iOS](https://benoitpasquier.com/dos-donts-onboarding-ios/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [Everything you need to know about Loading Animations](https://medium.com/flawless-app-stories/everything-you-need-to-know-about-loading-animations-10db7f9b61e), by [@LisaDziuba](https://twitter.com/LisaDziuba)
+* [Humane by Design](https://humanebydesign.com/) - a resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being, by [@JonYablonski](https://twitter.com/JonYablonski)
 
 **Videos**
 
@@ -35,4 +40,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid), [DmIvanov](https://github.com/DmIvanov)
+* [LisaDziuba](https://github.com/LisaDziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [RenGate](https://github.com/RenGate), [rbarbosa](https://github.com/rbarbosa), [co16353sidak](https://github.com/co16353sidak), [mecid](https://github.com/mecid), [DmIvanov](https://github.com/DmIvanov), [mikina](https://github.com/mikina)
