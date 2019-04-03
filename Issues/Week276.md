@@ -1,3 +1,4 @@
+- [Dev perception](https://adactio.com/journal/15011), by [@adactio](https://twitter.com/adactio)
 
 **Articles**
 
@@ -10,14 +11,16 @@
 * [Making an iOS Zwift Clone to Save $15 a Month! Part 1: Core Bluetooth](https://hackernoon.com/making-an-ios-zwift-clone-to-save-15-a-month-part-1-core-bluetooth-9925bba79f7a), by [@hungtruong](https://twitter.com/hungtruong)
 * [State Restoration With Swift Structs](https://useyourloaf.com/blog/state-restoration-with-swift-structs/), by [@kharrison](https://twitter.com/kharrison)
 * [Unit Testing is Easier Than You Think](http://blog.jaredsinclair.com/post/183871438320/unit-testing-is-easier-than-you-think), by [@jaredsinclair](https://twitter.com/jaredsinclair)
+* [It's time to break up with your networking library for URLSession](https://tim.engineering/break-up-third-party-networking-urlsession/), by [@timothymiko](https://twitter.com/timothymiko)
 
 **Tools/Controls**
 
-* 
+* [Science Journal](https://github.com/google/science-journal-ios), by [@GScienceJournal](https://twitter.com/GScienceJournal)
 
 **Business/Career**
 
-* 
+* [How I Prepare My Conference Talks](https://kayathomas.info/how-i-prepare-my-conference-talks/), by [@kthomas901](https://twitter.com/kthomas901)
+* [A Spectre Retrospective — Part 1: Build a Feature or An App?](https://blog.halide.cam/a-spectre-retrospective-part-1-build-a-feature-or-an-app-e9e421015432), by [@sandofsky](https://twitter.com/sandofsky)
 
 **UI/UX**
 
