@@ -12,6 +12,7 @@
 * [State Restoration With Swift Structs](https://useyourloaf.com/blog/state-restoration-with-swift-structs/), by [@kharrison](https://twitter.com/kharrison)
 * [Unit Testing is Easier Than You Think](http://blog.jaredsinclair.com/post/183871438320/unit-testing-is-easier-than-you-think), by [@jaredsinclair](https://twitter.com/jaredsinclair)
 * [It's time to break up with your networking library for URLSession](https://tim.engineering/break-up-third-party-networking-urlsession/), by [@timothymiko](https://twitter.com/timothymiko)
+* [Structuring Your iOS App for Split Testing](https://heartbeat.fritz.ai/structuring-your-ios-app-for-split-testing-178eacf5aa7c), by [@AliuArlind](https://twitter.com/AliuArlind)
 
 **Tools/Controls**
 
