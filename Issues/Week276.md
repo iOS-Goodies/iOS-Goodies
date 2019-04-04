@@ -15,16 +15,23 @@
 
 **Tools/Controls**
 
-* [Science Journal](https://github.com/google/science-journal-ios), by [@GScienceJournal](https://twitter.com/GScienceJournal)
+* [CIFilter.io](https://cifilter.io/) - Website which lists all the available CIFilters, their information and examples of applying them, by [@noahsark769](https://twitter.com/noahsark769)
+* [Science Journal](https://github.com/google/science-journal-ios) - Open source app, by [@GScienceJournal](https://twitter.com/GScienceJournal)
+* [Blueprint](https://github.com/square/Blueprint) - Declarative UI construction for iOS, by [@SquareEng](https://twitter.com/SquareEng)
 
 **Business/Career**
 
 * [How I Prepare My Conference Talks](https://kayathomas.info/how-i-prepare-my-conference-talks/), by [@kthomas901](https://twitter.com/kthomas901)
 * [A Spectre Retrospective — Part 1: Build a Feature or An App?](https://blog.halide.cam/a-spectre-retrospective-part-1-build-a-feature-or-an-app-e9e421015432), by [@sandofsky](https://twitter.com/sandofsky)
+* [Learnings From Toxic Abuse](https://deprogrammaticaipsum.com/2019/04/01/learnings-from-toxic-abuse/), by [@atineoSE](https://twitter.com/atineoSE)
 
 **UI/UX**
 
-* 
+* [Design & Git: Guidelines for effective design version control](https://blog.novoda.com/design-and-git/), by [@BashaChris](https://twitter.com/BashaChris)
+
+**Podcast** 
+
+* [“Pull up the time profiler”, with special guest Janina Kutyn](https://www.swiftbysundell.com/podcast/44), by [@JaninaKutyn](https://twitter.com/JaninaKutyn) and [@johnsundell](https://twitter.com/johnsundell)
 
 **Videos**
 
