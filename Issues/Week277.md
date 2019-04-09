@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer, by [@vpeschenkov](https://twitter.com/vpeschenkov)
 
 **Business/Career**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [polac24](https://github.com/polac24)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24)
