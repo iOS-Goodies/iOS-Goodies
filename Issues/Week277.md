@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer, by [@vpeschenkov](https://twitter.com/vpeschenkov)
+* [optionals.org](https://www.optionals.org/) - A website that shows many various ways to use optionals in Swift, by Caleb
 * [Codextended](https://github.com/JohnSundell/Codextended), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business/Career**
