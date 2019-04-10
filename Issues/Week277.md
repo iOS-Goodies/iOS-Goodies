@@ -7,6 +7,7 @@
 * [Using unwind segues to navigate back to previous screens](https://www.appsdissected.com/unwind-segues-storyboard/), by [@appsdissected](https://twitter.com/appsdissected)
 * [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1?source=friends_link&sk=fbfc4b66bdffb339f11b857facbee07c), by [@norapsi](https://twitter.com/norapsi)
 * [Swift 5 Frozen enums](https://useyourloaf.com/blog/swift-5-frozen-enums/), by [@kharrison](https://twitter.com/kharrison)
+* [Inner Workings of Server-side Swift](https://edit.theappbusiness.com/the-inner-workings-of-server-side-swift-177b2fcce86c), by [@dodsios](https://twitter.com/dodsios)
 
 **Tools/Controls**
 
