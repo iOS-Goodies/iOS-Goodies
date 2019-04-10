@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24), [samdods](https://github.com/samdods)
