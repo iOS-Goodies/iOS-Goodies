@@ -9,6 +9,7 @@
 * [Swift 5 Frozen enums](https://useyourloaf.com/blog/swift-5-frozen-enums/), by [@kharrison](https://twitter.com/kharrison)
 * [Down the rabbit hole of iOS design patterns](https://benoitpasquier.com/down-rabbit-hole-ios-design-patterns/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [Inclusive enums with OptionSet](https://mecid.github.io/2019/04/10/inclusive-enums-with-optionset/), by [@mecid](https://twitter.com/mecid)
+* [Using the dependency injection framework for testing in Vapor 3 and Swift](https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/), by [@mikemikina](https://twitter.com/mikemikina)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid), [mikina](https://github.com/mikina)
