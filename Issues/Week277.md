@@ -11,6 +11,8 @@
 * [Inclusive enums with OptionSet](https://mecid.github.io/2019/04/10/inclusive-enums-with-optionset/), by [@mecid](https://twitter.com/mecid)
 * [Using the dependency injection framework for testing in Vapor 3 and Swift](https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/), by [@mikemikina](https://twitter.com/mikemikina)
 * [Conditional Compilation, Part 3: App Extensions](https://davedelong.com/blog/2019/04/09/conditional-compilation-part-3/), by [@davedelong](https://twitter.com/davedelong)
+* [UITable​View​Header​Footer​View](https://nshipster.com/uitableviewheaderfooterview/), by [@mattt](https://twitter.com/mattt)
+* [Building a dynamic modular iOS architecture](https://medium.com/fluxom/building-a-dynamic-modular-ios-architecture-1b87dc31278b), by [@JareckiMark](https://twitter.com/JareckiMark)
 
 **Tools/Controls**
 
