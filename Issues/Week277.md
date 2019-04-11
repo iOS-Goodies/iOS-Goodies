@@ -7,6 +7,7 @@
 * [Using unwind segues to navigate back to previous screens](https://www.appsdissected.com/unwind-segues-storyboard/), by [@appsdissected](https://twitter.com/appsdissected)
 * [Stubbing in pair with Swift compiler: a spy registration](https://medium.com/flawless-app-stories/stubbing-in-pair-with-swift-compiler-a-spy-registration-bbfdc1cf87a1?source=friends_link&sk=fbfc4b66bdffb339f11b857facbee07c), by [@norapsi](https://twitter.com/norapsi)
 * [Swift 5 Frozen enums](https://useyourloaf.com/blog/swift-5-frozen-enums/), by [@kharrison](https://twitter.com/kharrison)
+* [Inner Workings of Server-side Swift](https://edit.theappbusiness.com/the-inner-workings-of-server-side-swift-177b2fcce86c), by [@dodsios](https://twitter.com/dodsios)
 * [Down the rabbit hole of iOS design patterns](https://benoitpasquier.com/down-rabbit-hole-ios-design-patterns/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [Inclusive enums with OptionSet](https://mecid.github.io/2019/04/10/inclusive-enums-with-optionset/), by [@mecid](https://twitter.com/mecid)
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid)
+* [naeemshaikh90](https://github.com/naeemshaikh90), [LisaDziuba](https://github.com/lisadziuba), [Apps Dissected](https://github.com/AppsDissected), [vpeschenkov](https://github.com/vpeschenkov), [polac24](https://github.com/polac24), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid), [samdods](https://github.com/samdods)
