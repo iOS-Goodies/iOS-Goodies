@@ -1,4 +1,3 @@
-
 **Articles**
 
 * [Open app in specific view when push notification is tapped](https://fluffy.es/open-specific-view-push-notification-tapped/), by [@soulchildpls](https://twitter.com/soulchildpls)
@@ -17,11 +16,13 @@
 
 * [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) - A lightweight wrapper over UserDefaults/NSUserDefaults with an extra AES-256 encryption layer, by [@vpeschenkov](https://twitter.com/vpeschenkov)
 * [optionals.org](https://www.optionals.org/) - A website that shows many various ways to use optionals in Swift, by Caleb
-* [Codextended](https://github.com/JohnSundell/Codextended), by [@johnsundell](https://twitter.com/johnsundell)
+* [Codextended](https://github.com/JohnSundell/Codextended) - Extensions giving Swift's Codable API type inference super powers, by [@johnsundell](https://twitter.com/johnsundell)
+* [nef](https://github.com/bow-swift/nef) - A command line tool to compile Swift documentation written in Playground format with Bow support, by [@47deg](https://twitter.com/47deg/)
+
 
 **Business/Career**
 
-* 
+* [Working together when we’re not together](https://www.blog.google/inside-google/working-google/working-together-when-were-not-together/amp/), by Veronica Gilrane
 
 **UI/UX**
 
@@ -29,7 +30,7 @@
 
 **Videos**
 
-* 
+* [How to Kickstart Your Software Engineering Career](https://www.youtube.com/playlist?list=PL1hNTJtl-Vt5FGkgnfo3e0HjK-YPYCQzR), by [@hellomayuko](https://twitter.com/hellomayuko)
 
 **Credits**
 
