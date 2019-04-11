@@ -25,6 +25,7 @@
 **Business/Career**
 
 * [Working together when we’re not together](https://www.blog.google/inside-google/working-google/working-together-when-were-not-together/amp/), by Veronica Gilrane
+* [Programming: doing it more vs doing it better](https://kevinmartinjose.com/2019/04/08/programming-doing-it-more-vs-doing-it-better/), by [@lonesword_](https://twitter.com/lonesword_)
 
 **UI/UX**
 
