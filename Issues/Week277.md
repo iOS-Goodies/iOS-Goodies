@@ -29,7 +29,7 @@
 
 **UI/UX**
 
-* 
+* [Updated Human Interface Guidelines - Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility/overview/introduction/), by Apple
 
 **Videos**
 
