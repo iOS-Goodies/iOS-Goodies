@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Disjoint-set union in C++ and Swift](https://medium.com/flawless-app-stories/disjoint-set-union-data-structure-in-c-and-swift-a52703b01fcb), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 
 **Tools/Controls**
 
@@ -9,16 +9,17 @@
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+*
 
 **Credits**
 
 * [pmusolino](https://github.com/pmusolino)
+* [hassaneldesouky](https://github.com/HassanElDesouky)
