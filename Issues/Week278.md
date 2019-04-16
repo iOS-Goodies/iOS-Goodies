@@ -3,6 +3,7 @@
 
 * [Disjoint-set union in C++ and Swift](https://medium.com/flawless-app-stories/disjoint-set-union-data-structure-in-c-and-swift-a52703b01fcb), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 * [Guided Access](https://nshipster.com/guided-access/), by [@mattt](https://twitter.com/mattt)
+* [Deep Linking at Scale on iOS](https://medium.com/just-eat-tech/deep-linking-at-scale-on-ios-1dd8789c389f), by [@justeat_tech](https://twitter.com/justeat_tech), [@albertodebo](https://twitter.com/albertodebo)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [k-lpmg](https://github.com/k-lpmg), [hassaneldesouky](https://github.com/HassanElDesouky), [Apps Dissected](https://github.com/AppsDissected), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [pmusolino](https://github.com/pmusolino), [k-lpmg](https://github.com/k-lpmg), [hassaneldesouky](https://github.com/HassanElDesouky), [Apps Dissected](https://github.com/AppsDissected), [naeemshaikh90](https://github.com/naeemshaikh90), [@albertodebo](https://github.com/albertodebortoli)
