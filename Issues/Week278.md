@@ -5,6 +5,7 @@
 * [Guided Access](https://nshipster.com/guided-access/), by [@mattt](https://twitter.com/mattt)
 * [Deep Linking at Scale on iOS](https://medium.com/just-eat-tech/deep-linking-at-scale-on-ios-1dd8789c389f), by [@justeat_tech](https://twitter.com/justeat_tech), [@albertodebo](https://twitter.com/albertodebo)
 * [RxSwift & MVVM - How to use RxTests to test your ViewModel](https://benoitpasquier.com/how-to-use-rxtests-to-test-mvvm/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Asynchronous completion handlers with Result type](https://mecid.github.io/2019/04/17/asynchronous-completion-handlers-with-result-type/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [k-lpmg](https://github.com/k-lpmg), [hassaneldesouky](https://github.com/HassanElDesouky), [Apps Dissected](https://github.com/AppsDissected), [naeemshaikh90](https://github.com/naeemshaikh90), [@albertodebo](https://github.com/albertodebortoli), [popei69](https://github.com/popei69)
+* [pmusolino](https://github.com/pmusolino), [k-lpmg](https://github.com/k-lpmg), [hassaneldesouky](https://github.com/HassanElDesouky), [Apps Dissected](https://github.com/AppsDissected), [naeemshaikh90](https://github.com/naeemshaikh90), [@albertodebo](https://github.com/albertodebortoli), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid)
