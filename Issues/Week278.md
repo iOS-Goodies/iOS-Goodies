@@ -9,6 +9,7 @@ I got some questions after [last week's intro](https://ios-goodies.com/post/1841
 * [Deep Linking at Scale on iOS](https://medium.com/just-eat-tech/deep-linking-at-scale-on-ios-1dd8789c389f), by [@justeat_tech](https://twitter.com/justeat_tech), [@albertodebo](https://twitter.com/albertodebo)
 * [RxSwift & MVVM - How to use RxTests to test your ViewModel](https://benoitpasquier.com/how-to-use-rxtests-to-test-mvvm/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [Asynchronous completion handlers with Result type](https://mecid.github.io/2019/04/17/asynchronous-completion-handlers-with-result-type/), by [@mecid](https://twitter.com/mecid)
+* [UI Testing in iOS - Generating Accessibility Identifiers using Reflection](https://code.egym.de/ui-testing-in-ios-generating-accessibility-identifiers-using-reflection-6568dff3dbf4), by [@jhandguy](https://twitter.com/jhandguy)
 
 **Tools/Controls**
 
@@ -18,11 +19,12 @@ I got some questions after [last week's intro](https://ios-goodies.com/post/1841
 
 **Business/Career**
 
-*
+* [How PSPDFKit Succeeds at Being a Remote Company](https://pspdfkit.com/blog/2019/how-pspdfkit-succeeds-at-being-a-remote-company/), by [@NicolasDular](https://twitter.com/NicolasDular)
+* [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/), by [@catehstn](https://twitter.com/catehstn)
 
 **UI/UX**
 
-*
+* [5 tips from an Airbnb designer on maintaining a design system](https://www.designsystems.com/5-tips-from-an-airbnb-designer-on-maintaining-a-design-system/), by [@jeremydizon](https://twitter.com/@jeremydizon)
 
 **Videos**
 
