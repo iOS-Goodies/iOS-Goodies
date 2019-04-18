@@ -1,8 +1,8 @@
 
 **Articles**
 
+* [Container View Controllers Redux](https://medium.com/flawless-app-stories/container-view-controllers-revisited-e076ef38853f), by Dennis Walsh.
 * [Improve your iOS team’s productivity by building features as frameworks](https://medium.com/flawless-app-stories/improve-your-ios-teams-productivity-by-building-features-as-frameworks-9d2a64cbcab5), by [@sashimiblade](https://twitter.com/sashimiblade)
-
 
 **Tools/Controls**
 
