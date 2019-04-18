@@ -1,6 +1,6 @@
 Happy Thursday! And congratulations to all the students who got the WWDC scholarship 🎉! If you're curious, you can see many of the submisions for this year [in this repo](https://github.com/wwdc/2019).
 
-I got some questions after [last week's intro](https://ios-goodies.com/post/184110268001/week-277) regarding what I wrote, most of them on the same topic: how could your work as an iOS developer have a bigger impact? How do you find more meaningful projects to work on? I'd be curious to hear more thoughts on this.
+I got some questions after [last week's intro](https://ios-goodies.com/post/184110268001/week-277) regarding what I wrote, most of them on the same topic: how could your work as an iOS developer have a bigger impact? How do you find more meaningful projects to work on? I'd be curious to hear more thoughts on this from other peple, and I'll write my own in next week's issue.
 
 **Articles**
 
