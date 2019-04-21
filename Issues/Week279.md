@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [moelnaggar](https://twitter.com/MoElnaggar14)
+* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [moelnaggar](https://github.com/MoElnaggar14)
