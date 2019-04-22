@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) - A Markdown Editor that can execute Swift code, by [@objcio](https://twitter.com/objcio)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [vpeschenkov](https://github.com/vpeschenkov)
