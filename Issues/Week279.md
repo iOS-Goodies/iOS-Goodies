@@ -9,6 +9,7 @@
 
 **Tools/Controls**
 
+* [markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) - A Markdown Editor that can execute Swift code, by [@objcio](https://twitter.com/objcio)
 * [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu), by [@KarimEbrahem512](https://twitter.com/KarimEbrahem512)
 
 **Business/Career**
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [hassaneldesouky](https://github.com/HassanElDesouky), [naeemshaikh90](https://github.com/naeemshaikh90), [moelnaggar](https://github.com/MoElnaggar14)
+* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [hassaneldesouky](https://github.com/HassanElDesouky), [naeemshaikh90](https://github.com/naeemshaikh90), [moelnaggar](https://github.com/MoElnaggar14), [vpeschenkov](https://github.com/vpeschenkov)
