@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90), [bkucharskiDev](https://github.com/bkucharskiDev)
