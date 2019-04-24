@@ -14,6 +14,7 @@
 
 * [markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) - A Markdown Editor that can execute Swift code, by [@objcio](https://twitter.com/objcio)
 * [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu), by [@KarimEbrahem512](https://twitter.com/KarimEbrahem512)
+* [SwiftLocation 4](https://github.com/malcommac/SwiftLocation), by [@danielemargutti](https://twitter.com/danielemargutti)
 
 **Business/Career**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [hassaneldesouky](https://github.com/HassanElDesouky), [naeemshaikh90](https://github.com/naeemshaikh90), [moelnaggar](https://github.com/MoElnaggar14), [vpeschenkov](https://github.com/vpeschenkov), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid), [bkucharskiDev](https://github.com/bkucharskiDev)
+* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [hassaneldesouky](https://github.com/HassanElDesouky), [naeemshaikh90](https://github.com/naeemshaikh90), [moelnaggar](https://github.com/MoElnaggar14), [vpeschenkov](https://github.com/vpeschenkov), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid), [bkucharskiDev](https://github.com/bkucharskiDev), [pmusolino](https://github.com/pmusolino)
