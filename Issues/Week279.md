@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu), by [@KarimEbrahem512](https://twitter.com/KarimEbrahem512)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [naeemshaikh90](https://github.com/naeemshaikh90)
+* [valianka](https://github.com/valianka), [onmyway133](https://github.com/onmyway133), [hassaneldesouky](https://github.com/HassanElDesouky), [naeemshaikh90](https://github.com/naeemshaikh90)
