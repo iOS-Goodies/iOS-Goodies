@@ -9,21 +9,23 @@
 * [iOS Debugging Tips & Tricks](https://www.netguru.com/codestories/ios-debugging-tips-tricks), by [@bkucharskiDev](https://twitter.com/bkucharskiDev)
 * [Starting Unit Testing with Model layer](https://mecid.github.io/2019/04/24/starting-unit-testing-with-model-layer/), by [@mecid](https://twitter.com/mecid)
 * [How to bootstrap your iOS app to iterate faster](https://benoitpasquier.com/how-to-bootstrap-ios-app-to-iterate-faster/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [The Bittersweet iOS Document Browser](https://pspdfkit.com/blog/2019/the-bittersweet-ios-document-browser/), by [@bukovinski](https://twitter.com/bukovinski)
 
 **Tools/Controls**
 
 * [markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) - A Markdown Editor that can execute Swift code, by [@objcio](https://twitter.com/objcio)
-* [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu), by [@KarimEbrahem512](https://twitter.com/KarimEbrahem512)
-* [SwiftLocation 4](https://github.com/malcommac/SwiftLocation), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - Drop down menu for iOS, by [@KarimEbrahem512](https://twitter.com/KarimEbrahem512)
+* [SwiftLocation 4](https://github.com/malcommac/SwiftLocation) - Efficient and easy to use location tracking framework for iOS , by [@danielemargutti](https://twitter.com/danielemargutti)
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - A framework that allows presenting an empty message for `UITableView`, by [@Wizeline](https://twitter.com/thewizeline)
 
 **Business/Career**
 
-*
+* [The Most Installed Mobile SDKs](https://appfigures.com/top-sdks/all/all), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
-* 
+* [App form design best practices](https://www.justinmind.com/blog/mobile-app-forms-best-practices/), by Rebeca Costa
+* [7 Tips To Organize Colors for UI Design](https://uxplanet.org/7-tips-to-organize-colors-for-ui-design-97bbefed8a8a), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
