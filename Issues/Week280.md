@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - A really fast JSON parser by [joannisorlandos](https://twitter.com/joannisorlandos)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
+* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba)
