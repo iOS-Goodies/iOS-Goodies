@@ -15,6 +15,7 @@
 * [markdown-playgrounds](https://github.com/objcio/markdown-playgrounds) - A Markdown Editor that can execute Swift code, by [@objcio](https://twitter.com/objcio)
 * [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu), by [@KarimEbrahem512](https://twitter.com/KarimEbrahem512)
 * [SwiftLocation 4](https://github.com/malcommac/SwiftLocation), by [@danielemargutti](https://twitter.com/danielemargutti)
+* [WLEmptyState](https://github.com/wizeline/WLEmptyState) - A framework that allows presenting an empty message for `UITableView`, by [@Wizeline](https://twitter.com/thewizeline)
 
 **Business/Career**
 
