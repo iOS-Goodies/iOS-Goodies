@@ -1,3 +1,4 @@
+Happy Thursday, everyone! Inspired by comments on my intro from two weeks ago, I asked last week how could we as iOS developers work on more meaningful projects or have a bigger impact. I didn't really get that many answers, so I'll just write my own thoughts on this subject. For example, working in the Health team at Apple is something that, for me, would be a meaningful project. I trully believe in the Apple Watch's value as a medical device and as a gadget that can improve the lives of people who use it. Just as a disclaimer, I don't personally know anyone working in the Health team at Apple, so I don't _really_ know what that is like. Working on an app that helps people learn new languages, or that helps visually impaired people in their daily tasks could, for example, be very fulfilling. But yes, as a developer employed in a company, or even as a freelancer, it's very hard to find trully meaningful projects and sometimes you can't even influence the projects you're working on. In the end, I think it's up to each and every one of us to decide what kind of projects they'd like to work on, or how they can help others. And each of us probably has other things that they find meaningful. And that's ok :). 
 
 **Articles**
 
@@ -29,7 +30,7 @@
 
 **Videos**
 
-*
+* [What does a Software Engineering manager do? How to have a fruitful relationship with your manager](https://www.youtube.com/watch?v=34N9rE0YZIs), by [@hellomayuko](https://twitter.com/hellomayuko)
 
 **Credits**
 
