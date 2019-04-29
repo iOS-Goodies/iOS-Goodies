@@ -9,7 +9,7 @@
 
 **Business/Career**
 
-*
+* [GiTiny](https://github.com/k-lpmg/GiTiny) - iOS app for GitHub with exploring trending by [@kanglpmg](https://twitter.com/kanglpmg)
 
 **UI/UX**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba)
+* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [k-lpmg](https://github.com/k-lpmg)
