@@ -4,6 +4,7 @@
 * [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f), by [@onmyway133](https://twitter.com/onmyway133)
 * [Protocols I: "Start With a Protocol," He Said](http://robnapier.net/start-with-a-protocol), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [Protocols Sidebar I: Protocols Are Nonconformists](http://robnapier.net/nonconformist), by [@cocoaphony](https://twitter.com/cocoaphony)
+* [How to use Vapor Server to write stronger UI tests in Swift](https://benoitpasquier.com/how-to-use-vapor-server-ui-tests-swift/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 
 **Tools/Controls**
 
