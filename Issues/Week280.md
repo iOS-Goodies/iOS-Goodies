@@ -6,10 +6,9 @@
 **Tools/Controls**
 
 * [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - A really fast JSON parser by [joannisorlandos](https://twitter.com/joannisorlandos)
+* [GiTiny](https://github.com/k-lpmg/GiTiny) - iOS app for GitHub with exploring trending by [@kanglpmg](https://twitter.com/kanglpmg)
 
 **Business/Career**
-
-* [GiTiny](https://github.com/k-lpmg/GiTiny) - iOS app for GitHub with exploring trending by [@kanglpmg](https://twitter.com/kanglpmg)
 
 **UI/UX**
 
