@@ -13,7 +13,7 @@
 
 **UI/UX**
 
-* 
+* [Fluid Interfaces](https://medium.com/@matshauge/fluid-interfaces-8302c95939fb), by [@matshauge](https://twitter.com/matshauge)
 
 **Videos**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba)
+* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli)
