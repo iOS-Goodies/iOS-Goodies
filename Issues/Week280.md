@@ -2,6 +2,8 @@
 **Articles**
 
 * [How to make Auto Layout more convenient in iOS](https://medium.com/flawless-app-stories/how-to-make-auto-layout-more-convenient-in-ios-df3b42fed37f), by [@onmyway133](https://twitter.com/onmyway133)
+* [Protocols I: "Start With a Protocol," He Said](http://robnapier.net/start-with-a-protocol), by [@cocoaphony](https://twitter.com/cocoaphony)
+* [Protocols Sidebar I: Protocols Are Nonconformists](http://robnapier.net/nonconformist), by [@cocoaphony](https://twitter.com/cocoaphony)
 
 **Tools/Controls**
 
@@ -20,4 +22,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli), [k-lpmg](https://github.com/k-lpmg)
+* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli), [k-lpmg](https://github.com/k-lpmg), [rbarbosa](https://github.com/rbarbosa)
