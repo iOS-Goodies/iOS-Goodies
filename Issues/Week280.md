@@ -5,6 +5,8 @@
 * [Protocols I: "Start With a Protocol," He Said](http://robnapier.net/start-with-a-protocol), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [Protocols Sidebar I: Protocols Are Nonconformists](http://robnapier.net/nonconformist), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [How to use Vapor Server to write stronger UI tests in Swift](https://benoitpasquier.com/how-to-use-vapor-server-ui-tests-swift/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [Continuous Integration With GitHub, Fastlane & Jenkins
+](https://www.raywenderlich.com/1774995-continuous-integration-with-github-fastlane-jenkins), by [@mataharimau](https://twitter.com/mataharimau)
 
 **Tools/Controls**
 
@@ -23,4 +25,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli), [k-lpmg](https://github.com/k-lpmg), [rbarbosa](https://github.com/rbarbosa)
+* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli), [k-lpmg](https://github.com/k-lpmg), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90)
