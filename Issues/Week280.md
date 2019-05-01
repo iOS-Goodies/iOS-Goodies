@@ -13,8 +13,11 @@
 
 * [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - A really fast JSON parser by [joannisorlandos](https://twitter.com/joannisorlandos)
 * [GiTiny](https://github.com/k-lpmg/GiTiny) - iOS app for GitHub with exploring trending by [@kanglpmg](https://twitter.com/kanglpmg)
+* [Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects, by [@Dschee](https://twitter.com/Dschee)
 
 **Business/Career**
+
+* 
 
 **UI/UX**
 
