@@ -5,8 +5,7 @@
 * [Protocols I: "Start With a Protocol," He Said](http://robnapier.net/start-with-a-protocol), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [Protocols Sidebar I: Protocols Are Nonconformists](http://robnapier.net/nonconformist), by [@cocoaphony](https://twitter.com/cocoaphony)
 * [How to use Vapor Server to write stronger UI tests in Swift](https://benoitpasquier.com/how-to-use-vapor-server-ui-tests-swift/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
-* [Continuous Integration With GitHub, Fastlane & Jenkins
-](https://www.raywenderlich.com/1774995-continuous-integration-with-github-fastlane-jenkins), by [@mataharimau](https://twitter.com/mataharimau)
+* [Continuous Integration With GitHub, Fastlane & Jenkins](https://www.raywenderlich.com/1774995-continuous-integration-with-github-fastlane-jenkins), by [@mataharimau](https://twitter.com/mataharimau)
 * [Extracting presentation logic to make it testable](https://mecid.github.io/2019/05/01/extracting-presentation-logic-to-make-it-testable/), by [@mecid](https://twitter.com/mecid)
 * [How to set background color on a Stack View](https://fluffy.es/stackview-background-color/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
@@ -23,6 +22,7 @@
 **UI/UX**
 
 * [Fluid Interfaces](https://medium.com/@matshauge/fluid-interfaces-8302c95939fb), by [@matshauge](https://twitter.com/matshauge)
+* [Mobile App User Personas: Do They Hold Up In Reality?](https://usabilitygeek.com/mobile-app-user-personas/), by Amalia Helen
 
 **Videos**
 
