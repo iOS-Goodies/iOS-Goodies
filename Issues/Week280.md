@@ -8,6 +8,7 @@
 * [Continuous Integration With GitHub, Fastlane & Jenkins
 ](https://www.raywenderlich.com/1774995-continuous-integration-with-github-fastlane-jenkins), by [@mataharimau](https://twitter.com/mataharimau)
 * [Extracting presentation logic to make it testable](https://mecid.github.io/2019/05/01/extracting-presentation-logic-to-make-it-testable/), by [@mecid](https://twitter.com/mecid)
+* [How to set background color on a Stack View](https://fluffy.es/stackview-background-color/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli), [k-lpmg](https://github.com/k-lpmg), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid)
+* [pmusolino](https://github.com/pmusolino), [LisaDziuba](https://github.com/lisadziuba), [hfossli](https://twitter.com/hfossli), [k-lpmg](https://github.com/k-lpmg), [rbarbosa](https://github.com/rbarbosa), [naeemshaikh90](https://github.com/naeemshaikh90), [mecid](https://github.com/mecid), [cupnoodle](https://github.com/cupnoodle)
