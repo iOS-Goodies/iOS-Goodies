@@ -9,12 +9,15 @@
 * [Extracting presentation logic to make it testable](https://mecid.github.io/2019/05/01/extracting-presentation-logic-to-make-it-testable/), by [@mecid](https://twitter.com/mecid)
 * [How to set background color on a Stack View](https://fluffy.es/stackview-background-color/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Optional, throws, Result, and async/await](https://nshipster.com/optional-throws-result-async-await/), by [@jemmons](https://twitter.com/jemmons)
+* [Architecturing an app with functional reactive programming](https://www.welcometothejungle.co/fr/articles/functional-reactive-programming-architecture), by [@v_pradeilles](https://twitter.com/v_pradeilles)
 
 **Tools/Controls**
 
-* [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - A really fast JSON parser by [joannisorlandos](https://twitter.com/joannisorlandos)
-* [GiTiny](https://github.com/k-lpmg/GiTiny) - An iOS app for GitHub with exploring trending by [@kanglpmg](https://twitter.com/kanglpmg)
+* [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - A really fast JSON parser, by [joannisorlandos](https://twitter.com/joannisorlandos)
+* [GiTiny](https://github.com/k-lpmg/GiTiny) - An iOS app for GitHub with exploring trending, by [@kanglpmg](https://twitter.com/kanglpmg)
 * [Accio](https://github.com/JamitLabs/Accio) - A dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects, by [@Dschee](https://twitter.com/Dschee)
+* [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging, by [@indragie](http://twitter.com/indragie)
+* [TORoundedButton](https://github.com/TimOliver/TORoundedButton) - A high-performance button control with rounded corners for iOS, by [@TimOliverAU](http://twitter.com/TimOliverAU)
 
 **Business/Career**
 
