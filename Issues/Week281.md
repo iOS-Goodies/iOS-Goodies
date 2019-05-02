@@ -21,4 +21,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi)
