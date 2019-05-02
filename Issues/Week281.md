@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [SwiftKit](https://github.com/SvenTiigi/SwiftKit) A CLI for generating cross platform Swift Frameworks to easily start your next open-source project, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 
 **Business/Career**
 
