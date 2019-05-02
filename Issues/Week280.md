@@ -1,3 +1,6 @@
+Happy Thursday! This weekend, 3-5 May, the team at raywenderlich.com will have the [video courses free for everybody](https://www.raywenderlich.com/3029589-all-videos-will-be-free-on-raywenderlich-com-this-weekend) to watch and follow. I think it's a great opportunity to learn some new things :). 
+
+We had a few more link submissions, that didn't make it into the newsletter. If you have the extra time, you can read them on our [GitHub repo](https://github.com/iOS-Goodies/iOS-Goodies/blob/master/Issues/Week280.md).
 
 **Articles**
 
