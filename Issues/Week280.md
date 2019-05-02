@@ -10,6 +10,7 @@
 * [How to set background color on a Stack View](https://fluffy.es/stackview-background-color/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Optional, throws, Result, and async/await](https://nshipster.com/optional-throws-result-async-await/), by [@jemmons](https://twitter.com/jemmons)
 * [Architecturing an app with functional reactive programming](https://www.welcometothejungle.co/fr/articles/functional-reactive-programming-architecture), by [@v_pradeilles](https://twitter.com/v_pradeilles)
+* [Getting up to speed with UICollectionView layouts](https://www.kairadiagne.com/2019/04/27/getting-up-to-speed-with-uicollectionviewlayout.html), by [@kairadiagne](https://twitter.com/kairadiagne)
 
 **Tools/Controls**
 
