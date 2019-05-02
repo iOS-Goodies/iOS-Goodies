@@ -22,7 +22,7 @@
 **UI/UX**
 
 * [Fluid Interfaces](https://medium.com/@matshauge/fluid-interfaces-8302c95939fb), by [@matshauge](https://twitter.com/matshauge)
-* [Mobile App User Personas: Do They Hold Up In Reality?](https://usabilitygeek.com/mobile-app-user-personas/), by Amalia Helen
+* [Mobile App User Personas: Do They Hold Up In Reality?](https://usabilitygeek.com/mobile-app-user-personas/), by [@AmaliaHelenS](https://twitter.com/AmaliaHelenS)
 
 **Videos**
 
