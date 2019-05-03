@@ -6,6 +6,7 @@
 **Tools/Controls**
 
 * [SwiftKit](https://github.com/SvenTiigi/SwiftKit) A CLI for generating cross platform Swift Frameworks to easily start your next open-source project, by [@SvenTiigi](https://twitter.com/SvenTiigi)
+* [KeyedCodable](https://github.com/dgrzeszczak/KeyedCodable) Easy nested key mappings for swift Codable, by [@dgrzeszczak](https://github.com/dgrzeszczak)
 
 **Business/Career**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino)
