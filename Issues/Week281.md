@@ -2,6 +2,7 @@
 **Articles**
 
 * [Speed Up your iOS Development: Demystifying complex UIViews using Decorators](https://medium.com/flawless-app-stories/speed-up-your-ios-development-demystifying-complex-uiviews-using-decorators-866d36279166), by [@fjtrujy](https://twitter.com/fjtrujy)
+* [Sharing Swift Code Between iOS and Server Applications](https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications), by [@0xTim](https://twitter.com/0xtim)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14)
