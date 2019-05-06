@@ -18,6 +18,7 @@
 **UI/UX**
 
 * [11 tips to improve notifications](https://blog.prototypr.io/tips-to-improve-notifications-9e13250b3055), by [@akss_29](https://twitter.com/akss_29)
+* [A Design Language for Touch, Gesture, and Motion](https://www.uxmatters.com/mt/archives/2019/05/a-design-language-for-touch-gesture-and-motion.php), by Steven Hoober
 
 **Videos**
 
