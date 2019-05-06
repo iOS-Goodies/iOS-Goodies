@@ -8,6 +8,7 @@
 
 * [SwiftKit](https://github.com/SvenTiigi/SwiftKit) A CLI for generating cross platform Swift Frameworks to easily start your next open-source project, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 * [KeyedCodable](https://github.com/dgrzeszczak/KeyedCodable) Easy nested key mappings for swift Codable, by [@dgrzeszczak](https://github.com/dgrzeszczak)
+* [Dropdowns](https://github.com/onmyway133/Dropdowns) Fantastic dropdown in Swift, by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14), [@onmyway133](https://github.com/onmyway133)
