@@ -5,6 +5,7 @@
 * [Sharing Swift Code Between iOS and Server Applications](https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications), by [@0xTim](https://twitter.com/0xtim)
 * [CSSAttributedString in Swift](https://ilyagru.github.io/cssattributedstring-in-swift), by Ilya Gruzhevski
 * [What’s new in RxSwift 5](https://medium.com/@freak4pc/whats-new-in-rxswift-5-f7a5c8ee48e7), by [@freak4pc](https://twitter.com/freak4pc)
+* [How to code sign & publish iOS apps](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/), by [@codemagicio](https://twitter.com/codemagicio/)
 
 **Tools/Controls**
 
