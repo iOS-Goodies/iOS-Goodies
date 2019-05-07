@@ -4,6 +4,7 @@
 * [Speed Up your iOS Development: Demystifying complex UIViews using Decorators](https://medium.com/flawless-app-stories/speed-up-your-ios-development-demystifying-complex-uiviews-using-decorators-866d36279166), by [@fjtrujy](https://twitter.com/fjtrujy)
 * [Sharing Swift Code Between iOS and Server Applications](https://www.raywenderlich.com/2401813-sharing-swift-code-between-ios-and-server-applications), by [@0xTim](https://twitter.com/0xtim)
 * [CSSAttributedString in Swift](https://ilyagru.github.io/cssattributedstring-in-swift), by Ilya Gruzhevski
+* [What’s new in RxSwift 5](https://medium.com/@freak4pc/whats-new-in-rxswift-5-f7a5c8ee48e7), by [@freak4pc](https://twitter.com/freak4pc)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14), [@onmyway133](https://github.com/onmyway133)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14), [@onmyway133](https://github.com/onmyway133), [vpeschenkov](https://github.com/vpeschenkov)
