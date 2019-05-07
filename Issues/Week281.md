@@ -6,6 +6,7 @@
 * [CSSAttributedString in Swift](https://ilyagru.github.io/cssattributedstring-in-swift), by Ilya Gruzhevski
 * [What’s new in RxSwift 5](https://medium.com/@freak4pc/whats-new-in-rxswift-5-f7a5c8ee48e7), by [@freak4pc](https://twitter.com/freak4pc)
 * [How to code sign & publish iOS apps](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/), by [@codemagicio](https://twitter.com/codemagicio/)
+* [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8), by [@nebillo](https://twitter.com/nebillo/)
 
 **Tools/Controls**
 
