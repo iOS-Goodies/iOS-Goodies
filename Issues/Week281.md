@@ -12,6 +12,7 @@
 * [SwiftKit](https://github.com/SvenTiigi/SwiftKit) A CLI for generating cross platform Swift Frameworks to easily start your next open-source project, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 * [KeyedCodable](https://github.com/dgrzeszczak/KeyedCodable) Easy nested key mappings for swift Codable, by [@dgrzeszczak](https://github.com/dgrzeszczak)
 * [Dropdowns](https://github.com/onmyway133/Dropdowns) Fantastic dropdown in Swift, by [@onmyway133](https://twitter.com/onmyway133)
+* [Owl](https://github.com/malcommac/Owl) A declarative type-safe framework for building fast and flexible lists with Tables & Collections, by [@danielemargutti](https://twitter.com/danielemargutti)
 
 **Business/Career**
 
