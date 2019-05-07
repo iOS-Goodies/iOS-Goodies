@@ -6,6 +6,7 @@
 * [CSSAttributedString in Swift](https://ilyagru.github.io/cssattributedstring-in-swift), by Ilya Gruzhevski
 * [What’s new in RxSwift 5](https://medium.com/@freak4pc/whats-new-in-rxswift-5-f7a5c8ee48e7), by [@freak4pc](https://twitter.com/freak4pc)
 * [How to code sign & publish iOS apps](https://blog.codemagic.io/how-to-code-sign-publish-ios-apps/), by [@codemagicio](https://twitter.com/codemagicio/)
+* [Doubly Linked Lists — Swift 4](https://medium.com/flawless-app-stories/doubly-linked-lists-swift-4-ae3cf8a5b975), by Sarin Swift
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14), [@onmyway133](https://github.com/onmyway133), [vpeschenkov](https://github.com/vpeschenkov)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14), [@onmyway133](https://github.com/onmyway133), [vpeschenkov](https://github.com/vpeschenkov), [valianka](https://github.com/valianka)
