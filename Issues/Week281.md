@@ -11,6 +11,12 @@
 * [RxSwift & MVVM - Advanced concepts of UITableView with RxDataSources](https://benoitpasquier.com/advanced-concepts-uitableview-rxdatasource/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
 * [Scaling up an iOS app using modules](https://engineering.depop.com/scaling-up-an-ios-app-with-modularisation-8cd280d6b2b8), by [@nebillo](https://twitter.com/nebillo/)
 * [Doubly Linked Lists — Swift 4](https://medium.com/flawless-app-stories/doubly-linked-lists-swift-4-ae3cf8a5b975), by Sarin Swift
+* [Self-documenting code to improve readability in Swift](https://www.avanderlee.com/swift/self-documenting-code/), by [@twannl](https://www.twitter.com/twannl)
+* [Data Recovery in Snapthread 2.0](https://beckyhansmeyer.com/2019/05/07/data-recovery-in-snapthread-2-0/), by [@bhansmeyer](http://twitter.com/bhansmeyer)
+* [UIButton: Padding Between Image and Text](https://noahgilmore.com/blog/uibutton-padding/), by [@noahsark769](https://twitter.com/noahsark769)
+* [Introducing CwlViews](https://www.cocoawithlove.com/blog/introducing-cwlviews.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Declarative Views](https://www.cocoawithlove.com/blog/declarative-views.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [NSSecureCoding](https://www.swiftjectivec.com/nssecurecoding/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 
 **Tools/Controls**
 
@@ -31,7 +37,7 @@
 
 **Videos**
 
-*
+* [App Builders Switzerland 2019 Videos](https://www.youtube.com/playlist?list=PLLcE3DL3f5Bx0IAHAw6hsdZ3z_samz2iX), by [@appbuilders_ch](https://twitter.com/appbuilders_ch)
 
 **Credits**
 
