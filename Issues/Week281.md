@@ -18,6 +18,7 @@
 * [Declarative Views](https://www.cocoawithlove.com/blog/declarative-views.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [NSSecureCoding](https://www.swiftjectivec.com/nssecurecoding/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 * [Image Resizing Techniques](https://nshipster.com/image-resizing/), by [@mattt](https://twitter.com/mattt)
+* [Format Your Code With SwiftFormat](https://agostini.tech/2019/05/06/format-your-code-with-swiftformat/), by [@dagostin](https://twitter.com/dagostin)
 
 **Tools/Controls**
 
