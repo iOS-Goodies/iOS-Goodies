@@ -30,7 +30,7 @@
 
 **Business/Career**
 
-* 
+* [What to Expect From Marzipan](https://blog.iconfactory.com/2019/05/what-to-expect-from-marzipan/), by [@chockenberry](https://twitter.com/chockenberry)
 
 **UI/UX**
 
