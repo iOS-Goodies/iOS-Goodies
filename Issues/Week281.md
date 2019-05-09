@@ -17,6 +17,7 @@
 * [Introducing CwlViews](https://www.cocoawithlove.com/blog/introducing-cwlviews.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [Declarative Views](https://www.cocoawithlove.com/blog/declarative-views.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [NSSecureCoding](https://www.swiftjectivec.com/nssecurecoding/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+* [Image Resizing Techniques](https://nshipster.com/image-resizing/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
@@ -41,4 +42,4 @@
 
 **Credits**
 
-*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [@moelnaggar](https://github.com/MoElnaggar14), [@onmyway133](https://github.com/onmyway133), [vpeschenkov](https://github.com/vpeschenkov), [nebillo](https://github.com/nebillo), [interstateone](https://github.com/interstateone), [valianka](https://github.com/valianka), [@popei69](https://github.com/popei69), [hungtruong](https://github.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90)
+*  [LisaDziuba](https://github.com/lisadziuba), [SvenTiigi](https://github.com/SvenTiigi), [pmusolino](https://github.com/pmusolino), [MoElnaggar14](https://github.com/MoElnaggar14), [onmyway133](https://github.com/onmyway133), [vpeschenkov](https://github.com/vpeschenkov), [nebillo](https://github.com/nebillo), [interstateone](https://github.com/interstateone), [valianka](https://github.com/valianka), [popei69](https://github.com/popei69), [hungtruong](https://github.com/hungtruong), [naeemshaikh90](https://github.com/naeemshaikh90), [rbarbosa](https://github.com/rbarbosa)
