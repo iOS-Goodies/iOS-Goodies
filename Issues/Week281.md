@@ -1,3 +1,4 @@
+Happy Thursday! I'm not going to write too much here, there are lots of links in this issue and I don't want to take any more of your time. But before we get to the links, I just wanted to recommend [Paul Hudson](https://twitter.com/twostraws)'s great app for learning Swift: [Unwrap](https://itunes.apple.com/app/id1440611372). The app is [open source](https://github.com/twostraws/Unwrap), so you can also check out its source code or submit ideas and suggestions for further development.
 
 **Articles**
 
@@ -36,6 +37,10 @@
 
 * [11 tips to improve notifications](https://blog.prototypr.io/tips-to-improve-notifications-9e13250b3055), by [@akss_29](https://twitter.com/akss_29)
 * [A Design Language for Touch, Gesture, and Motion](https://www.uxmatters.com/mt/archives/2019/05/a-design-language-for-touch-gesture-and-motion.php), by Steven Hoober
+
+**Podcasts**
+
+* [Erica Sadun – The raywenderlich.com Podcast S09 E02](https://www.raywenderlich.com/3017044-erica-sadun-podcast-s09-e02), by [@ericasadun](https://twitter.com/ericasadun), [@LordAndrei](https://twitter.com/LordAndrei) and [@jenndotcodes](https://twitter.com/jenndotcodes) 
 
 **Videos**
 
