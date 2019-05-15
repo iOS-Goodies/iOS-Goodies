@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [Introducing Semaphore CI for iOS](https://semaphoreci.com/blog/introducing-ios-cicd), by [@markoa](https://twitter.com/markoa)
 
 **Business/Career**
 
