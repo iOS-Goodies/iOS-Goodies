@@ -8,6 +8,7 @@
 * [Weak self and unowned self explained in Swift](https://www.avanderlee.com/swift/weak-self/), by [@twannl](https://www.twitter.com/twannl)
 * [iOS Coordinators: A Storyboard Approach](https://thoughtbot.com/blog/ios-coordinators-a-storyboard-approach), by [@p_montalto](https://twitter.com/p_montalto)
 * [The usefulness of typealiases in swift](https://appventure.me/posts/2019-5-15-the-usefulness-of-typealiases-in-swift.html), by [@terhechte](https://twitter.com/terhechte)
+* [Flow coordinator pattern on steroids](https://medium.com/flawless-app-stories/flow-coordinator-pattern-on-steroids-a52021e31bfe), by [@pakisha1989](https://twitter.com/pakisha1989)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid)
+* [mecid](https://github.com/mecid), [valianka](https://github.com/valianka)
