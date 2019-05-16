@@ -1,3 +1,4 @@
+Happy Thursday! 3 weeks left until the WWDC. Where are you watching the keynote? Check your local iOS dev meetup, many of them organize a session for streaming the keynote. Also, some companies organize WWDC viewing sessions, so that's also a good opportunity to get to know other developers and some of the companies in your area. 
 
 **Articles**
 
@@ -18,6 +19,7 @@
 **Business/Career**
 
 * [App Store Pricing](https://beckyhansmeyer.com/2019/05/11/app-store-pricing/), by [@bhansmeyer](http://twitter.com/bhansmeyer)
+* [Being Afraid to Change a Working App](https://christiantietze.de/posts/2019/05/changing-running-app/), by [@ctietze](https://twitter.com/ctietze)
 
 **UI/UX**
 
