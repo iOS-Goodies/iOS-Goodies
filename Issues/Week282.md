@@ -7,6 +7,7 @@
 * [iOS File Provider Extension Tutorial](https://www.raywenderlich.com/697468-ios-file-provider-extension-tutorial), by [@naturaln0va](https://twitter.com/naturaln0va)
 * [Weak self and unowned self explained in Swift](https://www.avanderlee.com/swift/weak-self/), by [@twannl](https://www.twitter.com/twannl)
 * [iOS Coordinators: A Storyboard Approach](https://thoughtbot.com/blog/ios-coordinators-a-storyboard-approach), by [@p_montalto](https://twitter.com/p_montalto)
+* [The usefulness of typealiases in swift](https://appventure.me/posts/2019-5-15-the-usefulness-of-typealiases-in-swift.html), by [@terhechte](https://twitter.com/terhechte)
 
 **Tools/Controls**
 
