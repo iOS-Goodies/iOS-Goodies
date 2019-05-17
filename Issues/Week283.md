@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* [Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, by [glideengine](glideengine)
+* [Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, by [glideengine](https://twitter.com/glideengine)
 
 **Business/Career**
 
