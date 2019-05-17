@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Intro to GraphQL](https://learn.hasura.io/graphql/ios/introduction), by [@hasurahq](https://twitter.com/hasurahq)
 
 **Tools/Controls**
 
