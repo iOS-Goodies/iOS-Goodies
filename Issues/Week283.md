@@ -2,6 +2,7 @@
 **Articles**
 
 * [Intro to GraphQL](https://learn.hasura.io/graphql/ios/introduction), by [@hasurahq](https://twitter.com/hasurahq)
+* [Using Codable to make enums with associated values even more powerful](https://blog.natanrolnik.me/codable-enums-associated-values), by [@natanrolnik](https://twitter.com/natanrolnik)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133)
+* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik)
