@@ -3,6 +3,7 @@
 
 * [Intro to GraphQL](https://learn.hasura.io/graphql/ios/introduction), by [@hasurahq](https://twitter.com/hasurahq)
 * [Using Codable to make enums with associated values even more powerful](https://blog.natanrolnik.me/codable-enums-associated-values), by [@natanrolnik](https://twitter.com/natanrolnik)
+* [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik)
+* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik), [naeemshaikh90](https://github.com/naeemshaikh90)
