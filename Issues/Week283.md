@@ -20,7 +20,7 @@
 
 **UI/UX**
 
-* 
+* [Animation Handbook](https://www.designbetter.co/animation-handbook), by [@warpling](http://twitter.com/warpling)
 
 **Videos**
 
