@@ -6,6 +6,7 @@
 * [Using Codable to make enums with associated values even more powerful](https://blog.natanrolnik.me/codable-enums-associated-values), by [@natanrolnik](https://twitter.com/natanrolnik)
 * [Tools and tips to scale your iOS project along with your team](https://benoitpasquier.com/tools-tips-to-scale-ios-project-and-team/) by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/), by [@kharrison](https://twitter.com/kharrison)
+* [Using NSBatchDeleteRequest to delete batches in Core Data](https://www.avanderlee.com/swift/nsbatchdeleterequest-core-data/), by [@twannl](https://www.twitter.com/twannl)
 
 **Tools/Controls**
 
