@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik), [naeemshaikh90](https://github.com/naeemshaikh90), [popei69](https://www.github.com/popei69), [mecid](https://github.com/mecid),
+* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik), [naeemshaikh90](https://github.com/naeemshaikh90), [popei69](https://www.github.com/popei69), [mecid](https://github.com/mecid), [jogendra](https://github.com/jogendra)
