@@ -11,6 +11,7 @@
 
 * [Glide](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, by [@glideengine](https://twitter.com/glideengine)
 * [EasyClosure](https://github.com/onmyway133/EasyClosure) - Unified communication with easy closure in Swift, by [@onmyway133](https://twitter.com/onmyway133)
+* [SwiftInfo](https://github.com/rockbruno/SwiftInfo) - Extract and analyze the evolution of an iOS app's code, by [@rockthebruno](https://twitter.com/rockthebruno)
 * [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator, by [@jogendrafx](https://twitter.com/jogendrafx)
 
 **Business/Career**
