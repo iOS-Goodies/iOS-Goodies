@@ -10,6 +10,7 @@
 * [Type-safe Resources With SwiftGen](https://agostini.tech/2019/05/19/type-safe-resources-with-swiftgen/), by [@dagostin](https://twitter.com/dagostin)
 * [Understanding Compilers – featuring Swift!](https://www.prolificinteractive.com/2019/05/18/understanding-compilers-featuring-swift/), by Divya Basappa
 * [Advanced Animations with UIViewPropertyAnimator](https://www.appcoda.com/interactive-animation/), by [@etrapeznikov](https://twitter.com/etrapeznikov)
+* [Ordered Collection Diffing](https://thoughtbot.com/blog/ordered-collection-diffing), by [@p_montalto](https://twitter.com/p_montalto)
 
 **Tools/Controls**
 
