@@ -4,7 +4,7 @@ Apple [published the schedule for WWDC](https://developer.apple.com/wwdc19/sched
 
 GitHub had its Satellite conference, and announced, among other great things, that it's going to offer a way for the community to support open-source creators, through [GitHub Sponsors](https://github.com/sponsors). This is a great initiative, and I hope it proves successful. Kudos to the GitHub team for making it!
 
-Last but not least, I'd like to highlight a great resource I found this week: [@warpling](http://twitter.com/warpling)'s Animation Handbook, to which I've linked in the **UI/UX** section.
+Last but not least, I'd like to highlight a new project from [Dave Verwer](https://twitter.com/daveverwer). [iOS Dev Jobs](https://iosdevjobs.com/) aims to become the place to go to if you want to find a new job. It's just been launched, and it's already full of great oportunities. So keep it in mind if at some point you'll want a change in your career.
 
 **Articles**
 
