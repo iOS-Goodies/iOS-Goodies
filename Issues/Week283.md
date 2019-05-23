@@ -9,6 +9,7 @@
 * [Using NSBatchDeleteRequest to delete batches in Core Data](https://www.avanderlee.com/swift/nsbatchdeleterequest-core-data/), by [@twannl](https://www.twitter.com/twannl)
 * [Type-safe Resources With SwiftGen](https://agostini.tech/2019/05/19/type-safe-resources-with-swiftgen/), by [@dagostin](https://twitter.com/dagostin)
 * [Understanding Compilers – featuring Swift!](https://www.prolificinteractive.com/2019/05/18/understanding-compilers-featuring-swift/), by Divya Basappa
+* [Advanced Animations with UIViewPropertyAnimator](https://www.appcoda.com/interactive-animation/), by [@etrapeznikov](https://twitter.com/etrapeznikov)
 
 **Tools/Controls**
 
