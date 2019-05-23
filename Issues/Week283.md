@@ -1,3 +1,10 @@
+Happy Thursday! It's been a busy week, with a lot of new content and some very interesting news.
+
+Apple [published the schedule for WWDC](https://developer.apple.com/wwdc19/schedule/), and, as expected, the keynote will be on June 3rd, 10:00 a.m. PDT, and it will be live streamed. Check the sessions and, if you're lucky to be there, the labs that you want to attend and add them to the calendar. Make use of the tools for it, the official [WWDC app for iOS](https://itunes.apple.com/ro/app/wwdc/id640199958?mt=8) and the unofficial [WWDC app for macOS](https://wwdc.io/).
+
+GitHub had its Satellite conference, and announced, among other great things, that it's going to offer a way for the community to support open-source creators, through [GitHub Sponsors](https://github.com/sponsors). This is a great initiative, and I hope it proves successful. Kudos to the GitHub team for making it!
+
+Last but not least, I'd like to highlight a great resource I found this week: [@warpling](http://twitter.com/warpling)'s Animation Handbook, to which I've linked in the **UI/UX** section.
 
 **Articles**
 
