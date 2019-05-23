@@ -7,6 +7,8 @@
 * [Tools and tips to scale your iOS project along with your team](https://benoitpasquier.com/tools-tips-to-scale-ios-project-and-team/) by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [Empty Strings in Swift](https://useyourloaf.com/blog/empty-strings-in-swift/), by [@kharrison](https://twitter.com/kharrison)
 * [Using NSBatchDeleteRequest to delete batches in Core Data](https://www.avanderlee.com/swift/nsbatchdeleterequest-core-data/), by [@twannl](https://www.twitter.com/twannl)
+* [Type-safe Resources With SwiftGen](https://agostini.tech/2019/05/19/type-safe-resources-with-swiftgen/), by [@dagostin](https://twitter.com/dagostin)
+* [Understanding Compilers – featuring Swift!](https://www.prolificinteractive.com/2019/05/18/understanding-compilers-featuring-swift/), by Divya Basappa
 
 **Tools/Controls**
 
@@ -17,7 +19,7 @@
 
 **Business/Career**
 
-* 
+* [A Decade of Remote Work](https://blog.viktorpetersson.com/2019/05/18/a-decade-of-remote.html), by [@vpetersson](https://twitter.com/vpetersson)
 
 **UI/UX**
 
@@ -29,4 +31,4 @@
 
 **Credits**
 
-* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik), [naeemshaikh90](https://github.com/naeemshaikh90), [popei69](https://www.github.com/popei69), [mecid](https://github.com/mecid), [jogendra](https://github.com/jogendra)
+* [pmusolino](https://www.github.com/pmusolino), [onmyway133](https://www.github.com/onmyway133), [natanrolnik](https://www.github.com/natanrolnik), [naeemshaikh90](https://github.com/naeemshaikh90), [popei69](https://www.github.com/popei69), [mecid](https://github.com/mecid), [jogendra](https://github.com/jogendra), [rbarbosa](https://github.com/rbarbosa)
