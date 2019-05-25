@@ -24,3 +24,4 @@
 **Credits**
 
 * [valianka](https://github.com/valianka)
+* [SebastianOsinski](https://github.com/SebastianOsinski)
