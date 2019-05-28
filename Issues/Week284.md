@@ -5,6 +5,7 @@
 * [@autoreleasepool uses in 2019 Swift](https://swiftrocks.com/autoreleasepool-in-2019-swift.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 * [Visualizing navigation flow progress](https://osinski.dev/posts/visualizing-navigation-flow-progress/), by [@seb_osinski](https://twitter.com/seb_osinski)
 * [ReSwift - Introduction to Redux architecture in Swift](https://benoitpasquier.com/intro-redux-in-swift-with-reswift/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Migrating paid app to free app with In-App Purchase](https://fluffy.es/migrate-paid-app-to-iap/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
@@ -26,3 +27,4 @@
 
 * [valianka](https://github.com/valianka)
 * [SebastianOsinski](https://github.com/SebastianOsinski), [popei69](https://github.com/popei69)
+* [cupnoodle](https://github.com/cupnoodle)
