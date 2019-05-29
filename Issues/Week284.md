@@ -11,6 +11,7 @@
 * [Migrating to Codable from a third party parsing library](https://medium.com/@elenipapanikolo/migrating-to-codable-from-a-third-party-parsing-library-fd85298ef5a2), by [@elenipapanikolo](https://twitter.com/elenipapanikolo)
 * [Preparing a code base for WWDC](https://wwdcbysundell.com/2019/preparing-a-code-base/), by [@swiftbysundell](https://twitter.com/swiftbysundell)
 * [How Xcode Indexing Works and How You Can Fix IDE Problems with Your Projects](https://pspdfkit.com/blog/2019/how-xcode-indexing-works-and-how-to-solve-problems), by [@dmartincy](https://twitter.com/dmartincy)
+* [How to Save Images and Videos to Core Data Efficiently](http://www.vadimbulavin.com/how-to-save-images-and-videos-to-core-data-efficiently/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
