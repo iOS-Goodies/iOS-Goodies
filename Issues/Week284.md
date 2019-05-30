@@ -1,3 +1,4 @@
+Happy Thursday! One of our colleagues told us earlier this week about a weird issue where, after migrating to Swift 5,  `tableView(_:didSelectRowAt:)` was not called anymore in a subclass of another view controller. To make this even harder to catch, it was not happening in a debug build, only in release. It turned out [other people had](https://stackoverflow.com/questions/55592341/xcode-10-2-with-swift-5-0-compiler-protocol-inheritance-issue) [this problem too](https://twitter.com/thesunshinejr/status/1133696540449624064). This seems to be [a known issue ](https://bugs.swift.org/browse/SR-10257) for the Swift team, and apparently it's been resolved. Now we just need new Swift and Xcode releases 😄. Until then, it's good to be aware of this issue, as it's quite hard to catch, since it's only happening in builds in `wholemodule` mode.
 
 **Articles**
 
