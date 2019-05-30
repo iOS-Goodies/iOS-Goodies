@@ -12,10 +12,14 @@
 * [Preparing a code base for WWDC](https://wwdcbysundell.com/2019/preparing-a-code-base/), by [@swiftbysundell](https://twitter.com/swiftbysundell)
 * [How Xcode Indexing Works and How You Can Fix IDE Problems with Your Projects](https://pspdfkit.com/blog/2019/how-xcode-indexing-works-and-how-to-solve-problems), by [@dmartincy](https://twitter.com/dmartincy)
 * [How to Save Images and Videos to Core Data Efficiently](http://www.vadimbulavin.com/how-to-save-images-and-videos-to-core-data-efficiently/), by [@V8tr](https://twitter.com/V8tr)
+* [Working with Fastlane on iOS in an Enterprise Environment](https://heartbeat.fritz.ai/working-with-fastlane-on-ios-in-an-enterprise-environment-7057a9a8c2d3), by [@mgrebenets](https://twitter.com/mgrebenets)
+* [Custom Navigation Transitions, Part III: A Complex Push/Pop Animation](https://devsign.co/notes/navigation-transitions-iii), by [@bryanjclark](https://twitter.com/bryanjclark)
+* [Custom Navigation Transitions, Part IV: An Interactive Pop Transition](https://devsign.co/notes/navigation-transitions-iv), by [@bryanjclark](https://twitter.com/bryanjclark)
 
 **Tools/Controls**
 
-* 
+* [XCTAssertAutolayout](https://github.com/tarunon/XCTAssertAutolayout) - Provides assert function that check autolayout error in Swift , by [@tarunon](https://twitter.com/tarunon)
+* [PVView](https://github.com/toannt/PVView) - A small library that helps you to make an amazing parallax view , by Toan Nguyen
 
 **Business/Career**
 
