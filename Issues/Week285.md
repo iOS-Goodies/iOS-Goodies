@@ -1,4 +1,3 @@
-
 **Articles**
 
 * [The Clean Swift architecture explained](https://zonneveld.dev/the-clean-swift-architecture-explained/), by [@j_zonneveld](https://twitter.com/j_zonneveld)
