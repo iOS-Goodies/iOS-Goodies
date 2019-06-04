@@ -4,11 +4,18 @@
 > - organize the existing links into "themes": user-facing feature (like the volume hud, etc), developer stuff (further sub-classifications into swift ui, combine, xcode improvements, security and privacy, other new frameworks, etc), design/ux (SF Symbols, less flat design, etc), others
 > - be patient and please tolerate the chaotic approach to this issue :). We'll be back on Thursday with a more normal edition of iOS Goodies
 
+
+Surprise! Happy Tuesday! The first day of WWDC 2019 was so amazing that made me want to send out a special edition of iOS Goodies to share all the good news. This is a spcial edition of our newsletter, so it's not following closely the usual pattern.
+
+The opening keynote brought huge news to developers. tvOS will gain multi-user support, and watchOS gets some new audio streaming APIs. The Apple Watch will become more independent from the iPhone, also gaining its own App Store. iOS 13 was announced, which will run on iPhone SE, iPhone 6s and above, dropping iPhone 6 and iPhone 5S support. Surprisingly, the iOS that's running on iPads was renamed to iPadOS. iPadOS is based on iOS and it seems that, at least this year, [iPadOS is still iOS](https://twitter.com/_inside/status/1135640410175332356), but the different naming might say something about the different directions Apple wants to take the two devices. iPadOS is comatible with iPad Air 2 and newer devices. 
+
+The new macOS is named Catalina, and will probably get a lot more new apps, since project Catalyst (what everybody knew as Marzipan) will help make an iPad app into a Mac app only by selecting a checkbox. At least, that's what they demoed, so it must be true 🙃. It's not clear yet to me how Universal apps will be affected by the iOS/iPadOS split and if only iPad apps can be made into Mac apps or if an iPhone-only app can also become a Mac app, but we have enoudh time to figure that out until September.
+
+The biggest news for developer this year was the introduction of [SwiftUI](https://developer.apple.com/xcode/swiftui/): a new declarative framework for building UIs. SwiftUI works only on iOS 13, [no backwards compatibility](https://twitter.com/UINT_MIN/status/1135643392912658432). Apple added some [very nice tutorials](https://developer.apple.com/tutorials/swiftui) for SwiftUI, which is great to see, and a much better way to learn than downloading sample code or reading some documentation. SwiftUI is built from scratch, [it's not a wrapper](https://twitter.com/jckarter/status/1135627146062286848), it [works great with UIKit, AppKit and more](https://twitter.com/nnnnnnnn/status/1135632048478085121), [you can mix and match between SwiftUI and UIKit](https://twitter.com/smileyborg/status/1135947261848875008) and [the animations in SwiftUI are interactive and interruptible by default](https://twitter.com/b3ll/status/1135766725432004609). If you think the SwiftUI sample code looks like Swift, but not too much, you're not alone. Recent swift Evolution proposals, such as Function Builders, Property Delegates and Opaque Results Types [helped make that SwiftUI code possible](https://twitter.com/peres/status/1135707753958129664). Before you get all too excited, remember that this is iOS 13 only, and to be able to test the Editor and Canvas (live previews) shown in the keynote, [you need the Catalina beta](https://twitter.com/karolsmazur/status/1135762901061513216). There are a lot of sessions on SwiftUI this year, make sure to watch some of them when they'll become available in the WWDC app or on the website.
+
+
 **Stuff to write about** 
 
-- iOS 13 compatible devices
-- iPad OS
-- SwiftUI ios 13 onwards
 - Combine
 - custom initializer in view controllers instantiated from IB
 - crypto framework
@@ -18,14 +25,13 @@
 - core haptics framework
 
 **Credits** 
-- People who tweeted stuff I saw
-
-**Sales**
-- https://www.hackingwithswift.com/offers/wwdc19-50
-
-
-
-- "future of apple" https://twitter.com/stroughtonsmith/status/1135647926439632899
+- https://twitter.com/_inside
+- https://twitter.com/johnsundell
+- https://twitter.com/UINT_MIN
+- https://twitter.com/jckarter
+- https://twitter.com/peres
+- https://twitter.com/karolsmazur
+- https://twitter.com/b3ll
 
 
 User-facing features:
@@ -38,23 +44,6 @@ Developer stuff:
 - beta is buggy https://twitter.com/azamsharp/status/1135965744385220614
 - [iOS & iPadOS 13 Beta Release Notes](https://developer.apple.com/documentation/ios_ipados_release_notes/ios_ipados_13_beta_release_notes) - https://twitter.com/steipete/status/1135639581133398016
 - Feedback assistant - https://twitter.com/stroughtonsmith/status/1135899464017862657
-
-  Swift UI
-   - Editor and Canvas (previews) needs Catalina https://twitter.com/karolsmazur/status/1135762901061513216
-   - under the hood: https://twitter.com/peres/status/1135707753958129664
-   - Swift UI is not a wrapper, it's all new https://twitter.com/kuba_suder/status/1135693450190426112
-   - Swift UI is not a wrapper, maybe a bridge: - https://twitter.com/jckarter/status/1135627146062286848
-   - Swift UI built from scratch https://twitter.com/Lascorbe/status/1135677628789080064
-   - Swift UI built from scratch: UIView or NSView - implementation detail https://twitter.com/jckarter/status/1135676286079135744
-   - Swift UI only on iOS 13 +: https://twitter.com/UINT_MIN/status/1135643392912658432
-   - https://developer.apple.com/xcode/swiftui/
-   - Session recommendation: https://twitter.com/luka_bernardi/status/1135638382028021761
-   - Swift UI tutorials: Swift UI in view controllers - https://twitter.com/nnnnnnnn/status/1135632048478085121
-   - no more storyboards - https://twitter.com/cocoawithlove/status/1135630886680973312
-   - https://www.hackingwithswift.com/articles/191/swiftui-lets-us-build-declarative-user-interfaces-in-swift
-   - Swift UI in View controllers and views: https://twitter.com/jnadeau/status/1135626293301501952
-   - Swift UI interop: https://twitter.com/smileyborg/status/1135947261848875008
-   - https://www.hackingwithswift.com/articles/194/get-started-with-swiftui
 
 
   Combine
@@ -111,8 +100,5 @@ Others:
 
 - macOS Catalina uses ZSH instead of bash, probably because of licensing issues https://twitter.com/nevyn/status/1135814006323712000
 - what's new in ios 13: https://www.hackingwithswift.com/articles/193/whats-new-in-ios-13
-
-Credits:
-*  
 
 [Beta downloads](https://developer.apple.com/download/)
