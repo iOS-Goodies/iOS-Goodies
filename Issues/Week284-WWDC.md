@@ -1,10 +1,3 @@
-> This is a very last-minute effort to get a WWDC special edition of iOS Goodies out on Tuesday evening (CET). Since this is a special edition, different than the others, and a bit in a hurry, there's also almost no structure and no process to creating this issue of our newsletter. Sorry about that, blame it on [me](https://twitter/com/marius_const). If you want to contribute to this, feel free to do it. Some ways to do it are:
-> - add links to things you found interesting/useful from WWDC 2019
-> - if you know of sales on iOS dev learning resources, please add them here. Not 100% sure if those are going to make it to the final edition of the newsletter yet.
-> - organize the existing links into "themes": user-facing feature (like the volume hud, etc), developer stuff (further sub-classifications into swift ui, combine, xcode improvements, security and privacy, other new frameworks, etc), design/ux (SF Symbols, less flat design, etc), others
-> - be patient and please tolerate the chaotic approach to this issue :). We'll be back on Thursday with a more normal edition of iOS Goodies
-
-
 Surprise! Happy Tuesday! The first day of WWDC 2019 was so amazing that made me want to send out a special edition of iOS Goodies to share all the good news. This is a special edition of our newsletter, so it's not following closely the usual pattern.
 
 The opening keynote brought huge news to developers. tvOS will gain multi-user support, and watchOS gets some new audio streaming APIs. The Apple Watch will become more independent from the iPhone, also gaining its own App Store. iOS 13 was announced, which will run on iPhone SE, iPhone 6s and above, dropping iPhone 6 and iPhone 5S support. Surprisingly, the iOS that's running on iPads was renamed to iPadOS. iPadOS is based on iOS and it seems that at least this year, [iPadOS is still iOS](https://twitter.com/_inside/status/1135640410175332356), but the different naming might say something about the different directions Apple wants to take the two devices. iPadOS is compatible with iPad Air 2 and newer devices. 
@@ -26,27 +19,7 @@ From a designers' perspective, [Apple human interface guidelines were updated](h
 With all this new stuff, it's hard to refrain from installing the betas. However, Apple issued a [warning implying they're a bit unstable](https://twitter.com/tomhamming/status/1135643886263492609). I've also seen [people on Twitter](https://twitter.com/BrunoPhilipe/status/1135646103448293377) [saying that the betas from last year were far more stable](https://twitter.com/azamsharp/status/1135965744385220614). It's totally ok for first betas to be buggy and unstable, especially with so many new features that were introduced. If anything, it's last year that was extraordinary.
 
 **Credits** 
-- https://twitter.com/_inside
-- https://twitter.com/johnsundell
-- https://twitter.com/UINT_MIN
-- https://twitter.com/jckarter
-- https://twitter.com/peres
-- https://twitter.com/karolsmazur
-- https://twitter.com/b3ll
-- https://twitter.com/nevyn
-- https://twitter.com/azamsharp
-- https://twitter.com/BrunoPhilipe
-- https://twitter.com/rockthebruno
-- https://twitter.com/alanzeino
-- https://twitter.com/twostraws
-- https://twitter.com/_eliperkins
-- https://twitter.com/twannl
-- https://twitter.com/rustyshelf
-- https://twitter.com/vixentael
-- https://twitter.com/sandofsky
-- https://twitter.com/_ryannystrom
-- https://twitter.com/hansemannnn
-- https://twitter.com/kharrison
+Information for this newsletter was compiled from tweets by: [@_inside](https://twitter.com/_inside), [@johnsundell](https://twitter.com/johnsundell), [@UINT_MIN](https://twitter.com/UINT_MIN), [@jckarter](https://twitter.com/jckarter), [@peres](https://twitter.com/peres), [@karolsmazur](https://twitter.com/karolsmazur), [@b3ll](https://twitter.com/b3ll), [@nevyn](https://twitter.com/nevyn), [@azamsharp](https://twitter.com/azamsharp), [@BrunoPhilipe](https://twitter.com/BrunoPhilipe), [@rockthebruno](https://twitter.com/rockthebruno), [@alanzeino](https://twitter.com/alanzeino), [@twostraws](https://twitter.com/twostraws), [@_eliperkins](https://twitter.com/_eliperkins), [@twannl](https://twitter.com/twannl), [@rustyshelf](https://twitter.com/rustyshelf), [@vixentael](https://twitter.com/vixentael), [@sandofsky](https://twitter.com/sandofsky), [@_ryannystrom](https://twitter.com/_ryannystrom), [@hansemannnn](https://twitter.com/hansemannnn), [@kharrison](https://twitter.com/kharrison), [@twostraws](https://twitter.com/twostraws), [@neoNacho](http://twitter.com/neoNacho)
 
 Further reading and reference:
 
