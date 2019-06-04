@@ -96,3 +96,13 @@
 - https://www.hackingwithswift.com/example-code/core-haptics/how-to-play-custom-vibrations-using-core-haptics
 - https://wwdcbysundell.com/2019/keynote-review/
 - https://wwdcbysundell.com/2019/xcode-swiftpm-first-look/
+- https://twitter.com/azamsharp/status/1135965744385220614
+- https://twitter.com/krstnfx/status/1135950288311836673
+- https://twitter.com/smileyborg/status/1135947261848875008
+- https://www.hackingwithswift.com/articles/194/get-started-with-swiftui
+- https://twitter.com/NeoNacho/status/1135942328919646208
+- https://twitter.com/jeiting/status/1135939322270478336
+- https://twitter.com/simjp/status/1135936933916336128
+- https://twitter.com/fredcpi/status/1135916610483441664
+- https://twitter.com/stroughtonsmith/status/1135899464017862657
+- https://developer.apple.com/design/resources/
