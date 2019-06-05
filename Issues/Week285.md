@@ -6,6 +6,7 @@
 * [Tips and tricks on unit testing iOS apps](https://www.kairadiagne.com/2019/05/31/ios-testing-tips-and-tricks), by [@kairadiagne](https://twitter.com/kairadiagne)
 * [Declarative iOS layout with Panda](http://blog.bellebcooper.com/ios-layout-with-panda.html), by [@bellebcooper](http://www.twitter.com/bellebcooper)
 * [What the Heck is Sign In with Apple?](https://developer.okta.com/blog/2019/06/04/what-the-heck-is-sign-in-with-apple), by [@aaronpk](https://twitter.com/aaronpk)
+* [How to implement Coordinator pattern with RxSwift](https://benoitpasquier.com/integrate-coordinator-pattern-in-rxswift/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 **Credits**
 
 * [jogendra](https://github.com/jogendra)
-* [bellebethcooper](https://github.com/bellebethcooper/)
+* [bellebethcooper](https://github.com/bellebethcooper/), [popei69](https://github.com/popei69)
