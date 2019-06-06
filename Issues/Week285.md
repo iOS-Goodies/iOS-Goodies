@@ -1,5 +1,6 @@
 **Articles**
 
+* [Making real-world app with SwiftUI](https://mecid.github.io/2019/06/05/swiftui-making-real-world-app/), by [@mecid](https://twitter.com/mecid)
 * [The Clean Swift architecture explained](https://zonneveld.dev/the-clean-swift-architecture-explained/), by [@j_zonneveld](https://twitter.com/j_zonneveld)
 * [Easy UITests for your iOS app](https://treatwell.engineering/easy-uitests-for-your-ios-app-6af7aa3457), by [@ignasur](https://twitter.com/ignasur)
 * [Reduce Your App Size With App Thinning](https://agostini.tech/2019/06/02/reduce-your-app-size-with-app-thinning/), by [@dagostin](https://twitter.com/dagostin)
@@ -29,4 +30,4 @@
 **Credits**
 
 * [jogendra](https://github.com/jogendra)
-* [bellebethcooper](https://github.com/bellebethcooper/), [popei69](https://github.com/popei69)
+* [bellebethcooper](https://github.com/bellebethcooper/), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid)
