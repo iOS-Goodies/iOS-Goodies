@@ -20,6 +20,7 @@
 **UI/UX**
 
 * [Designing Conference Slides](https://ashfurrow.com/blog/designing-conference-slides/), by [@ashfurrow](https://twitter.com/ashfurrow)
+* [sfsymbols.com](https://sfsymbols.com/), by [@noahsark769](https://twitter.com/noahsark769)
 
 **Videos**
 
