@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [@hkellaway](https://github.com/hkellaway)
+* [hkellaway](https://github.com/hkellaway)
