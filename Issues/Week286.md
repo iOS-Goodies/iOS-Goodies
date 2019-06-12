@@ -7,6 +7,11 @@
 * [iOS Code Review - Health check of your Swift code](https://benoitpasquier.com/code-review-health-check-of-swift-code/), by [@BenoitPasquier](https://twitter.com/benoitpasquier_)
 * [RxSwift to Apple’s Combine “Cheat Sheet”](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b), by [@freak4pc](https://twitter.com/freak4pc)
 * [How To Adopt Dark Mode In Your iOS App 🌙](https://www.fivestars.blog/code/ios-dark-mode-how-to.html), by [@zntfdr](http://twitter.com/zntfdr)
+* [The Swift 5.1 features that power SwiftUI’s API](https://www.swiftbysundell.com/posts/the-swift-51-features-that-power-swiftuis-api), by [@johnsundell](https://twitter.com/johnsundell)
+* [Getting started with diffable data sources for UICollectionView](https://www.kairadiagne.com/2019/06/10/getting-started-with-diffable-data-sources-for-uicollectionview.html), by [@kairadiagne](https://twitter.com/kairadiagne)
+* [Understanding the SwiftUI Sample​](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/), by [@peres](https://twitter.com/peres)
+* [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/), by [@jeroenbios](https://twitter.com/jeroenbios)
+* [Dynamic Member Lookup combined with key paths in Swift](https://www.avanderlee.com/swift/dynamic-member-lookup/), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -27,4 +32,4 @@
 
 **Credits**
 
-* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr)
+* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr), [rbarbosa](https://github.com/rbarbosa)
