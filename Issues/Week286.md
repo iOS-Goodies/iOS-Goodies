@@ -4,6 +4,7 @@
 * [How to get the first job as an iOS developer](https://medium.com/flawless-app-stories/14-resources-to-help-you-get-your-ios-engineering-job-1cca22cedafe), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 * [Misunderstandings about Key Laws of TDD](https://www.thedroidsonroids.com/blog/key-laws-of-tdd), by [@kzielonka](https://twitter.com/kzielonka)
 * [iOS Code Review - Health check of your Swift code](https://benoitpasquier.com/code-review-health-check-of-swift-code/), by [@BenoitPasquier](https://twitter.com/benoitpasquier_)
+* [RxSwift to Apple’s Combine “Cheat Sheet”](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b), by [@freak4pc](https://twitter.com/freak4pc)
 
 **Tools/Controls**
 
