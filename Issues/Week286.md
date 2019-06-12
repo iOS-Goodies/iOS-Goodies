@@ -6,6 +6,7 @@
 * [Misunderstandings about Key Laws of TDD](https://www.thedroidsonroids.com/blog/key-laws-of-tdd), by [@kzielonka](https://twitter.com/kzielonka)
 * [iOS Code Review - Health check of your Swift code](https://benoitpasquier.com/code-review-health-check-of-swift-code/), by [@BenoitPasquier](https://twitter.com/benoitpasquier_)
 * [RxSwift to Apple’s Combine “Cheat Sheet”](https://medium.com/gett-engineering/rxswift-to-apples-combine-cheat-sheet-e9ce32b14c5b), by [@freak4pc](https://twitter.com/freak4pc)
+* [How To Adopt Dark Mode In Your iOS App 🌙](https://www.fivestars.blog/code/ios-dark-mode-how-to.html), by [@zntfdr](http://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -19,7 +20,6 @@
 **UI/UX**
 
 * [All you need to know about usability testing](https://uxplanet.org/all-you-need-to-know-about-usability-testing-b754158e195f), by Iniobong Udoh
-* [How To Adopt Dark Mode In Your iOS App 🌙](https://www.fivestars.blog/code/ios-dark-mode-how-to.html), by [Federico Zanetello](http://twitter.com/zntfdr)
 
 **Videos**
 
