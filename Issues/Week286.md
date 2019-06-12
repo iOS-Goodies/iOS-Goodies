@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [All you need to know about usability testing](https://uxplanet.org/all-you-need-to-know-about-usability-testing-b754158e195f), by Iniobong Udoh
+* [How To Adopt Dark Mode In Your iOS App 🌙](https://www.fivestars.blog/code/ios-dark-mode-how-to.html), by [Federico Zanetello](http://twitter.com/zntfdr)
 
 **Videos**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133)
+* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr)
