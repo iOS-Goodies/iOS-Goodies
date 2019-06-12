@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [PanSlip](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView, by [@kanglpmg](https://twitter.com/kanglpmg)
+* [EasyStash](https://github.com/onmyway133/EasyStash) - EasyStash is an easy and lightweight persistence framework in Swift, by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg), [LisaDziuba](https://github.com/lisadziuba)
+* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg), [LisaDziuba](https://github.com/lisadziuba), [onmyway133](https://github.com/onmyway133)
