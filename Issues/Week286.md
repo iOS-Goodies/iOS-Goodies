@@ -12,6 +12,7 @@
 * [Understanding the SwiftUI Sample​](https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/), by [@peres](https://twitter.com/peres)
 * [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/), by [@jeroenbios](https://twitter.com/jeroenbios)
 * [Dynamic Member Lookup combined with key paths in Swift](https://www.avanderlee.com/swift/dynamic-member-lookup/), by [@twannl](https://twitter.com/twannl)
+* [WWDC 2019](https://nshipster.com/wwdc-2019/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
