@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [PanSlip](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView, by [@kanglpmg](https://twitter.com/kanglpmg)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka)
+* [hkellaway](https://github.com/hkellaway), [popei69](https://github.com/popei69), [kzielonka](https://github.com/kzielonka), [valianka](https://github.com/valianka), [k-lpmg](https://github.com/k-lpmg)
