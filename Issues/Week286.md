@@ -1,3 +1,5 @@
+Happy Thursday! There's an incerdible amount of new iOS dev content produced every day in this period, a lot of it about technologies most developers won't even get to use for the next year. I'll keep the intro short, so you can focus on the links :).
+
 **Articles**
 
 * [Understanding Property Wrappers in SwiftUI](https://mecid.github.io/2019/06/12/understanding-property-wrappers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
