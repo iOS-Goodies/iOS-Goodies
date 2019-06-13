@@ -17,6 +17,7 @@
 * [First impressions of SwiftUI](https://www.cocoawithlove.com/blog/swiftui.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [UITableview: The Essential Solution for Scrolling iOS Interfaces](https://matteomanferdini.com/uitableview/), by [@MatManferdini](https://twitter.com/MatManferdini)
 * [Backwards compatibility for iOS 13 system colors](https://noahgilmore.com/blog/dark-mode-uicolor-compatibility/), by [@noahsark769](https://twitter.com/noahsark769)
+* [iOS 13: Notable UIKit Additions](https://www.swiftjectivec.com/ios-13-notable-uikit-additions/), by [@jordanmorgan10](https://twitter.com/jordanmorgan10)
 
 **Tools/Controls**
 
