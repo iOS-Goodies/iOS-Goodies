@@ -13,9 +13,14 @@
 * [Swift Opaque Result Types](https://jeroenscode.com/swift-opaque-result-types/), by [@jeroenbios](https://twitter.com/jeroenbios)
 * [Dynamic Member Lookup combined with key paths in Swift](https://www.avanderlee.com/swift/dynamic-member-lookup/), by [@twannl](https://twitter.com/twannl)
 * [WWDC 2019](https://nshipster.com/wwdc-2019/), by [@mattt](https://twitter.com/mattt)
+* [WWDC 2019 - The Things You May Have Missed](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
+* [First impressions of SwiftUI](https://www.cocoawithlove.com/blog/swiftui.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [UITableview: The Essential Solution for Scrolling iOS Interfaces](https://matteomanferdini.com/uitableview/), by [@MatManferdini](https://twitter.com/MatManferdini)
 
 **Tools/Controls**
 
+* [RxCombine](https://github.com/freak4pc/RxCombine) - Bi-directional type bridging between RxSwift and Apple's Combine framework , by [@freak4pc](https://twitter.com/freak4pc)
+* [Symbolic](https://github.com/justMaku/Symbolic) - Type-safe wrapper for SF Symbols, by [@justMaku](https://twitter.com/justMaku)
 * [PanSlip](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView, by [@kanglpmg](https://twitter.com/kanglpmg)
 * [EasyStash](https://github.com/onmyway133/EasyStash) - EasyStash is an easy and lightweight persistence framework in Swift, by [@onmyway133](https://twitter.com/onmyway133)
 
@@ -29,7 +34,8 @@
 
 **Videos**
 
-* 
+* [Platforms State of the Union](https://developer.apple.com/videos/play/wwdc2019/103/) from Apple's WWDC 2019
+* [Session 224 Modernizing Your UI for iOS 13](https://developer.apple.com/videos/play/wwdc2019/224/) from Apple's WWDC 2019
 
 **Credits**
 
