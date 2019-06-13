@@ -16,6 +16,7 @@
 * [WWDC 2019 - The Things You May Have Missed](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
 * [First impressions of SwiftUI](https://www.cocoawithlove.com/blog/swiftui.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [UITableview: The Essential Solution for Scrolling iOS Interfaces](https://matteomanferdini.com/uitableview/), by [@MatManferdini](https://twitter.com/MatManferdini)
+* [Backwards compatibility for iOS 13 system colors](https://noahgilmore.com/blog/dark-mode-uicolor-compatibility/), by [@noahsark769](https://twitter.com/noahsark769)
 
 **Tools/Controls**
 
