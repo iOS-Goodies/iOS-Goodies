@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [WWDC session videos recap](https://github.com/Blackjacx/WWDC), by [@Blackjacxxx](https://twitter.com/Blackjacxxx)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* 
+* [pmusolino](https://github.com/pmusolino)
