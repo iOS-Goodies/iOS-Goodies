@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/), by [@zhuowei](https://twitter.com/zhuowei)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* 
+* [uraimo](https://github.com/uraimo)
