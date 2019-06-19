@@ -5,6 +5,7 @@
 * [WWDC session videos recap](https://github.com/Blackjacx/WWDC), by [@Blackjacxxx](https://twitter.com/Blackjacxxx)
 * [Rendering SwiftUI views to HTML](https://worthdoingbadly.com/swiftui-html/), by [@zhuowei](https://twitter.com/zhuowei)
 * [How to Integrate the New ‘Sign in with Apple’ Button in Your iOS App? ](https://www.spaceotechnologies.com/sign-in-with-apple-ios-tutorial/), by [@spaceotech](https://twitter.com/spaceotech)
+* [You don’t (always) need [weak self]](https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef), by [@BesherMaleh](https://twitter.com/BesherMaleh)
 
 **Tools/Controls**
 
