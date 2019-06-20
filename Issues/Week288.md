@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Building forms with SwiftUI](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [mecid](https://github.com/mecid)
