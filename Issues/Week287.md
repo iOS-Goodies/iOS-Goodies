@@ -1,4 +1,4 @@
-
+Happy Thursday! We got a new beta of Xcode, and each day we get more and more articles about SwiftUI and Combine and all the new things that are iOS 13 only. While this period can be very motivating and inspiring, and many new projects are started  these days, I'm sure not all iOS developers are able to jump on the SwiftUI bandwagon, and some may even feel bad or left behind if they're not familiar with the new tech already. Just because one didn't get to play with SwiftUI yet doesn't mean he's not a good developer; we each learn new technology at our own pace, and in the time we have available for that. In the meantime, it's completely fine to keep using UIKit, MVC, the old ways of doing things or even Objective-C :). Now on to the links! 
 
 **Articles**
 
