@@ -1,3 +1,5 @@
+
+
 **Articles**
 
 * [Building forms with SwiftUI](https://mecid.github.io/2019/06/19/building-forms-with-swiftui/), by [@mecid](https://twitter.com/mecid)
@@ -10,7 +12,7 @@
 
 **Tools/Controls**
 
-* 
+* [XCLogParser](https://github.com/spotify/XCLogParser) - Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog), by [@spotifyeng](https://twitter.com/spotifyeng)
 
 **Business/Career**
 
@@ -18,7 +20,7 @@
 
 **UI/UX**
 
-* 
+* [Marking Required Fields in Forms](https://www.nngroup.com/articles/required-fields/), by [@rbudiu](https://twitter.com/rbudiu)
 
 **Videos**
 
