@@ -18,8 +18,8 @@
 
 **Videos**
 
-* 
+* [SwiftUI Videos Collection](https://github.com/ygit/swiftui), by [@_yogeshsingh](https://twitter.com/_yogeshsingh)
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14)
