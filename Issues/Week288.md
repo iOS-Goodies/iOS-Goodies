@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [@zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr)
