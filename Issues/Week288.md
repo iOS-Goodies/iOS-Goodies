@@ -18,7 +18,7 @@
 
 **Videos**
 
-* [SwiftUI Videos Collection](https://github.com/ygit/swiftui), by [@ygit](https://github.com/ygit)
+* [SwiftUI Videos Collection](https://github.com/ygit/swiftui), by [@_yogeshsingh](https://twitter.com/_yogeshsingh)
 
 **Credits**
 
