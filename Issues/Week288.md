@@ -3,6 +3,8 @@
 
 * [Building forms with SwiftUI](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
 * [Behind The Scenes Of Context Menus](https://www.fivestars.blog/code/uicontextmenuinteraction.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Using Sky Segmentation to create stunning background animations in iOS](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061), by [@hsiaoer5](https://twitter.com/hsiaoer5)
+* [Swift Property Wrappers](https://nshipster.com/propertywrapper/), by [@mattt](https://twitter.com/mattt)
 
 **Tools/Controls**
 
