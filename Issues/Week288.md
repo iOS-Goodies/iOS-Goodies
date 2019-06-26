@@ -3,6 +3,7 @@
 
 * [Building forms with SwiftUI](https://medium.com/snowdog-labs/combine-framework-in-action-fb91fd101602), by [@mecid](https://twitter.com/mecid)
 * [Behind The Scenes Of Context Menus](https://www.fivestars.blog/code/uicontextmenuinteraction.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [First steps in functional reactive programming in Swift with Combine](https://benoitpasquier.com/first-steps-apple-combine-framework-swift/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
 
 **Tools/Controls**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14), [thii](https://github.com/thii)
+* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14), [thii](https://github.com/thii), [popei69](https://github.com/popei69)
