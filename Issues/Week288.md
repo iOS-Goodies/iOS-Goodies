@@ -5,6 +5,7 @@
 * [Behind The Scenes Of Context Menus](https://www.fivestars.blog/code/uicontextmenuinteraction.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Using Sky Segmentation to create stunning background animations in iOS](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061), by [@hsiaoer5](https://twitter.com/hsiaoer5)
 * [Swift Property Wrappers](https://nshipster.com/propertywrapper/), by [@mattt](https://twitter.com/mattt)
+* [First steps in functional reactive programming in Swift with Combine](https://benoitpasquier.com/first-steps-apple-combine-framework-swift/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14), [thii](https://github.com/thii), [SvenTiigi](https://github.com/SvenTiigi), [tailec](https://github.com/tailec)
+* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14), [thii](https://github.com/thii), [SvenTiigi](https://github.com/SvenTiigi), [tailec](https://github.com/tailec), [popei69](https://github.com/popei69)
