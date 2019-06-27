@@ -13,6 +13,7 @@
 * [iOS 13: Changes in the ViewController Presentation Style](https://zonneveld.dev/ios-13-viewcontroller-presentation-style-modalpresentationstyle/), by [@j_zonneveld](https://twitter.com/j_zonneveld)
 * [RxSwift vs. Combine Wrap-Up](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up), by[@caseyliss](https://twitter.com/caseyliss)
 * [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/), by [@twannl](https://twitter.com/twannl)
+* [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f), by [@v_pradeilles](https://twitter.com/v_pradeilles)
 
 **Tools/Controls**
 
@@ -35,4 +36,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14), [thii](https://github.com/thii), [SvenTiigi](https://github.com/SvenTiigi), [tailec](https://github.com/tailec), [popei69](https://github.com/popei69)
+* [mecid](https://github.com/mecid), [chelemen-razvan](https://github.com/chelemen-razvan), [LisaDziuba](https://github.com/lisadziuba), [zntfdr](https://github.com/zntfdr), [moelnaggar14](https://github.com/MoElnaggar14), [thii](https://github.com/thii), [SvenTiigi](https://github.com/SvenTiigi), [tailec](https://github.com/tailec), [popei69](https://github.com/popei69), [valianka](https://github.com/valianka)
