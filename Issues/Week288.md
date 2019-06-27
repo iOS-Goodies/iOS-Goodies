@@ -13,7 +13,6 @@ These are, again, exciting times for the iOS community!
 * [A LinkPresentation Introduction](https://www.swiftjectivec.com/linkpresentation-introduction/), by [@jordanmorgan10](https://twitter.com/jordanmorgan10)
 * [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/), by [@alexito4](https://twitter.com/alexito4)
 * [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/), by [@ericasadun](https://twitter.com/ericasadun)
-* [iOS 13: Changes in the ViewController Presentation Style](https://zonneveld.dev/ios-13-viewcontroller-presentation-style-modalpresentationstyle/), by [@j_zonneveld](https://twitter.com/j_zonneveld)
 * [RxSwift vs. Combine Wrap-Up](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up), by[@caseyliss](https://twitter.com/caseyliss)
 * [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/), by [@twannl](https://twitter.com/twannl)
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f), by [@v_pradeilles](https://twitter.com/v_pradeilles)
