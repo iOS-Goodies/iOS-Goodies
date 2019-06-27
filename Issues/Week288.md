@@ -7,6 +7,12 @@
 * [Using Sky Segmentation to create stunning background animations in iOS](https://medium.com/flawless-app-stories/using-sky-segmentation-to-create-stunning-background-animations-in-ios-4b4b2548061), by [@hsiaoer5](https://twitter.com/hsiaoer5)
 * [Swift Property Wrappers](https://nshipster.com/propertywrapper/), by [@mattt](https://twitter.com/mattt)
 * [First steps in functional reactive programming in Swift with Combine](https://benoitpasquier.com/first-steps-apple-combine-framework-swift/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
+* [A LinkPresentation Introduction](https://www.swiftjectivec.com/linkpresentation-introduction/), by [@jordanmorgan10](https://twitter.com/jordanmorgan10)
+* [Improving SwiftUI modal presentation API](https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/), by [@alexito4](https://twitter.com/alexito4)
+* [SwiftUI: Handling optionals](https://ericasadun.com/2019/06/20/swiftui-handling-optionals/), by [@ericasadun](https://twitter.com/ericasadun)
+* [iOS 13: Changes in the ViewController Presentation Style](https://zonneveld.dev/ios-13-viewcontroller-presentation-style-modalpresentationstyle/), by [@j_zonneveld](https://twitter.com/j_zonneveld)
+* [RxSwift vs. Combine Wrap-Up](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up), by[@caseyliss](https://twitter.com/caseyliss)
+* [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
