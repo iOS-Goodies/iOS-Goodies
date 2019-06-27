@@ -14,6 +14,7 @@
 * [RxSwift vs. Combine Wrap-Up](https://www.caseyliss.com/2019/6/21/rxswift-vs-combine-wrap-up), by[@caseyliss](https://twitter.com/caseyliss)
 * [Getting started with the Combine framework in Swift](https://www.avanderlee.com/swift/combine/), by [@twannl](https://twitter.com/twannl)
 * [How can Property Wrappers and Function Builders be leveraged?](https://medium.com/flawless-app-stories/how-can-property-wrappers-and-function-builders-be-leveraged-d43160de338f), by [@v_pradeilles](https://twitter.com/v_pradeilles)
+* [(Almost) Everything you should know about Grand Central Dispatch in Swift](https://www.vadimbulavin.com/grand-central-dispatch-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -24,11 +25,14 @@
 
 **Business/Career**
 
-* 
+* [When did work-life balance become such a bad thing?](https://m.signalvnoise.com/when-did-work-life-balance-become-such-a-bad-thing/), by [@dhh](https://twitter.com/dhh)
+* Writing a Great Software Development Contract - [Part 1](https://spin.atomicobject.com/2019/06/05/software-dev-contract-principles/), [Part 2](https://spin.atomicobject.com/2019/06/12/ip-software-dev-contract/), [Part 3](https://spin.atomicobject.com/2019/06/19/software-dev-warranty-indemnifications-liability/) and [Part 4](https://spin.atomicobject.com/2019/06/26/software-contract-breaches-termination/), by [@shawncrowley](https://twitter.com/shawncrowley)
 
 **UI/UX**
 
 * [Design Principles: an introduction to visual hierarchy](https://uxdesign.cc/design-principles-an-introduction-to-visual-hierarchy-902d58e1c7b3), by [@MiklosPhilips](https://twitter.com/MiklosPhilips)
+* [The Optimal Placement for Mobile Call to Action Buttons](https://uxmovement.com/mobile/the-optimal-placement-for-mobile-call-to-action-buttons/), by [@uxmovement](https://twitter.com/uxmovement)
+* [Revisiting the iconography of Apple Maps](https://medium.com/@mercury/apple-maps-iconography-revisited-82513e8b6871), by [@mercury](https://twitter.com/mercury)
 
 **Videos**
 
