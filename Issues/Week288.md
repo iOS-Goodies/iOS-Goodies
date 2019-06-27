@@ -1,3 +1,6 @@
+Happy Thursday! The flow of new articles for SwiftUI, Combine and all the other iOS 13 goodies, keeps going and this week is no exception.
+These are, again, exciting times for the iOS community!
+
 
 **Articles**
 
