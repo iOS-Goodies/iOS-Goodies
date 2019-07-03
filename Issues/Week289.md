@@ -10,6 +10,14 @@
 * [TextSphere](https://github.com/cagricolak/TextSphere) - is a small framework for customized TextView by [@cgcolak](https://twitter.com/cgcolak)
 * [Captain AHAP](http://ahap.fancypixel.it) - Create, edit and share custom haptics files (AHAP), by [@theandreamazz](https://twitter.com/theandreamazz)
 
+* [Combinative](https://github.com/noppefoxwolf/Combinative) - UI Event Handling, by [@noppefoxwolf](https://twitter.com/noppefoxwolf)
+
+* [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)
+
+* [HTMLKit](https://github.com/vapor-community/HTMLKit) - A lightning fast, type-safe HTML templating library built for Swift
+
+* [YRPayment](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift, by [@ramsserio](https://twitter.com/ramsserio)
+
 **Business/Career**
 
 * 
@@ -25,4 +33,4 @@
 
 **Credits**
 
-* [cagricolak](https://github.com/cagricolak), [dobreandl](https://github.com/chelemen-razvan), [theandreamazz](https://github.com/andreamazz), [mecid](https://github.com/mecid), [@ra1028](https://github.com/ra1028)
+* [cagricolak](https://github.com/cagricolak), [dobreandl](https://github.com/chelemen-razvan), [theandreamazz](https://github.com/andreamazz), [mecid](https://github.com/mecid), [@ra1028](https://github.com/ra1028), [@moelnaggar14](https://github.com/MoElnaggar14)
