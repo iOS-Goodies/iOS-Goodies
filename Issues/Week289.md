@@ -2,7 +2,7 @@
 
 **Tools/Controls**
 
-* [TextSphere - a small framework for customized TextView](https://github.com/cagricolak/TextSphere), by [@cgcolak](https://twitter.com/cgcolak)
+* [TextSphere](https://github.com/cagricolak/TextSphere) - is a small framework for customized TextView by [@cgcolak](https://twitter.com/cgcolak)
 
 **Business/Career**
 
