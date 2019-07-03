@@ -4,6 +4,7 @@
 
 **Tools/Controls**
 
+* [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource, by [@ra1028fe5](https://twitter.com/ra1028fe5)
 * [BiometricKeychain](https://github.com/appssemble/BiometricKeychain) - Easily store data in the keychain with biometric authentication, by [@dobreandl](https://twitter.com/dobreandl)
 * [TextSphere](https://github.com/cagricolak/TextSphere) - is a small framework for customized TextView by [@cgcolak](https://twitter.com/cgcolak)
 * [Captain AHAP](http://ahap.fancypixel.it) - Create, edit and share custom haptics files (AHAP), by [@theandreamazz](https://twitter.com/theandreamazz)
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [cagricolak](https://github.com/cagricolak), [dobreandl](https://github.com/chelemen-razvan), [theandreamazz](https://github.com/andreamazz), [mecid](https://github.com/mecid)
+* [cagricolak](https://github.com/cagricolak), [dobreandl](https://github.com/chelemen-razvan), [theandreamazz](https://github.com/andreamazz), [mecid](https://github.com/mecid), [@ra1028](https://github.com/ra1028)
