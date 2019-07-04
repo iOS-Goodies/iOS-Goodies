@@ -1,3 +1,5 @@
+Happy Thursday! I've seen this week the [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) project by [@ziezeit](https://twitter.com/ziezeit) and [@ar_institute](https://twitter.com/ar_institute), and I think it's great. Of course, as the GitHub repo says, "this is a toy project, do not use in production". However, this just confirms my hunch from when SwiftUI was announced, that this could be so much bigger than just for iOS/macOS/watchOS/tvOS. I'm very curious and excited to see how this project evolves.
+
 **Articles**
 
 * [Managing Data Flow in SwiftUI](https://mecid.github.io/2019/07/03/managing-data-flow-in-swiftui/), by [@mecid](https://twitter.com/mecid)
