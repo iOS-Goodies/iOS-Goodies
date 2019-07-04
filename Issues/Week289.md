@@ -5,6 +5,10 @@
 * [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/), by [@twannl](https://twitter.com/twannl)
 * [UIStack​View](https://nshipster.com/uistackview/), by [@kaishin](https://twitter.com/kaishin)
 * [SwiftUI: Loading Data on Demand](https://www.objc.io/blog/2019/07/02/lazy-loading/), by [@objcio](https://twitter.com/objcio)
+* [Join the dark side and implement Dark Mode in iOS](https://engineering.nodesagency.com/categories/ios/2019/07/03/Dark-Mode), by [@andrei_hogea](https://twitter.com/andrei_hogea)
+* [Multi-line UILabel in self-sizing CollectionView layouts](http://aplus.rs/2019/multi-line-uilabel-self-sizing-layout/), by [@radiantav](http://twitter.com/radiantav)
+* [Thoughts on SwiftUI](http://aplus.rs/2019/thoughts-on-swiftui/), by [@radiantav](http://twitter.com/radiantav)
+* [Getting started with Swift package manager in Xcode](https://www.kairadiagne.com/2019/07/03/getting-started-with-swift-package-manager-in-xcode.html), by [@kairadiagne](https://twitter.com/kairadiagne)
 
 **Tools/Controls**
 
@@ -20,7 +24,8 @@
 
 **Business/Career**
 
-* 
+* [Why a good boss likes it when people complain](https://qz.com/work/1653161/why-good-bosses-like-when-people-complain/), by [@catehstn](https://twitter.com/catehstn)
+* [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/), by [@b0rk](https://twitter.com/b0rk)
 
 **UI/UX**
 
