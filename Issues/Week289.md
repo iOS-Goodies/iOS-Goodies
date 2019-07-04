@@ -3,6 +3,8 @@
 * [Managing Data Flow in SwiftUI](https://mecid.github.io/2019/07/03/managing-data-flow-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Combine framework in action](https://medium.com/snowdog-labs/combine-framework-in-action-part-2-63c7d652b32f), by [@mecid](https://twitter.com/mecid)
 
+* [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/), by [@twannl](https://twitter.com/twannl)
+
 **Tools/Controls**
 
 * [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 💾 A library for backporting UITableView/UICollectionViewDiffableDataSource, by [@ra1028fe5](https://twitter.com/ra1028fe5)
@@ -29,7 +31,7 @@
 
 **Videos**
 
-* 
+* [WWDC 2019 Top 10 Videos](https://www.raywenderlich.com/3868932-wwdc-2019-top-10-videos), by [@rcritz](https://twitter.com/rcritz)
 
 **Credits**
 
