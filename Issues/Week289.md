@@ -11,14 +11,11 @@
 * [BiometricKeychain](https://github.com/appssemble/BiometricKeychain) - Easily store data in the keychain with biometric authentication, by [@dobreandl](https://twitter.com/dobreandl)
 * [TextSphere](https://github.com/cagricolak/TextSphere) - is a small framework for customized TextView by [@cgcolak](https://twitter.com/cgcolak)
 * [Captain AHAP](http://ahap.fancypixel.it) - Create, edit and share custom haptics files (AHAP), by [@theandreamazz](https://twitter.com/theandreamazz)
-
 * [Combinative](https://github.com/noppefoxwolf/Combinative) - UI Event Handling, by [@noppefoxwolf](https://twitter.com/noppefoxwolf)
-
-* [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)
-
+* [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI), by [@ziezeit](https://twitter.com/ziezeit) and [@ar_institute](https://twitter.com/ar_institute)
 * [HTMLKit](https://github.com/vapor-community/HTMLKit) - A lightning fast, type-safe HTML templating library built for Swift
-
 * [YRPayment](https://github.com/yassram/YRPayment) - Better payment user experience library with cool animation in Swift, by [@ramsserio](https://twitter.com/ramsserio)
+* [swiftui-notes](https://github.com/heckj/swiftui-notes), by [@heckj](https://twitter.com/heckj)
 
 **Business/Career**
 
