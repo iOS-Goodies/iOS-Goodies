@@ -4,6 +4,7 @@
 * [Combine framework in action](https://medium.com/snowdog-labs/combine-framework-in-action-part-2-63c7d652b32f), by [@mecid](https://twitter.com/mecid)
 * [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/), by [@twannl](https://twitter.com/twannl)
 * [UIStack​View](https://nshipster.com/uistackview/), by [@kaishin](https://twitter.com/kaishin)
+* [SwiftUI: Loading Data on Demand](https://www.objc.io/blog/2019/07/02/lazy-loading/), by [@objcio](https://twitter.com/objcio)
 
 **Tools/Controls**
 
