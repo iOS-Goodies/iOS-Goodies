@@ -5,6 +5,8 @@
 * [Creating a custom Combine Publisher to extend UIKit](https://www.avanderlee.com/swift/custom-combine-publisher/), by [@twannl](https://twitter.com/twannl)
 * [UIStack​View](https://nshipster.com/uistackview/), by [@kaishin](https://twitter.com/kaishin)
 * [SwiftUI: Loading Data on Demand](https://www.objc.io/blog/2019/07/02/lazy-loading/), by [@objcio](https://twitter.com/objcio)
+* [iOS Memory Management in Under 6 Minutes](https://medium.com/flawless-app-stories/ios-memory-management-in-under-6-minutes-3be777f69b7e), by [@hassanedesouky](https://twitter.com/hassanedesouky)
+
 
 **Tools/Controls**
 
@@ -33,4 +35,4 @@
 
 **Credits**
 
-* [cagricolak](https://github.com/cagricolak), [dobreandl](https://github.com/chelemen-razvan), [theandreamazz](https://github.com/andreamazz), [mecid](https://github.com/mecid), [ra1028](https://github.com/ra1028), [moelnaggar14](https://github.com/MoElnaggar14), [rbarbosa](https://github.com/rbarbosa)
+* [cagricolak](https://github.com/cagricolak), [dobreandl](https://github.com/chelemen-razvan), [theandreamazz](https://github.com/andreamazz), [mecid](https://github.com/mecid), [ra1028](https://github.com/ra1028), [moelnaggar14](https://github.com/MoElnaggar14), [rbarbosa](https://github.com/rbarbosa), [valianka](https://github.com/valianka)
