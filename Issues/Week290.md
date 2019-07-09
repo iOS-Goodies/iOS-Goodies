@@ -5,6 +5,7 @@
 * [Customizing Codable types in Swift](https://www.swiftbysundell.com/posts/customizing-codable-types-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
 * [Combine debugging using operators in Swift](https://www.avanderlee.com/debugging/combine-swift/), by [@twannl](https://www.twitter.com/twannl)
 * [Deep Dive Into Recursion in Swift](https://www.vadimbulavin.com/recursion-in-swift/), by [@V8tr](https://twitter.com/V8tr)
+* [iOS 13 Large Content Viewer 🔎](https://www.fivestars.blog/code/large-content-viewer.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka)
+* [valianka](https://github.com/valianka), [zntfdr](https://github.com/zntfdr)
