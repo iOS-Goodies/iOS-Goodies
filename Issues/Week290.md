@@ -1,5 +1,6 @@
 **Articles**
 
+* [Gestures in SwiftUI](https://mecid.github.io/2019/07/10/gestures-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Beautiful Code Principles](https://medium.com/flawless-app-stories/beautiful-code-principles-39420873eff8), by [@pakisha1989](https://twitter.com/pakisha1989)
 * [Ultimate Catalyst Guide](https://appventure.me/guides/catalyst/intro.html), by [@terhechte](https://twitter.com/terhechte)
 * [Customizing Codable types in Swift](https://www.swiftbysundell.com/posts/customizing-codable-types-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [zntfdr](https://github.com/zntfdr)
+* [valianka](https://github.com/valianka), [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
