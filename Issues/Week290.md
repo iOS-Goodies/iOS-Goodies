@@ -13,10 +13,6 @@
 
 * [GridStack - A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack), by [@pietropizzi](https://twitter.com/pietropizzi)
 
-* [swift-apis](https://github.com/tensorflow/swift-apis) - Swift for TensorFlow Deep Learning Library , by [@TensorFlow](https://twitter.com/TensorFlow)
-
-* [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system, by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
-
 **Business/Career**
 
 * [How To Stay Sane As A Remote Developer](https://medium.com/swlh/how-to-stay-sane-as-a-remote-developer-48377bae99d3), by [@JimmyMAndersson](https://twitter.com/JimmyMAndersson)
