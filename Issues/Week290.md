@@ -1,5 +1,4 @@
-[NSHIpster](https://nshipster.com/) celebrates 7 years this week! Congrats!
-
+Happy Thursday! This week marks the 7 year anniversary [NSHipster](https://nshipster.com/), one of the best iOS development blogs out there. Congrats! And what a perfect way to celebrate it, by [creating a confetti view using CAEmmitterLayer](https://nshipster.com/caemitterlayer/), a rather unknown class. And as if that wasn't enough, [Mattt](https://twitter.com/mattt) also proposes seven other ways of doing it. 
 
 **Articles**
 
@@ -24,11 +23,11 @@
 
 **UI/UX**
 
-* 
+* [10-minute tips to make your iOS app more interactive](https://infinum.co/the-capsized-eight/10-minute-tips-to-make-your-iOS-app-more-interactive), by Goran Brlas
 
 **Videos**
 
-* 
+* [Privacy Aware Logging with Swift](https://www.youtube.com/watch?v=nIGlxcUES_Q), by [@olegdreyman](https://twitter.com/olegdreyman)
 
 **Credits**
 
