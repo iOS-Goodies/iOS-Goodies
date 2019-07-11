@@ -11,7 +11,11 @@
 
 **Tools/Controls**
 
-* 
+* [GridStack - A flexible grid layout view for SwiftUI](https://github.com/pietropizzi/GridStack), by [@pietropizzi](https://twitter.com/pietropizzi)
+
+* [swift-apis](https://github.com/tensorflow/swift-apis) - Swift for TensorFlow Deep Learning Library , by [@TensorFlow](https://twitter.com/TensorFlow)
+
+* [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system, by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 
 **Business/Career**
 
@@ -27,4 +31,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
+* [valianka](https://github.com/valianka), [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [moelnaggar14](https://github.com/MoElnaggar14)
