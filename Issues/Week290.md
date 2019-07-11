@@ -1,3 +1,6 @@
+[NSHIpster](https://nshipster.com/) celebrates 7 years this week! Congrats!
+
+
 **Articles**
 
 * [Gestures in SwiftUI](https://mecid.github.io/2019/07/10/gestures-in-swiftui/), by [@mecid](https://twitter.com/mecid)
@@ -8,6 +11,8 @@
 * [Deep Dive Into Recursion in Swift](https://www.vadimbulavin.com/recursion-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [iOS 13 Large Content Viewer 🔎](https://www.fivestars.blog/code/large-content-viewer.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Problem Solving with Combine Swift](https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77), by [@AliuArlind](https://twitter.com/AliuArlind)
+* [What’s New in Natural Language APIs in iOS 13](https://www.appcoda.com/natural-language-apis-ios-13/), by [sai_k1065](https://twitter.com/sai_k1065)
+* [A Brief Tour of Swift UI](https://www.bignerdranch.com/blog/a-brief-tour-of-swift-ui/), by [@paradoxed](https://twitter.com/paradoxed)
 
 **Tools/Controls**
 
