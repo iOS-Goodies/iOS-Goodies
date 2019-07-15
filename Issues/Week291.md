@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Reducing Memory Footprint and OOM Terminations in iOS](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217), by [@bataleandro](https://twitter.com/bataleandro)
 
 **Tools/Controls**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [moelnaggar14](https://github.com/MoElnaggar14), [pmusolino](https://github.com/pmusolino)
+* [moelnaggar14](https://github.com/MoElnaggar14), [pmusolino](https://github.com/pmusolino), [valianka](https://github.com/valianka)
