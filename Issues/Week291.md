@@ -7,6 +7,7 @@
 
 * [NSAttributedStringBuilder - Composing NSAttributedString with SwiftUI-style syntax](https://github.com/ethanhuang13/NSAttributedStringBuilder), by [@ethanhuang13](https://twitter.com/ethanhuang13)
 * [Customerly Live Chat 3.0 - In app support with Live Chat](https://github.com/customerly/Customerly-iOS-SDK), by [@customerlyio](https://twitter.com/customerlyio)
+* [XCAssetsKit - .xcassets parser written in Swift](https://github.com/natmark/XCAssetsKit), by [@n_atmark](https://twitter.com/n_atmark)
 
 **Business/Career**
 
