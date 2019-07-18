@@ -1,3 +1,5 @@
+Happy Thursday! Let's go straight to the links this week! 😁
+
 **Articles**
 
 * [Navigation in SwiftUI](https://mecid.github.io/2019/07/17/navigation-in-swiftui/), by [@mecid](https://twitter.com/mecid)
