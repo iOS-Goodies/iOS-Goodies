@@ -1,6 +1,7 @@
 
 **Articles**
 
+* [Navigation in SwiftUI](https://mecid.github.io/2019/07/17/navigation-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Reducing Memory Footprint and OOM Terminations in iOS](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217), by [@bataleandro](https://twitter.com/bataleandro)
 * [Using UIViewRepresentable to wrap UIKit controls](https://www.appsdissected.com/missing-features-swiftui-uiviewrepresentable-wrap-uikit-controls/), by [@AppsDissected](https://twitter.com/AppsDissected)
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [moelnaggar14](https://github.com/MoElnaggar14), [pmusolino](https://github.com/pmusolino), [valianka](https://github.com/valianka), [AppsDissected](https://github.com/AppsDissected)
+* [moelnaggar14](https://github.com/MoElnaggar14), [pmusolino](https://github.com/pmusolino), [valianka](https://github.com/valianka), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid)
