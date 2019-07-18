@@ -3,7 +3,6 @@
 * [Navigation in SwiftUI](https://mecid.github.io/2019/07/17/navigation-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Reducing Memory Footprint and OOM Terminations in iOS](https://medium.com/flawless-app-stories/techniques-to-reduce-memory-footprint-and-oom-terminations-in-ios-a0f6bef38217), by [@bataleandro](https://twitter.com/bataleandro)
 * [Using UIViewRepresentable to wrap UIKit controls](https://www.appsdissected.com/missing-features-swiftui-uiviewrepresentable-wrap-uikit-controls/), by [@AppsDissected](https://twitter.com/AppsDissected)
-* [Distributing Custom B2B iOS Apps privately](https://coletiv.com/blog/distribute-custom-b2b-ios-app/), by [@coletivstudio](https://twitter.com/coletivstudio)
 * [Straighforward Data Snapshots](http://merowing.info/2019/07/straighforward-data-snapshots/), by [@merowing_](https://twitter.com/merowing_)
 * [Dependency Injection in Practice](https://www.racecondition.software/blog/dependency-injection/), by [@vermont42](https://twitter.com/vermont42)
 * [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/), by [@mitrevski](https://twitter.com/mitrevski)
@@ -20,7 +19,7 @@
 
 **Business/Career**
 
-*
+* [Distributing Custom B2B iOS Apps privately](https://coletiv.com/blog/distribute-custom-b2b-ios-app/), by [@coletivstudio](https://twitter.com/coletivstudio)
 
 **UI/UX**
 
