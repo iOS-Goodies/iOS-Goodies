@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [QGrid - The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid), * [@moelnaggar14](https://github.com/MoElnaggar14)
