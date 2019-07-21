@@ -5,11 +5,11 @@
 
 **Tools/Controls**
 
-* 
+* [Morphi - Shapes for SwiftUI ♡☾](https://github.com/phimage/morphi), by [@Phimageio](https://twitter.com/Phimageio)
 
 **Business/Career**
 
-*
+* [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud)
 
 **UI/UX**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid), [moelnaggar14](https://github.com/MoElnaggar14)
