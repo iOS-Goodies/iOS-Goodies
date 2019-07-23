@@ -5,11 +5,12 @@
 
 **Tools/Controls**
 
+* [Morphi - Shapes for SwiftUI ♡☾](https://github.com/phimage/morphi), by [@Phimageio](https://twitter.com/Phimageio)
 * [QGrid - The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid)
 
 **Business/Career**
 
-*
+* [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud), by [@behind_thecode](https://twitter.com/behind_thecode)
 
 **UI/UX**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid), * [@moelnaggar14](https://github.com/MoElnaggar14)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid), [moelnaggar14](https://github.com/MoElnaggar14)
