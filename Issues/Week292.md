@@ -10,6 +10,7 @@
 
 * [Morphi - Shapes for SwiftUI ♡☾](https://github.com/phimage/morphi), by [@Phimageio](https://twitter.com/Phimageio)
 * [QGrid - The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid)
+* [Proxy - Swift package that implements mutable and immutable proxy objects through @dynamicMemberLookup, and lazy proxy-based object builders](https://github.com/alexdrone/Proxy), by [@alexdrone](https://twitter.com/alexdrone)
 
 **Business/Career**
 
@@ -17,7 +18,7 @@
 
 **UI/UX**
 
-* 
+* [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
 
 **Videos**
 
