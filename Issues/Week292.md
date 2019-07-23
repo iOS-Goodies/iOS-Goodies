@@ -6,6 +6,7 @@
 **Tools/Controls**
 
 * [Morphi - Shapes for SwiftUI ♡☾](https://github.com/phimage/morphi), by [@Phimageio](https://twitter.com/Phimageio)
+* [QGrid - The missing SwiftUI collection view](https://github.com/Q-Mobile/QGrid)
 
 **Business/Career**
 
