@@ -17,7 +17,7 @@
 
 **UI/UX**
 
-* 
+* [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
 
 **Videos**
 
