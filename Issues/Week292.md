@@ -5,6 +5,7 @@
 * [Save UIColor with UserDefaults in Swift 5](https://medium.com/@hassaneldesouky/save-uicolor-with-userdefaults-in-swift-5-951ef1aa88e8), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 * [Order your Core Data entities the right way for maximum speed](https://www.appsdissected.com/order-core-data-entities-maximum-speed/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [Swift 5.1 Collection Diffing](https://www.fivestars.blog/code/swift-5-1-collection-diffing.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Alerts, ActionSheets, Modals and Popovers in SwiftUI](https://mecid.github.io/2019/07/24/alerts-actionsheets-modals-and-popovers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
