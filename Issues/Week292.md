@@ -6,6 +6,8 @@
 * [Order your Core Data entities the right way for maximum speed](https://www.appsdissected.com/order-core-data-entities-maximum-speed/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [Swift 5.1 Collection Diffing](https://www.fivestars.blog/code/swift-5-1-collection-diffing.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Alerts, ActionSheets, Modals and Popovers in SwiftUI](https://mecid.github.io/2019/07/24/alerts-actionsheets-modals-and-popovers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Advanced testing using `Behavior` in Quick](https://vojtastavik.com/2019/07/22/advanced-testing-using-behavior-in-quick/), by [@VojtaStavik](https://twitter.com/VojtaStavik)
+* [Increase Your iOS App Ratings with the askForReview Function](https://spin.atomicobject.com/2019/07/22/ios-review-prompt-customize/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
 
 **Tools/Controls**
 
@@ -28,4 +30,4 @@
 
 **Credits**
 
-* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid), [hassaneldesouky](https://github.com/HassanElDesouky), [moelnaggar14](https://github.com/MoElnaggar14), [AppsDissected](https://github.com/AppsDissected), [zntfdr](https://github.com/zntfdr)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [mecid](https://github.com/mecid), [hassaneldesouky](https://github.com/HassanElDesouky), [moelnaggar14](https://github.com/MoElnaggar14), [AppsDissected](https://github.com/AppsDissected), [zntfdr](https://github.com/zntfdr), [rbarbosa](https://github.com/rbarbosa)
