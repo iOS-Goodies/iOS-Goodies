@@ -7,7 +7,9 @@
 * [Swift 5.1 Collection Diffing](https://www.fivestars.blog/code/swift-5-1-collection-diffing.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Alerts, ActionSheets, Modals and Popovers in SwiftUI](https://mecid.github.io/2019/07/24/alerts-actionsheets-modals-and-popovers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Advanced testing using `Behavior` in Quick](https://vojtastavik.com/2019/07/22/advanced-testing-using-behavior-in-quick/), by [@VojtaStavik](https://twitter.com/VojtaStavik)
-* [Increase Your iOS App Ratings with the askForReview Function](https://spin.atomicobject.com/2019/07/22/ios-review-prompt-customize/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
+* [Utilizing value semantics in Swift](https://www.swiftbysundell.com/posts/utilizing-value-semantics-in-swift), by [@johnsundell](https://twitter.com/johnsundell)
+* [Alpha Compositing](https://ciechanow.ski/alpha-compositing/), by [@bciechanowski](https://twitter.com/bciechanowski)
+* [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -19,10 +21,13 @@
 **Business/Career**
 
 * [3 Reasons Why You Should Work Directly in the Cloud](https://www.welcometothejungle.co/en/articles/reasons-work-cloud), by [@behind_thecode](https://twitter.com/behind_thecode)
+* [This is What Going Viral Looks Like – The Numbers Behind FaceApp](https://blog.appfigures.com/faceapp-goes-viral-numbers/), by [@arielmichaeli](https://twitter.com/arielmichaeli)
+* [Increase Your iOS App Ratings with the askForReview Function](https://spin.atomicobject.com/2019/07/22/ios-review-prompt-customize/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
 
 **UI/UX**
 
-* [Unused images and resources clean up in Xcode](https://www.avanderlee.com/optimization/unused-images-clean-up), by [@twannl](https://twitter.com/twannl)
+* [iOS 13 Contextual Menus](https://lmjabreu.com/post/ios13contextualmenus/), by [@lmjabreu](https://twitter.com/lmjabreu)
+* [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce), by [@thedsgnr](https://twitter.com/thedsgnr)
 
 **Videos**
 
