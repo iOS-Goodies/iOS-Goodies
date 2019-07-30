@@ -8,7 +8,7 @@
 
 **Business/Career**
 
-*
+* [Planning to Start, Planning to Finish](https://breakingsmart.substack.com/p/planning-to-start-planning-to-finish), by [@breaking_smart](https://twitter.com/breaking_smart)
 
 **UI/UX**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14)
