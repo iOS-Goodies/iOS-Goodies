@@ -1,6 +1,6 @@
 **Articles**
 
-*
+* [Making the most of Bitrise CI for iOS](https://medium.com/@Dschee/making-the-most-of-bitrise-ci-for-ios-ff039c4214b1), by [@Dschee](https://twitter.com/Dschee)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee)
