@@ -4,6 +4,8 @@
 
 * [Xcode refactoring options explained with examples](https://www.avanderlee.com/swift/xcode-refactoring), by [@twannl](https://twitter.com/twannl)
 
+* [Building a MapView App with SwiftUI](https://www.morningswiftui.com/blog/build-mapview-app-with-swiftui), by [@thomassivilay](https://twitter.com/thomassivilay)
+
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
@@ -22,4 +24,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [thomas-sivilay](https://github.com/thomas-sivilay)
