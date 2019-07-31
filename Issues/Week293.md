@@ -4,6 +4,8 @@
 
 * [Xcode refactoring options explained with examples](https://www.avanderlee.com/swift/xcode-refactoring), by [@twannl](https://twitter.com/twannl)
 
+* [Websockets in iOS 13 using Swift and Xcode 11](https://kristaps.me/websockets-ios-13-swift/), by [@fassko](https://twitter.com/fassko)
+
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
@@ -22,4 +24,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [fassko](https://github.com/fassko)
