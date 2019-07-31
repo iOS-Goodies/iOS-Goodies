@@ -4,6 +4,8 @@
 
 * [Xcode refactoring options explained with examples](https://www.avanderlee.com/swift/xcode-refactoring), by [@twannl](https://twitter.com/twannl)
 
+* [Generic image loading in SwiftUI](https://osinski.dev/posts/swiftui-image-loading), by [@seb_osinski](https://twitter.com/seb_osinski)
+
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
@@ -22,4 +24,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [@seb_osinski](https://twitter.com/seb_osinski)
