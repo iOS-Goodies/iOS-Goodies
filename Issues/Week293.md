@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [@seb_osinski](https://twitter.com/seb_osinski)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [@SebastianOsinski](https://github.com/SebastianOsinski)
