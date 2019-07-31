@@ -4,6 +4,8 @@
 
 * [Xcode refactoring options explained with examples](https://www.avanderlee.com/swift/xcode-refactoring), by [@twannl](https://twitter.com/twannl)
 
+* [Introducing Container views in SwiftUI](https://mecid.github.io/2019/07/31/introducing-container-views-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
@@ -22,4 +24,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [mecid](https://github.com/mecid)
