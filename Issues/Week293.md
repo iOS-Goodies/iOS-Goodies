@@ -15,10 +15,11 @@
 **Business/Career**
 
 * [Planning to Start, Planning to Finish](https://breakingsmart.substack.com/p/planning-to-start-planning-to-finish), by [@breaking_smart](https://twitter.com/breaking_smart)
+* [What Happened When Our Team Switched to Only Asynchronous Meetings](https://open.buffer.com/asynchronous-meetings/), by [@TTGonda](https://twitter.com/TTGonda)
 
 **UI/UX**
 
-*
+* [8 Tips for Dark Theme Design](https://uxplanet.org/8-tips-for-dark-theme-design-8dfc2f8f7ab6), by [@101babich](https://twitter.com/101babich)
 
 **Videos**
 
