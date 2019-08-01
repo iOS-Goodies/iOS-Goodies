@@ -6,6 +6,7 @@
 * [Building a MapView App with SwiftUI](https://www.morningswiftui.com/blog/build-mapview-app-with-swiftui), by [@thomassivilay](https://twitter.com/thomassivilay)
 * [Introducing Container views in SwiftUI](https://mecid.github.io/2019/07/31/introducing-container-views-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Catch SwiftUI model updates from bad threads before they crash your app](https://www.appsdissected.com/swiftui-updates-main-thread-debug-crash/), by [@AppsDissected](https://twitter.com/AppsDissected)
+* [Generic image loading in SwiftUI](https://osinski.dev/posts/swiftui-image-loading), by [@seb_osinski](https://twitter.com/seb_osinski)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [fassko](https://github.com/fassko), [thomas-sivilay](https://github.com/thomas-sivilay), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected)
+* [coletiv](https://github.com/coletiv), [moelnaggar14](https://github.com/MoElnaggar14), [Dschee](https://github.com/Dschee), [fassko](https://github.com/fassko), [thomas-sivilay](https://github.com/thomas-sivilay), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [@SebastianOsinski](https://github.com/SebastianOsinski)
