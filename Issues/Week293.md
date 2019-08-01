@@ -9,10 +9,12 @@
 * [Generic image loading in SwiftUI](https://osinski.dev/posts/swiftui-image-loading), by [@seb_osinski](https://twitter.com/seb_osinski)
 * [Managing White Label Solutions](https://medium.com/flawless-app-stories/managing-white-label-solutions-8ed8ce9d7fa8), by [@nQaze](https://twitter.com/nQaze)
 * [Exploring Different Behaviours in Swift Enums](https://daringsnowball.net/different-swift-enum-behaviours/), by [@mkflint](https://twitter.com/mkflint)
+* [Deriving Reactive from Imperative: An Introduction to Duals](https://jasdev.me/duals), by [@jasdev](https://twitter.com/jasdev)
 
 **Tools/Controls**
 
 * [iOS Automated Testing with Fastlane 🚀](https://coletiv.com/blog/ios-automated-testing-fastlane/), by [@coletivstudio](https://twitter.com/coletivstudio)
+* [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices) - A repository that contains information related to Lickability's best practices, by [@lickability](https://twitter.com/lickability)
 
 **Business/Career**
 
