@@ -7,6 +7,8 @@
 * [Introducing Container views in SwiftUI](https://mecid.github.io/2019/07/31/introducing-container-views-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Catch SwiftUI model updates from bad threads before they crash your app](https://www.appsdissected.com/swiftui-updates-main-thread-debug-crash/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [Generic image loading in SwiftUI](https://osinski.dev/posts/swiftui-image-loading), by [@seb_osinski](https://twitter.com/seb_osinski)
+* [Managing White Label Solutions](https://medium.com/flawless-app-stories/managing-white-label-solutions-8ed8ce9d7fa8), by [@nQaze](https://twitter.com/nQaze)
+* [Exploring Different Behaviours in Swift Enums](https://daringsnowball.net/different-swift-enum-behaviours/), by [@mkflint](https://twitter.com/mkflint)
 
 **Tools/Controls**
 
@@ -16,6 +18,8 @@
 
 * [Planning to Start, Planning to Finish](https://breakingsmart.substack.com/p/planning-to-start-planning-to-finish), by [@breaking_smart](https://twitter.com/breaking_smart)
 * [What Happened When Our Team Switched to Only Asynchronous Meetings](https://open.buffer.com/asynchronous-meetings/), by [@TTGonda](https://twitter.com/TTGonda)
+* [On Launching Your Indie App](https://www.swiftjectivec.com/on-launching-your-indie-app/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+* [Being More than Nice](https://allenpike.com/2019/nice-vs-kind), by [@apike](http://www.twitter.com/apike/)
 
 **UI/UX**
 
