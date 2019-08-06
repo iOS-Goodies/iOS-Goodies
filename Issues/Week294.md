@@ -1,6 +1,7 @@
 **Articles**
 
 * [What’s New in Swift 5.1?](https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1), by  [@KaramazovShogun](https://twitter.com/KaramazovShogun)
+* [How to integrate Sign In with Apple in your iOS app](https://benoitpasquier.com/how-to-integrate-sign-in-with-apple-ios/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 
 **Tools/Controls**
 
@@ -9,7 +10,7 @@
 
 **Business/Career**
 
-* 
+* [How to avoid common mistakes for your first iOS talk](https://benoitpasquier.com/how-to-avoid-mistakes-first-ios-talk/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 
 **UI/UX**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [moelnaggar14](https://github.com/MoElnaggar14), [KaramazovShogun](https://github.com/KaramazovShogun)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [moelnaggar14](https://github.com/MoElnaggar14), [popei69](https://github.com/popei69)
