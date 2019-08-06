@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [What’s New in Swift 5.1?](https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1), by  [@KaramazovShogun](https://twitter.com/KaramazovShogun)
 
 **Tools/Controls**
 
@@ -19,4 +19,4 @@
 
 **Credits**
 
-* 
+* [KaramazovShogun](https://github.com/KaramazovShogun)
