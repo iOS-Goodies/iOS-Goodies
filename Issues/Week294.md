@@ -10,6 +10,8 @@
 * [Unit Testing Asynchronous Code in Swift](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Key-value observing without NSObject and dynamic modifier in Swift](https://augmentedcode.io/2019/08/05/key-value-observing-without-nsobject-and-dynamic-in-swift/), by [@toomasvahter](https://twitter.com/toomasvahter)
 * [Property Wrappers](https://dmtopolog.com/property-wrappers/), by [@dmtopolog](https://twitter.com/dmtopolog)
+* [Combine Latest Collection](https://danieltull.co.uk/blog/2019/08/04/combine-latest-collection/), by [@danielctull](https://twitter.com/danielctull)
+* [Combine vs. RxSwift: Should you switch to Combine?](https://quickbirdstudios.com/blog/combine-vs-rxswift/), by [@kofse](https://twitter.com/kofse)
 
 **Tools/Controls**
 
@@ -24,7 +26,7 @@
 
 **UI/UX**
 
-* 
+* [How Object-Oriented Design Principles Relate to Mobile App Design](https://blog.proto.io/how-object-oriented-design-principles-relate-to-mobile-app-design/), by [@AngelicaSaidSo](https://twitter.com/AngelicaSaidSo)
 
 **Videos**
 
