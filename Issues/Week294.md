@@ -5,6 +5,7 @@
 * [How to maintain the focus as a software developer?](https://medium.com/flawless-app-stories/how-to-maintain-the-focus-as-a-software-developer-d43aeb25693c), by [@pakisha1989](https://twitter.com/pakisha1989)
 * [SwiftUI, Combine, and Beyond](https://basememara.com/swiftui-combine-and-beyond/), by [@BasemEmara](https://twitter.com/basememara)
 * [4 things you can do right now to be ready for SwiftUI and Combine](https://www.appsdissected.com/getting-ready-swiftui-combine/), by [@AppsDissected](https://twitter.com/AppsDissected)
+* [ViewModifiers in SwiftUI](https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [KaramazovShogun](https://github.com/KaramazovShogun), [moelnaggar14](https://github.com/MoElnaggar14), [popei69](https://github.com/popei69), [valianka](https://github.com/valianka), [@BasemEmara](https://github.com/basememara), [AppsDissected](https://github.com/AppsDissected)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [moelnaggar14](https://github.com/MoElnaggar14), [popei69](https://github.com/popei69), [valianka](https://github.com/valianka), [@BasemEmara](https://github.com/basememara), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid)
