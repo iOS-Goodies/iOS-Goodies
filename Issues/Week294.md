@@ -6,6 +6,10 @@
 * [SwiftUI, Combine, and Beyond](https://basememara.com/swiftui-combine-and-beyond/), by [@BasemEmara](https://twitter.com/basememara)
 * [4 things you can do right now to be ready for SwiftUI and Combine](https://www.appsdissected.com/getting-ready-swiftui-combine/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [ViewModifiers in SwiftUI](https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Custom Publishers - Part 1](https://ruiper.es/2019/08/05/custom-publishers-part1/), by [@peres](https://twitter.com/peres)
+* [Unit Testing Asynchronous Code in Swift](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/), by [@V8tr](https://twitter.com/V8tr)
+* [Key-value observing without NSObject and dynamic modifier in Swift](https://augmentedcode.io/2019/08/05/key-value-observing-without-nsobject-and-dynamic-in-swift/), by [@toomasvahter](https://twitter.com/toomasvahter)
+* [Property Wrappers](https://dmtopolog.com/property-wrappers/), by [@dmtopolog](https://twitter.com/dmtopolog)
 
 **Tools/Controls**
 
@@ -28,4 +32,4 @@
 
 **Credits**
 
-* [KaramazovShogun](https://github.com/KaramazovShogun), [moelnaggar14](https://github.com/MoElnaggar14), [popei69](https://github.com/popei69), [valianka](https://github.com/valianka), [@BasemEmara](https://github.com/basememara), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid)
+* [KaramazovShogun](https://github.com/KaramazovShogun), [moelnaggar14](https://github.com/MoElnaggar14), [popei69](https://github.com/popei69), [valianka](https://github.com/valianka), [BasemEmara](https://github.com/basememara), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa)
