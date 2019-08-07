@@ -11,6 +11,8 @@
 
 * [SwiftUIX - An extension to the standard SwiftUI library](https://github.com/SwiftUIX/SwiftUIX)
 * [CombineCocoa - Combine publisher bridges for Cocoa Controls (UIControl) in UIKit](https://github.com/freak4pc/CombineCocoa), by [@‪freak4pc‬](https://twitter.com/freak4pc)
+* [SDWebImageSwiftUI - Integration of SDWebImage Asynchronous image loading and SwiftUI framework](https://github.com/dreampiggy/SDWebImageSwiftUI), by dreampiggy
+* [IBPCollectionViewCompositionalLayout - Backport of UICollectionViewCompositionalLayout to earlier iOS 12.](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout), by [@k_katsumi](https://twitter.com/k_katsumi)
 
 **Business/Career**
 
