@@ -12,8 +12,7 @@
 * [Property Wrappers](https://dmtopolog.com/property-wrappers/), by [@dmtopolog](https://twitter.com/dmtopolog)
 * [Combine Latest Collection](https://danieltull.co.uk/blog/2019/08/04/combine-latest-collection/), by [@danielctull](https://twitter.com/danielctull)
 * [Combine vs. RxSwift: Should you switch to Combine?](https://quickbirdstudios.com/blog/combine-vs-rxswift/), by [@kofse](https://twitter.com/kofse)
-* [Kubernetes Tutorial for Swift on the Server](https://www.raywenderlich.com/4304682-kubernetes-tutorial-for-swift-on-the-server?utm_campaign=rw-weekly-issue-229&utm_medium=email&utm_source=rw-weekly), by [@dokun24](https://twitter.com/dokun24)
-* [Local API Call Tutorial with WireMock and UI Tests in Xcode](https://www.raywenderlich.com/3462646-local-api-call-tutorial-with-wiremock-and-ui-tests-in-xcode?utm_campaign=rw-weekly-issue-229&utm_medium=email&utm_source=rw-weekly), by [@ski081](https://twitter.com/ski081)
+* [Local API Call Tutorial with WireMock and UI Tests in Xcode](https://www.raywenderlich.com/3462646-local-api-call-tutorial-with-wiremock-and-ui-tests-in-xcode?utm_campaign=rw-weekly-issue-229), by [@ski081](https://twitter.com/ski081)
 
 **Tools/Controls**
 
