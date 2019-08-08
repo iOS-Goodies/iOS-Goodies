@@ -1,3 +1,5 @@
+Happy Thursday! [Dave Verwer](https://twitter.com/daveverwer) launched another great resource for our community this week: [SwiftPM Library](https://swiftpm.co/). Think of it as the search engine of CocoaPods, but for Swift packages. At least until the [GitHub Package Registry](https://github.blog/2019-06-03-github-package-registry-will-support-swift-packages/) will be available for Swift packages (and maybe even after that), this will probably be the go-to resource for finding the libraries you need.
+
 **Articles**
 
 * [What’s New in Swift 5.1?](https://www.raywenderlich.com/4187396-what-s-new-in-swift-5-1), by  [@KaramazovShogun](https://twitter.com/KaramazovShogun)
