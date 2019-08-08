@@ -28,6 +28,7 @@
 **UI/UX**
 
 * [How Object-Oriented Design Principles Relate to Mobile App Design](https://blog.proto.io/how-object-oriented-design-principles-relate-to-mobile-app-design/), by [@AngelicaSaidSo](https://twitter.com/AngelicaSaidSo)
+* [Reduce risk in your product development with Hypothesis-Driven Design](https://medium.com/nodesdigital/reduce-risk-in-your-product-development-with-hypothesis-driven-design-c4300112b88b), by [@chrlomholt](https://twitter.com/chrlomholt)
 
 **Videos**
 
