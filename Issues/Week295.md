@@ -2,6 +2,7 @@
 **Articles**
 
 * [Writing an Elegant and Extensible Network Stack in Swift](https://medium.com/@peterlivesey/writing-an-elegant-and-extensible-network-stack-in-swift-e2f5d9ab3ea9), by  [@plivesey453](https://twitter.com/plivesey453)
+* [Embed Preset / Preload database in app with Realm](https://fluffy.es/preload-database-in-app-using-realm/), by  [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey)
+* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle)
