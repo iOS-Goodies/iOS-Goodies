@@ -8,6 +8,8 @@
 
 * [FlexibleHeader](https://github.com/k-lpmg/FlexibleHeader) - A container view that responds to scrolling of UIScrollView, by [@kanglpmg](https://twitter.com/kanglpmg)
 
+* [Combine101 - A gentle but thorough introduction to Combine.](https://github.com/learncombine/Combine101)
+
 **Business/Career**
 
 * 
@@ -22,4 +24,4 @@
 
 **Credits**
 
-* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle)
+* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle), [moelnaggar14](https://github.com/MoElnaggar14)
