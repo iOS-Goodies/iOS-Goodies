@@ -12,7 +12,7 @@
 
 **Business/Career**
 
-* 
+* [Selling a watchOS-only App Before watchOS 6 Hits](https://cutecoder.org/business/watch-in-app-purchase/) - by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
 **UI/UX**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle), [moelnaggar14](https://github.com/MoElnaggar14)
+* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle), [adib](https://github.com/adib), [moelnaggar14](https://github.com/MoElnaggar14)
