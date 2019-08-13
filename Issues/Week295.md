@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle)
+* [k-lpmg](https://github.com/k-lpmg), [plivesey](https://github.com/plivesey), [cupnoodle](https://github.com/cupnoodle), [adib](https://github.com/adib)
