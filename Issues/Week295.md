@@ -1,3 +1,4 @@
+Happy Thursday! Let's keep it short this week and go straight to the links!
 
 **Articles**
 
