@@ -2,6 +2,7 @@
 **Articles**
 
 * [Adding Advanced Features to your Network Stack in Swift](https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3), by [@plivesey453](https://twitter.com/plivesey453)
+* [Understanding Reference and Value type](https://fluffy.es/reference-vs-value-type/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * 
 
 **Tools/Controls**
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [plivesey](https://github.com/plivesey), [moelnaggar14](https://github.com/MoElnaggar14)
+* [plivesey](https://github.com/plivesey), [moelnaggar14](https://github.com/MoElnaggar14), [cupnoodle](https://github.com/cupnoodle)
