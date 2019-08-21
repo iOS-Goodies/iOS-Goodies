@@ -8,6 +8,7 @@
 
 * [ChartView - displaying charts effortlessly](https://github.com/AppPear/ChartView) , by AppPear
 * [Tangerine - Swift µframework for fetching images 🍊](https://github.com/RuiAAPeres/Tangerine), by [@peres](https://twitter.com/peres)
+* [HackMan - a simple tool for generating boilerplate code directly via the command line](https://github.com/Cosmo/HackMan), by [@maccosmo](https://twitter.com/maccosmo)
 
 **Business/Career**
 
