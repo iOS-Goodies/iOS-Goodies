@@ -2,7 +2,7 @@
 **Articles**
 
 * [Adding Advanced Features to your Network Stack in Swift](https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3), by [@plivesey453](https://twitter.com/plivesey453)
-* 
+* [Xcode Instruments usage to improve app performance](https://www.avanderlee.com/debugging/xcode-instruments-time-profiler), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
