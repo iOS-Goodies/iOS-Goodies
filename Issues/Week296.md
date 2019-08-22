@@ -14,6 +14,7 @@
 * [Tangerine - Swift µframework for fetching images 🍊](https://github.com/RuiAAPeres/Tangerine), by [@peres](https://twitter.com/peres)
 * [HackMan - a simple tool for generating boilerplate code directly via the command line](https://github.com/Cosmo/HackMan), by [@maccosmo](https://twitter.com/maccosmo)
 * [ZippyJSON - A much faster version of JSONDecoder](https://github.com/michaeleisel/ZippyJSON), by [@michaeleisel](https://twitter.com/michaeleisel)
+* [AutomationTools - iOS UI testing framework and guidelines](https://github.com/justeat/AutomationTools), by [@justeat_tech](https://twitter.com/justeat_tech)
 
 **Business/Career**
 
@@ -25,7 +26,7 @@
 
 **Videos**
 
-*
+* [Swift TO videos](https://vimeo.com/showcase/swiftto-conf-2019), by [@SwiftConfTO](https://twitter.com/SwiftConfTO)
 
 **Credits**
 
