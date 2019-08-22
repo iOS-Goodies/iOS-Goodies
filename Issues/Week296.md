@@ -2,6 +2,7 @@
 **Articles**
 
 * [Adding Advanced Features to your Network Stack in Swift](https://medium.com/device-blogs/adding-advanced-features-to-your-network-stack-in-swift-941ecfff8dc3), by [@plivesey453](https://twitter.com/plivesey453)
+* [Implementing the Data Access Object (DAO) Pattern on an iOS App](https://cutecoder.org/programming/future-proof-data-persistence/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 * [Modular Architecture in Swift](https://medium.com/flawless-app-stories/a-modular-architecture-in-swift-aafd9026aa99), by [@bataleandro](https://twitter.com/bataleandro)
 * [Understanding Reference and Value type](https://fluffy.es/reference-vs-value-type/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Xcode Instruments usage to improve app performance](https://www.avanderlee.com/debugging/xcode-instruments-time-profiler), by [@twannl](https://twitter.com/twannl)
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [plivesey](https://github.com/plivesey), [moelnaggar14](https://github.com/MoElnaggar14), [michaeleisel](https://github.com/michaeleisel), [mecid](https://github.com/mecid), [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba)
+* [plivesey](https://github.com/plivesey), [moelnaggar14](https://github.com/MoElnaggar14), [michaeleisel](https://github.com/michaeleisel), [mecid](https://github.com/mecid), [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [adib](https://github.com/adib)
