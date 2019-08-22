@@ -18,7 +18,7 @@
 
 **Business/Career**
 
-* 
+* [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/), by [@GergelyOrosz](http://twitter.com/GergelyOrosz)
 
 **UI/UX**
 
