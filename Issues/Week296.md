@@ -8,6 +8,7 @@
 
 * [ChartView - displaying charts effortlessly](https://github.com/AppPear/ChartView) , by AppPear
 * [Tangerine - Swift µframework for fetching images 🍊](https://github.com/RuiAAPeres/Tangerine), by [@peres](https://twitter.com/peres)
+* [ZippyJSON - A much faster version of JSONDecoder](https://github.com/michaeleisel/ZippyJSON), by [@michaeleisel](https://twitter.com/michaeleisel)
 
 **Business/Career**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [plivesey](https://github.com/plivesey), [moelnaggar14](https://github.com/MoElnaggar14)
+* [plivesey](https://github.com/plivesey), [moelnaggar14](https://github.com/MoElnaggar14), [michaeleisel](https://github.com/michaeleisel)
