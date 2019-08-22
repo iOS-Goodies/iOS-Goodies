@@ -1,3 +1,4 @@
+Happy Thursday! On Monday Apple released Beta 6 of Xcode 11, and we're getting closer to the traditional Apple September event where they announce the new iPhones. No official news about the date yet, as far as I could see, but the rumours point to September 10th. In the meantime, there's still time to look into that dark mode support 😉.
 
 **Articles**
 
