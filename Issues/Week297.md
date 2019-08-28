@@ -15,7 +15,7 @@
 
 **UI/UX**
 
-*
+* [7 Principal Psychological Phenomena in UX Design](https://blog.prototypr.io/7-principal-psychological-phenomena-in-ux-design-1104e09fc974) by [@karl_iaxd](https://twitter.com/karl_iaxd)
 
 **Videos**
 
