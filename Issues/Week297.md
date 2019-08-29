@@ -7,6 +7,7 @@
 * [Code Coverage in Xcode - How to avoid a vanity metric for your iOS app](https://benoitpasquier.com/code-coverage-xcode-avoid-vanity-metric-ios/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [SwiftUI - The If Statement's Sharp Edges](https://jasonzurita.com/swiftui-if-statement/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
 * [Keep control of your modal presentation in iOS 13](https://www.appsdissected.com/modal-presentation-style-ios-13/), by [@AppsDissected](https://twitter.com/AppsDissected)
+* [Using GraphQL in iOS with Swift](https://kristaps.me/graphql-ios-swift/), by [@fassko](https://twitter.com/fassko)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69), [jasonzurita](https://github.com/jasonzurita), [AppsDissected](https://github.com/AppsDissected)
+* [valianka](https://github.com/valianka), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69), [jasonzurita](https://github.com/jasonzurita), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko)
