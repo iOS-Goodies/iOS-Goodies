@@ -12,6 +12,7 @@ Happy Thursday! Besides the iOS 13 beta 8, we now also have iOS 13.1 beta. It lo
 * [Adopting Voice Control](https://kristina.io/adopting-voice-control/), by [@krstnfx](https://twitter.com/krstnfx)
 * [The Comprehensive Guide to iOS Context Menus](https://kylebashour.com/posts/context-menu-guide), by [@kylebshr](https://twitter.com/kylebshr)
 * [XCFrameworks Internals](https://appspector.com/blog/xcframeworks), by [@appspector](https://twitter.com/appspector)
+* [Caching in Swift](https://www.swiftbysundell.com/posts/caching-in-swift), by [2johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
