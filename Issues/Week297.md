@@ -6,6 +6,7 @@
 * [Composable styling in SwiftUI](https://mecid.github.io/2019/08/28/composable-styling-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Code Coverage in Xcode - How to avoid a vanity metric for your iOS app](https://benoitpasquier.com/code-coverage-xcode-avoid-vanity-metric-ios/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [SwiftUI - The If Statement's Sharp Edges](https://jasonzurita.com/swiftui-if-statement/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
+* [Keep control of your modal presentation in iOS 13](https://www.appsdissected.com/modal-presentation-style-ios-13/), by [@AppsDissected](https://twitter.com/AppsDissected)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69), [jasonzurita](https://github.com/jasonzurita)
+* [valianka](https://github.com/valianka), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69), [jasonzurita](https://github.com/jasonzurita), [AppsDissected](https://github.com/AppsDissected)
