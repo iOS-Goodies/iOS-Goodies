@@ -1,3 +1,4 @@
+Happy Thursday! Besides the iOS 13 beta 8, we now also have iOS 13.1 beta. It looks like not all the features announced at WWDC will make it into the iOS 13.0 release in September, and I genuinely think this is ok. I'd rather have fewer initial features, but stable.
 
 **Articles**
 
