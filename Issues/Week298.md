@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka) 
+* [valianka](https://github.com/valianka), [LisaDziuba](https://github.com/lisadziuba)
