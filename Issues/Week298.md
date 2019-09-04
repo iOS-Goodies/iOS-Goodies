@@ -6,6 +6,7 @@
 * [Modeling app state using Store objects in SwiftUI](https://mecid.github.io/2019/09/04/modeling-app-state-using-store-objects-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Implementing VIPER Architecture Pattern for iOS](https://medium.com/flawless-app-stories/implementing-viper-archticture-pattern-for-ios-d24a6def8ba2), by [@ChtiouiMahdi](https://twitter.com/ChtiouiMahdi)
 * [Dark Mode on i​OS 13](https://nshipster.com/dark-mode/), by [@mattt](https://twitter.com/mattt)
+* [How to Integrate the Dual Camera Video Recording Feature in your iOS App?](https://www.spaceotechnologies.com/integrate-multi-camera-video-recording-ios/), by Hitesh Trivedi
 
 **Tools/Controls**
 
