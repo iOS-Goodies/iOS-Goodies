@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [DWAlertController - A UIAlertController re-implementation with controller containment support](https://github.com/podkovyrin/DWAlertController), by Andrew Podkovyrin
 
 **Business/Career**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [LisaDziuba](https://github.com/lisadziuba)
+* [valianka](https://github.com/valianka), [LisaDziuba](https://github.com/lisadziuba), [podkovyrin](https://github.com/podkovyrin)
