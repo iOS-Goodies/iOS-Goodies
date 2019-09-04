@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-*
+* [I always meet the same issue on Apple Music so I tried to solve it](https://uxplanet.org/i-always-meet-the-same-issue-on-apple-music-so-i-tried-to-solve-it-218aa68e42b2), by [@romainp_design](https://twitter.com/romainp_design)
 
 **Videos**
 
