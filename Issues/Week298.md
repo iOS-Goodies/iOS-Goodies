@@ -19,6 +19,7 @@
 **UI/UX**
 
 * [I always meet the same issue on Apple Music so I tried to solve it](https://uxplanet.org/i-always-meet-the-same-issue-on-apple-music-so-i-tried-to-solve-it-218aa68e42b2), by [@romainp_design](https://twitter.com/romainp_design)
+* [Why is low fidelity wireframe important in product design?](https://uxdesign.cc/why-low-fidelity-wireframe-curious-in-product-design-c7bea87bc23d), by Winnie Nguyen
 
 **Videos**
 
