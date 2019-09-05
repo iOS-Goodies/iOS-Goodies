@@ -1,4 +1,4 @@
-https://www.loopinsight.com/2019/08/29/apple-sends-invite-for-september-10-event/
+Happy Thursday! Last week, a few minutes after we published that week's edition of iOS Goodies, Apple sent out invites to the press for a September 10 event at the Steve Jobs theater. Traditionally, the September event is when Apple announces its new iPhones, and there's no reason to think this year will be different. It remains to see if iOS 13 will also be launched then. In the meantime, Apple also gave developers [a reminder about Dark Mode](https://developer.apple.com/news/?id=0829019a). What surprised me a bit was the last part of the text: "if Dark Mode is not suited for your app, you can learn how to opt out.". I was expecting Apple to push a bit more aggresivley for Dark Mode support, but it looks like they not doing it, at lest for now :). 
 
 **Articles**
 
