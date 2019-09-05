@@ -28,7 +28,7 @@ Happy Thursday! Last week, a few minutes after we published that week's edition 
 
 **Videos**
 
-* 
+* [Swinject to handle dependency injection](https://www.youtube.com/watch?v=8a_oL8-ioqA), by [@dr_nerd](https://twitter.com/dr_nerd)
 
 **Credits**
 
