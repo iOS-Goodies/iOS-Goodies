@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [Replicating Facebook's Draggable Bottom Card using Auto Layout](https://fluffy.es/facebook-draggable-bottom-card-modal-1/) by Axel Kee
 
 **Videos**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [cupnoodle](https://github.com/cupnoodle)
