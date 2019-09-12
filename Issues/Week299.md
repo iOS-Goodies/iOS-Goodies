@@ -22,6 +22,7 @@ Happy Thursday! The Apple event on Tuesday is in the past now, the new phones an
 **Business/Career**
 
 * [Picking your minimum iOS version to support](https://www.avanderlee.com/workflow/minimum-ios-version/), by [@twannl](https://www.twitter.com/twannl)
+* [17 reasons not to be a manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/), by [@mipsytipsy](https://twitter.com/mipsytipsy)
 
 **UI/UX**
 
