@@ -1,3 +1,5 @@
+Happy Thursday! The Apple event on Tuesday is in the past now, the new phones and tablets have been presented, and we can focus on the iOS dev side :). Xcode 11 got its GM seed, the final release candidate, and you can use it to upload your iOS 13 apps to the App Store. Also, starting April 2020, all new apps and app updates will need to be built with the iOS 13 SDK.
+
 **Articles**
 
 * [All you need to know about UICollectionViewCompositionalLayout](https://medium.com/flawless-app-stories/all-what-you-need-to-know-about-uicollectionviewcompositionallayout-f3b2f590bdbe), by Aleksej Gurin
