@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [ConcentricOnboarding - SwiftUI library for a walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding), by [@ExyteHQ](https://twitter.com/exyteHQ)
 
 **Business/Career**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev)
