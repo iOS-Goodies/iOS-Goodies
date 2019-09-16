@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev)
+* [Jimmy Ti](https://github.com/jimmyti), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [valianka](https://github.com/valianka)
