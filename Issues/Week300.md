@@ -7,6 +7,8 @@
 **Tools/Controls**
 
 * [ConcentricOnboarding - SwiftUI library for a walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding), by [@ExyteHQ](https://twitter.com/exyteHQ)
+* [ios-bazel-users - Resources for using Bazel for iOS development](https://github.com/ios-bazel-users/ios-bazel-users), by [@ios-bazel-users](https://github.com/ios-bazel-users)
+* [rules_apple_extras - Extra rules for building Apple platforms libraries with Bazel](https://github.com/thii/rules_apple_extras), by [@thi_dt](https://twitter.com/thi_dt)
 
 **Business/Career**
 
@@ -22,4 +24,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [thii](https://github.com/thii)
