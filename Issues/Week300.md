@@ -15,6 +15,7 @@
 **UI/UX**
 
 * [Replicating the Apple Card Application using SwiftUI](https://medium.com/@exyte/replicating-the-apple-card-application-using-swiftui-f472f3947683), by [@ExyteHQ](https://twitter.com/exyteHQ)
+* [A Warm Welcome for SwiftUI](https://medium.com/atomic-robot/a-warm-welcome-for-swift-ui-862c4cb2daa9), by @nathangross(https://twitter.com/nathangross)
 
 **Videos**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson)
