@@ -5,6 +5,7 @@
 * [iOS 13 UISegmentedControl: 3 important changes](https://medium.com/@rdovhaliuk/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763), by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [How To Prepare Your App For iOS 13](https://medium.com/@AttiaMo/how-to-prepare-your-app-for-ios-13-7ea95c3e5433?sk=06372b2dd6836c867f5976246b452b90), by [@AttiaMo](https://twitter.com/attiamothedev)
 * [All about iOS 12 Autofill Passwords Tool API’s](https://medium.com/flawless-app-stories/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99), by [@aliakhter49](https://twitter.com/aliakhter49)
+* [Redux-like state container in SwiftUI](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid)
