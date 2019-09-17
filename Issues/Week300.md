@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [ConcentricOnboarding - SwiftUI library for a walkthrough or onboarding flow with tap actions](https://github.com/exyte/ConcentricOnboarding), by [@ExyteHQ](https://twitter.com/exyteHQ)
+* [WonderfulTools - macOS screen saver based on the opening animation from Apple Event, September 2019](https://github.com/jimmyti/WonderfulTools), by [@jimmyti](https://twitter.com/jimmyti)
 
 **Business/Career**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti),
