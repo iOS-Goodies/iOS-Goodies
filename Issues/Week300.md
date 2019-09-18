@@ -5,6 +5,15 @@
 * [iOS 13 UISegmentedControl: 3 important changes](https://medium.com/@rdovhaliuk/ios-13-uisegmentedcontrol-3-important-changes-d3a94fdd6763), by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [How To Prepare Your App For iOS 13](https://medium.com/@AttiaMo/how-to-prepare-your-app-for-ios-13-7ea95c3e5433?sk=06372b2dd6836c867f5976246b452b90), by [@AttiaMo](https://twitter.com/attiamothedev)
 * [All about iOS 12 Autofill Passwords Tool API’s](https://medium.com/flawless-app-stories/all-about-ios-12-autofill-passwords-tool-apis-8f095127fd99), by [@aliakhter49](https://twitter.com/aliakhter49)
+* [iOS Universal links and App Referrals using BranchIO Integration](https://medium.com/flawless-app-stories/ios-universal-links-and-app-referrals-using-branchio-integration-31dd474be20), by Sumit Kashid
+* [How to create reusable UIViews in Swift](https://medium.com/flawless-app-stories/reusable-uiviews-in-swift-3f9dca63eaf4), by Pablo Blanco
+* [Squeezing Xcode for hard drive space](https://medium.com/flawless-app-stories/saving-space-as-an-ios-developer-c09f5b6af395), by [@CJMash](https://twitter.com/CJMash)
+* [Design patterns by Tutorials — The power of OOP (part 3)](https://medium.com/flawless-app-stories/adapter-pattern-design-patterns-by-tutorials-the-power-of-oop-part-3-112a956c1101), by [@hitendrahckr](https://twitter.com/hitendrahckr)
+* [Cool Custom ViewController Transitions — Easy](https://medium.com/flawless-app-stories/cool-view-controller-transitions-easy-8390bd8e378), by Fran Obarrio
+* [Cool Custom ViewController Transitions — Advanced](https://medium.com/flawless-app-stories/cool-custom-view-controller-transitions-advanced-df2d0ca08029), by Fran Obarrio
+* [Build fast and better Apps with SwiftUI](https://medium.com/flawless-app-stories/build-fast-and-better-apps-with-swiftui-dd33ca13e9c7), by Jaydeep Vora
+* [Access Control Basics in iOS Swift — Part 1](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-1-7438c0ebe3b0), by Richard Lu
+* [Access Control Basics in iOS Swift — Part 2](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-2-b293bdfd6ac1), by Richard Lu
 * [Redux-like state container in SwiftUI](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
