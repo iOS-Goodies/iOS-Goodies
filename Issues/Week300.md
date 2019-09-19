@@ -15,6 +15,7 @@
 * [Access Control Basics in iOS Swift — Part 1](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-1-7438c0ebe3b0), by Richard Lu
 * [Access Control Basics in iOS Swift — Part 2](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-2-b293bdfd6ac1), by Richard Lu
 * [Redux-like state container in SwiftUI](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [I create a batch of CloudKit records, but when I try to sort them by date, they’re all jumbled?](https://www.appsdissected.com/ckmodifyrecordsoperation-date-sort-out-of-order/), by [@AppsDissected](https://twitter.com/AppsDissected)
 
 **Tools/Controls**
 
@@ -38,4 +39,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected)
