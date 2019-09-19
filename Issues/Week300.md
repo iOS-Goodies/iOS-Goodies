@@ -1,3 +1,5 @@
+Happy iOS 13 day! Are you updating right away, waiting for others to try it first or waiting until iOS 13.1 next week? And more importantly, are your apps ready for iOS 13? 😁
+
 **Articles**
 
 * [The Simple Life(cycle) of a SwiftUI View](https://medium.com/flawless-app-stories/the-simple-life-cycle-of-a-swiftui-view-95e2e14848a2), by [@dbolella](https://twitter.com/dbolella)
@@ -23,6 +25,8 @@
 * [Understanding Schedulers in Swift Combine Framework](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
 * [Adopting iOS Dark Mode](https://sarunw.com/posts/adopting-ios-dark-mode.html), by [@sarunw](https://twitter.com/sarunw)
 * [Mocking Network Calls Using URLProtocol](https://vojtastavik.com/2019/09/12/mocking-network-calls-using-urlprotocol/), by [@VojtaStavik](https://twitter.com/VojtaStavik)
+* [Spend less time maintaining your test suite by using the Builder Pattern](https://www.donnywals.com/spend-less-time-maintaining-your-test-suite-by-using-the-builder-pattern/), by [@donnywals](https://twitter.com/donnywals)
+* [Rich notifications on iOS explained in Swift](https://www.avanderlee.com/swift/rich-notifications/), by [@twannl](https://www.twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -30,6 +34,7 @@
 * [rules_apple_extras - Extra rules for building Apple platforms libraries with Bazel](https://github.com/thii/rules_apple_extras), by [@thi_dt](https://twitter.com/thi_dt)
 * [WonderfulTools - macOS screen saver based on the opening animation from Apple Event, September 2019](https://github.com/jimmyti/WonderfulTools), by [@jimmyti](https://twitter.com/jimmyti)
 * [ios-bazel-users - Resources for using Bazel for iOS development](https://github.com/ios-bazel-users/ios-bazel-users), by ios-bazel-users
+* [TOSegmentedControl - A segmented control in the style of iOS 13 compatible with previous versions of iOS](https://github.com/TimOliver/TOSegmentedControl), by [@TimOliverAU](https://twitter.com/TimOliverAU)
 
 **Business/Career**
 
@@ -38,11 +43,12 @@
 **UI/UX**
 
 * [Replicating the Apple Card Application using SwiftUI](https://medium.com/@exyte/replicating-the-apple-card-application-using-swiftui-f472f3947683), by [@ExyteHQ](https://twitter.com/exyteHQ)
-* [A Warm Welcome for SwiftUI](https://medium.com/atomic-robot/a-warm-welcome-for-swift-ui-862c4cb2daa9), by @nathangross(https://twitter.com/nathangross)
+* [A Warm Welcome for SwiftUI](https://medium.com/atomic-robot/a-warm-welcome-for-swift-ui-862c4cb2daa9), by [@nathangross](https://twitter.com/nathangross)
+* [Designing Plantry for Dark Mode in iOS 13](https://blog.maxrudberg.com/post/187798627463/designing-plantry-for-dark-mode-in-ios-13), by [@maxrudberg](http://twitter.com/maxrudberg)
 
 **Videos**
 
-* 
+* [The Evolution of Swift: Are we there yet?](https://www.youtube.com/watch?v=tF47KiiAU_0), by [@twostraws](https://twitter.com/twostraws)
 
 **Credits**
 
