@@ -27,6 +27,7 @@ Happy iOS 13 day! Are you updating right away, waiting for others to try it firs
 * [Mocking Network Calls Using URLProtocol](https://vojtastavik.com/2019/09/12/mocking-network-calls-using-urlprotocol/), by [@VojtaStavik](https://twitter.com/VojtaStavik)
 * [Spend less time maintaining your test suite by using the Builder Pattern](https://www.donnywals.com/spend-less-time-maintaining-your-test-suite-by-using-the-builder-pattern/), by [@donnywals](https://twitter.com/donnywals)
 * [Rich notifications on iOS explained in Swift](https://www.avanderlee.com/swift/rich-notifications/), by [@twannl](https://www.twitter.com/twannl)
+* [SwiftUI & Combine: Better Together](https://medium.com/flawless-app-stories/swiftui-plus-combine-equals-love-791ad444a082), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Tools/Controls**
 
