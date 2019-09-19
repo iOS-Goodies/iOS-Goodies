@@ -17,6 +17,12 @@
 * [Redux-like state container in SwiftUI](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [I create a batch of CloudKit records, but when I try to sort them by date, they’re all jumbled?](https://www.appsdissected.com/ckmodifyrecordsoperation-date-sort-out-of-order/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [How to Prepare Your App for Dark Mode in iOS 13](https://infinum.co/the-capsized-eight/how-to-prepare-your-app-for-dark-mode-in-iOS-13), by Goran Brlas
+* [Use Container Views and ReSwift (Redux) to Reduce ViewController Complexity](https://spin.atomicobject.com/2019/09/16/container-views-reswift/), by [@mikewoelmer](https://twitter.com/mikewoelmer)
+* [On-device training with Core ML – part 3](https://machinethink.net/blog/coreml-training-part3/), by [@mhollemans](https://twitter.com/mhollemans)
+* [Alignment Guides in SwiftUI](https://swiftui-lab.com/alignment-guides/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
+* [Understanding Schedulers in Swift Combine Framework](https://www.vadimbulavin.com/understanding-schedulers-in-swift-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
+* [Adopting iOS Dark Mode](https://sarunw.com/posts/adopting-ios-dark-mode.html), by [@sarunw](https://twitter.com/sarunw)
+* [Mocking Network Calls Using URLProtocol](https://vojtastavik.com/2019/09/12/mocking-network-calls-using-urlprotocol/), by [@VojtaStavik](https://twitter.com/VojtaStavik)
 
 **Tools/Controls**
 
@@ -40,4 +46,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [goranbrl](https://github.com/goranbrl)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [goranbrl](https://github.com/goranbrl), [rbarbosa](https://github.com/rbarbosa)
