@@ -16,6 +16,7 @@
 * [Access Control Basics in iOS Swift — Part 2](https://medium.com/flawless-app-stories/access-control-basics-in-ios-swift-part-2-b293bdfd6ac1), by Richard Lu
 * [Redux-like state container in SwiftUI](https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [I create a batch of CloudKit records, but when I try to sort them by date, they’re all jumbled?](https://www.appsdissected.com/ckmodifyrecordsoperation-date-sort-out-of-order/), by [@AppsDissected](https://twitter.com/AppsDissected)
+* [How to Prepare Your App for Dark Mode in iOS 13](https://infinum.co/the-capsized-eight/how-to-prepare-your-app-for-dark-mode-in-iOS-13), by Goran Brlas
 
 **Tools/Controls**
 
@@ -39,4 +40,4 @@
 
 **Credits**
 
-* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected)
+* [valianka](https://github.com/valianka), [RenGate](https://github.com/rengate), [shipinev](https://github.com/shipinev), [alexanderjrobinson](https://github.com/alexanderjrobinson), [Jimmy Ti](https://github.com/jimmyti), [thii](https://github.com/thii), [AttiaMo](https://github.com/attiamo), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [goranbrl](https://github.com/goranbrl)
