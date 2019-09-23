@@ -1,6 +1,6 @@
 **Articles**
 
-* 
+* [Flux pattern in Swift](https://swiftandpizza.com/flux-in-swift/) by [Daniele Bogo](https://twitter.com/theillbo)
 
 **Tools/Controls**
 
@@ -20,4 +20,4 @@
 
 **Credits**
 
-* 
+* [Daniele Bogo](https://twitter.com/theillbo)
