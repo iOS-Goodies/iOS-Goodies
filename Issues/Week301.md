@@ -20,4 +20,4 @@
 
 **Credits**
 
-* [Daniele Bogo](https://twitter.com/theillbo)
+* [Daniele Bogo](https://github.com/danielebogo)
