@@ -11,6 +11,8 @@
 * [Supporting Low Data Mode In Your App](https://www.donnywals.com/supporting-low-data-mode-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
 * [Swift 5.1 Property Wrappers](https://medium.com/get-chip/propert-wrappers-in-swift-5-1-14f610530710), by [@adamwaite](https://twitter.com/adamwaite)
 * [Let's Build a Regex Engine](https://kean.github.io/post/lets-build-regex), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [Swift 5.2 Release Process](https://swift.org/blog/5-2-release-process/), by Nicole Jacque
+* [Advanced SwiftUI Transitions](https://swiftui-lab.com/advanced-transitions/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
 
 **Tools/Controls**
 
@@ -19,10 +21,11 @@
 **Business/Career**
 
 * [Dark Side of the App Store](https://kristaps.me/dark-side-appstore/) by [@fassko](https://twitter.com/fassko)
+* [Subscribers Are Your True Fans](https://www.revenuecat.com/2019/09/24/subscribers-are-your-true-fans), by [@drbarnard](https://twitter.com/drbarnard)
 
 **UI/UX**
 
-*
+* [Designing for iOS 13](https://blog.prototypr.io/designing-for-ios-13-a3da4973238d), by Belen Vazquez
 
 **Videos**
 
