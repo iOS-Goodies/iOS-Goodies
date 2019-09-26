@@ -13,6 +13,8 @@ Happy Thursday! [Swift 5.1 is officially released](https://swift.org/blog/swift-
 * [Swift 5.1 Property Wrappers](https://medium.com/get-chip/propert-wrappers-in-swift-5-1-14f610530710), by [@adamwaite](https://twitter.com/adamwaite)
 * [Let's Build a Regex Engine](https://kean.github.io/post/lets-build-regex), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Advanced SwiftUI Transitions](https://swiftui-lab.com/advanced-transitions/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
+* [Backward compatible Dark Mode on iOS](https://www.onswiftwings.com/posts/dark-mode/), by [@sgl0v](https://twitter.com/sgl0v)
+* [Introducing Direct to SwiftUI](http://www.alwaysrightinstitute.com/directtoswiftui/), by [@ar_institute](https://twitter.com/ar_institute)
 
 **Tools/Controls**
 
@@ -33,4 +35,4 @@ Happy Thursday! [Swift 5.1 is officially released](https://swift.org/blog/swift-
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [kean](https://github.com/kean), [peres](https://github.com/ruiaaperes), [fassko](https://github.com/fassko), [adamwaite](https://github.com/adamwaite), , [Donny Wals](https://twitter.com/donnywals)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [kean](https://github.com/kean), [peres](https://github.com/ruiaaperes), [fassko](https://github.com/fassko), [adamwaite](https://github.com/adamwaite), [Donny Wals](https://twitter.com/donnywals), [rbarbosa](https://github.com/rbarbosa)
