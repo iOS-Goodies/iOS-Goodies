@@ -8,6 +8,7 @@
 * [5 Xcode breakpoints tips you might not yet know](https://www.avanderlee.com/debugging/xcode-breakpoints-tips/), by [@twannl](https://www.twitter.com/twannl)
 * [Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
 * [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
+* [Let's Build a Regex Engine](https://kean.github.io/post/lets-build-regex), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 
 
 **Tools/Controls**
@@ -24,8 +25,8 @@
 
 **Videos**
 
-* 
+* Redux with CombineFeedback and SwiftUI [Part 1](https://www.youtube.com/watch?v=MdZAAJWZIgE&t=19s) and [Part 2](https://www.youtube.com/watch?v=aCr0gzof-RI&t=31s), by [@peres](https://twitter.com/peres)
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [fassko](https://github.com/fassko)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [kean](https://github.com/kean), [peres](https://github.com/ruiaaperes), [fassko](https://github.com/fassko)
