@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [peres](https://github.com/peres)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [peres](https://github.com/peres), [Donny Wals](https://twitter.com/donnywals)
