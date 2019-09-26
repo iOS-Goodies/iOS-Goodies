@@ -1,8 +1,9 @@
+Happy Thursday! [Swift 5.1 is officially released](https://swift.org/blog/swift-5-1-released/), which brings module stability, and we already know details about the [Swift 5.2 Release Process](https://swift.org/blog/5-2-release-process/), which is "meant to include significant quality and performance enhancements". I'm so much looking forward to that :).
+
 **Articles**
 
 * [Flux pattern in Swift](https://swiftandpizza.com/flux-in-swift/), by [@theillbo](https://twitter.com/theillbo)
 * [Redux-like state container in SwiftUI. Part 2](https://mecid.github.io/2019/09/25/redux-like-state-container-in-swiftui-part2/), by [@mecid](https://twitter.com/mecid)
-* [Swift 5.1 Released!](https://swift.org/blog/swift-5-1-released/), by [@tkremenek](https://twitter.com/tkremenek/)
 * [iOS 13](https://nshipster.com/ios-13/), by [@mattt](https://twitter.com/mattt)
 * [Animating Images using ImageIO](https://www.swiftjectivec.com/animating-images-using-image-io/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 * [5 Xcode breakpoints tips you might not yet know](https://www.avanderlee.com/debugging/xcode-breakpoints-tips/), by [@twannl](https://www.twitter.com/twannl)
@@ -11,7 +12,6 @@
 * [Supporting Low Data Mode In Your App](https://www.donnywals.com/supporting-low-data-mode-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
 * [Swift 5.1 Property Wrappers](https://medium.com/get-chip/propert-wrappers-in-swift-5-1-14f610530710), by [@adamwaite](https://twitter.com/adamwaite)
 * [Let's Build a Regex Engine](https://kean.github.io/post/lets-build-regex), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
-* [Swift 5.2 Release Process](https://swift.org/blog/5-2-release-process/), by Nicole Jacque
 * [Advanced SwiftUI Transitions](https://swiftui-lab.com/advanced-transitions/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
 
 **Tools/Controls**
