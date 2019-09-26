@@ -9,6 +9,7 @@
 * [Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
 * [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
 * [Swift 5.1 Property Wrappers](https://medium.com/get-chip/propert-wrappers-in-swift-5-1-14f610530710), by [@adamwaite](https://twitter.com/adamwaite)
+* [Let's Build a Regex Engine](https://kean.github.io/post/lets-build-regex), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 
 
 **Tools/Controls**
@@ -17,7 +18,7 @@
 
 **Business/Career**
 
-*
+* [Dark Side of the App Store](https://kristaps.me/dark-side-appstore/) by [@fassko](https://twitter.com/fassko)
 
 **UI/UX**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [peres](https://github.com/peres)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [kean](https://github.com/kean), [peres](https://github.com/ruiaaperes), [fassko](https://github.com/fassko), [adamwaite](https://github.com/adamwaite)
