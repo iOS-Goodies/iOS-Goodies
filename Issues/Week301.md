@@ -8,19 +8,20 @@
 * [5 Xcode breakpoints tips you might not yet know](https://www.avanderlee.com/debugging/xcode-breakpoints-tips/), by [@twannl](https://www.twitter.com/twannl)
 * [Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
 * [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
+* [Swift 5.1 Property Wrappers](https://medium.com/get-chip/propert-wrappers-in-swift-5-1-14f610530710), by [@adamwaite](https://twitter.com/adamwaite)
 
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
