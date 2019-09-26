@@ -24,8 +24,8 @@
 
 **Videos**
 
-* 
+* Redux with CombineFeedback and SwiftUI [Part 1](https://www.youtube.com/watch?v=MdZAAJWZIgE&t=19s) and [Part 2](https://www.youtube.com/watch?v=aCr0gzof-RI&t=31s), by [@peres](https://twitter.com/peres)
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [peres](https://github.com/peres)
