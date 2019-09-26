@@ -16,7 +16,7 @@
 
 **Business/Career**
 
-* 
+* [Dark Side of the App Store](https://kristaps.me/dark-side-appstore/) by [@fassko](https://twitter.com/fassko)
 
 **UI/UX**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [fassko](https://github.com/fassko)
