@@ -8,7 +8,7 @@
 * [5 Xcode breakpoints tips you might not yet know](https://www.avanderlee.com/debugging/xcode-breakpoints-tips/), by [@twannl](https://www.twitter.com/twannl)
 * [Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest](https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
 * [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
-* [Supporting Low Data Mode In Your App](https://www.donnywals.com/supporting-low-data-mode-in-your-app/) by [@donnywals](https://twitter.com/donnywals)
+* [Supporting Low Data Mode In Your App](https://www.donnywals.com/supporting-low-data-mode-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
 
 **Tools/Controls**
 
