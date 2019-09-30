@@ -13,7 +13,7 @@
 
 **UI/UX**
 
-*
+* [Introduction to empathy maps](https://uxdesign.cc/introduction-to-empathy-maps-56554b80872d), by [@andreea_popescu](https://twitter.com/andreea_popescu)
 
 **Videos**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [adib](https://github.com/adib), [rbarbosa](https://github.com/rbarbosa)
+* [adib](https://github.com/adib), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba)
