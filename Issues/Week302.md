@@ -2,6 +2,7 @@
 
 * [Backward compatible Dark Mode on iOS](https://www.onswiftwings.com/posts/dark-mode/), by [@sgl0v](https://twitter.com/sgl0v)
 * [Introducing Direct to SwiftUI](http://www.alwaysrightinstitute.com/directtoswiftui/), by [@ar_institute](https://twitter.com/ar_institute)
+* [Fast app prototyping with SwiftUI](https://medium.com/flawless-app-stories/fast-app-prototyping-with-swiftui-39ae03ab3eaa), by [@caiobzen](https://twitter.com/caiobzen)
 
 **Tools/Controls**
 
