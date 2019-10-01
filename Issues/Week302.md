@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-* 
+* [Marketing Dark Noise](https://charliemchapman.com/posts/2019/9/27/marketing-dark-noise/), by [@chuckyc17](https://twitter.com/chuckyc17)
 
 **UI/UX**
 
