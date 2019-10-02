@@ -12,6 +12,7 @@
 **Business/Career**
 
 * [Marketing Dark Noise](https://charliemchapman.com/posts/2019/9/27/marketing-dark-noise/), by [@chuckyc17](https://twitter.com/chuckyc17)
+* [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/) by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
 
 **UI/UX**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [adib](https://github.com/adib), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
+* [adib](https://github.com/adib), [rbarbosa](https://github.com/rbarbosa), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69)
