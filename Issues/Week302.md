@@ -24,6 +24,7 @@
 **Videos**
 
 * [All About In-App Purchases](https://cutecoder.org/business/all-about-in-app-purchase/) by [Sasmito Adibowo](https://twitter.com/SasmitoAdibowo)
+* [Learnings from 6 years working on VLC for iOS](https://vimeo.com/362126060), by [@_caro_n](https://twitter.com/_caro_n)
 
 **Credits**
 
