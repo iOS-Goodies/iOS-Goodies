@@ -1,3 +1,5 @@
+Happy Thursday! It's October now, so it's time for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Hacktoberfest is an event that encourages developers to work on open source projects. In a nuthsell, work on open source and get a limited edition Hacktobefest T-shirt. We're not affiliated in any way with Hacktoberfest or its sponsors, but we ❤️ open source, so we apreciate this initiative :). 
+
 **Articles**
 
 * [Backward compatible Dark Mode on iOS](https://www.onswiftwings.com/posts/dark-mode/), by [@sgl0v](https://twitter.com/sgl0v)
