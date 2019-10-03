@@ -6,6 +6,8 @@
 * [Redux-like state container in SwiftUI. Container Views.](https://mecid.github.io/2019/10/02/redux-like-state-container-in-swiftui-part3/), by [@mecid](https://twitter.com/mecid)
 * [Swift Dependency Injection via Property Wrapper](https://basememara.com/swift-dependency-injection-via-property-wrapper/), by [@basememara](https://twitter.com/basememara)
 * [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/) by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
+* [SwiftUI Accessibility - Sort Priority](https://rwapp.co.uk/2019/10/02/SwiftUI-Sort-Priority/), by [@RobRWAPP](https://twitter.com/RobRWAPP)
+* [Unexpected compilation](https://blog.alltheflow.com/unexpected-compilation/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
 
 **Tools/Controls**
 
