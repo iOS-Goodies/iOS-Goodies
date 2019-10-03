@@ -1,4 +1,4 @@
-Happy Thursday! It's October now, so it's time for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Hacktoberfest is an event that encourages developers to work on open source projects. In a nuthsell, work on open source and get a limited edition Hacktobefest T-shirt. We're not affiliated in any way with Hacktoberfest or its sponsors, but we ❤️ open source, so we apreciate this initiative :). 
+Happy Thursday! Instead of trying to keep up with the latest Xcode and iOS releases, in this week's comment I'll focus on something different. It's October now, so it's time for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). Hacktoberfest is an event that encourages developers to work on open-source projects. In a nutshell, work on open source and get a limited edition Hacktobefest T-shirt. We're not affiliated in any way with Hacktoberfest or its sponsors, but we ❤️ open source, so we appreciate this initiative :).
 
 **Articles**
 
