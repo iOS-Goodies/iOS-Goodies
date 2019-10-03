@@ -10,6 +10,8 @@ Happy Thursday! Instead of trying to keep up with the latest Xcode and iOS relea
 * [Analytics - How to avoid common mistakes in iOS](https://benoitpasquier.com/common-mistakes-analytics-ios-app/) by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
 * [SwiftUI Accessibility - Sort Priority](https://rwapp.co.uk/2019/10/02/SwiftUI-Sort-Priority/), by [@RobRWAPP](https://twitter.com/RobRWAPP)
 * [Unexpected compilation](https://blog.alltheflow.com/unexpected-compilation/), by [@vasarhelyia](https://twitter.com/vasarhelyia)
+* [Computing dates in Swift](https://www.swiftbysundell.com/articles/computing-dates-in-swift/), by [@johnsundell](https://twitter.com/johnsundell)
+* [UITableView Datasource with SwiftUI-style syntax](https://medium.com/@_myrddin_/tableview-datasource-with-swiftui-style-syntax-1372b3a04687), by [@_myrddin_](https://twitter.com/_myrddin_)
 
 **Tools/Controls**
 
