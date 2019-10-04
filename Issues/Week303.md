@@ -12,7 +12,7 @@
 
 **UI/UX**
 
-* 
+* [Design Glossary: Basic Color Terminology](https://design4users.com/basic-color-terminology/), by Tubik Studio
 
 **Videos**
 
