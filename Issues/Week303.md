@@ -4,6 +4,7 @@
 * [Understanding Opaque Return Types in Swift](https://medium.com/@alfianlosari/understanding-opaque-return-types-in-swift-9c36fb5dfa86), by [@alfianlosari](https://twitter.com/alfianlosari)
 * [Rewriting iOS Purchase Layer for #1 Top Grossing App using Modules](https://medium.com/tinder-engineering/rewriting-ios-purchase-layer-for-1-top-grossing-app-using-modules-72b4b86e3917), by [@schung7](https://twitter.com/schung7)
 * [How to build a modular architecture in iOS](https://benoitpasquier.com/how-build-modular-architecture-ios/), by @[benoitpasquier_](https://twitter.com/benoitpasquier_)
+* [A Comprehensive Guide to All 120+ Settings URLs Supported by iOS and iPadOS 13.1](https://www.macstories.net/ios/a-comprehensive-guide-to-all-120-settings-urls-supported-by-ios-and-ipados-13-1/), by [@viticci](https://twitter.com/viticci)
 
 **Tools/Controls**
 
