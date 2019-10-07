@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Yaap](https://github.com/hartbit/Yaap) - Yet Another (Swift) Argument Parser , by [@dhartbit](https://twitter.com/dhartbit)
+* [ScrollStackController](https://github.com/malcommac/ScrollStackController) - Create complex scrollable layout using UIViewControllers and simplify your code , by [@danielemargutti](https://twitter.com/danielemargutti)
 
 **Business/Career**
 
