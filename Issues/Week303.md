@@ -15,6 +15,7 @@
 **UI/UX**
 
 * [Design Glossary: Basic Color Terminology](https://design4users.com/basic-color-terminology/), by Tubik Studio
+* [SwiftUI Tutorial for Slider Control](https://exyte.com/blog/swiftui-tutorial-slider-control), by [@ExyteHQ](https://twitter.com/exyteHQ)
 
 **Videos**
 
