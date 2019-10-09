@@ -8,6 +8,8 @@
 * [What is Module Stability in Swift and why should you care?](https://www.donnywals.com/what-is-module-stability-in-swift-and-why-should-you-care/), by [@donnywals](https://twitter.com/donnywals)
 * [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/), by [@V8tr](https://twitter.com/V8tr)
 * [Dynamic Type in SwiftUI](https://mecid.github.io/2019/10/09/dynamic-type-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2), by [@timonus](https://twitter.com/timonus)
+* [Catalytic Converter](https://tla.systems/blog/2019/10/08/catalytic-converter/), by [@jamesthomson](https://twitter.com/jamesthomson)
 
 **Tools/Controls**
 
