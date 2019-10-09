@@ -14,6 +14,7 @@
 * [Yaap](https://github.com/hartbit/Yaap) - Yet Another (Swift) Argument Parser, by [@dhartbit](https://twitter.com/dhartbit)
 * [ScrollStackController](https://github.com/malcommac/ScrollStackController) - Create complex scrollable layout using UIViewControllers and simplify your code, by [@danielemargutti](https://twitter.com/danielemargutti)
 * [ColorCompatibility](https://github.com/noahsark769/ColorCompatibility) - Use iOS 13+ system colors while defaulting to light colors on iOS <=12, by [@noahsark769](https://twitter.com/noahsark769)
+* [SelectableLabel](https://edit.theappbusiness.com/making-uilabel-accessible-5f3d5c342df4) - Making UILabel Accessible, by [@dodsios](https://twitter.com/dodsios)
 
 **Business/Career**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid), [samdods](https://github.com/samdods)
