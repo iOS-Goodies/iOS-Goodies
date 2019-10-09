@@ -7,6 +7,7 @@
 * [A Comprehensive Guide to All 120+ Settings URLs Supported by iOS and iPadOS 13.1](https://www.macstories.net/ios/a-comprehensive-guide-to-all-120-settings-urls-supported-by-ios-and-ipados-13-1/), by [@viticci](https://twitter.com/viticci)
 * [What is Module Stability in Swift and why should you care?](https://www.donnywals.com/what-is-module-stability-in-swift-and-why-should-you-care/), by [@donnywals](https://twitter.com/donnywals)
 * [Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/), by [@V8tr](https://twitter.com/V8tr)
+* [Dynamic Type in SwiftUI](https://mecid.github.io/2019/10/09/dynamic-type-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [samdods](https://github.com/samdods)
+* [LisaDziuba](https://github.com/lisadziuba), [pmusolino](https://github.com/pmusolino), [popei69](https://github.com/popei69), [mecid](https://github.com/mecid), [samdods](https://github.com/samdods)
