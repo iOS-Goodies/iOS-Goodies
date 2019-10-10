@@ -33,8 +33,8 @@ In Xcode release news, we got Xcode 11.1 GM, which is the same as the GM Seed 1 
 
 **Videos**
 
-* [Explain, please: Help your users trust you](https://vimeo.com/362203135), by [@bertadevant](https://twitter.com/bertadevant)
-* [How to build an app for everyone](https://vimeo.com/362163043), by [@novallkhan](https://twitter.com/novallkhan)
+* [NSSpain: Explain, please: Help your users trust you](https://vimeo.com/362203135), by [@bertadevant](https://twitter.com/bertadevant)
+* [NSSpain: How to build an app for everyone](https://vimeo.com/362163043), by [@novallkhan](https://twitter.com/novallkhan)
 
 **Credits**
 
