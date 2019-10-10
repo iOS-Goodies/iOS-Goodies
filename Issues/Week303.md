@@ -20,7 +20,7 @@
 
 **Business/Career**
 
-* 
+* [10 lessons I learned from maintaining an open source community for 4 years](https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community), by [@lpnotes](https://twitter.com/lpnotes)
 
 **UI/UX**
 
@@ -29,7 +29,8 @@
 
 **Videos**
 
-* 
+* [Explain, please: Help your users trust you](https://vimeo.com/362203135), by [@bertadevant](https://twitter.com/bertadevant)
+* [How to build an app for everyone](https://vimeo.com/362163043), by [@novallkhan](https://twitter.com/novallkhan)
 
 **Credits**
 
