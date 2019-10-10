@@ -1,6 +1,6 @@
 Happy Thursday! This week we got the release of macOS Catalina, and with that, the first Catalyst apps are out. However, that does not include two of the most anticipated apps, announced at WWDC: Twitter and Asphalt 9 for macOS using Catalyst aren't out yet, and they've also been removed from the Apple's Catalyst website. There are, however, other Catalyst apps that are launched, but it iseems to me that the general impression of developers on Catalyst is that there's still work to be done. 
 
-In Xcode release news, we got Xcode 11.1 GM, which is the same as the GM Seed 1 from 24 September. It's kind of hard to keep up with the Xcode releases, but [xcodereleases.com/](https://xcodereleases.com/) helps with that :).
+In Xcode release news, we got Xcode 11.1 GM, which is the same as the GM Seed 1 from 24 September. It's kind of hard to keep up with the Xcode releases, but [xcodereleases.com](https://xcodereleases.com/) helps with that :).
 
 **Articles**
 
