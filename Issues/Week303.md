@@ -14,6 +14,7 @@ In Xcode release news, we got Xcode 11.1 GM, which is the same as the GM Seed 1 
 * [Dynamic Type in SwiftUI](https://mecid.github.io/2019/10/09/dynamic-type-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2), by [@timonus](https://twitter.com/timonus)
 * [Catalytic Converter](https://tla.systems/blog/2019/10/08/catalytic-converter/), by [@jamesthomson](https://twitter.com/jamesthomson)
+* [SwiftUI Tutorial for Slider Control](https://exyte.com/blog/swiftui-tutorial-slider-control), by [@ExyteHQ](https://twitter.com/exyteHQ)
 
 **Tools/Controls**
 
@@ -30,7 +31,6 @@ In Xcode release news, we got Xcode 11.1 GM, which is the same as the GM Seed 1 
 **UI/UX**
 
 * [Design Glossary: Basic Color Terminology](https://design4users.com/basic-color-terminology/), by Tubik Studio
-* [SwiftUI Tutorial for Slider Control](https://exyte.com/blog/swiftui-tutorial-slider-control), by [@ExyteHQ](https://twitter.com/exyteHQ)
 
 **Videos**
 
