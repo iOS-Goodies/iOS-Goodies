@@ -21,6 +21,7 @@ In Xcode release news, we got Xcode 11.1 GM, which is the same as the GM Seed 1 
 * [ScrollStackController](https://github.com/malcommac/ScrollStackController) - Create complex scrollable layout using UIViewControllers and simplify your code, by [@danielemargutti](https://twitter.com/danielemargutti)
 * [ColorCompatibility](https://github.com/noahsark769/ColorCompatibility) - Use iOS 13+ system colors while defaulting to light colors on iOS <=12, by [@noahsark769](https://twitter.com/noahsark769)
 * [SelectableLabel](https://edit.theappbusiness.com/making-uilabel-accessible-5f3d5c342df4) - Making UILabel Accessible, by [@dodsios](https://twitter.com/dodsios)
+* [Impact](https://github.com/ChimeHQ/Impact) - Crash capturing library for Apple platforms , by [@chimehq](https://twitter.com/chimehq)
 
 **Business/Career**
 
