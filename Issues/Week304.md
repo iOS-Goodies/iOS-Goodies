@@ -1,3 +1,5 @@
+Happy Thursday! The App Store Connect website, app and API will be under [scheduled maintenance](https://developer.apple.com/news/?id=10162019a) on Sunday, October 20, 2019 at 6:00 a.m. PT (3 p.m. CET) for up to 8 hours, so make sure to plan accordingly :)
+
 **Articles**
 
 * [A Repository Full of Our Best Practices in iOS Development](https://infinum.co/the-capsized-eight/repository-full-of-our-best-practices-in-ios-development), by [@goranbrlas](https://twitter.com/goranbrlas)
@@ -7,7 +9,7 @@
 * [Essential Xcode Shortcuts for More Efficient Coding](https://medium.com/flawless-app-stories/essential-xcode-shortcuts-for-more-efficient-coding-1f8e58b2c907), by [@peterfriese](https://twitter.com/peterfriese)
 * [Swift​UI Previews on macOS Catalina and Xcode 11](https://nshipster.com/swiftui-previews/), by [@mattt](https://twitter.com/mattt)
 * [objc_msgSend's New Prototype](https://www.mikeash.com/pyblog/objc_msgsends-new-prototype.html), by [@mikeash](https://twitter.com/mikeash)
-* [Encapsulating configuration code in Swift](https://www.swiftbysundell.com/articles/encapsulating-configuration-code-in-swift/), by [@swiftbysundell](https://twitter.com/swiftbysundell)
+* [Encapsulating configuration code in Swift](https://www.swiftbysundell.com/articles/encapsulating-configuration-code-in-swift/), by [@johnsundell](https://twitter.com/johnsundell)
 * [Optionals in Swift explained: 5 things you should know](https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/), by [@twannl](https://www.twitter.com/twannl)
 * [Type-safe User Defaults](https://danieltull.co.uk//blog/2019/10/09/type-safe-user-defaults/), by [@danielctull](https://twitter.com/danielctull)
 
@@ -30,7 +32,7 @@
 
 **Videos**
 
-* 
+* [NSSpain: Detail-oriented UI with Layout Margins](https://vimeo.com/362202970), by [@hybridcattt](https://twitter.com/hybridcattt)
 
 **Credits**
 
