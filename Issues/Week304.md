@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI wrapper for UICollectionView with support for custom layouts, preloading, and more [@apptekstudios](https://twitter.com/ApptekS)
 
 **Business/Career**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [goranbrl](https://github.com/goranbrl), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid)
+* [goranbrl](https://github.com/goranbrl), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [ApptekStudios](https://github.com/apptekstudios)
