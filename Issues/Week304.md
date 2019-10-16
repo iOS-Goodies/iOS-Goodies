@@ -14,10 +14,12 @@
 
 **Tools/Controls**
 
-* [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI wrapper for UICollectionView with support for custom layouts, preloading, and more [@apptekstudios](https://twitter.com/ApptekS)
+* [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - A SwiftUI wrapper for UICollectionView with support for custom layouts, preloading, and more, by [@apptekstudios](https://twitter.com/ApptekS)
+* [xcdiff](https://github.com/bloomberg/xcdiff) - A tool which helps you diff xcodeproj files, by [@marciniwanicki](https://twitter.com/marciniwanicki), [@kwridan](https://twitter.com/kwridan) and Adam Khazi
 
 **Business/Career**
 
+* [Thriving on the Technical Leadership Path](http://keavy.com/work/thriving-on-the-technical-leadership-path/), by [@keavy](https://twitter.com/keavy)
 * [Apple’s New Subscription Management Prompt Seems to Be Working](https://www.revenuecat.com/2019/10/09/iOS-13-subscription-management-prompt), by [@drbarnard](https://twitter.com/drbarnard)
 * [What To Do When You Get Sherlocked By Apple](https://blog.astropad.com/sherlocked-by-apple/), by [@sjreising](https://twitter.com/sjreising)
 * [Pick your poison](https://ruiper.es/2019/10/12/pick-your-poison/), by [@peres](https://twitter.com/peres)
