@@ -25,6 +25,7 @@ Happy Thursday! The App Store Connect website, app and API will be under [schedu
 * [Apple’s New Subscription Management Prompt Seems to Be Working](https://www.revenuecat.com/2019/10/09/iOS-13-subscription-management-prompt), by [@drbarnard](https://twitter.com/drbarnard)
 * [What To Do When You Get Sherlocked By Apple](https://blog.astropad.com/sherlocked-by-apple/), by [@sjreising](https://twitter.com/sjreising)
 * [Pick your poison](https://ruiper.es/2019/10/12/pick-your-poison/), by [@peres](https://twitter.com/peres)
+* [Delivering a "Holiday Special" In-App Purchase](https://cutecoder.org/business/time-limited-app-purchase/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
 **UI/UX**
 
@@ -36,4 +37,4 @@ Happy Thursday! The App Store Connect website, app and API will be under [schedu
 
 **Credits**
 
-* [goranbrl](https://github.com/goranbrl), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [ApptekStudios](https://github.com/apptekstudios)
+* [goranbrl](https://github.com/goranbrl), [LisaDziuba](https://github.com/lisadziuba), [mecid](https://github.com/mecid), [ApptekStudios](https://github.com/apptekstudios), [adib](https://github.com/adib).
