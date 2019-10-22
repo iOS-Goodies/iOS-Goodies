@@ -4,6 +4,7 @@
 * [Creating Thread-Safe Generic Values in Swift](https://basememara.com/creating-thread-safe-generic-values-in-swift/), by [@basememara](https://twitter.com/basememara)
 * [A practical guide to Weak Referencing in Swift](https://medium.com/flawless-app-stories/a-practical-guide-to-weak-referencing-in-swift-60a1e4da2ef9), by Serge Mata
 * [Restoring your sanity reading JSON into Codables](https://www.appsdissected.com/json-codable-decodingerror-quicktype/), by [@AppsDissected](https://twitter.com/AppsDissected)
+* [Reusing SwiftUI views across Apple platforms](https://mecid.github.io/2019/10/23/reusing-swiftui-views-across-apple-platforms/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected)
+* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid)
