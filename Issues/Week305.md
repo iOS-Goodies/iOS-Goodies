@@ -20,8 +20,9 @@
 
 **Videos**
 
-* 
+* [try! Swift NYC videos](https://www.youtube.com/playlist?list=PLCl5NM4qD3u8MjC_uV709BxqPoT3KX2C-) by [try! Swift NYC
+](https://twitter.com/tryswiftnyc)
 
 **Credits**
 
-* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid)
+* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid)
