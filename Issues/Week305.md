@@ -11,6 +11,7 @@
 * [Metric​Kit](https://nshipster.com/metrickit/), by [@mattt](https://twitter.com/mattt)
 * [Value Types and Reference Types in Swift](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Faking network responses in tests](https://www.donnywals.com/faking-network-responses-in-tests/), by [@donnywals](https://twitter.com/donnywals)
+* [Efficient Random Access on Swift String](https://maximeremenko.com/string-random-access), by [@eremenko_maxim](https://twitter.com/eremenko_maxim)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa)
+* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa), [devmeremenko](https://github.com/devMEremenko/)
