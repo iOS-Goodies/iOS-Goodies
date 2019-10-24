@@ -7,6 +7,10 @@
 * [Reusing SwiftUI views across Apple platforms](https://mecid.github.io/2019/10/23/reusing-swiftui-views-across-apple-platforms/), by [@mecid](https://twitter.com/mecid)
 * [Incorporating machine learning into iOS Apps](https://medium.com/@pradnya_nikam/incorporating-machine-learning-into-ios-apps-a5eb8bccd915), by [@pradnya_nikam](https://twitter.com/pradnya_nikam)
 * [SwiftUI Is Still the Future](https://inessential.com/2019/10/21/swiftui_is_still_the_future), by [@brentsimmons](https://twitter.com/brentsimmons/)
+* [SwiftUI Layout System](https://kean.github.io/post/swiftui-layout-system), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [Metric​Kit](https://nshipster.com/metrickit/), by [@mattt](https://twitter.com/mattt)
+* [Value Types and Reference Types in Swift](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/), by [@V8tr](https://twitter.com/V8tr)
+* [Faking network responses in tests](https://www.donnywals.com/faking-network-responses-in-tests/), by [@donnywals](https://twitter.com/donnywals)
 
 **Tools/Controls**
 
@@ -28,4 +32,4 @@
 
 **Credits**
 
-* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid)
+* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa)
