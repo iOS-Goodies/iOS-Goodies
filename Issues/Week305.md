@@ -17,6 +17,9 @@ Since WWDC, I think that around half of all the content I've seen published in o
 * [Metric​Kit](https://nshipster.com/metrickit/), by [@mattt](https://twitter.com/mattt)
 * [Value Types and Reference Types in Swift](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Faking network responses in tests](https://www.donnywals.com/faking-network-responses-in-tests/), by [@donnywals](https://twitter.com/donnywals)
+* [iOS Security Tutorial — Part 1](https://medium.com/flawless-app-stories/ios-security-tutorial-part-1-6571172d912), by [@FDerias](https://twitter.com/FDerias)
+* [iOS Security Tutorial — Part 2](https://medium.com/flawless-app-stories/ios-security-tutorial-part-2-c481036170ca), by [@FDerias](https://twitter.com/FDerias)
+
 
 **Tools/Controls**
 
@@ -41,4 +44,4 @@ Since WWDC, I think that around half of all the content I've seen published in o
 
 **Credits**
 
-* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa)
+* [jsanderson44](https://github.com/jsanderson44), [basememara](https://github.com/basememara), [LisaDziuba](https://github.com/lisadziuba), [AppsDissected](https://github.com/AppsDissected), [fassko](https://github.com/fassko), [mecid](https://github.com/mecid), [rbarbosa](https://github.com/rbarbosa), [valianka](https://github.com/valianka)
