@@ -25,6 +25,10 @@
 
 * 
 
+**Podcasts**
+
+* [Swift by Sundell - “A major step forward” a SwiftUI special with Josh Shaffer](https://www.swiftbysundell.com/podcast/59/), by [@joshshaffer](https://twitter.com/joshshaffer) and [@johnsundell](https://twitter.com/johnsundell)
+
 **Videos**
 
 * [try! Swift NYC videos](https://www.youtube.com/playlist?list=PLCl5NM4qD3u8MjC_uV709BxqPoT3KX2C-) by [try! Swift NYC
