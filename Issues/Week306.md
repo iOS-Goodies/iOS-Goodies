@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Merge pods reducing the number of dynamic frameworks your app has to load on startup, by [@grabengineering](https://twitter.com/grabengineering)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/)
+* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/)
