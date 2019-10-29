@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Merge pods reducing the number of dynamic frameworks your app has to load on startup, by [@grabengineering](https://twitter.com/grabengineering)
+* [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI, by [@paololeonardi](https://twitter.com/paololeonardi) 
 
 **Business/Career**
 
