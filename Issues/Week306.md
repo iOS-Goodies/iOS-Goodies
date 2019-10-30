@@ -9,6 +9,7 @@
 * [Understanding the iOS 13 Scene Delegate](https://www.donnywals.com/understanding-the-ios-13-scene-delegate/), by [@donnywals](https://twitter.com/donnywals)
 * [Dark color. Things you should know about color when adopting dark mode.](https://sarunw.com/posts/dark-color/), by [@sarunw](https://twitter.com/sarunw)
 * [View composition in SwiftUI](https://mecid.github.io/2019/10/30/view-composition-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [A Complete Guide to In-App Purchases for iOS Developmen](https://www.appcoda.com/in-app-purchases-guide/), by [@gabtheodor](https://twitter.com/gabtheodor)
 
 **Tools/Controls**
 
