@@ -8,6 +8,7 @@
 * [Dependency Heck](https://bartstechblog.blogspot.com/2019/10/dependency-heck.html), by [@bwhiteley](https://twitter.com/bwhiteley)
 * [Understanding the iOS 13 Scene Delegate](https://www.donnywals.com/understanding-the-ios-13-scene-delegate/), by [@donnywals](https://twitter.com/donnywals)
 * [Dark color. Things you should know about color when adopting dark mode.](https://sarunw.com/posts/dark-color/), by [@sarunw](https://twitter.com/sarunw)
+* [View composition in SwiftUI](https://mecid.github.io/2019/10/30/view-composition-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/), [FadiOssama](https://github.com/FadiOssama)
+* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/), [FadiOssama](https://github.com/FadiOssama), [mecid](https://github.com/mecid)
