@@ -11,6 +11,9 @@
 * [View composition in SwiftUI](https://mecid.github.io/2019/10/30/view-composition-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [A Complete Guide to In-App Purchases for iOS Developmen](https://www.appcoda.com/in-app-purchases-guide/), by [@gabtheodor](https://twitter.com/gabtheodor)
 * [Save that Sink! A simple solution to a common Combine problem](https://www.appsdissected.com/save-sink-assign-subscriber-anycancellable/), by [@AppsDissected](https://twitter.com/AppsDissected)
+* [Implementing iOS 13 Dark Mode in the new BigCommerce mobile app](https://www.bigeng.io/implementing-ios-13-dark-mode-in-the-new-bigcommerce-mobile-app/), by Dan Murrell
+* [Building flexible components with generics and protocols](https://www.donnywals.com/building-flexible-components-with-generics-and-protocols/), by [@DonnyWals](https://twitter.com/DonnyWals)
+* [SwiftUI: Setting Environment Values](https://www.objc.io/blog/2019/10/29/swiftui-environment/), by [@chriseidhof](https://twitter.com/chriseidhof)
 
 **Tools/Controls**
 
@@ -31,4 +34,4 @@
 
 **Credits**
 
-* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/), [FadiOssama](https://github.com/FadiOssama), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected)
+* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/), [FadiOssama](https://github.com/FadiOssama), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [rbarbosa](https://github.com/rbarbosa)
