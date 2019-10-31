@@ -19,6 +19,7 @@
 
 * [cocoapods-pod-merge](https://github.com/grab/cocoapods-pod-merge) - Merge pods reducing the number of dynamic frameworks your app has to load on startup, by [@grabengineering](https://twitter.com/grabengineering)
 * [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI, by [@paololeonardi](https://twitter.com/paololeonardi) 
+* [Omnia](https://github.com/onmyway133/Omnia) - Everything your projects need to know, by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/), [FadiOssama](https://github.com/FadiOssama), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [rbarbosa](https://github.com/rbarbosa)
+* [devMEremenko](https://github.com/devMEremenko/), [fassko](https://github.com/fassko/), [pmusolino](https://github.com/pmusolino/), [FadiOssama](https://github.com/FadiOssama), [mecid](https://github.com/mecid), [AppsDissected](https://github.com/AppsDissected), [rbarbosa](https://github.com/rbarbosa), [onmyway133](https://github.com/onmyway133)
