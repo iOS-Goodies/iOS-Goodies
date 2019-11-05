@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [CAEmitterBehavior](https://bryce.co/caemitterbehavior/), by [@brycepauken](https://twitter.com/brycepauken)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [brycepauken](https://github.com/brycepauken)
