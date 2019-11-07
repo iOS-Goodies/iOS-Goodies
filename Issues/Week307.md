@@ -1,3 +1,4 @@
+Happy Thursday! Since the last iOS Goodies edition we got Xcode 11.2 GM and Xcode 11.2.1 GM Seed 1 this week, and also the first beta of iOS 13.3 is out. Previously, the .3 version of iOS usually came out in spring. Looks like we're a bit ahead of schedule this year 😅. But don't get me wrong, I think more frequent and smaller releases of iOS updates make sense. Same for Xcode. Now, if only Xcode supported delta updates, so we wouldn't have to download and extract 7-8 GB every other week 😁
 
 **Articles**
 
