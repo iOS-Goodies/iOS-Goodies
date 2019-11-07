@@ -6,6 +6,9 @@
 * [Swift Compiler: What we can learn](https://medium.com/flawless-app-stories/swift-compiler-what-we-can-learn-96872ea4b1b8), by Ali Pourhadi
 * [Show a banner from anywhere in SwiftUI using ViewModifier](https://www.morningswiftui.com/blog/show-a-banner-from-anywhere-in-swiftui-using-viewmodifier), by [@thomassivilay](https://twitter.com/thomassivilay)
 * [Navigation Bar Customisation: UINavigationBarAppearance and proper view/model separation](https://dmtopolog.com/navigation-bar-customisation-2/), by [@dmtopolog](https://twitter.com/dmtopolog)
+* [How To Use Type Erasure For Better Model Abstractions](https://tech.okcupid.com/using-type-erasure/), by Ariel Steinlauf
+* [Deciding whether to adopt new Swift technologies](https://www.swiftbysundell.com/articles/deciding-whether-to-adopt-new-swift-technologies/), by [@johnsundell](https://twitter.com/johnsundell)
+* [Interface Builder is declarative too. Where’s the love?](https://aplus.rs/2019/interface-builder-is-declarative-too/), by [@radiantav](https://twitter.com/radiantav)
 
 **Tools/Controls**
 
@@ -13,11 +16,12 @@
 
 **Business/Career**
 
-*
+* [Rate This App](https://steamclock.com/blog/2019/09/app-reviews/), by [@apike](https://twitter.com/apike)
 
 **UI/UX**
 
-*
+* [Designing for Dark Mode: More Than Flipping a Switch](https://medium.com/microsoft-design/designing-for-dark-mode-more-than-flipping-a-switch-c21fb38722d2), by [@MicrosoftDesign](https://twitter.com/MicrosoftDesign)
+* [iOS vs. Android App UI Design: The Complete Guide](https://learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html), by [@erikdkennedy](https://twitter.com/erikdkennedy)
 
 **Videos**
 
