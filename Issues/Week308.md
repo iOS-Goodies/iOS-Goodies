@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-*
+* [swiftui-recipes-app](https://github.com/mecid/swiftui-recipes-app/), by [@mecid](https://twitter.com/mecid)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba)
+* [LisaDziuba](https://github.com/LisaDziuba), [mecid](https://github.com/mecid)
