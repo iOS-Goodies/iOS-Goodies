@@ -2,6 +2,7 @@
 **Articles**
 
 * [Managing your App Distribution with Firebase](https://medium.com/flawless-app-stories/managing-your-app-distribution-using-firebase-b0e0178eedb), by [@nQaze](https://twitter.com/nQaze)
+* [Become a Productive Swift Developer through the Daily Habits](https://maximeremenko.com/how-improve-software-engineering-skills-swift), by [@eremenko_maxim](https://twitter.com/eremenko_maxim)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/LisaDziuba), [mecid](https://github.com/mecid), [devMEremenko](https://github.com/devMEremenko/)
