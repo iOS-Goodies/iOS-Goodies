@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Managing your App Distribution with Firebase](https://medium.com/flawless-app-stories/managing-your-app-distribution-using-firebase-b0e0178eedb), by [@nQaze](https://twitter.com/nQaze)
 
 **Tools/Controls**
 
