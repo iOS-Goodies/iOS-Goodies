@@ -2,6 +2,7 @@
 **Articles**
 
 * [Managing your App Distribution with Firebase](https://medium.com/flawless-app-stories/managing-your-app-distribution-using-firebase-b0e0178eedb), by [@nQaze](https://twitter.com/nQaze)
+* [How to get Binding via dollar prefix in SwiftUI](https://onmyway133.github.io/blog/How-to-get-Binding-via-dollar-prefix-in-SwiftUI/), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/LisaDziuba), [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/LisaDziuba), [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133)
