@@ -4,6 +4,7 @@
 * [Managing your App Distribution with Firebase](https://medium.com/flawless-app-stories/managing-your-app-distribution-using-firebase-b0e0178eedb), by [@nQaze](https://twitter.com/nQaze)
 * [Become a Productive Swift Developer through the Daily Habits](https://maximeremenko.com/how-improve-software-engineering-skills-swift), by [@eremenko_maxim](https://twitter.com/eremenko_maxim)
 * [How to get Binding via dollar prefix in SwiftUI](https://onmyway133.github.io/blog/How-to-get-Binding-via-dollar-prefix-in-SwiftUI/), by [@onmyway133](https://twitter.com/onmyway133)
+* [Gradient in SwiftUI](https://swiftwithmajid.com/2019/11/13/gradient-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
