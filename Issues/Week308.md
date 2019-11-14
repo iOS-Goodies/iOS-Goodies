@@ -9,6 +9,7 @@ Happy Thursday! This week we got Xcode 11.2.1 GM, then the next day it was time 
 * [In-App Purchases Inventory Data Model](https://cutecoder.org/programming/modeling-in-app-purchase-inventory/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 * [Improve your code reviews using Danger Swift on Bitrise CI](https://medium.com/@andr3a88/improve-your-code-reviews-using-danger-swift-on-bitrise-ci-e05c90a03244), by [@andrea_steva](https://twitter.com/andrea_steva)
 * [Secret Management on iOS](https://nshipster.com/secrets/), by [@mattt](https://twitter.com/mattt)
+* [Swift Numerics](https://swift.org/blog/numerics/), by [@stephentyrone](https://twitter.com/stephentyrone)
 
 **Tools/Controls**
 
