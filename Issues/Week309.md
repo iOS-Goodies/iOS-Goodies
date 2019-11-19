@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [Swift Code Review Checklist](https://github.com/FadiOssama/Swift-Code-Review-Checklist) -Open source repo which can be used to create a common and useful Swift code review checklist, by [Fadi Ossama]
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [jasonzurita](https://github.com/jasonzurita)
+* [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [jasonzurita](https://github.com/jasonzurita),[FadiOssama](https://github.com/FadiOssama)
