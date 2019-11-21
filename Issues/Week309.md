@@ -4,6 +4,7 @@
 * [You have to change mindset to use SwiftUI](https://swiftwithmajid.com/2019/11/19/you-have-to-change-mindset-to-use-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Bare Minimum for Apple Watch Communication](https://jasonzurita.com/bare-minimum-for-apple-watch-communication/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
 * [Implementing Dark Mode on iOS](https://medium.com/flawless-app-stories/implementing-dark-mode-on-ios-d195cac098de), by Bao Nguyen
+* [Model View Controller in iOS mobile applications development](https://medium.com/appssemble/model-view-controller-in-ios-mobile-applications-development-8bc7c178e490), by Dragos Dobrean [@dobreandl](https://twitter.com/dobreandl)
 
 **Tools/Controls**
 
@@ -23,5 +24,5 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [jasonzurita](https://github.com/jasonzurita), [FadiOssama](https://github.com/FadiOssama), * [LisaDziuba](https://github.com/lisadziuba)
+* [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [jasonzurita](https://github.com/jasonzurita), [FadiOssama](https://github.com/FadiOssama), * [LisaDziuba](https://github.com/lisadziuba), * [dobreandl](https://github.com/dobreandl)
 
