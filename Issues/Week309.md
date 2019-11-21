@@ -14,6 +14,7 @@ Happy Thursday! This week, when I looked over the available updates for the apps
 * [SwiftUI Bindings with CoreData](https://alanquatermain.me/programming/swiftui/2019-11-15-CoreData-and-bindings/), by [@alanQuatermain](https://twitter.com/alanQuatermain)
 * [Direct Objective-C Properties](https://mjtsai.com/blog/2019/11/19/direct-objective-c-properties/), by [@mjtsai](https://twitter.com/mjtsai)
 * [State restoration in iOS 13](https://www.kairadiagne.com/2019/11/20/state-restoration-with-nsuseractivity.html), by [@kairadiagne](https://twitter.com/kairadiagne)
+* [Safely Updating The View State](https://swiftui-lab.com/state-changes/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
 
 **Tools/Controls**
 
