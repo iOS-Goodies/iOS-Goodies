@@ -11,6 +11,7 @@
 * [Say Goodbye to “Index out of range” — Swift](https://medium.com/flawless-app-stories/say-goodbye-to-index-out-of-range-swift-eca7c4c7b6ca), by Wendy Liga
 * [Creating an Apple-like Splash Screen in SwiftUI](https://medium.com/better-programming/creating-an-apple-like-splash-screen-in-swiftui-fdeb36b47e81), by [@rudrankriyam](https://twitter.com/rudrankriyam)
 * [Integrating SwiftUI with UIKit and Developing Xcode Previews for UIKit’s ViewController](https://medium.com/swlh/integrating-swiftui-with-uikit-and-developing-xcode-previews-for-uikits-viewcontroller-39941aaf2392), by [@Shankar__am](https://twitter.com/Shankar__am)
+* [Building a Scalable SwiftUI Architecture](https://basememara.com/building-scalable-swiftui-architecture-app/), by [@basememara](https://twitter.com/basememara)
 
 **Tools/Controls**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [mecid](https://github.com/mecid), [adib](https://github.com/adib), [rudrankriyam](https://github.com/rudrankriyam), [shankarmadeshvaran](https://github.com/shankarmadeshvaran)
+* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [mecid](https://github.com/mecid), [adib](https://github.com/adib), [rudrankriyam](https://github.com/rudrankriyam), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [basememara](https://github.com/basememara)
