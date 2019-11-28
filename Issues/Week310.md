@@ -1,3 +1,4 @@
+- https://github.com/mRs-/Black-Friday-Deals
 
 **Articles**
 
@@ -12,11 +13,15 @@
 
 **Tools/Controls**
 
-* 
+* [PostalCodeValidator](https://github.com/FormatterKit/PostalCodeValidator) - A validator for postal codes with support for 200+ regions, by [@mattt](https://twitter.com/mattt)
+* [Ink](https://github.com/JohnSundell/Ink) - A fast and flexible Markdown parser written in Swift, by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business/Career**
 
 * [Roadmap for Newcomers to Learn iOS User Interface Programming](https://cutecoder.org/programming/newbie-learn-ios-user-interface-programming/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
+* [How Our Engineers Collaborate](https://lickability.com/blog/how-our-engineers-collaborate/), by [@mliberatore](https://twitter.com/mliberatore)
+* [The path to management](https://increment.com/teams/the-path-to-management/), by [@kthomas901](https://twitter.com/kthomas901)
+* [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/), by [@GergelyOrosz](http://twitter.com/GergelyOrosz)
 
 **UI/UX**
 
