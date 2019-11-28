@@ -7,6 +7,7 @@
 * [A Smart Feature Flagging System for iOS](https://medium.com/just-eat-tech/a-smart-feature-flagging-system-for-ios-1d73f283b4d6), by [Just Eat](https://twitter.com/justeat_tech)
 * [Combine and SwiftUI views](https://swiftwithmajid.com/2019/11/27/combine-and-swiftui-views/), by [@mecid](https://twitter.com/mecid)
 * [Say Goodbye to “Index out of range” — Swift](https://medium.com/flawless-app-stories/say-goodbye-to-index-out-of-range-swift-eca7c4c7b6ca), by Wendy Liga
+* [Integrating SwiftUI with UIKit and Developing Xcode Previews for UIKit’s ViewController](https://medium.com/swlh/integrating-swiftui-with-uikit-and-developing-xcode-previews-for-uikits-viewcontroller-39941aaf2392), by [@Shankar__am](https://twitter.com/Shankar__am)
 
 **Tools/Controls**
 
@@ -26,5 +27,5 @@
 
 **Credits**
 
-* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [mecid](https://github.com/mecid) , [adib](https://github.com/adib)
+* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [mecid](https://github.com/mecid) , [adib](https://github.com/adib), [shankarmadeshvaran](https://github.com/shankarmadeshvaran)
 
