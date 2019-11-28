@@ -25,5 +25,5 @@
 
 **Credits**
 
-* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [adib](https://github.com/adib)
+* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [mecid](https://github.com/mecid) , [adib](https://github.com/adib)
 
