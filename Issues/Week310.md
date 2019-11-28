@@ -12,6 +12,7 @@ Happy Thursday! The US celebrate Thanksgiving today, and tomorrow Black Friday, 
 * [Integrating SwiftUI with UIKit and Developing Xcode Previews for UIKit’s ViewController](https://medium.com/swlh/integrating-swiftui-with-uikit-and-developing-xcode-previews-for-uikits-viewcontroller-39941aaf2392), by [@Shankar__am](https://twitter.com/Shankar__am)
 * [Building a Scalable SwiftUI Architecture](https://basememara.com/building-scalable-swiftui-architecture-app/), by [@basememara](https://twitter.com/basememara)
 * [Modern Networking in Swift 5 with URLSession, Combine and Codable](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/), by [@V8tr](https://twitter.com/V8tr)
+* [Roadmap for Newcomers to Learn iOS User Interface Programming](https://cutecoder.org/programming/newbie-learn-ios-user-interface-programming/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
 **Tools/Controls**
 
@@ -20,7 +21,6 @@ Happy Thursday! The US celebrate Thanksgiving today, and tomorrow Black Friday, 
 
 **Business/Career**
 
-* [Roadmap for Newcomers to Learn iOS User Interface Programming](https://cutecoder.org/programming/newbie-learn-ios-user-interface-programming/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 * [How Our Engineers Collaborate](https://lickability.com/blog/how-our-engineers-collaborate/), by [@mliberatore](https://twitter.com/mliberatore)
 * [The path to management](https://increment.com/teams/the-path-to-management/), by [@kthomas901](https://twitter.com/kthomas901)
 * [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/), by [@GergelyOrosz](http://twitter.com/GergelyOrosz)
