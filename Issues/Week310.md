@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-*
+* [Roadmap for Newcomers to Learn iOS User Interface Programming](https://cutecoder.org/programming/newbie-learn-ios-user-interface-programming/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
 **UI/UX**
 
@@ -25,5 +25,5 @@
 
 **Credits**
 
-* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [mecid](https://github.com/mecid)
+* [goranbrl](https://github.com/goranbrl), [brycepauken](https://github.com/brycepauken), [albertodebortoli](https://github.com/albertodebortoli), [adib](https://github.com/adib)
 
