@@ -1,4 +1,5 @@
 - https://github.com/mRs-/Black-Friday-Deals
+- https://mjtsai.com/blog/2019/11/26/black-friday-2019/
 
 **Articles**
 
