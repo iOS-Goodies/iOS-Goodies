@@ -16,6 +16,7 @@
 * [Efficiently loading images in table views and collection views](https://www.donnywals.com/efficiently-loading-images-in-table-views-and-collection-views/), by [@donnywals](https://twitter.com/donnywals)
 * [Effective Unit Testing](https://kean.github.io/post/unit-testing), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Self Sizing Table View Cells In Interface Builder](https://useyourloaf.com/blog/self-sizing-table-view-cells-in-interface-builder/), by [@kharrison](https://twitter.com/kharrison)
+* [Zero In-app purchase products returned? Here's a checklist on troubleshooting it](https://fluffy.es/zero-iap-products-checklist/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
