@@ -14,11 +14,13 @@
 * [New stuff from WWDC 2019](https://mackuba.eu/2019/12/03/new-stuff-from-wwdc-2019/), by [@kuba_suder](https://twitter.com/kuba_suder)
 * [Using launch arguments for easier Core Data debugging](https://www.donnywals.com/using-launch-arguments-for-easier-core-data-debugging/), by [@donnywals](https://twitter.com/donnywals)
 * [Efficiently loading images in table views and collection views](https://www.donnywals.com/efficiently-loading-images-in-table-views-and-collection-views/), by [@donnywals](https://twitter.com/donnywals)
-
+* [Effective Unit Testing](https://kean.github.io/post/unit-testing), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [Self Sizing Table View Cells In Interface Builder](https://useyourloaf.com/blog/self-sizing-table-view-cells-in-interface-builder/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
 * [Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift, by [@johnsundell](https://twitter.com/johnsundell)
+* [Diagnostics](https://github.com/wetransfer/diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs, by [@twannl](https://twitter.com/twannl)
 
 **Business/Career**
 
