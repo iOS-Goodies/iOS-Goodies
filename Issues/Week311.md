@@ -9,11 +9,11 @@
 * [Using SPM for Xcode build phase tools](https://blog.apptekstudios.com/2019/12/spm-xcode-build-tools/), by [@tobeasbrennan](https://twitter.com/tobeasbrennan)
 * [How to use subscriptions with GraphQL using Apollo iOS SDK and Swift](https://kristaps.me/graphql-subscriptions/), by [@fassko](https://twitter.com/fassko)
 * [The Complete Guide to Property Wrappers in Swift 5](https://www.vadimbulavin.com/swift-5-property-wrappers/), by [@V8tr](https://twitter.com/V8tr)
-- [Implementing a Peel-Off Animation](https://robb.is/working-on/a-peel-off-animation), by [@DLX](https://twitter.com/dlx)
+* [Implementing a Peel-Off Animation](https://robb.is/working-on/a-peel-off-animation), by [@DLX](https://twitter.com/dlx)
 * [Making Swift code extensible through plugins](https://www.swiftbysundell.com/articles/making-swift-code-extensible-through-plugins/), by [@johnsundell](https://twitter.com/johnsundell)
-- [New stuff from WWDC 2019](https://mackuba.eu/2019/12/03/new-stuff-from-wwdc-2019/), by [@kuba_suder](https://twitter.com/kuba_suder)
-- [Using launch arguments for easier Core Data debugging](https://www.donnywals.com/using-launch-arguments-for-easier-core-data-debugging/), by [@donnywals](https://twitter.com/donnywals)
-- [Efficiently loading images in table views and collection views](https://www.donnywals.com/efficiently-loading-images-in-table-views-and-collection-views/), by [@donnywals](https://twitter.com/donnywals)
+* [New stuff from WWDC 2019](https://mackuba.eu/2019/12/03/new-stuff-from-wwdc-2019/), by [@kuba_suder](https://twitter.com/kuba_suder)
+* [Using launch arguments for easier Core Data debugging](https://www.donnywals.com/using-launch-arguments-for-easier-core-data-debugging/), by [@donnywals](https://twitter.com/donnywals)
+* [Efficiently loading images in table views and collection views](https://www.donnywals.com/efficiently-loading-images-in-table-views-and-collection-views/), by [@donnywals](https://twitter.com/donnywals)
 
 
 **Tools/Controls**
