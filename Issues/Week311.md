@@ -17,6 +17,7 @@
 * [Effective Unit Testing](https://kean.github.io/post/unit-testing), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Self Sizing Table View Cells In Interface Builder](https://useyourloaf.com/blog/self-sizing-table-view-cells-in-interface-builder/), by [@kharrison](https://twitter.com/kharrison)
 * [Zero In-app purchase products returned? Here's a checklist on troubleshooting it](https://fluffy.es/zero-iap-products-checklist/), by [@soulchildpls](https://twitter.com/soulchildpls)
+* [Must-have SwiftUI extensions](https://swiftwithmajid.com/2019/12/04/must-have-swiftui-extensions/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -41,3 +42,4 @@
 * [ApptekStudios](https://github.com/apptekstudios)
 * [fassko](https://github.com/fassko)
 * [V8tr](https://github.com/V8tr)
+* [mecid](https://github.com/mecid)
