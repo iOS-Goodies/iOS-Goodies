@@ -38,8 +38,4 @@
 
 **Credits**
 
-* [LisaDziuba](https://github.com/lisadziuba)
-* [ApptekStudios](https://github.com/apptekstudios)
-* [fassko](https://github.com/fassko)
-* [V8tr](https://github.com/V8tr)
-* [mecid](https://github.com/mecid)
+* [LisaDziuba](https://github.com/lisadziuba), [ApptekStudios](https://github.com/apptekstudios), [fassko](https://github.com/fassko), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid)
