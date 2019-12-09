@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [The Advanced Guide to UserDefaults in Swift](https://www.vadimbulavin.com/advanced-guide-to-userdefaults-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [V8tr](https://github.com/V8tr)
