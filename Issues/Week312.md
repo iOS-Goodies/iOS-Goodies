@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [Cocos2d-x 4.0](https://www.cocos.com/en/cocos2dx) - mature cross-platform game development framework which now supports metal, by [@cocos2dx](https://twitter.com/cocos2dx/)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli)
+* [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli), [pmusolino](https://github.com/pmusolino)
