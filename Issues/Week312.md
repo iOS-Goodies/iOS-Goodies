@@ -1,3 +1,4 @@
+Happy Thursday! This week we got iOS 13.3 and Xcode 11.3 GM. Best feature of iOS 13.3 for me? I can now get rid of the memoji stickers from the emoji keyboard 😅. Let's go to the links!
 
 **Articles**
 
