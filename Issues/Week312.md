@@ -4,7 +4,7 @@
 * [The Advanced Guide to UserDefaults in Swift](https://www.vadimbulavin.com/advanced-guide-to-userdefaults-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Building bottom sheet in SwiftUI](https://swiftwithmajid.com/2019/12/11/building-bottom-sheet-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Advanced asynchronous operations by making use of generics](https://www.avanderlee.com/swift/advanced-asynchronous-operations/), by [@twannl](https://twitter.com/twannl)
-* [Lessons learned from handling JWT on mobile](https://medium.com/just-eat-tech/lessons-learned-from-handling-jwt-on-mobile-c6e4b1d4fed6), by [@justeat_tech](https://twitter.com/justeat_tech)
+* [Lessons learned from handling JWT on mobile](https://tech.just-eat.com/2019/12/04/lessons-learned-from-handling-jwt-on-mobile/), by [@justeat_tech](https://twitter.com/justeat_tech)
 * [Quick tip: clearing your app’s launch screen cache on iOS](https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html), by [@_inside](https://www.twitter.com/_inside)
 * [Handling deeplinks in your app](https://www.donnywals.com/handling-deeplinks-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
 * [All you never wanted to know about state in SwiftUI](https://medium.com/device-blogs/all-you-never-wanted-to-know-about-state-in-swiftui-7314d0c51318), by [@plivesey453](https://twitter.com/plivesey453)
