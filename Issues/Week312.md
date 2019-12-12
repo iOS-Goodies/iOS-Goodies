@@ -9,12 +9,15 @@
 * [Handling deeplinks in your app](https://www.donnywals.com/handling-deeplinks-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
 * [All you never wanted to know about state in SwiftUI](https://medium.com/device-blogs/all-you-never-wanted-to-know-about-state-in-swiftui-7314d0c51318), by [@plivesey453](https://twitter.com/plivesey453)
 * [Building Adaptive Layout with Size Classes — Programmatically](https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89), by [@batikansosun](https://twitter.com/batikansosun)
+* [Animating Metal Content with CoreAnimation](https://noahgilmore.com/blog/coreanimation-metal/), by [@noahsark769](https://twitter.com/noahsark769)
+* [Understanding Structural Design Patterns](https://lickability.com/blog/structural-design-patterns/), by [@AshliRankin18](https://twitter.com/AshliRankin18)
 
 **Tools/Controls**
 
 * [Cocos2d-x 4.0](https://www.cocos.com/en/cocos2dx) - mature cross-platform game development framework which now supports metal, by [@cocos2dx](https://twitter.com/cocos2dx/)
 * [NativeConnect](https://nativeconnect.app/blog/official-launch/) - Desktop client for App Store Connect, by [@NativeConnect](https://twitter.com/NativeConnect)
 * [Pecker](https://github.com/woshiccm/Pecker) - CodePecker is a tool to detect unused code, by [@Roy78463507](https://twitter.com/Roy78463507)
+* [Alley](https://github.com/radianttap/Alley) - Essential `URLSessionDataTask` micro-wrapper for communication with HTTP(S) web services, with built-in automatic request retries, by [@radiantav](https://twitter.com/radiantav)
 
 **Business/Career**
 
