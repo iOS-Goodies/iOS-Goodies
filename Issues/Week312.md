@@ -8,6 +8,7 @@
 * [Quick tip: clearing your app’s launch screen cache on iOS](https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html), by [@_inside](https://www.twitter.com/_inside)
 * [Handling deeplinks in your app](https://www.donnywals.com/handling-deeplinks-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
 * [All you never wanted to know about state in SwiftUI](https://medium.com/device-blogs/all-you-never-wanted-to-know-about-state-in-swiftui-7314d0c51318), by [@plivesey453](https://twitter.com/plivesey453)
+* [Building Adaptive Layout with Size Classes — Programmatically](https://medium.com/flawless-app-stories/building-adaptive-layout-with-size-classes-programmatically-40db42950c89), by [@batikansosun](https://twitter.com/batikansosun)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli), [pmusolino](https://github.com/pmusolino), [mecid](https://github.com/mecid), [plivesey](https://github.com/plivesey/)
+* [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli), [pmusolino](https://github.com/pmusolino), [mecid](https://github.com/mecid), [plivesey](https://github.com/plivesey/), [LisaDziuba](https://github.com/lisadziuba)
