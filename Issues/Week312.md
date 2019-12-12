@@ -7,6 +7,7 @@
 * [Lessons learned from handling JWT on mobile](https://medium.com/just-eat-tech/lessons-learned-from-handling-jwt-on-mobile-c6e4b1d4fed6), by [@justeat_tech](https://twitter.com/justeat_tech)
 * [Quick tip: clearing your app’s launch screen cache on iOS](https://rambo.codes/ios/quick-tip/2019/12/09/clearing-your-apps-launch-screen-cache-on-ios.html), by [@_inside](https://www.twitter.com/_inside)
 * [Handling deeplinks in your app](https://www.donnywals.com/handling-deeplinks-in-your-app/), by [@donnywals](https://twitter.com/donnywals)
+* [All you never wanted to know about state in SwiftUI](https://medium.com/device-blogs/all-you-never-wanted-to-know-about-state-in-swiftui-7314d0c51318), by [@plivesey453](https://twitter.com/plivesey453)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli), [pmusolino](https://github.com/pmusolino), [mecid](https://github.com/mecid)
+* [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/ramshandilya), [albertodebortoli](https://github.com/albertodebortoli), [pmusolino](https://github.com/pmusolino), [mecid](https://github.com/mecid), [plivesey](https://github.com/plivesey/)
