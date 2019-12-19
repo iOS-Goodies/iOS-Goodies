@@ -1,4 +1,4 @@
-- https://www.swiftforgood.com/
+Happy Thursday! I need to start this edition of our newsletter talking about a new book: [Swift for Good](https://www.swiftforgood.com/). Swift for Good is a book with 20 chapters, each written by written by a different author, on a different Swift or iOS related topic. It's an amazing effort, and besides it being an awesome book, all the revenue will go to [Black Girls Code](http://blackgirlscode.com/). And yes, that's all revenue, not all profit. The authors donated their time and knowledge and worked for free. Please help spread the word or consider buying this book to learn something new and to help a great cause!
 
 **Articles**
 
