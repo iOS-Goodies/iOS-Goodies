@@ -11,6 +11,8 @@
 * [Modern table views with diffable data sources](https://www.donnywals.com/modern-table-views-with-diffable-data-sources/), by 
 [@donnywals](https:/twitter.com/donnywals)
 * [Dependency injection with Storyboards and Xcode 11](https://www.donnywals.com/dependency-injection-with-storyboards-and-xcode-11/), by [@donnywals](https:/twitter.com/donnywals)
+* [No space left on device: Testing low storage scenarios](https://www.avanderlee.com/debugging/no-space-left-on-device/), by [@twannl](https://www.twitter.com/twannl)
+* [Routing for iOS: universal navigation without rewriting the app](https://badootech.badoo.com/routing-for-ios-universal-navigation-without-rewriting-the-app-215b52a37cf2), by Azat Zulkarnyaev
 
 **Tools/Controls**
 
@@ -19,6 +21,8 @@
 **Business/Career**
 
 * [What I've learned after sending 147 proposals to 36 conferences in a year](https://drobinin.com/posts/what-ive-learned-after-sending-147-proposals-to-36-conferences-in-a-year/), by [@valzevul](https://twitter.com/valzevul)
+* [Getting ready to publish your app on the App Store](https://www.donnywals.com/getting-ready-to-publish-your-app-on-the-app-store/), by [@donnywals](https:/twitter.com/donnywals)
+* [Start With No](https://37signals.com/gettingreal/ch05_Start_With_No.php), by [@37signals](https://twitter.com/37signals)
 
 **UI/UX**
 
