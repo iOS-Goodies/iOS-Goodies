@@ -1,5 +1,4 @@
-- https://developer.apple.com/security-bounty/
-- https://developer.apple.com/news/?id=12232019b
+Happy Thursday! This week Apple announced that [new apps using `UIWebView` will not be accepted on the App Store starting April 2020](https://developer.apple.com/news/?id=12232019b); same thing for app updates, but the deadline is December 2020. So now it's really time to replace the `UIWebView` with `WKWebView`.
 
 **Articles**
 
