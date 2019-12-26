@@ -15,7 +15,7 @@ Happy Thursday! This week Apple announced that [new apps using `UIWebView` will 
 
 **Tools/Controls**
 
-* 
+* [FloatingActionButton](https://github.com/exyte/FloatingActionButton) - Easily customizable floating button menu created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Business/Career**
 
