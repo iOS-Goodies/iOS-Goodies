@@ -7,6 +7,7 @@
 * [What is @discardableResult](https://sarunw.com/tips/what-is-discardableresult/), by [@sarunw](https://twitter.com/sarunw)
 * [GraphQL Advances when fetching data in iOS with Swift and Apollo SDK](https://kristaps.me/graphql-advances-with-swift/), by [@fassko](https://twitter.com/fassko)
 * [How to use scroll view in Interface Builder / Storyboard (Xcode 11)](https://fluffy.es/scrollview-storyboard-xcode-11/), by [@soulchildpls](https://twitter.com/soulchildpls)
+* [SwiftUI learning curve in 2019](https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [Shankar Madeshvaran](https://github.com/shankarmadeshvaran), [Andreas Lüdemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [cupnoodle](https://github.com/cupnoodle)
+* [Shankar Madeshvaran](https://github.com/shankarmadeshvaran), [Andreas Lüdemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [cupnoodle](https://github.com/cupnoodle), [mecid](https://github.com/mecid)
