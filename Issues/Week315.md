@@ -8,6 +8,7 @@
 * [GraphQL Advances when fetching data in iOS with Swift and Apollo SDK](https://kristaps.me/graphql-advances-with-swift/), by [@fassko](https://twitter.com/fassko)
 * [How to use scroll view in Interface Builder / Storyboard (Xcode 11)](https://fluffy.es/scrollview-storyboard-xcode-11/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [SwiftUI learning curve in 2019](https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/), by [@mecid](https://twitter.com/mecid)
+* [Building Pager view in SwiftUI](https://swiftwithmajid.com/2019/12/25/building-pager-view-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
