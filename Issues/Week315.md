@@ -9,10 +9,11 @@
 * [How to use scroll view in Interface Builder / Storyboard (Xcode 11)](https://fluffy.es/scrollview-storyboard-xcode-11/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [SwiftUI learning curve in 2019](https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/), by [@mecid](https://twitter.com/mecid)
 * [Building Pager view in SwiftUI](https://swiftwithmajid.com/2019/12/25/building-pager-view-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [How SwiftUI Replaced our Open Source Framework](https://exyte.com/blog/swiftui-and-our-open-source-framework?utm_source=ios_goodies&utm_medium=referral&utm_campaign=website_blog), by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Tools/Controls**
 
-* 
+* [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Business/Career**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [Shankar Madeshvaran](https://github.com/shankarmadeshvaran), [Andreas Lüdemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [cupnoodle](https://github.com/cupnoodle), [mecid](https://github.com/mecid)
+* [Shankar Madeshvaran](https://github.com/shankarmadeshvaran), [Andreas Lüdemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [cupnoodle](https://github.com/cupnoodle), [mecid](https://github.com/mecid), [ExyteHQ](https://github.com/exyte)
