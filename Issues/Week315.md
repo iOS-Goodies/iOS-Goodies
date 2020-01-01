@@ -9,15 +9,17 @@
 * [How to use scroll view in Interface Builder / Storyboard (Xcode 11)](https://fluffy.es/scrollview-storyboard-xcode-11/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [SwiftUI learning curve in 2019](https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/), by [@mecid](https://twitter.com/mecid)
 * [Building Pager view in SwiftUI](https://swiftwithmajid.com/2019/12/25/building-pager-view-in-swiftui/), by [@mecid](https://twitter.com/mecid)
-* [How SwiftUI Replaced our Open Source Framework](https://exyte.com/blog/swiftui-and-our-open-source-framework?utm_source=ios_goodies&utm_medium=referral&utm_campaign=website_blog), by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [How SwiftUI Replaced our Open Source Framework](https://exyte.com/blog/swiftui-and-our-open-source-framework), by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [UICollectionView Ergonomics](https://www.iamsim.me/uicollectionview-ergonomics/), by [@simmelj](https://twitter.com/simmelj)
 
 **Tools/Controls**
 
 * [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [Publish](https://github.com/johnsundell/publish) - A static site generator for Swift developers, by [@johnsundell](https://twitter.com/johnsundell)
 
 **Business/Career**
 
-* 
+* [How We Run the NetNewsWire Open Source Project](https://inessential.com/2019/12/27/how_we_run_the_netnewswire_open_source_p), by [@brentsimmons](https://twitter.com/brentsimmons/)
 
 **UI/UX**
 
