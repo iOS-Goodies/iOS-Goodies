@@ -20,6 +20,7 @@
 **Business/Career**
 
 * [How We Run the NetNewsWire Open Source Project](https://inessential.com/2019/12/27/how_we_run_the_netnewswire_open_source_p), by [@brentsimmons](https://twitter.com/brentsimmons/)
+* [How To Provide Free Trials in the App Store](https://cutecoder.org/business/free-trial-app-store/), by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo/)
 
 **UI/UX**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [Shankar Madeshvaran](https://github.com/shankarmadeshvaran), [Andreas Lüdemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [cupnoodle](https://github.com/cupnoodle), [mecid](https://github.com/mecid), [ExyteHQ](https://github.com/exyte)
+* [Shankar Madeshvaran](https://github.com/shankarmadeshvaran), [Andreas Lüdemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [cupnoodle](https://github.com/cupnoodle), [mecid](https://github.com/mecid), [ExyteHQ](https://github.com/exyte), [adib](https://github.com/adib)
