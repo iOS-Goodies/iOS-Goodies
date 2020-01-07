@@ -8,6 +8,7 @@
 * [Sign in with Apple, Part 1: Apps](https://sarunw.com/posts/sign-in-with-apple-1/), by [@sarunw](https://twitter.com/sarunw)
 * [Sign in with Apple, Part 2: Private Email Relay Service](https://sarunw.com/posts/sign-in-with-apple-2/), by [@sarunw](https://twitter.com/sarunw)
 * [Sign in with Apple, Part 3: Backend – Token verification](https://sarunw.com/posts/sign-in-with-apple-3/), by [@sarunw](https://twitter.com/sarunw)
+* [Running XPC Activities On Demand](https://bryce.co/running-xpc-activities-on-demand/), by [@brycepauken](https://twitter.com/brycepauken)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [andreaslydemann](https://github.com/andreaslydemann), [V8tr](https://github.com/V8tr), [LisaDziuba](https://github.com/lisadziuba), [sarunw](https://github.com/sarunw)
+* [andreaslydemann](https://github.com/andreaslydemann), [V8tr](https://github.com/V8tr), [LisaDziuba](https://github.com/lisadziuba), [brycepauken](https://github.com/brycepauken), [sarunw](https://github.com/sarunw)
