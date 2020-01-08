@@ -10,6 +10,7 @@
 * [Sign in with Apple, Part 3: Backend – Token verification](https://sarunw.com/posts/sign-in-with-apple-3/), by [@sarunw](https://twitter.com/sarunw)
 * [Running XPC Activities On Demand](https://bryce.co/running-xpc-activities-on-demand/), by [@brycepauken](https://twitter.com/brycepauken)
 * [Building networking layer using functions](https://swiftwithmajid.com/2020/01/08/building-networking-layer-using-functions/), by [@mecid](https://twitter.com/mecid)
+* [The iOS internationalization basics I keep forgetting](https://albertodebortoli.com/2020/01/06/the-ios-internationalization-basics-i-keep-forgetting/), by [@albertodebo](https://twitter.com/albertodebo)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [andreaslydemann](https://github.com/andreaslydemann), [V8tr](https://github.com/V8tr), [LisaDziuba](https://github.com/lisadziuba), [brycepauken](https://github.com/brycepauken), [sarunw](https://github.com/sarunw), [mecid](https://github.com/mecid)
+* [andreaslydemann](https://github.com/andreaslydemann), [V8tr](https://github.com/V8tr), [LisaDziuba](https://github.com/lisadziuba), [brycepauken](https://github.com/brycepauken), [sarunw](https://github.com/sarunw), [mecid](https://github.com/mecid), [albertodebortoli](https://github.com/albertodebortoli)
