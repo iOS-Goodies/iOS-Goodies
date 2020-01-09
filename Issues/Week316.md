@@ -1,3 +1,4 @@
+Happy Thursday! Apple released the [Swift 5.2 nightly development snapshots](https://forums.swift.org/t/swift-5-2-nightly-development-snapshots/32356), and we've got plenty of awesome links for you this week! Enjoy!
 
 **Articles**
 
