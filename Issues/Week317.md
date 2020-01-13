@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [Spek](https://github.com/onmyway133/Spek), by [@onmyway133](https://twitter.com/onmyway133)
+* [Swift Embedded](https://github.com/swift-embedded/swift-embedded), by [Alan Dragomirecký](https://github.com/dragomirecky)
 
 **Business/Career**
 
