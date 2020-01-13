@@ -3,6 +3,7 @@
 
 * [ViewState in SwiftUI using ViewBuilder](https://www.morningswiftui.com/blog/viewstate-in-swiftui-using-viewbuilder), by [@thomassivilay](https://twitter.com/thomassivilay)
 * [Functions in Swift: Pure, Higher-Order and First-Class Functions, Currying and Partial Application](https://www.vadimbulavin.com/pure-functions-higher-order-functions-and-first-class-functions-in-swift/), by [@V8tr](https://twitter.com/V8tr)
+* [Print unescaped string output in Swift](https://sarunw.com/tips/print-unescaped-string/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [thomas-sivilay](https://github.com/thomas-sivilay), [V8tr](https://github.com/V8tr)
+* [onmyway133](https://github.com/onmyway133), [thomas-sivilay](https://github.com/thomas-sivilay), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw)
