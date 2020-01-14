@@ -6,6 +6,7 @@
 * [Print unescaped string output in Swift](https://sarunw.com/tips/print-unescaped-string/), by [@sarunw](https://twitter.com/sarunw)
 * [The best architecture for the iOS app, does it even exist?](https://medium.com/flawless-app-stories/the-best-architecture-for-ios-app-does-it-even-exist-3af357ac62e7), by Oleksandr Stepanov
 * [Move view when keyboard is shown (guide)](https://fluffy.es/move-view-when-keyboard-is-shown/), by [@soulchildpls](http://twitter.com/soulchildpls)
+* [Building a Caching Custom Combine Operator: The Chain](https://www.appsdissected.com/caching-custom-combine-operator-1-chain/), by [@AppsDissected](https://twitter.com/AppsDissected)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [thomas-sivilay](https://github.com/thomas-sivilay), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [cupnoodle](https://github.com/cupnoodle)
+* [onmyway133](https://github.com/onmyway133), [thomas-sivilay](https://github.com/thomas-sivilay), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [cupnoodle](https://github.com/cupnoodle), [AppsDissected](https://github.com/AppsDissected)
