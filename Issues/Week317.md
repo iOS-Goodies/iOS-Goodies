@@ -14,6 +14,7 @@
 
 * [Spek](https://github.com/onmyway133/Spek), by [@onmyway133](https://twitter.com/onmyway133)
 * [Swift Embedded](https://github.com/swift-embedded/swift-embedded), by [Alan Dragomirecký](https://github.com/dragomirecky)
+* [swift-mod](https://github.com/ra1028/swift-mod), by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
 **Business/Career**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [onmyway133](https://github.com/onmyway133), [thomas-sivilay](https://github.com/thomas-sivilay), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [cupnoodle](https://github.com/cupnoodle), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid), [donnywals](https://github.com/donnywals)
+* [onmyway133](https://github.com/onmyway133), [thomas-sivilay](https://github.com/thomas-sivilay), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [cupnoodle](https://github.com/cupnoodle), [AppsDissected](https://github.com/AppsDissected), [mecid](https://github.com/mecid), [donnywals](https://github.com/donnywals), [Ryo Aoyama](https://github.com/ra1028)
