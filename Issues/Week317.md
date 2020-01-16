@@ -31,7 +31,7 @@ Happy Thursday! This week we got Xcode 11.3.1, Apple announced that starting Apr
 
 **Videos**
 
-* 
+* [Swift Heroes 2019](https://www.youtube.com/playlist?list=PLfCiO1zYKkAT4Jit4v0cT1OYw57_c5qeq), by [@swiftheroes_it](https://twitter.com/swiftheroes_it)
 
 **Credits**
 
