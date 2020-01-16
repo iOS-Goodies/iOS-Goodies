@@ -1,3 +1,4 @@
+Happy Thursday! This week we got Xcode 11.3.1, Apple announced that starting April 2020 apps submitted to the store will need to [use a stryboard for the app's launch screen](https://developer.apple.com/news/?id=01132020b), and [Swift for Good](https://www.swiftforgood.com/), an awesome Swift book that gives all its revenue to [charity](http://www.blackgirlscode.com/) was released - go [get your copy](https://gumroad.com/l/swift-for-good-1) and spread theword about it!
 
 **Articles**
 
@@ -9,16 +10,21 @@
 * [Building a Caching Custom Combine Operator: The Chain](https://www.appsdissected.com/caching-custom-combine-operator-1-chain/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [The magic of view preferences in SwiftUI](https://swiftwithmajid.com/2020/01/15/the-magic-of-view-preferences-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Understanding Combine's Publishers and Subscribers](https://www.donnywals.com/understanding-combines-publishers-and-subscribers/), by [@donnywals](https://twitter.com/donnywals)
+* [Optionals in Swift Objective-C Interoperability](https://fabiancanas.com/blog/2020/1/9/swift-undefined-behavior.html), by [@fcanas](https://www.twitter.com/fcanas)
+* [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/), by [@dan_abramov](https://twitter.com/dan_abramov)
+* [Adopting UIAppearance in Custom Views ](https://pspdfkit.com/blog/2020/adopting-uiappearance/), by [@akashivskyy](https://twitter.com/akashivskyy)
 
 **Tools/Controls**
 
-* [Spek](https://github.com/onmyway133/Spek), by [@onmyway133](https://twitter.com/onmyway133)
-* [Swift Embedded](https://github.com/swift-embedded/swift-embedded), by [Alan Dragomirecký](https://github.com/dragomirecky)
-* [swift-mod](https://github.com/ra1028/swift-mod), by [@ra1028fe5](https://twitter.com/ra1028fe5)
+* [Reality Converter](https://developer.apple.com/news/?id=01132020a) - convert, view, and customize USDZ 3D objects on Mac, by Apple
+* [Spek](https://github.com/onmyway133/Spek) - Function builder BDD testing framework in Swift, by [@onmyway133](https://twitter.com/onmyway133)
+* [Swift Embedded](https://github.com/swift-embedded/swift-embedded) - Swift for Embedded Systems, by [Alan Dragomirecký](https://github.com/dragomirecky)
+* [swift-mod](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting, by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
 **Business/Career**
 
-* 
+* [Open letter to experienced developers about the situation of junior developers](https://www.linkedin.com/pulse/open-letter-experienced-developers-situation-junior-greg-lhotellier/), by [@greg3z](https://twitter.com/greg3z)
+
 **UI/UX**
 
 * 
