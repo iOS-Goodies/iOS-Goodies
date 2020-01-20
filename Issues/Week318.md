@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [Smaller Git Repo Size Using Git LFS (🤔 Xcode Assets)](https://jasonzurita.com/smaller-repo-size-using-git-lfs/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
 
 **Business/Career**
 
@@ -27,3 +27,4 @@
 * [LisaDziuba](https://github.com/lisadziuba)
 * [Karol Piątek](https://github.com/karolpiateknet)
 * [fassko](https://github.com/fassko)
+* [jasonzurita](https://github.com/jasonzurita)
