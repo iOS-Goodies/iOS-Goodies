@@ -13,7 +13,8 @@
 
 **Business/Career**
 
-* 
+* [How to keep the product release process tight when growing fast (relying on continuous improvement, knowledge sharing, empathy, respect and humbleness 🙇‍♂️)](http://ennioma.com/2019/12/16/how-to-keep-the-product-release-process-tight-when-growing-fast/), by [@ennioma](https://twitter.com/EnnioMa)
+
 
 **UI/UX**
 
