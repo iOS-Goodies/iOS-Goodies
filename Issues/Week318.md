@@ -14,6 +14,8 @@
 * [On Replacing OperationQueue](https://inessential.com/2020/01/20/on_replacing_operationqueue), by [@brentsimmons](https://twitter.com/brentsimmons)
 * [Optimizing views in SwiftUI using EquatableView](https://swiftwithmajid.com/2020/01/22/optimizing-views-in-swiftui-using-equatableview/), by [@mecid](https://twitter.com/mecid)
 * [Sign in with Apple, Part 4: Web and Other Platforms](https://sarunw.com/posts/sign-in-with-apple-4/), by [@sarunw](https://twitter.com/sarunw)
+* [Uniform Type Identifier Bug on iOS — and How It Affects NetNewsWire](https://inessential.com/2020/01/20/universal_type_identifier_bug_on_ios_and), by [@brentsimmons](twitter.com/brentsimmons/)
+* [Empty View With Diffable Datasource](https://www.swiftjectivec.com/diffable-datasource-empty-view/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 
 **Tools/Controls**
 
