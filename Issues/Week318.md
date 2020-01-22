@@ -6,7 +6,7 @@
 * [Ignorance of the URLRequest cache](https://kristaps.me/ignorance-of-cache/) by [@fassko](https://twitter.com/fassko)
 * [Getting Started with RxSwift and RxCocoa](https://medium.com/flawless-app-stories/all-about-memory-leaks-in-ios-cdd450d0cc34) by [@goktuggumus](https://twitter.com/goktuggumus)
 * [Asynchronous Programming with Futures and Promises in Swift with Combine Framework](https://www.vadimbulavin.com/asynchronous-programming-with-future-and-promise-in-swift-with-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
-
+* [Building a Caching Custom Combine Operator #2: The .cache() Method](https://www.appsdissected.com/caching-custom-combine-operator-2-cache-method-generics/), by [@AppsDissected](https://twitter.com/AppsDissected)
 
 **Tools/Controls**
 
@@ -32,3 +32,4 @@
 * [fassko](https://github.com/fassko)
 * [jasonzurita](https://github.com/jasonzurita)
 * [V8tr](https://github.com/V8tr)
+* [AppsDissected](https://github.com/AppsDissected)
