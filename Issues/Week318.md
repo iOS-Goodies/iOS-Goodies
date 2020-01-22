@@ -12,6 +12,7 @@
 * [Using CoreData with SwiftUI](https://augmentedcode.io/2020/01/19/using-coredata-with-swiftui/), by [@toomasvahter](https://twitter.com/toomasvahter)
 * [Making an Interactive Card based UI using Swift (Part 1/2)](https://exploringswift.com/making-an-interactive-card-based-ui-using-swift-part-1-2/), by [@madebyon](https://twitter.com/madebyon)
 * [On Replacing OperationQueue](https://inessential.com/2020/01/20/on_replacing_operationqueue), by [@brentsimmons](https://twitter.com/brentsimmons)
+* [Optimizing views in SwiftUI using EquatableView](https://swiftwithmajid.com/2020/01/22/optimizing-views-in-swiftui-using-equatableview/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [andreaslydemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [karolpiateknet](https://github.com/karolpiateknet),[fassko](https://github.com/fassko), [jasonzurita](https://github.com/jasonzurita), [V8tr](https://github.com/V8tr), [AppsDissected](https://github.com/AppsDissected), [rbarbosa](https://github.com/rbarbosa)
+* [andreaslydemann](https://github.com/andreaslydemann), [LisaDziuba](https://github.com/lisadziuba), [karolpiateknet](https://github.com/karolpiateknet),[fassko](https://github.com/fassko), [jasonzurita](https://github.com/jasonzurita), [V8tr](https://github.com/V8tr), [AppsDissected](https://github.com/AppsDissected), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid)
