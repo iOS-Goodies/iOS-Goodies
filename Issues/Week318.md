@@ -8,6 +8,10 @@
 * [Asynchronous Programming with Futures and Promises in Swift with Combine Framework](https://www.vadimbulavin.com/asynchronous-programming-with-future-and-promise-in-swift-with-combine-framework/), by [@V8tr](https://twitter.com/V8tr)
 * [Building a Caching Custom Combine Operator #2: The .cache() Method](https://www.appsdissected.com/caching-custom-combine-operator-2-cache-method-generics/), by [@AppsDissected](https://twitter.com/AppsDissected)
 * [Enumerating elements in ForEach](https://oleb.net/2020/foreach-enumerated/), by [@olebegemann](https://twitter.com/olebegemann)
+* [Localization with SwiftUI, how to preview your localized content](https://benoitpasquier.com/localization-swiftui-how-top-preview-localized-content/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [Using CoreData with SwiftUI](https://augmentedcode.io/2020/01/19/using-coredata-with-swiftui/), by [@toomasvahter](https://twitter.com/toomasvahter)
+* [Making an Interactive Card based UI using Swift (Part 1/2)](https://exploringswift.com/making-an-interactive-card-based-ui-using-swift-part-1-2/), by [@madebyon](https://twitter.com/madebyon)
+* [On Replacing OperationQueue](https://inessential.com/2020/01/20/on_replacing_operationqueue), by [@brentsimmons](https://twitter.com/brentsimmons)
 
 **Tools/Controls**
 
