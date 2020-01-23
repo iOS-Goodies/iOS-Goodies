@@ -1,3 +1,7 @@
+Happy Thursday! It's (still) the beginning of a new year, so it's time to think if you want to attend a conference this year. Or maybe even speak at one? Conferences are great places to meet like-minded people, and if you can attend one, or speak at one, I would totally encourage you to do it. But which conference to choose? There's [this already classic link](https://cocoaconferences.com/) where you can see all the announced upcoming conferences, which has a new awesome feature: get an `.ics` file with the conferences and import it in your calendar, or subscribe to it Google Calendar.
+
+In other news, [Ted Kremenek](twitter.com/tkremenek) posted about the [road to Swift 6](https://forums.swift.org/t/on-the-road-to-swift-6/32862) and I must say, it sounds very good. They had me at "Faster builds" 😁.
+
 **Articles**
 
 * [The Ten Commandments of iOS Development](https://andreaslydemann.com/the-ten-commandments-of-ios-development/), by [@andreaslydemann](https://twitter.com/andreaslydemann)
