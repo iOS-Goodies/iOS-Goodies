@@ -16,6 +16,7 @@
 * [Sign in with Apple, Part 4: Web and Other Platforms](https://sarunw.com/posts/sign-in-with-apple-4/), by [@sarunw](https://twitter.com/sarunw)
 * [Uniform Type Identifier Bug on iOS — and How It Affects NetNewsWire](https://inessential.com/2020/01/20/universal_type_identifier_bug_on_ios_and), by [@brentsimmons](twitter.com/brentsimmons/)
 * [Empty View With Diffable Datasource](https://www.swiftjectivec.com/diffable-datasource-empty-view/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+* [Refactoring a networking layer to use Combine](https://www.donnywals.com/refactoring-a-networking-layer-to-use-combine/), by [@donnywals](https://twitter.com/donnywals)
 
 **Tools/Controls**
 
