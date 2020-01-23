@@ -21,6 +21,7 @@ In other news, [Ted Kremenek](twitter.com/tkremenek) posted about the [road to S
 * [Uniform Type Identifier Bug on iOS — and How It Affects NetNewsWire](https://inessential.com/2020/01/20/universal_type_identifier_bug_on_ios_and), by [@brentsimmons](twitter.com/brentsimmons/)
 * [Empty View With Diffable Datasource](https://www.swiftjectivec.com/diffable-datasource-empty-view/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 * [Refactoring a networking layer to use Combine](https://www.donnywals.com/refactoring-a-networking-layer-to-use-combine/), by [@donnywals](https://twitter.com/donnywals)
+* [Reducing iOS Build Times by using Interface Targets](https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets.html), by [@rockthebruno](https://twitter.com/rockthebruno)
 
 **Tools/Controls**
 
