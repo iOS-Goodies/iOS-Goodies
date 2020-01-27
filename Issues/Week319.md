@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [Swift Doc](https://github.com/SwiftDocOrg/swift-doc), by [Mattt](https://twitter.com/mattt)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [LeeKahSeng](https://github.com/LeeKahSeng), [Ramshandilya](https://github.com/ramshandilya)
