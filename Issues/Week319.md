@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* [Swift Doc](https://github.com/SwiftDocOrg/swift-doc), by [Mattt](https://twitter.com/mattt)
+* [Swift Doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects, by [Mattt](https://twitter.com/mattt)
 
 **Business/Career**
 
