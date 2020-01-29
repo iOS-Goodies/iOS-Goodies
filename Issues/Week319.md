@@ -5,6 +5,7 @@
 * [How to implement dynamic height table view cell](https://fluffy.es/dynamic-height-tableview-cell/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Any & AnyObject in iOS](https://medium.com/flawless-app-stories/any-anyobject-in-ios-803515bd95a6), by Nitin Aggarwal
 * [Test Doubles in Swift: Dummy, Fake, Stub, Mock](https://swiftsenpai.com/testing/test-doubles-in-swift/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [How to make your iOS app smarter with sentiment analysis](https://benoitpasquier.com/2020/01/how-to-make-your-ios-app-smarter-with-sentiment-analysis/), by [@Benoit Pasquier](https://twitter.com/benoitpasquier_)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [LeeKahSeng](https://github.com/LeeKahSeng), [Ramshandilya](https://github.com/ramshandilya)
+* [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [LeeKahSeng](https://github.com/LeeKahSeng), [Ramshandilya](https://github.com/ramshandilya), [popei69](https://github.com/popei69)
