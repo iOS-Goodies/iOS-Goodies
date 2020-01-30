@@ -1,4 +1,4 @@
-- [https://iosdevblogs.com/](https://iosdevblogs.com/), by [@ay8s](https://twitter.com/ay8s)
+Happy Thursday! I've featured [Dave Verwer](https://twitter.com/daveverwer)'s [iOS Dev directory](iosdevdirectory.com) [last year](https://ios-goodies.com/post/183608850531/week-274). Now, there's a very nice project built on top of it. [Andrew Yates](https://twitter.com/ay8s) built [iOS Dev Blogs](https://iosdevblogs.com/), a feed that aggregates content from the iOS Dev Directory. It's a really good resource if you want to stay up to date with what's being published in the iOS dev community. Beware, though, there's a lot of content 😁.
 
 **Articles**
 
