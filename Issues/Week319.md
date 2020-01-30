@@ -7,6 +7,7 @@
 * [Test Doubles in Swift: Dummy, Fake, Stub, Mock](https://swiftsenpai.com/testing/test-doubles-in-swift/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [How to make your iOS app smarter with sentiment analysis](https://benoitpasquier.com/2020/01/how-to-make-your-ios-app-smarter-with-sentiment-analysis/), by [@Benoit Pasquier](https://twitter.com/benoitpasquier_)
 * [Using UIKit views in SwiftUI](https://swiftwithmajid.com/2020/01/29/using-uikit-views-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Intrinsic content size in SwiftUI](https://sarunw.com/tips/intrinsic-content-size-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 
 
 **Tools/Controls**
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [LeeKahSeng](https://github.com/LeeKahSeng), [Ramshandilya](https://github.com/ramshandilya), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69)
+* [cupnoodle](https://github.com/cupnoodle), [LisaDziuba](https://github.com/lisadziuba), [LeeKahSeng](https://github.com/LeeKahSeng), [Ramshandilya](https://github.com/ramshandilya), [mecid](https://github.com/mecid), [popei69](https://github.com/popei69), [sarunw](https://github.com/sarunw)
