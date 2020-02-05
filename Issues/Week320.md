@@ -6,6 +6,7 @@
 * [Snatch Bugs with This Lightweight Bug-Reporting iOS Library](https://infinum.com/the-capsized-eight/snatch-bugs-with-bug-reporting-ios-library), by [@dabodamjan](https://twitter.com/dabodamjan)
 * [Using UIView and UIViewController in SwiftUI](https://www.vadimbulavin.com/using-uikit-uiviewcontroller-and-uiview-in-swiftui/), by [@V8tr](https://www.twitter.com/V8tr)
 * [SwiftUI basic Shape operations](https://sarunw.com/posts/swiftui-basic-shape-operations/), by [@sarunw](https://twitter.com/sarunw)
+*  [Using Xcode Previews with existing views without using SwiftUI](https://www.avanderlee.com/xcode/xcode-previews/?utm_campaign=coschedule&utm_source=twitter&utm_medium=twannl), by [@twannl](https://twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl)
+* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [viniciuscarvalho](https://github.com/viniciuscarvalho)
