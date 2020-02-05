@@ -8,6 +8,7 @@
 * [SwiftUI basic Shape operations](https://sarunw.com/posts/swiftui-basic-shape-operations/), by [@sarunw](https://twitter.com/sarunw)
 * [Building ViewModels with Combine framework](https://swiftwithmajid.com/2020/02/05/building-viewmodels-with-combine-framework/), by [@mecid](https://twitter.com/mecid)
 * [Architecting a Feature Toggle Service for iOS Apps](https://andreaslydemann.com/clean-ios-architecture-for-feature-toggling/), by [@andreaslydemann](https://www.twitter.com/andreaslydemann)
+* [Mastering Xcode Previews with SnapKit + UIKit](https://medium.com/@lyeskinnikitaalexandrovich/mastering-xcode-previews-with-snapkit-uikit-aa82a146059a), by [@lyeskin](https://twitter.com/lyeskin1)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [mecid](https://github.com/mecid), [andreaslydemann](https://github.com/andreaslydemann)
+* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [mecid](https://github.com/mecid), [andreaslydemann](https://github.com/andreaslydemann), [lyeskin](https://github.com/lyeskin)
