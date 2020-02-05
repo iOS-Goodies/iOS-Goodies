@@ -7,6 +7,7 @@
 * [Using UIView and UIViewController in SwiftUI](https://www.vadimbulavin.com/using-uikit-uiviewcontroller-and-uiview-in-swiftui/), by [@V8tr](https://www.twitter.com/V8tr)
 * [SwiftUI basic Shape operations](https://sarunw.com/posts/swiftui-basic-shape-operations/), by [@sarunw](https://twitter.com/sarunw)
 * [Building ViewModels with Combine framework](https://swiftwithmajid.com/2020/02/05/building-viewmodels-with-combine-framework/), by [@mecid](https://twitter.com/mecid)
+* [Architecting a Feature Toggle Service for iOS Apps](https://andreaslydemann.com/clean-ios-architecture-for-feature-toggling/), by [@andreaslydemann](https://www.twitter.com/andreaslydemann)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [mecid](https://github.com/mecid) 
+* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [mecid](https://github.com/mecid), [andreaslydemann](https://github.com/andreaslydemann)
