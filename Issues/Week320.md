@@ -12,6 +12,7 @@
 * [Mastering Xcode Previews with SnapKit + UIKit](https://medium.com/@lyeskinnikitaalexandrovich/mastering-xcode-previews-with-snapkit-uikit-aa82a146059a), by [@lyeskin](https://twitter.com/lyeskin1)
 * [Gradient in SwiftUI](https://sarunw.com/posts/gradient-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [Dynamic Master Detail View Background Colors](https://www.swiftjectivec.com/master-detail-styling/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+* [Swift Developer Roadmap](https://trello.com/templates/engineering/swift-developer-roadmap-hLGyiEEE), by [@ronanrodrigoo](https://twitter.com/ronanrodrigoo)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [mecid](https://github.com/mecid), [andreaslydemann](https://github.com/andreaslydemann), [lyeskin](https://github.com/lyeskin)
+* [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [mecid](https://github.com/mecid), [andreaslydemann](https://github.com/andreaslydemann), [lyeskin](https://github.com/lyeskin), [viniciuscarvalho](https://github.com/viniciuscarvalho)
