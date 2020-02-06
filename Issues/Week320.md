@@ -1,4 +1,4 @@
-- https://developer.apple.com/documentation/xcode_release_notes/xcode_11_4_beta_release_notes: support for push notifications in the simulator, ios/macos (catalyst) universal purchase, swift 5.2; requires Catalina. “Fixed a bug that prevented entering a 0 constant in the constraint popup editors.”
+Happy Thursday! The first beta of Xcode 11.4 is out, and it's a big one 😁. Go read the [release notes](https://developer.apple.com/documentation/xcode_release_notes/xcode_11_4_beta_release_notes) and I'm sure you'll find at least a few things that will make you happy. Swift 5.2? Support for push notifications in the simulator? iOS/macOS bundles and universal purchases? A fix for that annoying bug that doesn't let you add a 0 constant constraint in nterface Builder? Huge improvements for XCTest? I've been having fun watching the reactions on Twitter, and there really is something for everyone. A lot of people were excited by different things. Great job by the people working on dev tools at Apple! 👏
 
 **Articles**
 
