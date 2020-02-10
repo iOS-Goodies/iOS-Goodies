@@ -5,6 +5,7 @@
 * [How to expand and contract height of a UITableView cell when tapped](https://fluffy.es/how-to-expand-tableview-cell/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Expand and Collapse List Rows with Animation in SwiftUI](https://www.vadimbulavin.com/expand-and-collapse-list-with-animation-in-swiftui/), by [@V8tr](https://twitter.com/V8tr)
 * [How to build SwiftUI style UICollectionView data source in Swift](https://onmyway133.github.io/blog/How-to-build-SwiftUI-style-UICollectionView-data-source-in-Swift/), by [@onmyway133](https://twitter.com/onmyway133)
+* [Testing Remote Push Notification in iOS simulator](https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle)
+* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw)
