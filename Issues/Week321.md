@@ -7,7 +7,8 @@
 * [How to build SwiftUI style UICollectionView data source in Swift](https://onmyway133.github.io/blog/How-to-build-SwiftUI-style-UICollectionView-data-source-in-Swift/), by [@onmyway133](https://twitter.com/onmyway133)
 * [Testing Remote Push Notification in iOS simulator](https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/), by [@sarunw](https://twitter.com/sarunw)
 * [Start your A/B testing journey with SwiftUI](https://benoitpasquier.com/start-ab-testing-journey-with-swiftui/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
-* [Creating Haptic Feedback in iOS 13 With Core Haptics](https://exyte.com/blog/creating-haptic-feedback-with-core-haptics?utm_source=ios_goodies&utm_medium=referral&utm_campaign=website_blog), by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [Creating Haptic Feedback in iOS 13 With Core Haptics](https://exyte.com/blog/creating-haptic-feedback-with-core-haptics), by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [How I Implemented a Swift HTTP Request Helper Without a Working Server](https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [ExyteHQ](https://github.com/exyte)
+* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [LeeKahSeng](https://github.com/LeeKahSeng), [ExyteHQ](https://github.com/exyte)
