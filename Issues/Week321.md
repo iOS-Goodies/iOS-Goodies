@@ -1,3 +1,4 @@
+Happy Thursday! We've now had around a week to look more into Xcode 11.4 and it is an amazing dot release. The community was very quick to jump on it too, and I'm very happy about that. The feature that seemed to have excited people the most was push notifications in the simulator, and there are an article and a tool in today's edition that help you with that. Let's go to this week's links!
 
 **Articles**
 
