@@ -22,7 +22,7 @@
 
 **Business/Career**
 
-* 
+* [How To Pass App Store Review: Guideline 4.2 Design – Minimum functionality](https://cutecoder.org/business/pass-app-store-review-design-minimum-functionality/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 
 **UI/UX**
 
@@ -35,4 +35,5 @@
 
 **Credits**
 
-* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [LeeKahSeng](https://github.com/LeeKahSeng), [ExyteHQ](https://github.com/exyte), [mecid](https://github.com/mecid)
+* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [LeeKahSeng](https://github.com/LeeKahSeng), [ExyteHQ](https://github.com/exyte), [mecid](https://github.com/mecid), [adib](https://github.com/adib)
+
