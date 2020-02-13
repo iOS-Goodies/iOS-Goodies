@@ -11,6 +11,7 @@
 * [How I Implemented a Swift HTTP Request Helper Without a Working Server](https://swiftsenpai.com/testing/implemented-http-request-helper-without-server/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Testing push notifications in the Simulator with Xcode 11.4](https://www.donnywals.com/testing-push-notifications-in-the-simulator-with-xcode-11-4/), by [@donnywals](https://twitter.com/donnywals)
 * [Xcode's Find Navigator & Search Scopes](https://patrickbalestra.com/blog/2020/02/09/xcode-find-navigator.html), by [@BalestraPatrick](https://twitter.com/BalestraPatrick)
+* [Customizing the shape of views in SwiftUI](https://swiftwithmajid.com/2020/02/12/customizing-the-shape-of-views-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [LeeKahSeng](https://github.com/LeeKahSeng), [ExyteHQ](https://github.com/exyte)
+* [rus64](https://github.com/rus64), [onmyway133](https://github.com/onmyway133), [V8tr](https://github.com/V8tr), [cupnoodle](https://github.com/cupnoodle), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [LeeKahSeng](https://github.com/LeeKahSeng), [ExyteHQ](https://github.com/exyte), [mecid](https://github.com/mecid)
