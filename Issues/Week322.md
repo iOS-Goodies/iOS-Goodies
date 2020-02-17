@@ -11,7 +11,7 @@
 
 **Business/Career**
 
-* 
+* [The Effect of Improving App Ratings. What happened next?](https://heyimakeapps.com/blog/the-effect-of-improving-app-ratings-what-happened-next), by [@michael_tigas](http://twitter.com/michael_tigas)
 
 **UI/UX**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin)
+* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin), [Michael Tigas](https://github.com/teeeeeegz/)
