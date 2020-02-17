@@ -2,6 +2,7 @@
 **Articles**
 
 * [Library Evolution in Swift](https://swift.org/blog/library-evolution/), by [@slava_pestov](https://twitter.com/slava_pestov/)
+* [Fast Method Stubbing From LLDB](https://bryce.co/lldb-method-stubbing/), by [@brycepauken](https://twitter.com/brycepauken)
 
 **Tools/Controls**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin)
+* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin), [brycepauken](https://github.com/brycepauken), 
