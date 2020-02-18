@@ -4,6 +4,7 @@
 * [Library Evolution in Swift](https://swift.org/blog/library-evolution/), by [@slava_pestov](https://twitter.com/slava_pestov/)
 * [Fast Method Stubbing From LLDB](https://bryce.co/lldb-method-stubbing/), by [@brycepauken](https://twitter.com/brycepauken)
 * [Add, Edit, Move, and Drag and Drop List Rows with SwiftUI](https://www.vadimbulavin.com/add-edit-move-and-drag-and-drop-in-swiftui-list/), by [@V8tr](https://twitter.com/V8tr)
+* [Mastering buttons in SwiftUI](https://swiftwithmajid.com/2020/02/19/mastering-buttons-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin), [Michael Tigas](https://github.com/teeeeeegz/), [sarunw](https://github.com/sarunw), [V8tr](https://github.com/V8tr), [brycepauken](https://github.com/brycepauken), 
+* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin), [Michael Tigas](https://github.com/teeeeeegz/), [sarunw](https://github.com/sarunw), [V8tr](https://github.com/V8tr), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid)
