@@ -16,6 +16,7 @@
 **Business/Career**
 
 * [The Effect of Improving App Ratings. What happened next?](https://heyimakeapps.com/blog/the-effect-of-improving-app-ratings-what-happened-next), by [@michael_tigas](http://twitter.com/michael_tigas)
+* [Zero to App in One Month](https://medium.com/@shihab.mehboob/zero-to-app-in-one-month-88a8b0f425dc), by [@JPEGuin](http://twitter.com/JPEGuin)
 
 **UI/UX**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin), [Michael Tigas](https://github.com/teeeeeegz/), [sarunw](https://github.com/sarunw), [V8tr](https://github.com/V8tr), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid)
+* [SvenTiigi](https://github.com/SvenTiigi), [podkovyr](https://github.com/podkovyrin), [Michael Tigas](https://github.com/teeeeeegz/), [sarunw](https://github.com/sarunw), [V8tr](https://github.com/V8tr), [brycepauken](https://github.com/brycepauken),  [shihab](https://github.com/shihabM), [mecid](https://github.com/mecid)
