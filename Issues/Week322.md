@@ -1,4 +1,4 @@
-- [iOS Performance tips you probably didn't know (from an ex-Apple engineer)](https://www.fadel.io/blog/posts/ios-performance-tips-you-probably-didnt-know/)
+Happy Thursday! One post that really took off this week was [iOS Performance tips you probably didn't know (from an ex-Apple engineer)](https://www.fadel.io/blog/posts/ios-performance-tips-you-probably-didnt-know/), by [@ronyfadel](https://twitter.com/ronyfadel). Go ahead and read it, it's very interesting. The post has spurred a lot of discussion on Twitter, and I'm happy with the way the author has incorporated the feedback received into his post: as the updated version also says, make sure you measure before applying those optimizations, try to avoid premature optimization and in general, avoid optimizing based on implementation details in code you don't control and don't have access to, as it can backfire in future updates. On to the links!
 
 **Articles**
 
