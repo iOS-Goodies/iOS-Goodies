@@ -6,6 +6,7 @@
 * [The Swift Behind The Standard Library Preview Package ✨](https://www.fivestars.blog/code/the-swift-behind-the-standard-library-preview-package.html), by [@zntfdr](twitter.com/zntfdr)
 * [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/code/ultimate-guide-swift-executables.html), by [@zntfdr](twitter.com/zntfdr)
 * [How to Use ASAuthorizationAppleIDButton in Storyboard](https://swiftsenpai.com/xcode/asauthorizationappleidbutton-in-storyboard/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [TextField in SwiftUI](https://swiftwithmajid.com/2020/02/26/textfield-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -27,5 +28,5 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [Boris-Em](https://github.com/boris-em/), [fassko](https://github.com/fassko), [michaeleisel](https://github.com/michaeleisel)
+* [V8tr](https://github.com/V8tr), [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [Boris-Em](https://github.com/boris-em/), [fassko](https://github.com/fassko), [michaeleisel](https://github.com/michaeleisel), [mecid](https://github.com/mecid)
 
