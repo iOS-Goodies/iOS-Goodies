@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [Mosaic](https://github.com/Boris-Em/Mosaic) - Generate real time photographic mosaics, by [@boris-em](https://twitter.com/boris_em)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [V8tr](https://github.com/V8tr), [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [Boris-Em](https://github.com/boris-em/)
