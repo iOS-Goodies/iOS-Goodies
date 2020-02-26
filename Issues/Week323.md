@@ -13,6 +13,7 @@
 * [Mosaic](https://github.com/Boris-Em/Mosaic) - Generate real time photographic mosaics, by [@boris-em](https://twitter.com/boris_em)
 * [zld](https://github.com/michaeleisel/zld) - A fast linker for debug builds, by [@EiselMichael](https://twitter.com/EiselMichael)
 * [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth, by [@gett](https://twitter.com/gett)
+* [Codewerks](https://www.kickstarter.com/projects/aaronvegh/codewerks-write-code-on-your-ipad/) - A native IDE for iPad that executes on a cloud Linux server. This Kickstarter campaign is launching today.
 
 **Business/Career**
 
@@ -28,5 +29,5 @@
 
 **Credits**
 
-* [V8tr](https://github.com/V8tr), [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [Boris-Em](https://github.com/boris-em/), [fassko](https://github.com/fassko), [michaeleisel](https://github.com/michaeleisel), [mecid](https://github.com/mecid)
+* [V8tr](https://github.com/V8tr), [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [Boris-Em](https://github.com/boris-em/), [fassko](https://github.com/fassko), [michaeleisel](https://github.com/michaeleisel), [mecid](https://github.com/mecid), [aaronvegh](https://github.com/aaronvegh)
 
