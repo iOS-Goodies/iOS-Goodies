@@ -7,8 +7,8 @@ In other news, [Dave Verwer](https://twitter.com/daveverwer) has published the r
 
 * [Asynchronous Image Loading from URL in SwiftUI](https://www.vadimbulavin.com/asynchronous-swiftui-image-loading-from-url-with-combine-and-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Clearing up after subscribing to Swift WebSockets](https://kristaps.me/clearing-subscriptions/), by [@fassko](https://twitter.com/fassko)
-* [The Swift Behind The Standard Library Preview Package ✨](https://www.fivestars.blog/code/the-swift-behind-the-standard-library-preview-package.html), by [@zntfdr](twitter.com/zntfdr)
-* [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/code/ultimate-guide-swift-executables.html), by [@zntfdr](twitter.com/zntfdr)
+* [The Swift Behind The Standard Library Preview Package ✨](https://www.fivestars.blog/code/the-swift-behind-the-standard-library-preview-package.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [The Ultimate Guide To Swift Executables 🚀](https://www.fivestars.blog/code/ultimate-guide-swift-executables.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to Use ASAuthorizationAppleIDButton in Storyboard](https://swiftsenpai.com/xcode/asauthorizationappleidbutton-in-storyboard/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [TextField in SwiftUI](https://swiftwithmajid.com/2020/02/26/textfield-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Using KeyPaths as functions in Swift 5.2](https://www.donnywals.com/using-keypaths-as-functions-in-swift-5-2/), by [@donnywals](https://twitter.com/donnywals)
