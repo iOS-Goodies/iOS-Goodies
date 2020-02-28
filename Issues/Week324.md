@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* [Timelane](http://timelane.tools) - An instrument to profile and debug asynchronous code, by [@icanzilb](https://twitter.com/icanzilb)
+* [Timelane](http://timelane.tools) - An instrument to profile and debug Combine and RxSwift code, by [@icanzilb](https://twitter.com/icanzilb)
 
 
 **Business/Career**
