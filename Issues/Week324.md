@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Custom Environment Values in SwiftUI](https://lostmoa.com/blog/CustomEnvironmentValuesInSwiftUI/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 
 **Tools/Controls**
 
@@ -22,5 +22,5 @@
 
 **Credits**
 
-* [icanzilb](https://github.com/icanzilb)
+* [icanzilb](https://github.com/icanzilb), [nataliapanferova](https://github.com/nataliapanferova)
 
