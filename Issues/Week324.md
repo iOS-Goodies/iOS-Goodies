@@ -2,6 +2,7 @@
 **Articles**
 
 * [Custom Environment Values in SwiftUI](https://lostmoa.com/blog/CustomEnvironmentValuesInSwiftUI/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
+* [Generating app icons during build time](http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html), by [@gmoraleda_](https://twitter.com/gmoraleda_)
 
 **Tools/Controls**
 
