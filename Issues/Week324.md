@@ -23,5 +23,5 @@
 
 **Credits**
 
-* [icanzilb](https://github.com/icanzilb), [nataliapanferova](https://github.com/nataliapanferova)
+* [icanzilb](https://github.com/icanzilb), [nataliapanferova](https://github.com/nataliapanferova), [gmoraleda](https://github.com/gmoraleda)
 
