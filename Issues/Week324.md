@@ -5,7 +5,7 @@
 * [Generating app icons during build time](http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html) - Adding version, build and environment information to your app icons, by [@gmoraleda_](https://twitter.com/gmoraleda_)
 * [Swift unit tests with 3rd party dependencies](https://treatwell.engineering/swift-unit-tests-with-3rd-party-dependencies-61f206deca24), by [@ignasur](https://twitter.com/ignasur)
 * [How to create a new Xcode project without Storyboard](https://sarunw.com/tips/how-to-create-new-xcode-project-without-storyboard/), by [@sarunw](https://twitter.com/sarunw)
-* [How To Design Mobile Apps For One-Hand Usage](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/), by [@maitrikkataria](https://twitter.com/maitrikkataria)
+
 
 **Tools/Controls**
 
@@ -18,7 +18,7 @@
 
 **UI/UX**
 
-* 
+* [How To Design Mobile Apps For One-Hand Usage](https://www.smashingmagazine.com/2020/02/design-mobile-apps-one-hand-usage/), by [@maitrikkataria](https://twitter.com/maitrikkataria)
 
 **Videos**
 
