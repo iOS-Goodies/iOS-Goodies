@@ -1,6 +1,7 @@
 
 **Articles**
 
+* [Architecting an Analytics Service for iOS Apps](https://andreaslydemann.com/architecting-an-analytics-service-for-ios-apps/), by [@andreaslydemann](https://twitter.com/andreaslydemann)
 * [Custom Environment Values in SwiftUI](https://lostmoa.com/blog/CustomEnvironmentValuesInSwiftUI/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 * [Generating app icons during build time](http://moraleda.info/blog/2020/02/25/xcode-generating-app-icons-during-build-time.html) - Adding version, build and environment information to your app icons, by [@gmoraleda_](https://twitter.com/gmoraleda_)
 * [Swift unit tests with 3rd party dependencies](https://treatwell.engineering/swift-unit-tests-with-3rd-party-dependencies-61f206deca24), by [@ignasur](https://twitter.com/ignasur)
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [icanzilb](https://github.com/icanzilb), [nataliapanferova](https://github.com/nataliapanferova), [sarunw](https://github.com/sarunw), [lokatorius](https://github.com/lokatorius), [gmoraleda](https://github.com/gmoraleda), [mecid](https://github.com/mecid)
+* [andreaslydemann](https://github.com/andreaslydemann), [icanzilb](https://github.com/icanzilb), [nataliapanferova](https://github.com/nataliapanferova), [sarunw](https://github.com/sarunw), [lokatorius](https://github.com/lokatorius), [gmoraleda](https://github.com/gmoraleda), [mecid](https://github.com/mecid)
