@@ -22,7 +22,7 @@ Happy Thursday! A few updates from Apple this week: a new beta of Xcode 11.4, a 
 
 **Business/Career**
 
-* 
+* [What's Subscription Churn and What You Can Do to Reduce It](https://appfigures.com/resources/business/whats-subscriptions-churn), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
