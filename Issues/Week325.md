@@ -5,6 +5,7 @@
 * [How to create Neumorphic design in SwiftUI](https://sarunw.com/posts/how-to-create-neomorphism-design-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [Introduction to Localization](https://fluffy.es/introduction-to-localization/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Class-only Protocols: class or AnyObject](https://sarunw.com/tips/class-only-protocols-class-or-anyobject/), by [@sarunw](https://twitter.com/sarunw)
+* [How to Start Working with swift-format](https://exyte.com/blog/how-to-start-working-with-swift-format?utm_source=ios_goodies&utm_medium=referral&utm_campaign=website_blog), by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [DmIvanov](https://github.com/DmIvanov), [sarunw](https://github.com/sarunw), [cupnoodle](https://github.com/cupnoodle)
+* [DmIvanov](https://github.com/DmIvanov), [sarunw](https://github.com/sarunw), [cupnoodle](https://github.com/cupnoodle), [ExyteHQ](https://github.com/exyte)
