@@ -6,6 +6,7 @@
 * [iOS Security Analysis with MobSF](https://www.netguru.com/codestories/ios-security-analysis-with-mobsf), by Karol Piątek
 * [TSCUtility's ArgumentParser](https://www.fivestars.blog/code/executables-argument-kind.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Anchor preferences in SwiftUI](https://swiftwithmajid.com/2020/03/18/anchor-preferences-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Integrate ‘Sign in with Apple’ with Firebase Authentication](https://swiftsenpai.com/development/sign-in-with-apple-firebase-auth/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [sarunw](https://github.com/sarunw), [Karol Piątek](https://github.com/karolpiateknet), [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
+* [sarunw](https://github.com/sarunw), [Karol Piątek](https://github.com/karolpiateknet), [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng)
