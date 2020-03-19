@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-*
+* [Sight](https://github.com/zntfdr/Sight) - A spatial search μlibrary powered by GameplayKit, by [@zntfdr](https://twitter.com/zntfdr)
 
 **Business/Career**
 
