@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Business/Career**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [sarunw](https://github.com/sarunw)
+* [sarunw](https://github.com/sarunw), [ExyteHQ](https://github.com/exyte)
