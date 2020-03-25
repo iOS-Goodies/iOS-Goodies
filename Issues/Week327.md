@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [SwiftyMenu](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu) - A Simple and Elegant Drop down menu for iOS 🔥💥, by [@k_ebrahem_](https://twitter.com/k_ebrahem_)
 
 **Business/Career**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [sarunw](https://github.com/sarunw), [ExyteHQ](https://github.com/exyte), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid)
+* [sarunw](https://github.com/sarunw), [ExyteHQ](https://github.com/exyte), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid), [KarimEbrahemAbdelaziz](https://github.com/KarimEbrahemAbdelaziz)
