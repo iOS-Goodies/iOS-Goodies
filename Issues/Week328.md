@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [NSTimer vs CADisplayLink](https://kristaps.me/nstimer-vs-cadisplaylink/), by [@fassko](https://twitter.com/fassko)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [fassko](https://github.com/fassko)
