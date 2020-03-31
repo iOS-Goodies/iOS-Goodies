@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [playbook-ios](https://github.com/playbook-ui/playbook-ios), by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
 **Business/Career**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [matrejek](https://github.com/matrejek), [V8tr](https://github.com/V8tr)
+* [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [matrejek](https://github.com/matrejek), [V8tr](https://github.com/V8tr), [Ryo Aoyama](https://github.com/ra1028)
