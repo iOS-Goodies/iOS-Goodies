@@ -6,6 +6,7 @@
 * [5 Must-Know Xcode Shortcuts for Unit Testing](https://swiftsenpai.com/xcode/xcode-unit-test-shortcuts/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [SwiftUI ButtonStyle](https://sarunw.com/posts/swiftui-buttonstyle/), by [@sarunw](https://twitter.com/sarunw)
 * [Keyboard Avoidance for SwiftUI Views](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/)
+* [Drag and drop in SwiftUI](https://swiftwithmajid.com/2020/04/01/drag-and-drop-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [matrejek](https://github.com/matrejek), [V8tr](https://github.com/V8tr)
+* [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [matrejek](https://github.com/matrejek), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid)
