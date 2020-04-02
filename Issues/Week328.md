@@ -8,7 +8,7 @@ On a lighter note, I've really enjoyed [this Where's Waldo-esque version of our 
 * [NSTimer vs CADisplayLink](https://kristaps.me/nstimer-vs-cadisplaylink/), by [@fassko](https://twitter.com/fassko)
 * [5 Must-Know Xcode Shortcuts for Unit Testing](https://swiftsenpai.com/xcode/xcode-unit-test-shortcuts/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [SwiftUI ButtonStyle](https://sarunw.com/posts/swiftui-buttonstyle/), by [@sarunw](https://twitter.com/sarunw)
-* [Keyboard Avoidance for SwiftUI Views](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/)
+* [Keyboard Avoidance for SwiftUI Views](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/), by [@V8tr](https://twitter.com/V8tr)
 * [Drag and drop in SwiftUI](https://swiftwithmajid.com/2020/04/01/drag-and-drop-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Configuring the Main Thread Checker](https://bryce.co/main-thread-checker-configuration/) by [@brycepauken](https://twitter.com/brycepauken)
 * [Copying device support files if you already have the latest Xcode installed](https://www.donnywals.com/find-and-copy-xcode-device-support-files/), by [@donnywals](https://twitter.com/donnywals)
