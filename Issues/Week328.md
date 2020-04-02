@@ -12,10 +12,13 @@
 * [Configuring the Main Thread Checker](https://bryce.co/main-thread-checker-configuration/) by [@brycepauken](https://twitter.com/brycepauken)
 * [Copying device support files if you already have the latest Xcode installed](https://www.donnywals.com/find-and-copy-xcode-device-support-files/), by [@donnywals](https://twitter.com/donnywals)
 * [Combine + Diffable Data Source](https://thoughtbot.com/blog/combine-diffable-data-source), by [@mangoAbe](https://twitter.com/mangoAbe)
+* [Localisation using Apple’s glossaries](https://douglashill.co/localisation-using-apples-glossaries/), by [@qdoug](https://twitter.com/qdoug)
 
 **Tools/Controls**
 
-* [playbook-ios](https://github.com/playbook-ui/playbook-ios), by [@ra1028fe5](https://twitter.com/ra1028fe5)
+* [playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically snapshots of them, by [@ra1028fe5](https://twitter.com/ra1028fe5)
+* [CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text, by [@mattt](https://twitter.com/mattt)
+* [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects, by [@mattt](https://twitter.com/mattt)
 
 **Business/Career**
 
@@ -27,7 +30,7 @@
 
 **Videos**
 
-*
+* [Advanced Scene Understanding in AR](https://developer.apple.com/videos/play/tech-talks/609), by Apple
 
 **Credits**
 
