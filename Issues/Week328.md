@@ -1,3 +1,5 @@
+- https://developer.apple.com/news/?id=03262020b
+- https://www.hackingwithswift.com/articles/215/spot-the-swifty
 
 **Articles**
 
@@ -8,6 +10,8 @@
 * [Keyboard Avoidance for SwiftUI Views](https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/)
 * [Drag and drop in SwiftUI](https://swiftwithmajid.com/2020/04/01/drag-and-drop-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Configuring the Main Thread Checker](https://bryce.co/main-thread-checker-configuration/) by [@brycepauken](https://twitter.com/brycepauken)
+* [Copying device support files if you already have the latest Xcode installed](https://www.donnywals.com/find-and-copy-xcode-device-support-files/), by [@donnywals](https://twitter.com/donnywals)
+* [Combine + Diffable Data Source](https://thoughtbot.com/blog/combine-diffable-data-source), by [@mangoAbe](https://twitter.com/mangoAbe)
 
 **Tools/Controls**
 
@@ -15,7 +19,7 @@
 
 **Business/Career**
 
-*
+* [Slopes Diaries #35: Abandonment Issues](https://blog.curtisherbert.com/slopes-diaries-35-abandonment-issues/), by [@parrots](https://twitter.com/parrots)
 
 **UI/UX**
 
