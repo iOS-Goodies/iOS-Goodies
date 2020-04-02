@@ -1,5 +1,6 @@
-- https://developer.apple.com/news/?id=03262020b
-- https://www.hackingwithswift.com/articles/215/spot-the-swifty
+Happy Thursday! Apple has extended the deadline for switching to the latest Xcode version with two more months, so you now have [until June 30 to build your apps with the iOS 13 SDK](https://developer.apple.com/news/?id=03262020b).
+
+On a lighter note, I've really enjoyed [this Where's Waldo-esque version of our iOS/Swift community](https://www.hackingwithswift.com/articles/215/spot-the-swifty) published by [Paul Hudson](https://twitter.com/twostraws) yesterday. The image is full of great people, and the level of detail is really amazing, capturing a lot of personality traits, hobbies or fun facts about the people in it.
 
 **Articles**
 
