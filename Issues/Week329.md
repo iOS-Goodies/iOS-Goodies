@@ -23,3 +23,4 @@
 
 * [nataliapanferova](https://github.com/nataliapanferova)
 * [Jan Seredynski](https://github.com/serek8)
+* [Maks Kurpa](https://github.com/MaksimKurpa)
