@@ -2,6 +2,7 @@
 
 * [iOS Keyboard Shortcuts in SwiftUI](https://lostmoa.com/blog/iOSKeyboardShortcutsInSwiftUI/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 * [A security review of 1,300 AppStore applications](https://medium.com/@jan.seredynski/a-security-review-of-1-300-appstore-applications-1dfffbf1fc4d), by [@janseredynski](https://twitter.com/janseredynski)
+* [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -23,3 +24,4 @@
 
 * [nataliapanferova](https://github.com/nataliapanferova)
 * [Jan Seredynski](https://github.com/serek8)
+* [V8tr](https://github.com/V8tr)
