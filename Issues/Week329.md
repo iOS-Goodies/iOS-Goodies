@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-*
+* [Cosmicast 2.0](https://medium.com/@shihab.mehboob/cosmicast-2-0-this-post-shouldve-been-a-podcast-episode-a161630575b1), by [@JPEGuin](https://twitter.com/JPEGuin)
 
 **UI/UX**
 
@@ -25,3 +25,4 @@
 * [nataliapanferova](https://github.com/nataliapanferova)
 * [Jan Seredynski](https://github.com/serek8)
 * [V8tr](https://github.com/V8tr)
+* [JPEGuin](https://github.com/JPEGuin)
