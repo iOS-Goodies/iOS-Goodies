@@ -4,6 +4,7 @@
 * [A security review of 1,300 AppStore applications](https://medium.com/@jan.seredynski/a-security-review-of-1-300-appstore-applications-1dfffbf1fc4d), by [@janseredynski](https://twitter.com/janseredynski)
 * [View Communication Patterns in SwiftUI](https://www.vadimbulavin.com/passing-data-between-swiftui-views/), by [@V8tr](https://twitter.com/V8tr)
 * [Binding in SwiftUI](https://swiftwithmajid.com/2020/04/08/binding-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [tintColor](https://sarunw.com/posts/tintcolor/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -28,3 +29,4 @@
 * [V8tr](https://github.com/V8tr)
 * [JPEGuin](https://github.com/JPEGuin)
 * [mecid](https://github.com/mecid)
+* [sarunw](https://github.com/sarunw)
