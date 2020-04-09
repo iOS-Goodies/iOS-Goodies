@@ -1,3 +1,5 @@
+Happy Thursday! Is it me or is Apple publishing more content for developers? Such as [this article about choosing between SFSafariViewController or WKWebView](https://developer.apple.com/news/?id=trjs0tcd). It's a good, basic article, especially with [the upcoming UIWebView AppStore ban](https://developer.apple.com/news/?id=12232019b). But, of course, no one is using UIWebViews anymore, right? 😅
+
 **Articles**
 
 * [iOS Keyboard Shortcuts in SwiftUI](https://lostmoa.com/blog/iOSKeyboardShortcutsInSwiftUI/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
