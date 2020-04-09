@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [IBLayoutConstraint](https://github.com/MaksimKurpa/IBLayoutConstraint), by [@maksim_kurpa](https://twitter.com/maksim_kurpa)
 
 **Business/Career**
 
@@ -27,6 +27,7 @@
 
 * [nataliapanferova](https://github.com/nataliapanferova)
 * [Jan Seredynski](https://github.com/serek8)
+* [Maks Kurpa](https://github.com/MaksimKurpa)
 * [Neil3079](https://github.com/Neil3079)
 * [V8tr](https://github.com/V8tr)
 * [JPEGuin](https://github.com/JPEGuin)
