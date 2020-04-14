@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [spasibo](https://github.com/artemnovichkov/spasibo), by [@iosartem](http://twitter.com/iosartem)
 
 **Business/Career**
 
