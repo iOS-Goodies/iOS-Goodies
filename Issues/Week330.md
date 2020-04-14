@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa)
+* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [artemnovichkov](https://github.com/artemnovichkov)
