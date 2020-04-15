@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-* 
+* [spasibo](https://github.com/artemnovichkov/spasibo), by [@iosartem](http://twitter.com/iosartem)
 
 **Business/Career**
 
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
+* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid), [artemnovichkov](https://github.com/artemnovichkov), [zntfdr](https://github.com/zntfdr)
