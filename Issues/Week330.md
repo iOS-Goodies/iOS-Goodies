@@ -6,6 +6,7 @@
 * [How to Swizzle All of UIKit](https://bryce.co/swizzle-all-uikit/), by [@brycepauken](https://twitter.com/brycepauken)
 * [Contact Tracing](https://nshipster.com/contact-tracing/), by [@mattt](https://twitter.com/mattt)
 * [Layout priorities in SwiftUI](https://swiftwithmajid.com/2020/04/15/layout-priorities-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [How Apple and Google’s Coronavirus Contact Tracing System Works](https://www.fivestars.blog/code/how-covid-19-contact-tracing-works.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid)
+* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
