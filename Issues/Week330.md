@@ -5,6 +5,7 @@
 * [UICollectionView -Developing Filters UI Using Auto Resizing Cells](https://medium.com/flawless-app-stories/uicollectionview-developing-filters-ui-using-auto-resizing-cells-98f19fbce88b), by [@Shankar__am](https://twitter.com/Shankar__am)
 * [How to Swizzle All of UIKit](https://bryce.co/swizzle-all-uikit/), by [@brycepauken](https://twitter.com/brycepauken)
 * [Contact Tracing](https://nshipster.com/contact-tracing/), by [@mattt](https://twitter.com/mattt)
+* [Layout priorities in SwiftUI](https://swiftwithmajid.com/2020/04/15/layout-priorities-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [artemnovichkov](https://github.com/artemnovichkov)
+* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid), [artemnovichkov](https://github.com/artemnovichkov)
