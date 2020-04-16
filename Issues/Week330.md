@@ -1,3 +1,6 @@
+Happy Thursday! Apple announced the highly anticipated, new iPhone SE this week, and I think it's a very nice and affordable option to get a new iPhone :). Users may be sad that the 4-inch screen is deprecated now, but as developers, we can probably find some joy in that 😅. I really wish they went with another name though, instead of reusing the name of a 4-year-old device; I hoped the iPhone naming schemes would be [clearer than the iPad one](https://twitter.com/marius_const/status/1243086151449284608).
+
+In other news, if you're feeling down (due to the whole global situation that I don't want to talk about in this newsletter, just to keep the appearance that things are normal), I found [Jordan Morgan's](https://www.twitter.com/jordanmorgan10) article, [It's okay to do nothing](https://www.swiftjectivec.com/its-okay-to-do-nothing/), very comforting to read. Hope everyone is also taking care of themselves, besides taking care of others by not going out.
 
 **Articles**
 
@@ -10,6 +13,9 @@
 * [Getting Started with Lottie Animations in iOS](https://swiftsenpai.com/development/lottie-getting-started/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Build layout programmatically or visually with SwiftUI](https://www.morningswiftui.com/blog/build-layout-programmatically-or-visually-with-swiftui), by [@thomassivilay](https://twitter.com/thomassivilay)
 * [How to remove text from navigation bar back button](https://sarunw.com/posts/how-to-remove-text-from-uinavigationbar-back-button/), by [@sarunw](https://twitter.com/sarunw)
+* [Coordinator pattern in iOS 13 world](https://aplus.rs/2020/coordinator-pattern-for-ios13/), by [@radiantav](https://twitter.com/radiantav)
+* [Fully automating perfect status bar overrides for iOS simulators with Nine41](https://www.jessesquires.com/blog/2020/04/13/fully-automating-perfect-status-bar-overrides-for-ios-simulators/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Implementing UIPointerInteractions for iPad](https://blog.timroesner.com/implementing-uipointerinteractions), by [@timroesner](https://twitter.com/timroesner)
 
 **Tools/Controls**
 
@@ -25,7 +31,7 @@
 
 **Videos**
 
-* 
+* [Using Design Patterns with SwiftUI | Swift 5, Xcode 11](https://www.youtube.com/watch?v=n3Msp88Ab1o), by [@kilo_loco](https://twitter.com/kilo_loco)
 
 **Credits**
 
