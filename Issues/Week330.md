@@ -7,6 +7,7 @@
 * [Contact Tracing](https://nshipster.com/contact-tracing/), by [@mattt](https://twitter.com/mattt)
 * [Layout priorities in SwiftUI](https://swiftwithmajid.com/2020/04/15/layout-priorities-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [How Apple and Google’s Coronavirus Contact Tracing System Works](https://www.fivestars.blog/code/how-covid-19-contact-tracing-works.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Getting Started with Lottie Animations in iOS](https://swiftsenpai.com/development/lottie-getting-started/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid), [artemnovichkov](https://github.com/artemnovichkov), [zntfdr](https://github.com/zntfdr)
+* [serek8](https://github.com/serek8), [shankarmadeshvaran](https://github.com/shankarmadeshvaran), [brycepauken](https://github.com/brycepauken), [rbarbosa](https://github.com/rbarbosa), [mecid](https://github.com/mecid), [artemnovichkov](https://github.com/artemnovichkov), [LeeKahSeng](https://github.com/LeeKahSeng), [zntfdr](https://github.com/zntfdr)
