@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Open app in specific view when push notification is tapped (iOS 13+)](https://fluffy.es/open-app-in-specific-view-when-push-notification-is-tapped-ios-13/), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Tools/Controls**
 
@@ -22,3 +22,4 @@
 **Credits**
 
 * [vinhnx](https://github.com/vinhnx)
+* [cupnoodle](https://github.com/cupnoodle)
