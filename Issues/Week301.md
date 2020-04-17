@@ -15,6 +15,7 @@ Happy Thursday! [Swift 5.1 is officially released](https://swift.org/blog/swift-
 * [Advanced SwiftUI Transitions](https://swiftui-lab.com/advanced-transitions/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
 * [Backward compatible Dark Mode on iOS](https://www.onswiftwings.com/posts/dark-mode/), by [@sgl0v](https://twitter.com/sgl0v)
 * [Introducing Direct to SwiftUI](http://www.alwaysrightinstitute.com/directtoswiftui/), by [@ar_institute](https://twitter.com/ar_institute)
+* [Conquering Capture Lists](https://scotteg.github.io/Conquering-Capture-Lists), by [@scotteg](https://twitter.com/scotteg)
 
 **Tools/Controls**
 
