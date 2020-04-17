@@ -36,4 +36,4 @@ Happy Thursday! [Swift 5.1 is officially released](https://swift.org/blog/swift-
 
 **Credits**
 
-* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [kean](https://github.com/kean), [peres](https://github.com/ruiaaperes), [fassko](https://github.com/fassko), [adamwaite](https://github.com/adamwaite), [Donny Wals](https://twitter.com/donnywals), [rbarbosa](https://github.com/rbarbosa)
+* [Daniele Bogo](https://github.com/danielebogo), [mecid](https://github.com/mecid), [kean](https://github.com/kean), [peres](https://github.com/ruiaaperes), [fassko](https://github.com/fassko), [adamwaite](https://github.com/adamwaite), [Donny Wals](https://twitter.com/donnywals), [rbarbosa](https://github.com/rbarbosa), [scotteg](https://twitter.com/scotteg)
