@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Codable Conformance for Swift Enums with Multiple Associated Values of Different Types](https://lostmoa.com/blog/CodableConformanceForSwiftEnumsWithMultipleAssociatedValuesOfDifferentTypes/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* [vinhnx](https://github.com/vinhnx)
+* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova)
