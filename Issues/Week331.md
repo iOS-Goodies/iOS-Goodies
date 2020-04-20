@@ -3,6 +3,7 @@
 
 * [Open app in specific view when push notification is tapped (iOS 13+)](https://fluffy.es/open-app-in-specific-view-when-push-notification-is-tapped-ios-13/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [Codable Conformance for Swift Enums with Multiple Associated Values of Different Types](https://lostmoa.com/blog/CodableConformanceForSwiftEnumsWithMultipleAssociatedValuesOfDifferentTypes/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
+* [Conquering Capture LIsts](https://scotteg.github.io/Conquering-Capture-Lists)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle)
+* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg)
