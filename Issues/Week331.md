@@ -5,6 +5,7 @@
 * [Codable Conformance for Swift Enums with Multiple Associated Values of Different Types](https://lostmoa.com/blog/CodableConformanceForSwiftEnumsWithMultipleAssociatedValuesOfDifferentTypes/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 * [Conquering Capture LIsts](https://scotteg.github.io/Conquering-Capture-Lists), by [@scotteg](https://twitter.com/scotteg)
 * [Function Builders in Swift and SwiftUI](https://www.vadimbulavin.com/swift-function-builders-swiftui-view-builder/), by [@V8tr](https://twitter.com/V8tr)
+* [Catching errors in Combine](https://swiftwithmajid.com/2020/04/22/catching-errors-in-combine/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg), [V8tr](https://github.com/V8tr)
+* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid)
