@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [vintage](https://github.com/vinhnx/vintage) - A command-line tool to check for outdated Swift Package Manager dependencies, by [@vinhnx](https://twitter.com/vinhnx)
+* [Life](https://github.com/zntfdr/Life) - Conway's Game of Life written in Swift 👾, by [@zntfdr](https://twitter.com/zntfdr)
 
 **Business/Career**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid)
+* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
