@@ -1,4 +1,4 @@
-- Apple accessibility event
+Happy Thursday! I was very excited earlier this week when I saw an email from Apple announcing an event about accessibility in apps. The event was to be online, with the possibility to ask questions during and after the sessions and sign up for individual consultations. Sounds like a test for WWDC, right? However, the registration link in the email took me to a webpage where no events were listed. When finally the event showed up on the webpage, the waitlist was full. Some people were able to sign up though, and the event was supposed to be today, but I couldn't find out yet more details about it. It was probably like the [similar one held for India a couple of weeks ago](https://twitter.com/k4p1lb/status/1252454133442818050). Anyway, I'm still looking forward to WWDC in a couple of months. Let's just hope Apple fixes those minor hiccups until then.
 
 **Articles**
 
