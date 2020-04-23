@@ -11,9 +11,13 @@
 * [Debugging superpowers with FLEX](https://alejandromp.com/blog/debugging-superpowers-with-flex/), by [@alexito4](https://twitter.com/alexito4)
 * [Why your @Atomic property wrapper doesn’t work for collection types](https://www.donnywals.com/why-your-atomic-property-wrapper-doesnt-work-for-collection-types/), by [@donnywals](https://twitter.com/donnywals)
 * [How to display HTML in UILabel and UITextView](https://sarunw.com/posts/how-to-display-html-in-uilabel-and-uitextview/), by [@sarunw](https://twitter.com/sarunw)
+* [URLs in Swift: Common scenarios explained in-depth](https://www.avanderlee.com/swift/url-components/), by [@twannl](https://www.twitter.com/twannl)
+* [How to implement UI state restoration](https://developer.apple.com/news/?id=4ixc0yxs), by Apple
+* [Exploring Futures over Closures](https://www.swiftjectivec.com/exploring-closures-with-futures/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 
 **Tools/Controls**
 
+* [SwiftyPods](https://github.com/bitomule/SwiftyPods) - Type safe pods, by [@Bitomule](https://twitter.com/Bitomule)
 * [vintage](https://github.com/vinhnx/vintage) - A command-line tool to check for outdated Swift Package Manager dependencies, by [@vinhnx](https://twitter.com/vinhnx)
 * [Life](https://github.com/zntfdr/Life) - Conway's Game of Life written in Swift 👾, by [@zntfdr](https://twitter.com/zntfdr)
 
@@ -24,6 +28,10 @@
 **UI/UX**
 
 *
+
+**Podcasts**
+
+* [Swift UI In Production with Lea Marolt Sonnenschein (Ray Wenderlich Podcast)](https://www.raywenderlich.com/10141887-swift-ui-in-production-with-lea-marolt-sonnenschein-podcast-s10-e5), by [@hellosunschein](https://twitter.com/hellosunschein)
 
 **Videos**
 
