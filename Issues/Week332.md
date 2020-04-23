@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Protocol-Oriented Programming](https://scotteg.github.io/protocol-oriented-programming), by [@scotteg](https://twitter.com/scotteg)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [scotteg](https://github.com/scotteg)
