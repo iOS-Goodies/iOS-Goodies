@@ -10,6 +10,7 @@
 * [Creating Trivia Crack 3D Buttons on iOS](https://engineering.etermax.com/creating-trivia-crack-3d-buttons-on-ios-785b13df2873), by [@pablomanuelli](https://twitter.com/pablomanuelli)
 * [Debugging superpowers with FLEX](https://alejandromp.com/blog/debugging-superpowers-with-flex/), by [@alexito4](https://twitter.com/alexito4)
 * [Why your @Atomic property wrapper doesn’t work for collection types](https://www.donnywals.com/why-your-atomic-property-wrapper-doesnt-work-for-collection-types/), by [@donnywals](https://twitter.com/donnywals)
+* [How to display HTML in UILabel and UITextView](https://sarunw.com/posts/how-to-display-html-in-uilabel-and-uitextview/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
+* [vinhnx](https://github.com/vinhnx), [nataliapanferova](https://github.com/nataliapanferova), [cupnoodle](https://github.com/cupnoodle), [scotteg](https://github.com/scotteg), [V8tr](https://github.com/V8tr), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [sarunw](https://github.com/sarunw)
