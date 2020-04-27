@@ -23,7 +23,7 @@
 
 **Tutorial**
 
-* [Combine playgrounds](https://github.com/denisPoifol/CombinePlaygrounds)
+* [Combine playgrounds](https://github.com/denisPoifol/CombinePlaygrounds) by
 [@DenisPoifol](https://twitter.com/DenisPoifol)
 
 **Credits**
