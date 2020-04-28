@@ -6,6 +6,7 @@
 * [Controlling Lottie Animation with Markers](https://swiftsenpai.com/development/lottie-animation-markers/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Apple conference at the time of Covid-19](https://swiftandpizza.com/apple-conference-at-the-time-of-covid-19/), by [@theillbo](https://twitter.com/theillbo)
 * [How to solve invalid_client error in Sign in with Apple](https://fluffy.es/how-to-solve-invalid_client-error-in-sign-in-with-apple/), by [@soulchildpls](https://twitter.com/soulchildpls)
+* [The magic of fixed size modifier in SwiftUI](https://swiftwithmajid.com/2020/04/29/the-magic-of-fixed-size-modifier-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -30,4 +31,4 @@
 
 **Credits**
 
-* [scotteg](https://github.com/scotteg), [pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [DenisPoifol](https://github.com/denisPoifol)
+* [scotteg](https://github.com/scotteg), [pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [DenisPoifol](https://github.com/denisPoifol), [mecid](https://github.com/mecid)
