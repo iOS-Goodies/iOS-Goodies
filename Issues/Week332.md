@@ -23,6 +23,11 @@
 
 * 
 
+**Tutorial**
+
+* [Combine playgrounds](https://github.com/denisPoifol/CombinePlaygrounds) by
+[@DenisPoifol](https://twitter.com/DenisPoifol)
+
 **Credits**
 
-* [scotteg](https://github.com/scotteg), [pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle)
+* [scotteg](https://github.com/scotteg), [pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [DenisPoifol](https://github.com/denisPoifol)
