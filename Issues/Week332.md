@@ -1,3 +1,4 @@
+Happy Thursday! Apple released what's referred to as the first beta of iOS 13.5, after the two beta versions of iOS 13.4.5. It contains, besides improvements and fixes, the first preview of the contact tracing API that it's developing together with Google. Being a new API, this means the minor version had to be increased, so we we got iOS 13.5 Beta 3. And because of this, we also got Xcode 11.5. 
 
 **Articles**
 
