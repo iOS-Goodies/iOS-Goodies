@@ -7,6 +7,7 @@
 * [Apple conference at the time of Covid-19](https://swiftandpizza.com/apple-conference-at-the-time-of-covid-19/), by [@theillbo](https://twitter.com/theillbo)
 * [How to solve invalid_client error in Sign in with Apple](https://fluffy.es/how-to-solve-invalid_client-error-in-sign-in-with-apple/), by [@soulchildpls](https://twitter.com/soulchildpls)
 * [The magic of fixed size modifier in SwiftUI](https://swiftwithmajid.com/2020/04/29/the-magic-of-fixed-size-modifier-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [History of Auto Layout constraints](https://sarunw.com/posts/history-of-auto-layout-constraints/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [scotteg](https://github.com/scotteg), [pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [DenisPoifol](https://github.com/denisPoifol), [mecid](https://github.com/mecid)
+* [scotteg](https://github.com/scotteg), [pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [DenisPoifol](https://github.com/denisPoifol), [mecid](https://github.com/mecid), [sarunw](https://github.com/sarunw)
