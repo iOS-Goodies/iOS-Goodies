@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [LINE's custom Bazel rules for building apps and frameworks for Apple platforms](https://github.com/line/bazel_rules_apple/), by [@line](https://github.com/line)
 
 **Business/Career**
 
@@ -24,3 +24,4 @@
 **Credits**
 
 * [nataliapanferova](https://github.com/nataliapanferova)
+* [thii](https://github.com/thii)
