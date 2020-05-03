@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [LINE's custom Bazel rules for building apps and frameworks for Apple platforms](https://github.com/line/bazel_rules_apple/), by [@line](https://github.com/line)
+* [Font Awesome Icons to PNG converter](https://fa2png.app), by [@soulchildpls](https://twitter.com/soulchildpls)
 
 **Business/Career**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle)
