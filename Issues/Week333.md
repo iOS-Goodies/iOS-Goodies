@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle),[Badarinath Venkatnarayansetty](https://github.com/badrinathvm/StepperView)
+* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle),[adib](https://github.com/adib),[Badarinath Venkatnarayansetty](https://github.com/badrinathvm/StepperView)
