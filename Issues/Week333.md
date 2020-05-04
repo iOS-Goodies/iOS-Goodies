@@ -7,6 +7,7 @@
 * [10 core principles to use CoreData without blowing your head off](https://medium.com/ios-os-x-development/10-core-principles-to-use-coredata-without-blowing-your-head-off-5ed11c623c6b), by [@otusweb](https://twitter.com/otusweb)
 * [Modifying Lottie Animation with Value Providers](https://swiftsenpai.com/development/lottie-value-providers/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Clean Architecture with VIPER Sample Project for UIKit](https://cutecoder.org/programming/clean-architecture-viper-sample-project/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
+* [how to add a page to a blog created using Publish](https://beta.bdev-code.nl/publish/Add-a-bio-to-your-blog-in-Publish/) by [BDev-code](mailto:questions@bdev-code.nl)
 
 **Tools/Controls**
 
