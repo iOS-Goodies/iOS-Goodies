@@ -11,7 +11,7 @@
 
 * [LINE's custom Bazel rules for building apps and frameworks for Apple platforms](https://github.com/line/bazel_rules_apple/), by [@line](https://github.com/line)
 * [Font Awesome Icons to PNG converter](https://fa2png.app), by [@soulchildpls](https://twitter.com/soulchildpls)
-* [Step Indicator iOS Component in SwiftUI](https://badrinathvm.github.io/StepperView/), by [@badrivm](https://twitter.com/badrivm)
+* [Step Indicator iOS Component in SwiftUI](https://github.com/badrinathvm/StepperView), by [@badrivm](https://twitter.com/badrivm)
 
 **Business/Career**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle),[adib](https://github.com/adib),[Badarinath Venkatnarayansetty](https://github.com/badrinathvm/StepperView)
+* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle),[Badarinath Venkatnarayansetty](https://github.com/badrinathvm/StepperView)
