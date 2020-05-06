@@ -9,6 +9,7 @@
 * [Clean Architecture with VIPER Sample Project for UIKit](https://cutecoder.org/programming/clean-architecture-viper-sample-project/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 * [Testing SwiftUI Views](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/), by [@V8tr](https://twitter.com/V8tr)
 * [Improving your Unit Test Mocks with Arrays](https://medium.com/kinandcartacreated/using-array-to-improve-your-mocks-in-unit-tests-ios-swift-f8c343c80d21), by [@GilroyBen](https://twitter.com/GilroyBen)
+* [The Missing Collection View in SwiftUI](https://www.netguru.com/codestories/the-missing-collection-view-in-swiftui), by Adam Niepokój
 
 **Tools/Controls**
 
