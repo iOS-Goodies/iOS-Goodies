@@ -9,6 +9,7 @@
 * [Clean Architecture with VIPER Sample Project for UIKit](https://cutecoder.org/programming/clean-architecture-viper-sample-project/) by [@SasmitoAdibowo](https://twitter.com/SasmitoAdibowo)
 * [Testing SwiftUI Views](https://www.vadimbulavin.com/snapshot-testing-swiftui-views/), by [@V8tr](https://twitter.com/V8tr)
 * [Improving your Unit Test Mocks with Arrays](https://medium.com/kinandcartacreated/using-array-to-improve-your-mocks-in-unit-tests-ios-swift-f8c343c80d21), by [@GilroyBen](https://twitter.com/GilroyBen)
+* [The Missing Collection View in SwiftUI](https://www.netguru.com/codestories/the-missing-collection-view-in-swiftui), by Adam Niepokój
 * [Building calendar without UICollectionView in SwiftUI](https://swiftwithmajid.com/2020/05/06/building-calendar-without-uicollectionview-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [adib](https://github.com/adib),[badrinathvm](https://github.com/badrinathvm), [V8tr](https://github.com/V8tr), [@GilroyBen](https://twitter.com/GilroyBen), [ExyteHQ](https://github.com/exyte), [mecid](https://github.com/mecid)
+* [nataliapanferova](https://github.com/nataliapanferova), [thii](https://github.com/thii), [otusweb](https://github.com/otusweb), [LeeKahSeng](https://github.com/LeeKahSeng), [cupnoodle](https://github.com/cupnoodle), [adib](https://github.com/adib),[badrinathvm](https://github.com/badrinathvm), [V8tr](https://github.com/V8tr), [@GilroyBen](https://twitter.com/GilroyBen), [ExyteHQ](https://github.com/exyte), [mecid](https://github.com/mecid), [niepok](https://github.com/niepok)
