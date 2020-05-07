@@ -1,6 +1,10 @@
-- https://www.apple.com/newsroom/2020/05/apple-to-host-virtual-worldwide-developers-conference-beginning-june-22.html
-- https://rambo.codes/posts/2020-05-07-the-big-facebook-crash
-- https://forums.swift.org/t/accepted-se-0279-multiple-trailing-closures/36141/9
+Happy Thursday! It's been a pretty packed and eventful week, and you can also see that by the size of this issue. First of all, [Apple announced that WWDC 2020 will start on June 22](https://www.apple.com/newsroom/2020/05/apple-to-host-virtual-worldwide-developers-conference-beginning-june-22.html), it will be free for all developers, it will include the keynote, Platform State of the Union, sessions and labs as always, and there will be a [Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/). Besides that, not much information was disclosed, not even how many days WWDC20 will be, which gives me the impression that a lot is still work in progress. We should hear back from Apple with more details in June.
+
+Secondly, in Swift news, the very much discussed [Multple Trailing Closures proposal has been accepted](https://forums.swift.org/t/accepted-se-0279-multiple-trailing-closures/36141), stirring many different opinions in our community. I'm not that much into language design, and I don't participate in the Swift Evolution discussions because to me Swift is just a tool that I use to build iOS apps, which is what I'm interested in. If you want to keep up to date with the Swift Evolution, you can join forums or follow [Swift Weekly Brief](https://swiftweekly.github.io/issue-159/) - a Swift language-focused newsletter.
+
+Thirdly, yesterday, for a few hours, a lot of iOS apps were crashing at launch. It turned out to be an issue in the Facebook SDK for iOS, which was crashing after a server update. The issue was fixed serverside and rolled out gradually, so everything went back to normal after a few hours. [Gui](https://twitter.com/_inside) has a very good [summary of what had happened](https://rambo.codes/posts/2020-05-07-the-big-facebook-crash). Still, the fact that a big company has an impact on that many apps and that a small bug caused by it can render useless almost all the apps on a user's phone is a bit chilling. There were so many crashes that [Firebase Crashlytics started having issues processing all of them](https://status.firebase.google.com/incident/Crashlytics/20003).
+
+Finally, let's go over to the rest of the links from this week.
 
 **Articles**
 
