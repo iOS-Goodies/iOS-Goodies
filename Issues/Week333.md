@@ -1,3 +1,6 @@
+- https://www.apple.com/newsroom/2020/05/apple-to-host-virtual-worldwide-developers-conference-beginning-june-22.html
+- https://rambo.codes/posts/2020-05-07-the-big-facebook-crash
+- https://forums.swift.org/t/accepted-se-0279-multiple-trailing-closures/36141/9
 
 **Articles**
 
@@ -12,12 +15,15 @@
 * [The Missing Collection View in SwiftUI](https://www.netguru.com/codestories/the-missing-collection-view-in-swiftui), by Adam Niepokój
 * [Building calendar without UICollectionView in SwiftUI](https://swiftwithmajid.com/2020/05/06/building-calendar-without-uicollectionview-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Memberwise Initializers for Structure Types](https://sarunw.com/posts/memberwise-initializers-for-structure-types/), by [@sarunw](https://twitter.com/sarunw)
+* [When to use Accessibility Labels](https://mobilea11y.com/blog/when-to-use-accessibility-labels/), by [@RobRWAPP](https://twitter.com/RobRWAPP)
+* [How and when to use KVO in Swift and UIKit](https://aplus.rs/2020/how-when-use-kvo-in-swift-uikit/), by [@pointfreeco](https://twitter.com/pointfreeco)
 
 **Tools/Controls**
 
+* [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind, by [@pointfreeco](https://twitter.com/pointfreeco)
 * [LINE's custom Bazel rules for building apps and frameworks for Apple platforms](https://github.com/line/bazel_rules_apple/), by [@line](https://github.com/line)
 * [Font Awesome Icons to PNG converter](https://fa2png.app), by [@soulchildpls](https://twitter.com/soulchildpls)
-* [Step Indicator iOS Component in SwiftUI](https://github.com/badrinathvm/StepperView), by [@badrivm](https://twitter.com/badrivm)
+* [Step Indicator iOS Component in SwiftUI](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications. , by [@badrivm](https://twitter.com/badrivm)
 * [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Business/Career**
