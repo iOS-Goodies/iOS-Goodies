@@ -20,7 +20,7 @@ Finally, let's go over to the rest of the links from this week.
 * [Building calendar without UICollectionView in SwiftUI](https://swiftwithmajid.com/2020/05/06/building-calendar-without-uicollectionview-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Memberwise Initializers for Structure Types](https://sarunw.com/posts/memberwise-initializers-for-structure-types/), by [@sarunw](https://twitter.com/sarunw)
 * [When to use Accessibility Labels](https://mobilea11y.com/blog/when-to-use-accessibility-labels/), by [@RobRWAPP](https://twitter.com/RobRWAPP)
-* [How and when to use KVO in Swift and UIKit](https://aplus.rs/2020/how-when-use-kvo-in-swift-uikit/), by [@pointfreeco](https://twitter.com/pointfreeco)
+* [How and when to use KVO in Swift and UIKit](https://aplus.rs/2020/how-when-use-kvo-in-swift-uikit/), by [@radiantav](https://twitter.com/radiantav)
 
 **Tools/Controls**
 
