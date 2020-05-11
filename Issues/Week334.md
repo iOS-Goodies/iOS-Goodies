@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [SwiftUI Navigation in List View: Programmatic Navigation](https://lostmoa.com/blog/ProgrammaticNavigationInSwiftUIListView/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [nataliapanferova](https://github.com/nataliapanferova)
