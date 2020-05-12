@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [ConcurrentCarthage](https://github.com/unchartedworks/ConcurrentCarthage) - a faster Carthage which utilizes multiple cores to build frameworks, by [@unchartedworks](https://github.com/unchartedworks/)
 
 **Business/Career**
 
