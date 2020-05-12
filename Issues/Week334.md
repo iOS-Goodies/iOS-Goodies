@@ -4,6 +4,7 @@
 * [SwiftUI Navigation in List View: Programmatic Navigation](https://lostmoa.com/blog/ProgrammaticNavigationInSwiftUIListView/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 * [Using Custom debug descriptions to improve debugging](https://www.avanderlee.com/swift/custom-debug-descriptions/), by [@twannl](https://twitter.com/twannl)
 * [Everything wrong with XCFrameworks](https://pyckamil.github.io/programming,/xcframework,/xcode/2020/05/09/everything-wrong-with-xcframeworks.html), by [@KamilPyc](https://twitter.com/KamilPyc)
+* [Settings Bundles Management in Xcode](https://swiftsenpai.com/xcode/settings-bundles-management/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -23,5 +24,5 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc)
+* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng)
 
