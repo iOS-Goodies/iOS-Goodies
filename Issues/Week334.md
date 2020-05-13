@@ -28,5 +28,5 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng), [anyashka](https://github.com/anyashka), [jasonzurita](https://github.com/jasonzurita), [mecid](https://github.com/mecid)
+* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng), [anyashka](https://github.com/anyashka), [jasonzurita](https://github.com/jasonzurita), [mecid](https://github.com/mecid), [apptekstudios](https://github.com/apptekstudios)
 
