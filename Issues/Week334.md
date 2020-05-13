@@ -7,6 +7,7 @@
 * [Settings Bundles Management in Xcode](https://swiftsenpai.com/xcode/settings-bundles-management/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [On-Device Training with Core ML - Make Your Pancakes Healthy Again!](https://www.netguru.com/codestories/on-device-training-with-core-ml-make-your-pancakes-healthy-again), by [@shkarlinska](https://twitter.com/shkarlinska)
 * [Remove Xcode's File Header Comments](https://jasonzurita.com/remove-xcode-file-header-comments/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
+* [Template-view pattern in SwiftUI](https://swiftwithmajid.com/2020/05/13/template-view-pattern-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,5 +27,5 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng), [anyashka](https://github.com/anyashka), [jasonzurita](https://github.com/jasonzurita)
+* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng), [anyashka](https://github.com/anyashka), [jasonzurita](https://github.com/jasonzurita), [mecid](https://github.com/mecid)
 
