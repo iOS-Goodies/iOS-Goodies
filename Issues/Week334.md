@@ -1,3 +1,4 @@
+- https://www.raywenderlich.com/10418006-introducing-rw-community-care
 
 **Articles**
 
@@ -9,6 +10,11 @@
 * [Remove Xcode's File Header Comments](https://jasonzurita.com/remove-xcode-file-header-comments/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
 * [Template-view pattern in SwiftUI](https://swiftwithmajid.com/2020/05/13/template-view-pattern-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Working with Arrays in SwiftUI](https://blog.apptekstudios.com/2020/05/working-with-arrays-in-swiftui/), by [@tobeasbrennan](https://twitter.com/tobeasbrennan)
+* [How to make your app look great on every screen](https://developer.apple.com/news/?id=nixcb564), by Apple
+* [Getting started with testing your Combine code](https://www.donnywals.com/getting-started-with-testing-your-combine-code/), by [@donnywals](https://twitter.com/donnywals)
+* [Swift Filtering With Predicates](https://useyourloaf.com/blog/swift-filtering-with-predicates/), by [@kharrison](https://twitter.com/kharrison)
+* [Animating annotations position change in MKMapView](https://blog.kulman.sk/animating-annotation-position-change-on-ios/), by [@igorkulman](https://twitter.com/igorkulman)
+* [How to add a shield on the App Icon of beta builds](https://diamantidis.github.io/2020/05/10/add-shield-on-the-app-icon-of-beta-builds), by [@diamantidis_io](https://twitter.com/diamantidis_io)
 
 **Tools/Controls**
 
@@ -20,7 +26,7 @@
 
 **UI/UX**
 
-*
+* [The Ideal iPhone App First-Run Experience Is None At All](https://inessential.com/2020/05/09/the_ideal_iphone_app_first_run_experienc), by [@brentsimmons](https://twitter.com/brentsimmons/)
 
 **Videos**
 
