@@ -15,6 +15,7 @@
 * [Swift Filtering With Predicates](https://useyourloaf.com/blog/swift-filtering-with-predicates/), by [@kharrison](https://twitter.com/kharrison)
 * [Animating annotations position change in MKMapView](https://blog.kulman.sk/animating-annotation-position-change-on-ios/), by [@igorkulman](https://twitter.com/igorkulman)
 * [How to add a shield on the App Icon of beta builds](https://diamantidis.github.io/2020/05/10/add-shield-on-the-app-icon-of-beta-builds), by [@diamantidis_io](https://twitter.com/diamantidis_io)
+* [How to set status bar style](https://sarunw.com/posts/how-to-set-status-bar-style/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -34,5 +35,5 @@
 
 **Credits**
 
-* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng), [anyashka](https://github.com/anyashka), [jasonzurita](https://github.com/jasonzurita), [mecid](https://github.com/mecid), [apptekstudios](https://github.com/apptekstudios)
+* [nataliapanferova](https://github.com/nataliapanferova), [AndrewFakher](https://github.com/AndrewFakher), [@KamilPyc](https://twitter.com/KamilPyc), [LeeKahSeng](https://github.com/LeeKahSeng), [anyashka](https://github.com/anyashka), [jasonzurita](https://github.com/jasonzurita), [mecid](https://github.com/mecid), [apptekstudios](https://github.com/apptekstudios), [sarunw](https://github.com/sarunw)
 
