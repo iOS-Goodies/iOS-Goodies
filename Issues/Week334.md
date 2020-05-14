@@ -1,4 +1,4 @@
-- https://www.raywenderlich.com/10418006-introducing-rw-community-care
+Happy Thursday! If this period has been rough on you, if you want to learn something new, get feedbak on your projects or simply get in touch with a nice and welcoming community of iOS developers, have a look at the recently announced [RW Community Care project](https://www.raywenderlich.com/10418006-introducing-rw-community-care), a great initiative by the [Ray Wenderlich](https://twitter.com/rwenderlich) team.
 
 **Articles**
 
