@@ -7,6 +7,7 @@
 * [Display multiple Sheets in a SwiftUI View](https://www.morningswiftui.com/blog/display-multiple-sheet-in-a-swiftui-view), by [@thomassivilay](https://twitter.com/thomassivilay)
 * [SwiftUI Previews at Scale](https://www.vadimbulavin.com/swiftui-previews-at-scale/), by [@V8tr](https://twitter.com/V8tr)
 * [Building a Design System for iOS](https://www.ramshandilya.com/blog/design-system-intro/), by [@ramshandilya](https://twitter.com/ramshandilya)
+* [Building server-driven-UI architecture using UIComponents in SwiftUI](https://medium.com/better-programming/build-a-server-driven-ui-using-ui-components-in-swiftui-466ecca97290), by [@AnupAmmanavar](https://twitter.com/AnupAmmanavar)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay)
+* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar)
