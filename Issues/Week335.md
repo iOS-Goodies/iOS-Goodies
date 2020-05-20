@@ -9,6 +9,7 @@
 * [Building a Design System for iOS](https://www.ramshandilya.com/blog/design-system-intro/), by [@ramshandilya](https://twitter.com/ramshandilya)
 * [Building server-driven-UI architecture using UIComponents in SwiftUI](https://medium.com/better-programming/build-a-server-driven-ui-using-ui-components-in-swiftui-466ecca97290), by [@AnupAmmanavar](https://twitter.com/AnupAmmanavar)
 * [SwiftUI Search Bar in the Navigation Bar](http://blog.eppz.eu/swiftui-search-bar-in-the-navigation-bar), by [@Geri_Borbas](https://twitter.com/Geri_Borbas)
+* [Fitting and filling views in SwiftUI](https://swiftwithmajid.com/2020/05/20/fitting-and-filling-view-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -28,4 +29,4 @@
 
 **Credits**
 
-* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar), [Geri-Borbas](https://github.com/Geri-Borbas)
+* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar), [Geri-Borbas](https://github.com/Geri-Borbas), [mecid](https://github.com/mecid)
