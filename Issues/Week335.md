@@ -12,6 +12,7 @@
 * [Fitting and filling views in SwiftUI](https://swiftwithmajid.com/2020/05/20/fitting-and-filling-view-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Implementing design system components on iOS](https://medium.com/chili-labs/implementing-design-system-components-on-ios-6afe873ea586), by [@chililabs](https://twitter.com/chililabs)
 * [Match a view's shadow to the Sketch shadow](https://sarunw.com/posts/match-view-shadow-to-sketch-shadow/), by [@sarunw](https://twitter.com/sarunw)
+* [Top 10 Most Useful iOS Libraries in 2020](https://infinum.com/the-capsized-eight/top-10-most-useful-iOS-libraries), by [@goranbrlas](https://twitter.com/goranbrlas)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar), [Geri-Borbas](https://github.com/Geri-Borbas), [mecid](https://github.com/mecid), [chili-ios](https://github.com/chili-ios), [sarunw](https://github.com/sarunw)
+* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar), [Geri-Borbas](https://github.com/Geri-Borbas), [mecid](https://github.com/mecid), [chili-ios](https://github.com/chili-ios), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl)
