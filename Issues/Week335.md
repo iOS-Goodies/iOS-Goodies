@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar), [Geri-Borbas](https://github.com/Geri-Borbas), [mecid](https://github.com/mecid)
+* [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [V8tr](https://github.com/V8tr), [ramshandilya](https://github.com/Ramshandilya), [thomassivilay](https://github.com/thomas-sivilay), [AnupAmmanavar](https://github.com/AnupAmmanavar), [Geri-Borbas](https://github.com/Geri-Borbas), [mecid](https://github.com/mecid), [chili-ios](https://github.com/chili-ios)
