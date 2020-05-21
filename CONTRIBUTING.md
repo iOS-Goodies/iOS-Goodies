@@ -6,12 +6,11 @@ Before we start, please read our [Code of Conduct](https://github.com/iOS-Goodie
 
 ## Contributing
 
-If you would like to contribute with a link to the current week's issue send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls). After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. There are two main reasons for a contribution to be rejected:
-
-* Each section has a limit of 5 articles (in special occasions, we can bend this rule and change the upper limit).
-* **The article didn't pass our curation**. This can be for multiple reasons: poorly written, not relevant to the community in general, not up to our standards, etc. Of course this is very subjective and if you think we are being unfair, do let us know. 
+If you would like to contribute with a link to the current week's issue send us a [Pull Request](https://github.com/iOS-Goodies/iOS-Goodies/pulls). After being accepted, the article will stay in the repo, still **it does not guarantee that will be presented on the website, or the newsletter**. All the submitted articles are being curated by [Marius Constantinescu](https://twitter.com/marius_const). The newsletter contains a selection of the articles that are in the GitHub repo for that edition. As a general rule, we aim for 10-15 links in the newsletter, but in special circumstances this can change. Yes, the curation step is subjective, but we aim to be as fair as possible, while taking into account various factors. We try to bring forward new voices and increase the diversity in our community, all without compromising the quality of the links we share with you each week and also bringing you the best articles of that week.
 
 You can include more than one article in a pull request.
+
+The intro for each edition is a short text written by [Marius](https://twitter.com/marius_const) which summarises the news of the week in the iOS development world (Xcode/iOS releases, Apple news for iOS devs, etc) or highlights a particular article, discussion, idea from that week. If you want to write the intro text for a week's edition, please open an issue on Tuesday at the latest (the newsletter goes out un Thursday).
 
 ## Requirements
 
