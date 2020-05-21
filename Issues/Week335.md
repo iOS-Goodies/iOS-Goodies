@@ -1,6 +1,8 @@
-- https://cs193p.sites.stanford.edu/
-- https://developer.apple.com/documentation/xcode_release_notes/xcode_11_5_release_notes
-- https://smashswift.com/swift-tv/
+Happy Thursday! Some of you probably know the CS193p course from Stanford. That's also how I started learning iOS development, from Paul Hegarty's course on iTunes U. Back then it was pre-ARC Objective-C and MVC. Well, this year [Stanford pusblishes their lectures on their website](https://cs193p.sites.stanford.edu/), and the course is SwiftUI + MVVM. Oh, how the times have changed 😁.
+
+In other news, Apple has released Xcode 11.5 and iOS 13.5, with the biggest news being the Exposure Notification API. 
+
+And instead of missing your local iOS developer meetups, which can't happen in person anymore, you can take advantage of the fact that some of them are already moving online, and you can join some that are happening thousands of kilometers from you. Kornel Miszczak maintains [a list of those events](https://smashswift.com/swift-tv/).
 
 **Articles**
 
