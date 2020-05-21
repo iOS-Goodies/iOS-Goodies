@@ -12,6 +12,7 @@
 * [Fitting and filling views in SwiftUI](https://swiftwithmajid.com/2020/05/20/fitting-and-filling-view-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Implementing design system components on iOS](https://medium.com/chili-labs/implementing-design-system-components-on-ios-6afe873ea586), by [@chililabs](https://twitter.com/chililabs)
 * [Match a view's shadow to the Sketch shadow](https://sarunw.com/posts/match-view-shadow-to-sketch-shadow/), by [@sarunw](https://twitter.com/sarunw)
+* [Enhance the VoiceOver experience in your app](https://developer.apple.com/news/?id=v56qu1b3), by Apple
 
 **Tools/Controls**
 
