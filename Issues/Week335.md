@@ -13,6 +13,7 @@
 * [Implementing design system components on iOS](https://medium.com/chili-labs/implementing-design-system-components-on-ios-6afe873ea586), by [@chililabs](https://twitter.com/chililabs)
 * [Match a view's shadow to the Sketch shadow](https://sarunw.com/posts/match-view-shadow-to-sketch-shadow/), by [@sarunw](https://twitter.com/sarunw)
 * [Top 10 Most Useful iOS Libraries in 2020](https://infinum.com/the-capsized-eight/top-10-most-useful-iOS-libraries), by [@goranbrlas](https://twitter.com/goranbrlas)
+* [Enhance the VoiceOver experience in your app](https://developer.apple.com/news/?id=v56qu1b3), by Apple
 
 **Tools/Controls**
 
@@ -28,7 +29,7 @@
 
 **Videos**
 
-*
+* [Apps for All: Making Software Accessible](https://youtu.be/LHHmx5XxIBc), by [@mb](https://twitter.com/mb)
 
 **Credits**
 
