@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Scroll List to Row in SwiftUI](https://lostmoa.com/blog/ScrollListToRowInSwiftUI/), by [@lostmoa_nz](https://twitter.com/lostmoa_nz)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [nataliapanferova](https://github.com/nataliapanferova)
