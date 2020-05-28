@@ -1,3 +1,4 @@
+Happy Thursday! It's been a quiet week, people are getting excited and impatient for WWDC, and even [WWDC-related social events are moving online](https://twitter.com/subdigital/status/1265724374642024448). 
 
 **Articles**
 
@@ -13,6 +14,7 @@
 * [Dealing with memory limits in iOS app extensions](https://blog.kulman.sk/dealing-with-memory-limits-in-app-extensions/), by [@igorkulman](https://twitter.com/igorkulman)
 * [An In-Depth Look at Blur Effect Materials on iOS](https://pspdfkit.com/blog/2020/blur-effect-materials-on-ios/), by [@nish_desai](https://twitter.com/nish_desai)
 * [Lessons learned implementing Sign in with Apple on iOS](https://tech.just-eat.com/2020/05/27/lessons-learned-implementing-sign-in-with-apple-on-ios/), by [@andrea_anto97](https://twitter.com/andrea_anto97)
+* [Llbuild2](https://forums.swift.org/t/llbuild2/36896), by [@daniel_dunbar](https://twitter.com/daniel_dunbar)
 
 **Tools/Controls**
 
@@ -28,7 +30,7 @@
 
 **Videos**
 
-* 
+* [Accessibility for iOS: doing well by doing good](https://www.youtube.com/watch?v=N_QjBc_Zuts), by [@djembe](https://twitter.com/djembe)
 
 **Credits**
 
