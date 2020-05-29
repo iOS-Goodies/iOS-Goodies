@@ -21,5 +21,5 @@
 
 **Credits**
 
-* 
+* [@chili-ios](https://github.com/chili-ios)
 
