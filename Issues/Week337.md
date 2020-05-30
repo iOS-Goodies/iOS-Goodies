@@ -23,4 +23,5 @@
 **Credits**
 
 * [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino)
+* [@terminatorover](https://github.com/terminatorover)
 
