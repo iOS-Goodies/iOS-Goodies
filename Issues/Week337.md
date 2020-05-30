@@ -7,6 +7,7 @@
 
 * [CHIOTPField](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc. by [@chililabs](https://github.com/ChiliLabs)
 
+* [RGStack](https://github.com/terminatorover/RGStack) - UI attempts to capture the Quibi Card Stack and the associated User Interaction, by [@RoberaGeleta](https://twitter.com/RoberaGeleta)
 **Business/Career**
 
 *
