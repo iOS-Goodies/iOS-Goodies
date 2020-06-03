@@ -31,6 +31,6 @@
 
 **Credits**
 
-* [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [@Rimesh](https://github.com/Rimesh)
 * [@terminatorover](https://github.com/terminatorover)
 
