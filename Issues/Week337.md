@@ -12,6 +12,11 @@
 * [CHIOTPField](https://github.com/ChiliLabs/CHIOTPField) - A set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc. by [@chililabs](https://github.com/ChiliLabs)
 
 * [RGStack](https://github.com/terminatorover/RGStack) - UI attempts to capture the Quibi Card Stack and the associated User Interaction, by [@RoberaGeleta](https://twitter.com/RoberaGeleta)
+
+* [NotesTextView](https://github.com/Rimesh/NotesTextView) - iOS Notes style rich text formatting for UITextView using NSAttributedString, by [@RecursiveSwift](https://twitter.com/RecursiveSwift)
+
+* 
+
 **Business/Career**
 
 *
@@ -26,6 +31,6 @@
 
 **Credits**
 
-* [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [@Rimesh](https://github.com/Rimesh)
 * [@terminatorover](https://github.com/terminatorover)
 
