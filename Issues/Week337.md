@@ -10,6 +10,7 @@
 * [Designing reusable Swift libraries](https://www.swiftbysundell.com/articles/designing-reusable-swift-libraries/), by [@johnsundell](https://twitter.com/johnsundell)
 * [Core Data Performance: 6 tips you should know](https://www.avanderlee.com/swift/core-data-performance/), by [@twannl](https://www.twitter.com/twannl)
 * [A Type-Safe FileWrapper](https://heberti.com/posts/filewrapper/), by [@hebertialmeida](http://twitter.com/hebertialmeida)
+* [App size matters II](https://farfetchtechblog.com/en/blog/post/app-size-matters-ii/), by [@goncaloalvarez](https://www.twitter.com/goncaloalvarez)
 
 **Tools/Controls**
 
@@ -32,5 +33,4 @@
 
 **Credits**
 
-* [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [@Rimesh](https://github.com/Rimesh), [@terminatorover](https://github.com/terminatorover), [sarunw](https://github.com/sarunw), [@hebertialmeida](https://github.com/hebertialmeida)
-
+* [@chili-ios](https://github.com/chili-ios), [@pmusolino](https://github.com/pmusolino), [LeeKahSeng](https://github.com/LeeKahSeng), [@Rimesh](https://github.com/Rimesh), [@terminatorover](https://github.com/terminatorover), [sarunw](https://github.com/sarunw), [@hebertialmeida](https://github.com/hebertialmeida), [crsantos](https://github.com/crsantos)
