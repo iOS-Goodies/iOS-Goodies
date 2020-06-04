@@ -9,6 +9,7 @@
 * [Getting Started with Core NFC](https://www.raywenderlich.com/9582458-getting-started-with-core-nfc), by [@macandyp](https://twitter.com/macandyp)
 * [Designing reusable Swift libraries](https://www.swiftbysundell.com/articles/designing-reusable-swift-libraries/), by [@johnsundell](https://twitter.com/johnsundell)
 * [Core Data Performance: 6 tips you should know](https://www.avanderlee.com/swift/core-data-performance/), by [@twannl](https://www.twitter.com/twannl)
+* [A Type-Safe FileWrapper](https://heberti.com/posts/filewrapper/), by [@hebertialmeida](http://twitter.com/hebertialmeida)
 
 **Tools/Controls**
 
