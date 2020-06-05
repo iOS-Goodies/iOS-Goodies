@@ -1,4 +1,11 @@
-- 1 year ago our minds were blown; - https://ios-goodies.com/post/185370134786/week-2845-wwdc-special; plan to do a similar post this year too
+*We need to speak up. The recent murders of George Floyd, Breonna Taylor, Ahmaud Arbery or David McAtee have shown that racism against Black people is a much bigger issue than most white people are comfortable discussing and that we have a lot of work to do to make things right. We need to stop ignoring the problem and start addressing it. It’s time we learn about racism and about how we can unlearn it. It’s time we stop thinking we don’t perpetuate racism just because we have one or two Black friends. We are all part of this society, and this society is racist. One person can’t change that, but if we all talk to our family and friends, if we all call out the racist and discriminating beliefs we hear around us, if we stop avoiding uncomfortable subjects because they don’t affect us directly, we can make a change.*
+
+*If you’re a member of an underrepresented group in tech and you create content that is a good fit for iOS Goodies, please get in touch as I would love to feature your work. And now, let’s get back to iOS Goodies.*
+
+---
+
+One year ago, [our minds were blown](https://developer.apple.com/wwdc19/) at WWDC 2019. I was so excited that I stayed up well after midnight to catch up on the announcements from the keynote, and I ended up making a summary and [sending out a WWDC special edition of iOS Goodies](https://ios-goodies.com/post/185370134786/week-2845-wwdc-special). I plan to do something similar this year too and publish a WWDC special edition as soon as possible the day of the keynote. Let’s see how it goes, we have less than 20 days until the start of the first online edition of WWDC, and we don’t have any details yet.
+
 
 **Articles**
 
