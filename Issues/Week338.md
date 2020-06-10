@@ -7,6 +7,7 @@
 * [Modularity. Boundaries](https://dmtopolog.com/modularity-1-boundaries/), by [@dmtopolog](https://twitter.com/dmtopolog)
 * [SwiftUI wishlist for WWDC20](https://swiftwithmajid.com/2020/06/10/swiftui-wishlist-for-wwdc20/), by [@mecid](https://twitter.com/mecid)
 * [Dynamic Height for Text Field in SwiftUI](https://lostmoa.com/blog/DynamicHeightForTextFieldInSwiftUI/), by [@natpanferova](https://twitter.com/natpanferova)
+* [Swift Pointers Overview: Unsafe, Buffer, Raw and Managed Pointers](https://www.vadimbulavin.com/swift-pointers-overview-unsafe-buffer-raw-and-managed-pointers/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [@cupnoodle](https://github.com/cupnoodle), [LeeKahSeng](https://github.com/LeeKahSeng), [DmIvanov](https://github.com/DmIvanov), [nataliapanferova](https://github.com/nataliapanferova), [mecid](https://github.com/mecid)
+* [@cupnoodle](https://github.com/cupnoodle), [LeeKahSeng](https://github.com/LeeKahSeng), [DmIvanov](https://github.com/DmIvanov), [nataliapanferova](https://github.com/nataliapanferova), [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr)
