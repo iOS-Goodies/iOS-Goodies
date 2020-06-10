@@ -1,3 +1,4 @@
+- https://forums.swift.org/t/swift-package-registry-service/37219
 
 **Articles**
 
