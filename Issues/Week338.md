@@ -10,6 +10,7 @@
 * [Swift Pointers Overview: Unsafe, Buffer, Raw and Managed Pointers](https://www.vadimbulavin.com/swift-pointers-overview-unsafe-buffer-raw-and-managed-pointers/), by [@V8tr](https://twitter.com/V8tr)
 * [Swift way to build OpenSSL for Carthage iOS, as we did it for Themis](https://www.cossacklabs.com/blog/openssl-for-carthage-for-themis), by [@cossacklabs](https://twitter.com/cossacklabs)
 * [What is backIndicatorTransitionMaskImage](https://sarunw.com/posts/what-is-backindicatortransitionmaskimage/), by [@sarunw](https://twitter.com/sarunw)
+* [Modular Sign in with Apple in iOS](https://blog.usejournal.com/modular-sign-in-with-apple-in-ios-d18ad913aa47), by [@yoloAbdo](https://twitter.com/yoloAbdo)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [@cupnoodle](https://github.com/cupnoodle), [LeeKahSeng](https://github.com/LeeKahSeng), [DmIvanov](https://github.com/DmIvanov), [nataliapanferova](https://github.com/nataliapanferova), [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [vixentael](https://github.com/vixentael), [sarunw](https://github.com/sarunw)
+* [@cupnoodle](https://github.com/cupnoodle), [LeeKahSeng](https://github.com/LeeKahSeng), [DmIvanov](https://github.com/DmIvanov), [nataliapanferova](https://github.com/nataliapanferova), [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [vixentael](https://github.com/vixentael), [sarunw](https://github.com/sarunw, [MoElnaggar14](https://github.com/MoElnaggar14)
