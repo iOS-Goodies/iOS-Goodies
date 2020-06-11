@@ -16,7 +16,7 @@
 
 **Tools/Controls**
 
-*
+* [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Business/Career**
 
@@ -32,4 +32,4 @@
 
 **Credits**
 
-* [andreaslydemann](https://github.com/andreaslydemann), [@cupnoodle](https://github.com/cupnoodle), [LeeKahSeng](https://github.com/LeeKahSeng), [DmIvanov](https://github.com/DmIvanov), [nataliapanferova](https://github.com/nataliapanferova), [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [vixentael](https://github.com/vixentael), [sarunw](https://github.com/sarunw)
+* [andreaslydemann](https://github.com/andreaslydemann), [@cupnoodle](https://github.com/cupnoodle), [LeeKahSeng](https://github.com/LeeKahSeng), [DmIvanov](https://github.com/DmIvanov), [nataliapanferova](https://github.com/nataliapanferova), [mecid](https://github.com/mecid), [V8tr](https://github.com/V8tr), [vixentael](https://github.com/vixentael), [sarunw](https://github.com/sarunw), [ExyteHQ](https://github.com/exyte)
