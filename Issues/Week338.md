@@ -22,7 +22,7 @@ In other news, iOS 13.6 beta 2 and Xcode 11.6 beta have been released, and [Matt
 **Tools/Controls**
 
 * [Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI, by [@ExyteHQ](https://twitter.com/ExyteHQ)
-* [Fluxor](https://github.com/FluxorOrg/Fluxor), by [@MortenGregersen](https://twitter.com/MortenGregersen)
+* [Fluxor](https://github.com/FluxorOrg/Fluxor) - Unidirectional Data Flow in Swift based on Combine, by [@MortenGregersen](https://twitter.com/MortenGregersen)
 
 **Business/Career**
 
