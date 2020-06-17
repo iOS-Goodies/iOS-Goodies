@@ -1,3 +1,8 @@
+- https://wwdcwatch.party/
+- https://www.eventbrite.com/e/pre-wwdc-virtual-trivia-tickets-108879668018
+- https://twitter.com/abizern/status/1271361699933806593
+- https://wwdc.io/
+- https://apps.apple.com/us/app/apple-developer/id640199958
 
 **Articles**
 
@@ -27,8 +32,4 @@
 
 **Credits**
 
-* [@shadone](https://github.com/shadone)
-* [@V8tr](https://github.com/V8tr)
-* [LeeKahSeng](https://github.com/LeeKahSeng)
-* [brycepauken](https://github.com/brycepauken)
-* [mecid](https://github.com/mecid)
+* [shadone](https://github.com/shadone), [V8tr](https://github.com/V8tr), [LeeKahSeng](https://github.com/LeeKahSeng), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid), [batikansosun](https://github.com/batikansosun)
