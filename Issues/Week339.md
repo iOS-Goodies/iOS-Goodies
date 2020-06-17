@@ -13,6 +13,7 @@
 * [Integrate Google Sign-In with Firebase Authentication](https://swiftsenpai.com/development/google-sign-in-firebase-authentication/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Toggling iOS Render Debug Options Without a Computer](https://bryce.co/on-device-render-debugging/), by [@brycepauken](https://twitter.com/brycepauken)
 * [The magic of Animatable values in SwiftUI](https://swiftwithmajid.com/2020/06/17/the-magic-of-animatable-values-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Easy way to detect a retain cycle in a view controller](https://sarunw.com/posts/easy-way-to-detect-retain-cycle-in-view-controller/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -32,4 +33,4 @@
 
 **Credits**
 
-* [shadone](https://github.com/shadone), [V8tr](https://github.com/V8tr), [LeeKahSeng](https://github.com/LeeKahSeng), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid), [batikansosun](https://github.com/batikansosun)
+* [shadone](https://github.com/shadone), [V8tr](https://github.com/V8tr), [LeeKahSeng](https://github.com/LeeKahSeng), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid), [batikansosun](https://github.com/batikansosun), [sarunw](https://github.com/sarunw)
