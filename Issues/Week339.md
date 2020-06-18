@@ -1,11 +1,4 @@
-- https://wwdcwatch.party/
-- https://www.eventbrite.com/e/pre-wwdc-virtual-trivia-tickets-108879668018
-- https://twitter.com/abizern/status/1271361699933806593
-- https://wwdc.io/
-- https://apps.apple.com/us/app/apple-developer/id640199958
-- https://wwdctogether.com/
-- https://wwdcbysundell.com/
-- https://developer.apple.com/forums/
+Happy Thursday! Are you ready for next week's WWDC? If you used to watch the keynote with many other people at some local community events, things that aren't possible this year in most places, fear not, the community has stepped up and there are already a lot of alternatives, such as [https://wwdcwatch.party/](https://wwdcwatch.party/) and [https://wwdctogether.com/](https://wwdctogether.com/). Wondering how to watch? There's [the official WWDC app for iOS, tvOS](https://apps.apple.com/us/app/apple-developer/id640199958) which now has also got a macOS counterpart, thanks to Catalyst. Or, there's also the very popular [unofficial WWDC app for macOS](https://wwdc.io/). The [new Apple Developer Forums](https://developer.apple.com/forums/) have just been launched, and they look great. Looking forward to the discussion there next week. If you're a fan of trivia and pub-quiz style games, you can join the [Pre-WWDC Virtual Trivia!](https://www.eventbrite.com/e/pre-wwdc-virtual-trivia-tickets-108879668018). But most of all, have fun and enjoy the next week. There will be a lot of new information, many people will rush to write about the newly presented goodies (myself included, I'll send a special iOS Goodies edition a few hours after the keynote 😅), and it's easy to feel overwhelmed or suffer from imposter syndrome. Make sure to read [Abizer's thread on this subject](https://twitter.com/abizern/status/1271361699933806593). You don't need to know everything presented next week at once. Nobody does.
 
 **Articles**
 
