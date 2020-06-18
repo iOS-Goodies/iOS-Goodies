@@ -19,7 +19,7 @@
 
 **Tools/Controls**
 
-*
+* [Scaffold](https://github.com/yhkaplan/scaffold) - Tool for generating code from Stencil templates, by [@yhkaplan](https://twitter.com/yhkaplan)
 
 **Business/Career**
 
@@ -35,4 +35,4 @@
 
 **Credits**
 
-* [shadone](https://github.com/shadone), [V8tr](https://github.com/V8tr), [LeeKahSeng](https://github.com/LeeKahSeng), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid), [batikansosun](https://github.com/batikansosun), [sarunw](https://github.com/sarunw)
+* [shadone](https://github.com/shadone), [V8tr](https://github.com/V8tr), [LeeKahSeng](https://github.com/LeeKahSeng), [brycepauken](https://github.com/brycepauken), [mecid](https://github.com/mecid), [batikansosun](https://github.com/batikansosun), [sarunw](https://github.com/sarunw), [yhkaplan](https://github.com/yhkaplan)
