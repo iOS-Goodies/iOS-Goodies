@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* [WWDC Notes](https://wwdcnotes.com), by [@zntfdr](https://twitter.com/twitter)
+* [WWDC Notes](https://wwdcnotes.com) - An open collection of notes for Apple's WWDC videos, by [@zntfdr](https://twitter.com/twitter)
 
 **Business/Career**
 
