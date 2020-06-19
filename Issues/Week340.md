@@ -7,6 +7,7 @@
 **Tools/Controls**
 
 * [WWDC Notes](https://wwdcnotes.com) - An open collection of notes for Apple's WWDC videos, by [@zntfdr](https://twitter.com/twitter)
+* [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps, by [@BKyourway19](https://twitter.com/BKyourway19)
 
 **Business/Career**
 
