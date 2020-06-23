@@ -29,4 +29,4 @@
 * [zntfdr](http://github.com/zntfdr)
 * [muukii](https://github.com/muukii)
 * [mecid](https://github.com/mecid)
-* [@iosartem](https://twitter.com/iosartem)
+* [artemnovichkov](https://github.com/artemnovichkov)
