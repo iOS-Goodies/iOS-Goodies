@@ -1,4 +1,14 @@
 
+**WWDC**
+
+* [WWDC20’s major security and privacy announcements](https://wwdcbysundell.com/2020/security-privacy-announcements-at-wwdc20/), by [@vixentael](https://twitter.com/vixentael)
+* [Getting Ready for New iOS 14 Local Network Privacy Restrictions](https://lostmoa.com/blog/GettingReadyForNewiOS14LocalNetworkPrivacyRestrictions/), by [@natpanferova](https://twitter.com/natpanferova)
+* [A first look at Apple's new Augmented Reality features](https://engineering.monstar-lab.com/2020/06/23/A-first-look-at-Apples-new-Augmented-Reality-features), by [@RoxanaJula](https://twitter.com/RoxanaJula)
+* [Creating Your First SwiftUI Widget | iOS 14](https://www.youtube.com/watch?v=wOrkcdeui4U), by [@kilo_loco](https://twitter.com/kilo_loco)
+* [StoreKit Testing Improvements in iOS 14](https://www.revenuecat.com/blog/storekit-testing-in-xcode), by [@jeiting](https://twitter.com/jeiting/)
+* [Customize your app’s Launch Screen using its Info Plist](https://wwdcbysundell.com/2020/launch-screen-info-plist/), by [@kthomas901](https://twitter.com/kthomas901)
+* [iOS 14: Notable UIKit Additions](https://www.swiftjectivec.com/ios-14-notable-uikit-additions/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+
 **Articles**
 
 * [We measure developer build times so that we can measure improvements and regressions](https://tuist.io/apps-at-scale/2020/06/18/donal/), by Donal O'Brien
@@ -23,7 +33,7 @@
 
 **Videos**
 
-*
+* [CS345 - Paradigms Final Presentation - Swift](https://www.youtube.com/watch?v=gQVat-M1KoU), by [@chih98](https://twitter.com/chih98)
 
 **Credits**
 
@@ -32,3 +42,5 @@
 * [mecid](https://github.com/mecid)
 * [artemnovichkov](https://github.com/artemnovichkov)
 * [sarunw](https://github.com/sarunw)
+
+https://twitter.com/ishabazz/status/1275526299667140608
