@@ -21,7 +21,7 @@
 * [WWDC Notes](https://wwdcnotes.com) - An open collection of notes for Apple's WWDC videos, by [@zntfdr](https://twitter.com/twitter)
 * [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps, by [@BKyourway19](https://twitter.com/BKyourway19)
 * [Verge](https://vergegroup.github.io/Verge/) - A performant flux based state management library for iOS. Small start and scalable. by [@muukii](https://twitter.com/muukii_app)
-* [WWDC20 Sample Code](https://github.com/artemnovichkov/wwdc20-samplecode) - An examples for WWDC20 announcements, by [@iosartem](https://twitter.com/iosartem)
+* [WWDC20 Sample Code](https://github.com/artemnovichkov/wwdc20-samplecode) - Sample Code for WWDC20 s, by [@iosartem](https://twitter.com/iosartem)
 
 **Business/Career**
 
@@ -42,5 +42,3 @@
 * [mecid](https://github.com/mecid)
 * [artemnovichkov](https://github.com/artemnovichkov)
 * [sarunw](https://github.com/sarunw)
-
-https://twitter.com/ishabazz/status/1275526299667140608
