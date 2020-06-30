@@ -41,7 +41,7 @@ In case the article is really good, and doesn't fit in any of the above sections
 We use markdown for each issue, and each link should respect this rules:
 
 * Should follow this format: ``[Title of the Article](link), by [Author's Twitter username](link-for-twitter)``
-  * If the author doesn't have a twitter account then use his name instead of the Twitter username, without a link
+  * If the author doesn't have a twitter account then use their name instead of the Twitter username, without a link
   * For the Tools/Controls sections, where we showcase repos on GitHub, you can also include the short description of the repo. i.e.: ``[SwiftLint](https://github.com/realm/swiftlint) - A tool to enforce Swift style and conventions, by [@realm](https://twitter.com/realm)``
 
 ## Previous Issues
