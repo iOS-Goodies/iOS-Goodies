@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models, by [@jayhickey](https://twitter.com/jayhickey)
+* [Mockingbird](https://github.com/Farfetch/mockingbird) - macOS HTTP(s) Mocking Tool on top of _mitmproxy_ by [@erickjung](https://twitter.com/erickjung)
 
 **Business/Career**
 
@@ -28,3 +29,4 @@
 * [@jayhickey](https://github.com/jayhickey)
 * [@zntfdr](https://github.com/zntfdr)
 * [sarunw](https://github.com/sarunw)
+* [crsantos](https://github.com/crsantos)
