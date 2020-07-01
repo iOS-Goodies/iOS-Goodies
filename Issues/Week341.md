@@ -5,6 +5,10 @@
 * [Adding optional @Bindings to SwiftUI views](https://www.fivestars.blog/code/optional-binding.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Grouping Array Elements With Dictionary in Swift](https://swiftsenpai.com/swift/group-array-elements-with-dictionary/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/), by [@sarunw](https://twitter.com/sarunw)
+* [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/), by [@kharrison](https://twitter.com/kharrison)
+* [Crash Reporting with MetricKit](https://www.chimehq.com/blog/metrickit-crash-reporting), by [@mattie](https://twitter.com/mattie)
+* [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets), by [mataharimau](https://twitter.com/mataharimau)
+* [Introducing App Clips](https://engineering.monstar-lab.com/2020/06/26/Introducing-App-Clips), by Tom Müller
 
 **Tools/Controls**
 
@@ -13,7 +17,7 @@
 
 **Business/Career**
 
-*
+* [Why AnyList Won’t Be Supporting Sign In with Apple](https://blog.anylist.com/2020/06/sign-in-with-apple/), by [@jeffhunterx](https://twitter.com/jeffhunterx)
 
 **UI/UX**
 
@@ -21,7 +25,7 @@
 
 **Videos**
 
-*
+* [UICollectionView Compositional List Layout](https://www.youtube.com/watch?v=5Q4KgyESHRA), by [@kilo_loco](https://twitter.com/kilo_loco)
 
 **Credits**
 
