@@ -9,6 +9,7 @@
 * [Crash Reporting with MetricKit](https://www.chimehq.com/blog/metrickit-crash-reporting), by [@mattie](https://twitter.com/mattie)
 * [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets), by [mataharimau](https://twitter.com/mataharimau)
 * [Introducing App Clips](https://engineering.monstar-lab.com/2020/06/26/Introducing-App-Clips), by Tom Müller
+* [10 Code Snippets from WWDC 2020](https://medium.com/@francesco_/10-code-snippets-from-wwdc20-5dba158e2903?source=friends_link&sk=d9afe5ca122e7774da60dfbebf745186), by [@fraancessco](https://twitter.com/fraancessco)
 
 **Tools/Controls**
 
@@ -36,3 +37,4 @@
 * [LeeKahSeng](https://github.com/LeeKahSeng)
 * [sarunw](https://github.com/sarunw)
 * [crsantos](https://github.com/crsantos)
+* [francesc-o](https://github.com/francesc-o)
