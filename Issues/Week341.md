@@ -22,7 +22,8 @@
 
 **UI/UX**
 
-*
+* [The Comeback of Fun in Visual Design](https://applypixels.com/blog/comeback), by [@flarup](https://twitter.com/flarup/)
+* [Bringing the Spotify Heart to Life](https://spotify.design/article/bringing-the-spotify-heart-to-life), by [@heikowinter](https://twitter.com/heikowinter) and [@marmelroy](https://twitter.com/marmelroy)
 
 **Videos**
 
@@ -30,11 +31,4 @@
 
 **Credits**
 
-* [jeroenzonneveld](https://github.com/jeroenzonneveld)
-* [mecid](https://github.com/mecid)
-* [@jayhickey](https://github.com/jayhickey)
-* [@zntfdr](https://github.com/zntfdr)
-* [LeeKahSeng](https://github.com/LeeKahSeng)
-* [sarunw](https://github.com/sarunw)
-* [crsantos](https://github.com/crsantos)
-* [francesc-o](https://github.com/francesc-o)
+* [jeroenzonneveld](https://github.com/jeroenzonneveld), [mecid](https://github.com/mecid), [@jayhickey](https://github.com/jayhickey), [@zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [crsantos](https://github.com/crsantos), [francesc-o](https://github.com/francesc-o)
