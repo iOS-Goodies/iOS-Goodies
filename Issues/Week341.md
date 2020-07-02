@@ -1,11 +1,12 @@
+Happy Thursday! It's the week after WWDC, content about the new APIs is starting to pop up more and more, and if you think you're falling behind because you haven't watched as many sessions as you were hoping, just remember that you don't need to know all this now. In most cases, you don't need to know all this in autumn either, because a lot of what was announced is iOS 14 only. It's ok not to rush into the new APIs and it's ok not to install the betas. If you do want to watch more WWDC20 sessions, but you're not sure which ones, the [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) by [@kharrison](https://twitter.com/kharrison) will surely come in handy.
 
 **Articles**
+
 * [iOS 14: Create a widget using WidgetKit](https://zonneveld.dev/ios-14-widgetkit/), by [@j_zonneveld](https://twitter.com/j_zonneveld)
 * [New property wrappers in SwiftUI](https://swiftwithmajid.com/2020/06/29/new-property-wrappers-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Adding optional @Bindings to SwiftUI views](https://www.fivestars.blog/code/optional-binding.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Grouping Array Elements With Dictionary in Swift](https://swiftsenpai.com/swift/group-array-elements-with-dictionary/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [A first look at matchedGeometryEffect](https://sarunw.com/posts/a-first-look-at-matchedgeometryeffect/), by [@sarunw](https://twitter.com/sarunw)
-* [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/), by [@kharrison](https://twitter.com/kharrison)
 * [Crash Reporting with MetricKit](https://www.chimehq.com/blog/metrickit-crash-reporting), by [@mattie](https://twitter.com/mattie)
 * [Getting Started With Widgets](https://www.raywenderlich.com/11303363-getting-started-with-widgets), by [mataharimau](https://twitter.com/mataharimau)
 * [Introducing App Clips](https://engineering.monstar-lab.com/2020/06/26/Introducing-App-Clips), by Tom Müller
