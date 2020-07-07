@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [FNMNetworkMonitor - networking framework to monitor HTTP(s) activity of an iOS app, also it can mock network requests](https://github.com/Farfetch/network-monitor-ios), by [@diogobalseiro](https://github.com/diogobalseiro)
 
 **Business/Career**
 
@@ -25,4 +25,5 @@
 
 * [mecid](https://github.com/mecid)
 * [sarunw](https://github.com/sarunw)
+* [crsantos](https://github.com/crsantos)
 * [andreaslydemann](https://github.com/andreaslydemann)
