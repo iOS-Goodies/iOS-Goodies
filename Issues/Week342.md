@@ -23,6 +23,6 @@
 
 **Credits**
 
-* [andreaslydemann](https://github.com/andreaslydemann)
 * [mecid](https://github.com/mecid)
 * [sarunw](https://github.com/sarunw)
+* [andreaslydemann](https://github.com/andreaslydemann)
