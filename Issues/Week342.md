@@ -1,3 +1,6 @@
+Happy Thursday! Two weeks have passed since WWDC, so we got the second beta of Xcode 12 this week, as well as the second betas of the operating systems. What's more, Apple is releasing the public beta of its operating systems today.
+
+I've watched a few more WWDC videos these two weeks, and I'm impressed by all the work Apple did for privacy. I recommend watching [Build trust through better privacy](https://developer.apple.com/videos/play/wwdc2020/10676/), [What's new in location](https://developer.apple.com/videos/play/wwdc2020/10660/) and [Handle the Limited Photos Library in your app](https://developer.apple.com/videos/play/wwdc2020/10641/). Or, if you prefer a written article to learn about the updates to accessing the photo library, you can check out Kuba's [Photo library changes in iOS 14](https://mackuba.eu/2020/07/07/photo-library-changes-ios-14/).
 
 **Articles**
 
