@@ -20,7 +20,7 @@
 
 **Videos**
 
-* 
+* [WWDC 2020 Recap - Clips are Landing Pages, the Future of the Mac, and More](https://appfigures.com/resources/insights/webinar-wwdc-recap-2020), by [@appfigures](https://twitter.com/appfigures)
 
 **Credits**
 
@@ -29,3 +29,4 @@
 * [crsantos](https://github.com/crsantos)
 * [andreaslydemann](https://github.com/andreaslydemann)
 * [zntfdr](https://github.com/zntfdr)
+* [rel](https://github.com/rel)
