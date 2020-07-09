@@ -5,6 +5,7 @@
 * [Custom navigation bar title view in SwiftUI](https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [Refactoring iOS Apps](https://andreaslydemann.com/refactoring-ios-apps/), by [@andreaslydemann](https://twitter.com/andreaslydemann)
 * [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture](https://www.fivestars.blog/code/section-title-index-swiftui.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Handling deeplinks in iOS 14 with onOpenURL](https://www.donnywals.com/handling-deeplinks-in-ios-14-with-onopenurl/), by [@donnywals](https://twitter.com/donnywals)
 
 **Tools/Controls**
 
@@ -30,3 +31,4 @@
 * [andreaslydemann](https://github.com/andreaslydemann)
 * [zntfdr](https://github.com/zntfdr)
 * [rel](https://github.com/rel)
+* [donnywals](https://github.com/donnywals)
