@@ -6,6 +6,10 @@
 * [Refactoring iOS Apps](https://andreaslydemann.com/refactoring-ios-apps/), by [@andreaslydemann](https://twitter.com/andreaslydemann)
 * [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture](https://www.fivestars.blog/code/section-title-index-swiftui.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Handling deeplinks in iOS 14 with onOpenURL](https://www.donnywals.com/handling-deeplinks-in-ios-14-with-onopenurl/), by [@donnywals](https://twitter.com/donnywals)
+* [A Best in Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+* [MatchedGeometryEffect – Part 1 (Hero Animations)](https://swiftui-lab.com/matchedgeometryeffect-part1/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
+* [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/), by [@qcoding](https://twitter.com/qcoding)
+* [Creating Lists with Collection View](https://useyourloaf.com/blog/creating-lists-with-collection-view/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -25,10 +29,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid)
-* [sarunw](https://github.com/sarunw)
-* [crsantos](https://github.com/crsantos)
-* [andreaslydemann](https://github.com/andreaslydemann)
-* [zntfdr](https://github.com/zntfdr)
-* [rel](https://github.com/rel)
-* [donnywals](https://github.com/donnywals)
+* [mecid](https://github.com/mecid), [sarunw](https://github.com/sarunw), [crsantos](https://github.com/crsantos), [andreaslydemann](https://github.com/andreaslydemann), [zntfdr](https://github.com/zntfdr), [rel](https://github.com/rel), [donnywals](https://github.com/donnywals)
