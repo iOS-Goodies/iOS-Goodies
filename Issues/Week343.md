@@ -1,3 +1,4 @@
+Happy Thursday! If we ignore [Facebook crashing all the apps in the App Store again](https://www.theverge.com/2020/7/10/21319784/ios-apps-crashing-spotify-tiktok-pinterest-tinder-facebook-sdk-certification-issue) last Friday, it's been a pretty quiet week. So it's the perfect time to try and watch [some more WWDC videos](https://developer.apple.com/wwdc20/sessions/) :)
 
 **Articles**
 
