@@ -9,6 +9,7 @@
 * [Converting slow motion video to an URL asset for upload](https://blog.kulman.sk/converting-slow-motion-video-to-url-asset/), by [@igorkulman](https://twitter.com/igorkulman)
 * [The Case for Lists in UICollectionView ](https://pspdfkit.com/blog/2020/the-case-for-lists-in-uicollectionview/), by [@qdoug](https://twitter.com/qdoug)
 * [Using Core Data with SwiftUI 2.0 and Xcode 12](https://www.donnywals.com/using-core-data-with-swiftui-2-0-and-xcode-12/), by [@donnywals](https://twitter.com/donnywals/)
+* [SwiftUI features in WidgetKit](https://www.fivestars.blog/code/swiftui-widgetkit.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -29,3 +30,4 @@
 **Credits**
 
 * [mecid](https://github.com/mecid)
+* [zntfdr](https://github.com/zntfdr)
