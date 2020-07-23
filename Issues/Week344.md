@@ -1,4 +1,4 @@
-Happy Thursday! Busy week for Apple, who released the Beta 3 of Xcode 12 and of iOS and iPadOS and also open sourced [parts of the Exposure Notification framework](https://developer.apple.com/exposure-notification/). Apart from that, a pretty quiet week again, probably also due to the summer vacation :)
+Happy Thursday! Busy week for Apple, who released the Beta 3 of Xcode 12 and of iOS and iPadOS and also open sourced [parts of the Exposure Notification framework](https://developer.apple.com/exposure-notification/). Apart from that, a pretty quiet week again, probably also because of the summer vacation :)
 
 **Articles**
 
