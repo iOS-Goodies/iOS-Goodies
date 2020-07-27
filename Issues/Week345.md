@@ -5,6 +5,7 @@
 * [Building a List with UICollectionView in Swift](https://swiftsenpai.com/development/uicollectionview-list-basic/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Using LinkPresentation Framework to Present Rich Links in iOS Apps](https://www.appcoda.com/linkpresentation-framework/), by [@gabtheodor](https://twitter.com/gabtheodor)
 * [How to fix the incomprehensible tabs in Xcode 12](https://www.jessesquires.com/blog/2020/07/24/how-to-fix-the-incomprehensible-tabs-in-xcode-12/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Dependency Injection via Property Wrappers](https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/), by [@kilo_loco](https://twitter.com/kilo_loco)
 
 **Tools/Controls**
 
