@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-* 
+* [100% SwiftUI 2.0, classic 2048 game](https://github.com/jVirus/swiftui-2048), by [Astemir Eleev](https://github.com/jVirus)
 
 **Business/Career**
 
