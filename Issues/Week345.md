@@ -8,6 +8,7 @@
 * [Dependency Injection via Property Wrappers](https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/), by [@kilo_loco](https://twitter.com/kilo_loco)
 * [A new way to manage the back button title in iOS 14 with backButtonDisplayMode](https://sarunw.com/posts/new-way-to-manage-back-button-title-in-ios14/), by [@sarunw](https://twitter.com/sarunw)
 * [Creating custom .redacted effects](https://fivestars.blog/code/redacted-custom-effects.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Introducing CryptoKit](https://www.raywenderlich.com/10846296-introducing-cryptokit), by [@mataharimau](https://twitter.com/mataharimau)
 
 **Tools/Controls**
 
@@ -20,7 +21,11 @@
 
 **UI/UX**
 
-* 
+* [Top 3 Visual Design Anti-Trends](https://uxplanet.org/top-3-visual-design-anti-trends-9e73fb9e2da9), by [@101babich](https://twitter.com/101babich)
+
+**Podcasts**
+
+* [UI Narrative: Designers Working With Software Engineers | Kaya Thomas](https://www.uinarrative.com/podcast-posts/episode24), with [@kthomas901](https://twitter.com/kthomas901)
 
 **Videos**
 
