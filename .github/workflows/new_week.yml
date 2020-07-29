@@ -1,0 +1,32 @@
+name: Create the new week's edition
+
+on:
+  workflow_dispatch:
+    inputs:
+      weekNumber:
+        description: 'Week number'
+        required: true
+
+jobs:
+  create:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@main
+
+      - name: Copy template
+        run: |
+          cp .github/workflows/WeekTemplate.md ./Issues/
+          mv ./Issues/WeekTemplate.md ./Issues/Week${{github.event.inputs.weekNumber}}.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "iOS Goodies Bot"
+          git add .
+          git commit -am "Created new edition - Week${{github.event.inputs.weekNumber}}"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
