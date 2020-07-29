@@ -7,6 +7,7 @@
 * [How to fix the incomprehensible tabs in Xcode 12](https://www.jessesquires.com/blog/2020/07/24/how-to-fix-the-incomprehensible-tabs-in-xcode-12/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [Dependency Injection via Property Wrappers](https://www.kiloloco.com/articles/004-dependency-injection-via-property-wrappers/), by [@kilo_loco](https://twitter.com/kilo_loco)
 * [A new way to manage the back button title in iOS 14 with backButtonDisplayMode](https://sarunw.com/posts/new-way-to-manage-back-button-title-in-ios14/), by [@sarunw](https://twitter.com/sarunw)
+* [Creating custom .redacted effects](https://fivestars.blog/code/redacted-custom-effects.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw)
+* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr)
