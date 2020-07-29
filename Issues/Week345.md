@@ -18,6 +18,7 @@
 
 * [Lessons from Managing for the Summer Part 1](https://michele.io/lessons-from-managing-pt-1/), by [@micheletitolo](http://twitter.com/micheletitolo)
 * [From engineering to product management, and back again](https://artsy.github.io/blog/2020/07/23/from-engineering-to-product-management-and-back-again/), by Will Doenlen
+* [Lessons Learned from Digging into the ASO Strategy of 12 Popular Apps](https://appfigures.com/resources/aso/aso-teardown-season-one-recap), [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
@@ -33,4 +34,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr), [rel](https://github.com/rel)
