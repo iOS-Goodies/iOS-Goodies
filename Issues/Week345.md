@@ -10,6 +10,7 @@
 * [Creating custom .redacted effects](https://fivestars.blog/code/redacted-custom-effects.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Introducing CryptoKit](https://www.raywenderlich.com/10846296-introducing-cryptokit), by [@mataharimau](https://twitter.com/mataharimau)
 * [Implementing Grid Layout in SwiftUI](https://exyte.com/blog/implementing-grid-layout-in-swiftui), by [@ExyteHQ](https://twitter.com/ExyteHQ)
+* [Setting up a Core Data store for unit tests](https://www.donnywals.com/setting-up-a-core-data-store-for-unit-tests/), by [@donnywals](https://twitter.com/donnywals)
 
 **Tools/Controls**
 
@@ -31,8 +32,8 @@
 
 **Videos**
 
-* 
+*
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr), [rel](https://github.com/rel), [Exyte](https://github.com/exyte)
+* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr), [rel](https://github.com/rel), [Exyte](https://github.com/exyte), [donnywals](https://github.com/donnywals)
