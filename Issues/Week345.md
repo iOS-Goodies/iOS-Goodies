@@ -9,6 +9,7 @@
 * [A new way to manage the back button title in iOS 14 with backButtonDisplayMode](https://sarunw.com/posts/new-way-to-manage-back-button-title-in-ios14/), by [@sarunw](https://twitter.com/sarunw)
 * [Creating custom .redacted effects](https://fivestars.blog/code/redacted-custom-effects.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Introducing CryptoKit](https://www.raywenderlich.com/10846296-introducing-cryptokit), by [@mataharimau](https://twitter.com/mataharimau)
+* [Implementing Grid Layout in SwiftUI](https://exyte.com/blog/implementing-grid-layout-in-swiftui), by [@ExyteHQ](https://twitter.com/ExyteHQ)
 
 **Tools/Controls**
 
@@ -34,4 +35,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr), [rel](https://github.com/rel)
+* [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw), [zntfdr](https://github.com/zntfdr), [rel](https://github.com/rel), [Exyte](https://github.com/exyte)
