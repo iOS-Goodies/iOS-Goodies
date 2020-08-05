@@ -12,7 +12,7 @@
 
 **Business/Career**
 
-*
+* [How To Design Screenshots That Result in Downloads—Musts, Tips, and Don'ts](https://appfigures.com/resources/aso/optimizing-screenshots-creatives), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [donnie-jp](https://github.com/donnie-jp), [DmIvanov](https://github.com/DmIvanov), [@valzevul](https://twitter.com/valzevul)
+* [mecid](https://github.com/mecid), [donnie-jp](https://github.com/donnie-jp), [DmIvanov](https://github.com/DmIvanov), [@valzevul](https://twitter.com/valzevul), [@rel](https://github.com/rel)
