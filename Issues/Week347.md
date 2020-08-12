@@ -15,7 +15,7 @@
 
 **Business/Career**
 
-* 
+* [6 KPIs Every Developer with a Subscription App Must Watch to Track Health, Growth, and Revenue](https://appfigures.com/resources/business/important-subscription-kpis), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [joemasilotti](https://github.com/joemasilotti), [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [V8tr](https://github.com/V8tr), [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [mecid](https://github.com/mecid), [joemasilotti](https://github.com/joemasilotti), [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [V8tr](https://github.com/V8tr), [dadederk](https://github.com/dadederk), [LeeKahSeng](https://github.com/LeeKahSeng), [rel](https://github.com/rel)
