@@ -1,3 +1,4 @@
+Happy Thursday! Yes, there were discussions again about Aple's App Store rules, and no, again, I'm not going to write about those. We're getting closer to September, so it's time to start planning testing your apps in iOS 14 😁
 
 **Articles**
 
@@ -8,6 +9,9 @@
 * [Working with Internet Connection on iOS with Swift: Best Practices](https://www.vadimbulavin.com/network-connectivity-on-ios-with-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Tips for testing your iOS app’s accessibility](https://medium.com/@dadederk/tips-for-testing-your-ios-apps-accessibility-7d32a2dc5935?sk=0b83a4a37ebf3205fb8219c457ee68a7), by [@dadederk](https://twitter.com/dadederk)  
 * [UICollectionView List with Custom Cell and Custom Configuration](https://swiftsenpai.com/development/uicollectionview-list-custom-cell/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [Hacking iOS Simulator with simctl and dynamic libraries](https://curvedlayer.com/2020/08/09/ios-simulator-plugin-simctl.html), by [@ahmed_sulajman](https://twitter.com/ahmed_sulajman)
+* [Creating a shared unit test utils library with Xcode](https://noahgilmore.com/blog/xcode-shared-test-target/), by [@noahsark769](https://twitter.com/noahsark769)
+* [App Attest: (Properly!) Protecting iOS apps from Jailbreak Tweaks in iOS 14](https://swiftrocks.com/app-attest-apple-protect-ios-jailbreak), by [@rockbruno_](https://twitter.com/rockbruno_)
 
 **Tools/Controls**
 
