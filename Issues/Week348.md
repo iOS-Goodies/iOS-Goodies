@@ -16,7 +16,7 @@
 
 **UI/UX**
 
-* 
+* [Don't design for mobile](https://mattanddesign.com/dont-design-for-mobile/), by [@mattanddesign](https://twitter.com/mattanddesign)
 
 **Videos**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos)
+* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba)
