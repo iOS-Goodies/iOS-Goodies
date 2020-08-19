@@ -7,6 +7,7 @@
 * [Mobile App Launch Performance II](https://www.farfetchtechblog.com/en/blog/post/mobile-app-launch-performance-ii/), by [@goncalo.alvarez](https://twitter.com/goncalo.alvarez)
 * [Understanding Swift's OptionSet](https://www.donnywals.com/understanding-swifts-optionset/), by [@donnywals](https://twitter.com/donnywals)
 * [Managing app in SwiftUI](https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [An introduction to the Highway](https://www.netguru.com/codestories/the-introduction-to-highway-our-new-build-system), by [@piotrsekara](https://twitter.com/piotrsekara)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid)
+* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara)
