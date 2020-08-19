@@ -8,6 +8,8 @@
 * [Understanding Swift's OptionSet](https://www.donnywals.com/understanding-swifts-optionset/), by [@donnywals](https://twitter.com/donnywals)
 * [Managing app in SwiftUI](https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [An introduction to the Highway](https://www.netguru.com/codestories/the-introduction-to-highway-our-new-build-system), by [@piotrsekara](https://twitter.com/piotrsekara)
+* [How to renew an expired certificate with Fastlane Match](https://sarunw.com/posts/how-to-renew-expired-certificate-with-fastlane-match/), by [@sarunw](https://twitter.com/sarunw)
+* [Quick way to open a Custom URL Scheme in iOS Simulator](https://sarunw.com/posts/quick-way-to-open-custom-url-scheme-in-ios-simulator/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -27,4 +29,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara)
+* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara), [sarunw](https://github.com/sarunw)
