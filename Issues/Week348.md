@@ -12,6 +12,7 @@
 * [Quick way to open a Custom URL Scheme in iOS Simulator](https://sarunw.com/posts/quick-way-to-open-custom-url-scheme-in-ios-simulator/), by [@sarunw](https://twitter.com/sarunw)
 * [10 Tips on Developing iOS 14 Widgets](https://medium.com/@francesco_/10-tips-on-developing-ios-14-widgets-f17b865fbdbc?source=friends_link&sk=ee1234f438435cff79c77376ebf079b8), by [@fraancessco](https://twitter.com/fraancessco)
 * [How to test deep links with UI Testing](https://masilotti.com/test-deep-links-with-ui-testing/) by [@joemasilotti](https://twitter.com/joemasilotti)
+
 **Tools/Controls**
 
 *
