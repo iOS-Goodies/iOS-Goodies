@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara), [sarunw](https://github.com/sarunw), [francesc-o](https://github.com/francesc-o)
+* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara), [sarunw](https://github.com/sarunw), [francesc-o](https://github.com/francesc-o), [joemasilotti](https://github.com/joemasilotti)
