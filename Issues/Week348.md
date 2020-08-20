@@ -1,3 +1,4 @@
+Happy Thursday! This week we got the Xcode 12 Beta 5 and iOS 14 Beta 5, and we're getting closer and closer to the final versions, and also [an updated TestFlight which also allows testing of AppClips](https://twitter.com/_inside/status/1295428513739214849). TestFlight also got a new icon 😁.
 
 **Articles**
 
@@ -15,7 +16,7 @@
 
 **Tools/Controls**
 
-*
+* [Parma](https://github.com/dasautoooo/Parma) - A SwiftUI view for displaying Markdown with customizable appearances, by [@DasAutoooo](https://twitter.com/DasAutoooo)
 
 **Business/Career**
 
