@@ -5,7 +5,7 @@ Happy Thursday! This week we got the Xcode 12 Beta 5 and iOS 14 Beta 5, and we'r
 * [Sharing layout information in SwiftUI](https://fivestars.blog/swiftui/swiftui-share-layout-information.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Adding filters to a SwiftUI camera app](https://github.com/ianleon/Blog/blob/master/episodes/ep2.md), by [@iannleon](https://twitter.com/iannleon)
 * [Preview Files with QuickLook in SwiftUI](https://lostmoa.com/blog/PreviewFilesWithQuickLookInSwiftUI/), by [@natpanferova](https://twitter.com/natpanferova)
-* [Mobile App Launch Performance II](https://www.farfetchtechblog.com/en/blog/post/mobile-app-launch-performance-ii/), by [@goncalo.alvarez](https://twitter.com/goncalo.alvarez)
+* [Mobile App Launch Performance II](https://www.farfetchtechblog.com/en/blog/post/mobile-app-launch-performance-ii/), by [@goncaloalvarez](https://twitter.com/goncaloalvarez)
 * [Understanding Swift's OptionSet](https://www.donnywals.com/understanding-swifts-optionset/), by [@donnywals](https://twitter.com/donnywals)
 * [Managing app in SwiftUI](https://swiftwithmajid.com/2020/08/19/managing-app-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [An introduction to the Highway](https://www.netguru.com/codestories/the-introduction-to-highway-our-new-build-system), by [@piotrsekara](https://twitter.com/piotrsekara)
