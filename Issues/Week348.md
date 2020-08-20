@@ -11,7 +11,7 @@
 * [How to renew an expired certificate with Fastlane Match](https://sarunw.com/posts/how-to-renew-expired-certificate-with-fastlane-match/), by [@sarunw](https://twitter.com/sarunw)
 * [Quick way to open a Custom URL Scheme in iOS Simulator](https://sarunw.com/posts/quick-way-to-open-custom-url-scheme-in-ios-simulator/), by [@sarunw](https://twitter.com/sarunw)
 * [10 Tips on Developing iOS 14 Widgets](https://medium.com/@francesco_/10-tips-on-developing-ios-14-widgets-f17b865fbdbc?source=friends_link&sk=ee1234f438435cff79c77376ebf079b8), by [@fraancessco](https://twitter.com/fraancessco)
-
+* [How to test deep links with UI Testing](https://masilotti.com/test-deep-links-with-ui-testing/) by [@joemasilotti](https://twitter.com/joemasilotti)
 **Tools/Controls**
 
 *
@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara), [sarunw](https://github.com/sarunw), [francesc-o](https://github.com/francesc-o)
+* [zntfdr](https://github.com/zntfdr), [ianleon](https://github.com/ianleon), [nataliapanferova](https://github.com/nataliapanferova), [crsantos](https://github.com/crsantos), [lisadziuba](https://github.com/LisaDziuba), [donnywals](https://github.com/donnywals), [mecid](https://github.com/mecid), [piotr-sekara](https://github.com/piotr-sekara), [sarunw](https://github.com/sarunw), [francesc-o](https://github.com/francesc-o), [joemasilotti](https://github.com/joemasilotti)
