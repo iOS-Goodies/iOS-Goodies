@@ -4,6 +4,7 @@
 * [Flexible layouts in SwiftUI](https://fivestars.blog/swiftui/flexible-swiftui.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Designing Custom UICollectionViewListCell in Interface Builder](https://swiftsenpai.com/development/custom-uicollectionviewlistcell-in-ib/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Managing scenes in SwiftUI](https://swiftwithmajid.com/2020/08/26/managing-scenes-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Abusing iOS’ Screenshot Cropping Mechanism](https://bryce.co/screenshot-cropping/), by [@brycepauken](https://twitter.com/brycepauken)
 
 
 **Tools/Controls**
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [mecid](https://github.com/mecid)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [mecid](https://github.com/mecid), [brycepauken](https://github.com/brycepauken)
