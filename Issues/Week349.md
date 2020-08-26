@@ -15,7 +15,7 @@
 
 **Business/Career**
 
-* 
+* [A Step by Step Guide to App Store Optimization for Games—Part 1: Keywords](https://appfigures.com/resources/aso/app-store-optimization-for-games?utm_source=iOS%20Goodies%20Newsletter&utm_medium=email&utm_campaign=ios_goodies_349), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [mecid](https://github.com/mecid), [brycepauken](https://github.com/brycepauken), [@ianleon](https://github.com/ianleon), [sarunw](https://github.com/sarunw)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [mecid](https://github.com/mecid), [brycepauken](https://github.com/brycepauken), [@ianleon](https://github.com/ianleon), [sarunw](https://github.com/sarunw), [rel](https://github.com/rel)
