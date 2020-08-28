@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [SwiftUI ScrollView offset](https://fivestars.blog/swiftui/scrollview-offset.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
