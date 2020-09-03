@@ -14,7 +14,7 @@
 
 **Business/Career**
 
-* 
+* [How To Get More Ratings for Your App or Game Overnight](https://appfigures.com/resources/business/grow-app-ratings-overnight), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
@@ -26,4 +26,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [hkellaway](https://github.com/hkellaway), [mecid](https://github.com/mecid), [nataliapanferova](https://github.com/nataliapanferova), [ianleon](https://github.com/ianleon), [RenGate](https://github.com/RenGate)
+* [zntfdr](https://github.com/zntfdr), [hkellaway](https://github.com/hkellaway), [mecid](https://github.com/mecid), [nataliapanferova](https://github.com/nataliapanferova), [ianleon](https://github.com/ianleon), [RenGate](https://github.com/RenGate), [rel](https://github.com/rel)
