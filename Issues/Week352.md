@@ -30,7 +30,7 @@ And just as I was writing this, I can see Xcode 12.2 Beta is out. What happened 
 
 **Business/Career**
 
-* [](https://www.swiftjectivec.com/happy-when/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
+* [Happy When?](https://www.swiftjectivec.com/happy-when/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 
 **UI/UX**
 
