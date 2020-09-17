@@ -22,8 +22,8 @@
 
 **Videos**
 
-*
+* [Live App Teardown Session - Learn the Process and See it In Action](https://appfigures.com/resources/teardowns/live-app-teardown-session-20200916), by [@appfigures](https://twitter.com/appfigures)
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [DmIvanov](https://github.com/DmIvanov), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [DmIvanov](https://github.com/DmIvanov), [sarunw](https://github.com/sarunw), [goranbrl](https://github.com/goranbrl), [LeeKahSeng](https://github.com/LeeKahSeng), [rel](https://github.com/rel)
