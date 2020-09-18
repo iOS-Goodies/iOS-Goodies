@@ -11,7 +11,7 @@
 
 **Business/Career**
 
-* 
+* [Why senior engineers get nothing done](https://swizec.com/blog/why-senior-engineers-get-nothing-done/), by [@swizec](https://twitter.com/swizec)
 
 **UI/UX**
 
