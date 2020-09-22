@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [emrepun](https://github.com/emrepun), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [jogendra](https://github.com/jogendra), [DmIvanov](https://github.com/DmIvanov), [APesate](https://github.com/apesate), [robertofrontado](https://github.com/robertofrontado), 
+* [emrepun](https://github.com/emrepun), [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [jogendra](https://github.com/jogendra), [DmIvanov](https://github.com/DmIvanov), [APesate](https://github.com/apesate), [robertofrontado](https://github.com/robertofrontado)
