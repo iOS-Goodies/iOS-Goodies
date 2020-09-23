@@ -7,7 +7,7 @@
 * [Implementing Launch at Login Feature in MacOS Apps](https://jogendra.dev/implementing-launch-at-login-feature-in-macos-apps), by [@jogendrafx](https://twitter.com/jogendrafx)
 * [Protocol extensions](https://dmtopolog.com/protocol-extensions/), by [dmtopolog](https://twitter.com/dmtopolog)
 * [Combine: From zero to… Oh! I get it.(Part I)](https://medium.com/dev-jam/combine-from-zero-to-oh-i-get-it-part-i-6aa9ced8e5f), by [APesate](https://github.com/Apesate)
-* [App Onboarding with SwiftUI](https://medium.com/zendesk-engineering/app-onboarding-with-swiftui-23d970ab24d4), by [@superpeteblaze](https://twitter.com/superpeteblaze)
+* [App Onboarding with SwiftUI](https://medium.com/zendesk-engineering/app-onboarding-with-swiftui-23d970ab24d4?source=friends_link&sk=d8a2da43171af87bb2456c24de14ed13), by [@superpeteblaze](https://twitter.com/superpeteblaze)
 
 **Tools/Controls**
 
