@@ -1,4 +1,5 @@
-- https://swift.org/blog/swift-on-windows/
+Happy Thursday! Did you update your phone to iOS 14? Because [iOS 14.0.1 is already out](https://9to5mac.com/2020/09/24/ios-14-0-1-update-widgets-defaults/) 😁. Acording to [Mixpanel](https://mixpanel.com/trends/#report/ios_14), iOS 14 adoption seems to be going well, with a bit more than 30% adoption after one week.
+
 
 **Articles**
 
