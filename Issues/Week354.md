@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [SwiftUICharts](https://github.com/mecid/SwiftUICharts), by [@mecid](https://twitter.com/mecid)
 
 **Business/Career**
 
