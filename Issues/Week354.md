@@ -11,8 +11,7 @@
 * [SwiftUICharts](https://github.com/mecid/SwiftUICharts), by [@mecid](https://twitter.com/mecid)
 
 **Business/Career**
-
-* 
+* [Launching an Indie App - Part 1: Sharing my Journey](https://heyimakeapps.com/blog/launching-an-indie-app-part-1-sharing-my-journey), by [@michael_tigas](https://twitter.com/michael_tigas) 
 
 **UI/UX**
 
@@ -24,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [apesate](https://github.com/APesate), [zntfdr](https://github.com/zntfdr), [truizlop](https://github.com/truizlop)
+* [mecid](https://github.com/mecid), [apesate](https://github.com/APesate), [zntfdr](https://github.com/zntfdr), [truizlop](https://github.com/truizlop), [michael_tigas](https://github.com/teeeeeegz)
