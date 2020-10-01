@@ -7,6 +7,7 @@
 * Your iOS Home Screen is a Monoid, [Part 1](https://www.47deg.com/blog/home-screen-monoid-i/) and [Part 2](https://www.47deg.com/blog/home-screen-monoid-ii/), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 * [Pitfalls of protocol extensions](https://dmtopolog.com/pitfalls-of-protocol-extensions/), by [dmtopolog](https://twitter.com/dmtopolog)
 * [Snapshot Testing in Swift 📸](https://medium.com/dev-jam/snapshot-testing-in-swift-9d52cbec075c?source=friends_link&sk=97105a267f97918295c6cee4674f7cd5), by [robertofrontado](https://github.com/robertofrontado)
+* [Setting default values for NSUserDefaults](https://sarunw.com/posts/setting-default-value-for-nsuserdefaults/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [apesate](https://github.com/APesate), [zntfdr](https://github.com/zntfdr), [truizlop](https://github.com/truizlop), [michael_tigas](https://github.com/teeeeeegz), [DmIvanov](https://github.com/DmIvanov), [robertofrontado](https://github.com/robertofrontado)
+* [mecid](https://github.com/mecid), [apesate](https://github.com/APesate), [zntfdr](https://github.com/zntfdr), [truizlop](https://github.com/truizlop), [michael_tigas](https://github.com/teeeeeegz), [DmIvanov](https://github.com/DmIvanov), [robertofrontado](https://github.com/robertofrontado), [sarunw](https://github.com/sarunw)
