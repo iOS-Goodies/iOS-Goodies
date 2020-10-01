@@ -1,4 +1,4 @@
-- https://tools.applemediaservices.com/app-store/
+Happy Thursday! It's been a quiet week, mostly. Apple released [some marketing tools for app developers](https://tools.applemediaservices.com/app-store/), for generating links to the app on the app store, embed code for app icons, download badges or qr codes. In other news, [Alexandre Colucci](https://twitter.com/timacfr) has analyzed [Apple’s use of Swift and SwiftUI in iOS 14](https://blog.timac.org/2020/0927-state-of-swift-ios14/) and it's about twice more than in iOS 13.
 
 **Articles**
 
@@ -11,7 +11,6 @@
 * [Setting default values for NSUserDefaults](https://sarunw.com/posts/setting-default-value-for-nsuserdefaults/), by [@sarunw](https://twitter.com/sarunw)
 * [Overriding UserDefaults for improved productivity](https://www.avanderlee.com/xcode/overriding-userdefaults-launch-arguments/), by [@twannl](https://www.twitter.com/twannl)
 * [What does @main do in Swift 5.3?](https://useyourloaf.com/blog/what-does-main-do-in-swift-5.3/), by [@kharrison](https://twitter.com/kharrison)
-* [Apple’s use of Swift and SwiftUI in iOS 14](https://blog.timac.org/2020/0927-state-of-swift-ios14/), by [timacfr](https://twitter.com/timacfr)
 
 **Tools/Controls**
 
