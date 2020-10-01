@@ -14,7 +14,7 @@ Happy Thursday! It's been a quiet week, mostly. Apple released [some marketing t
 
 **Tools/Controls**
 
-* [SwiftUICharts](https://github.com/mecid/SwiftUICharts), by [@mecid](https://twitter.com/mecid)
+* [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI, by [@mecid](https://twitter.com/mecid)
 
 **Business/Career**
 * [Launching an Indie App - Part 1: Sharing my Journey](https://heyimakeapps.com/blog/launching-an-indie-app-part-1-sharing-my-journey), by [@michael_tigas](https://twitter.com/michael_tigas)
