@@ -1,7 +1,6 @@
-- https://swift.org/blog/swift-algorithms/
-- https://swift.org/blog/swift-atomics/
-- https://9to5mac.com/2020/10/07/app-store-connect-for-ios-updated-with-testflight-integration/
-- Apple event
+Happy Thursday! The much-expected Apple event has been announced for next Tuesday, where we'll likely see the new iPhones. In Swift news, two new packages have been released, [Swift Atomics](https://swift.org/blog/swift-atomics/) and [Swift Algorithms](https://swift.org/blog/swift-algorithms/). Swift Atomics can help developers work easier with atomic operations in Swift, while Swift Algorithms adds specific methods to colletion types, useful for, among others, generating permutations or combinations, random sampling, remoing duplicate elements, etc.
+
+Another thing worth mentioning, the [App Store Connect app for iOS has been updated with TestFlight integration](https://9to5mac.com/2020/10/07/app-store-connect-for-ios-updated-with-testflight-integration/). Yes, it is now possible to manage TestFligt builds from your iPhone or iPad 🎉
 
 **Articles**
 
