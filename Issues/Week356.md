@@ -22,5 +22,4 @@
 
 **Credits**
 
-*  [mecid](https://github.com/mecid)
-*  [gmoraleda](https://github.com/gmoraleda)
+*  [mecid](https://github.com/mecid), [gmoraleda](https://github.com/gmoraleda)
