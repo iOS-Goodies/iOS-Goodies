@@ -10,7 +10,7 @@
 
 **Business/Career**
 
-* 
+* [How to Turn Competitor Intelligence into More Downloads for Your Apps](https://appfigures.com/resources/business/competitor-intelligence-for-mobile-apps), by [@appfigures](https://twitter.com/appfigures)
 
 **UI/UX**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-*  [mecid](https://github.com/mecid), [gmoraleda](https://github.com/gmoraleda)
+*  [mecid](https://github.com/mecid), [gmoraleda](https://github.com/gmoraleda), [rel](https://github.com/rel)
