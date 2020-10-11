@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [BadgeHub](https://github.com/jogendra/BadgeHub) - A way to quickly add a notification badge icon to any view, by [@jogendra](https://twitter.com/jogendrafx)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-*  [mecid](https://github.com/mecid), [gmoraleda](https://github.com/gmoraleda), [rel](https://github.com/rel), [zntfdr](https://github.com/zntfdr)
+*  [mecid](https://github.com/mecid), [gmoraleda](https://github.com/gmoraleda), [rel](https://github.com/rel), [zntfdr](https://github.com/zntfdr), [jogendra](https://github.com/jogendra)
