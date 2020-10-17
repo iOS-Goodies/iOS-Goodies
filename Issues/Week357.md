@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [peterfriese](https://twitter.com/peterfriese)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [peterfriese](https://github.com/peterfriese)
