@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [FontAwesomeSwiftUI](https://github.com/onmyway133/FontAwesomeSwiftUI), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [peterfriese](https://github.com/peterfriese)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [peterfriese](https://github.com/peterfriese), [onmyway133](https://github.com/onmyway133)
