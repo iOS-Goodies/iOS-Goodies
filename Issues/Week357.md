@@ -8,6 +8,7 @@
 * [Implementing In-App Purchases without Keychain and UserDefaults (Updated for Xcode 12)](https://medium.com/@rdovhaliuk/implementing-in-app-purchases-without-keychain-and-userdefaults-52a43c0f76e8), by [@rostyslav_d](https://twitter.com/rostyslav_d)
 * [What is @escaping in Swift closures](https://sarunw.com/posts/what-is-escaping-in-swift-closures/), by [@sarunw](https://twitter.com/sarunw)
 * [Bonjour: Share data across devices without a backend](https://medium.com/@mpesate/bonjour-share-data-across-devices-without-a-backend-36faee520e14?source=friends_link&sk=be6cb221d6f17d53699b4955edabee86). by [@MikePT28](https://twitter.com/mikept28)
+* [Declarative UICollectionView List Header and Footer](https://swiftsenpai.com/development/declarative-list-header-footer/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [peterfriese](https://github.com/peterfriese), [onmyway133](https://github.com/onmyway133), [popei69](https://github.com/popei69), [RenGate](https://github.com/rengate), [sarunw](https://github.com/sarunw), [@MikePT28](https://github.com/MikePT28)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [peterfriese](https://github.com/peterfriese), [onmyway133](https://github.com/onmyway133), [popei69](https://github.com/popei69), [RenGate](https://github.com/rengate), [sarunw](https://github.com/sarunw), [@MikePT28](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng)
