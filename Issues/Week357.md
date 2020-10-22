@@ -1,3 +1,4 @@
+Happy Thursday! Are you waiting impatiently for the delivery person to ring your bell tomorrow? The iPhone 12 and 12 Pro as well as the iPad Air (4th gen) have already been reviewed by press and bloggers, and are ready to get in the hands of consumers 😁. And Apple added a few more videos in their Developer app, including one [Integrate SiriKit Media Intents with HomePod](https://developer.apple.com/videos/play/tech-talks/10854/). I just hope developers from Spotify watch this one 😄
 
 **Articles**
 
