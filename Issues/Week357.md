@@ -17,11 +17,11 @@
 
 **Business/Career**
 
-* 
+* Gardening Your Twitter: [Growing Your Followers](https://steipete.com/posts/growing-your-twitter-followers/) and [Curating Your Timeline](https://steipete.com/posts/curating-your-twitter-timeline/), by [@steipete](https://twitter.com/steipete)
 
 **UI/UX**
 
-* 
+* [Improving our design system through Dark Mode](https://codeascraft.com/2020/10/21/improving-our-design-system-through-dark-mode/), by Stephanie Sharp
 
 **Videos**
 
