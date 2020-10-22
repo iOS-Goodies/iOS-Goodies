@@ -10,12 +10,15 @@
 * [Bonjour: Share data across devices without a backend](https://medium.com/@mpesate/bonjour-share-data-across-devices-without-a-backend-36faee520e14?source=friends_link&sk=be6cb221d6f17d53699b4955edabee86). by [@MikePT28](https://twitter.com/mikept28)
 * [Declarative UICollectionView List Header and Footer](https://swiftsenpai.com/development/declarative-list-header-footer/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Swift Key Paths under a different optic](https://www.47deg.com/blog/keypaths-optics/), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
+* [Quick guide on SwiftUI essentials](https://tanaschita.com/posts/20201017-quick-guide-on-swiftui-essentials/), by [@tanaschita](https://twitter.com/tanaschita)
+* [Automating App Store localized screenshots with XCTest and Xcode Test Plan](https://benoitpasquier.com/automating-appstore-localized-screenshot-xctest/), by [@BenoitPasquier_](https://twitter.com/BenoitPasquier_)
+* [Extending the Scribble User Experience](https://pspdfkit.com/blog/2020/extending-the-scribble-user-experience/), by [@_akshatpatel](https://twitter.com/_akshatpatel)
 
 
 **Tools/Controls**
 
-* [FontAwesomeSwiftUI](https://github.com/onmyway133/FontAwesomeSwiftUI), by [@onmyway133](https://twitter.com/onmyway133)
-[GoSwifty](https://github.com/rsrbk/GoSwifty) - A useful tool to track your progress of migration from Objective-C to Swift, by [@rsrbk](https://twitter.com/rsrbk123)
+* [FontAwesomeSwiftUI](https://github.com/onmyway133/FontAwesomeSwiftUI) - Easy to use FontAwesome 5 in SwiftUI, by [@onmyway133](https://twitter.com/onmyway133)
+* [GoSwifty](https://github.com/rsrbk/GoSwifty) - A useful tool to track your progress of migration from Objective-C to Swift, by [@rsrbk](https://twitter.com/rsrbk123)
 
 **Business/Career**
 
@@ -27,7 +30,7 @@
 
 **Videos**
 
-* 
+* [How it's Built: GitHub with Ryan Nystrom](https://www.youtube.com/watch?v=nBsa5N1LZPk), by [@zats](https://twitter.com/zats), with [@_ryannystrom](https://twitter.com/_ryannystrom)
 
 **Credits**
 
