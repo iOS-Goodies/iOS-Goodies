@@ -17,6 +17,7 @@ Happy Thursday! [Swift 5.1 is officially released](https://swift.org/blog/swift-
 * [Introducing Direct to SwiftUI](http://www.alwaysrightinstitute.com/directtoswiftui/), by [@ar_institute](https://twitter.com/ar_institute)
 
 **Tools/Controls**
+[GoSwifty](https://github.com/rsrbk/GoSwifty) - A useful tool to track your progress of migration from Objective-C to Swift, by [@rsrbk](https://twitter.com/rsrbk123)
 
 *
 
