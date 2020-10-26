@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [StickyTabBarViewController](https://github.com/emrepun/StickyTabBarViewController) - Collapsible and sticky view on top of tab bar, by [@emrepun](https://github.com/emrepun)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [Exyte](https://github.com/exyte)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [Exyte](https://github.com/exyte), [emrepun](https://github.com/emrepun)
