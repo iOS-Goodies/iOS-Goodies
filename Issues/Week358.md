@@ -7,10 +7,12 @@
 * [Unit Testing Asynchronous Code in Swift](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Understanding Date and DateComponents](https://sarunw.com/posts/understanding-date-and-datecomponents/), by [@sarunw](https://twitter.com/sarunw)
 
+
 **Tools/Controls**
 
 * [StickyTabBarViewController](https://github.com/emrepun/StickyTabBarViewController) - Collapsible and sticky view on top of tab bar, by [@emrepun](https://github.com/emrepun)
 * [GitHub Contribution Widgets](https://github.com/AnderGoig/github-contributions-ios) - An open-source iOS app to quickly check in on your GitHub contributions from your Home Screen, by [@AnderGoig](https://github.com/AnderGoig)
+* [iPages](https://github.com/benjaminsage/iPages) - Quickly implement swipable page views, by [@IcyHovercraft](https://twitter.com/IcyHovercraft)
 
 **Business/Career**
 
