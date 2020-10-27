@@ -6,6 +6,7 @@
 * [How to Create App Clips](https://exyte.com/blog/how-to-create-app-clips), by [@ExyteHQ](https://twitter.com/ExyteHQ)
 * [Unit Testing Asynchronous Code in Swift](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Understanding Date and DateComponents](https://sarunw.com/posts/understanding-date-and-datecomponents/), by [@sarunw](https://twitter.com/sarunw)
+* [Accessibility in iOS 14 Widgets With SwiftUI](https://medium.com/better-programming/accessibility-in-ios-14-widgets-with-swiftui-83656bdb68e2), by [@rudrankriyam](https://twitter.com/rudrankriyam)
 
 
 **Tools/Controls**
@@ -20,7 +21,7 @@
 
 **UI/UX**
 
-* 
+* [Informative & Decisional - How to choose the right messaging component](https://medium.com/tap-to-dismiss/informative-decisional-b2ed272b4696), by [@taptodismiss](https://twitter.com/taptodismiss)
 
 **Videos**
 
