@@ -7,7 +7,7 @@
 * [Unit Testing Asynchronous Code in Swift](https://www.vadimbulavin.com/unit-testing-async-code-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [Understanding Date and DateComponents](https://sarunw.com/posts/understanding-date-and-datecomponents/), by [@sarunw](https://twitter.com/sarunw)
 * [Accessibility in iOS 14 Widgets With SwiftUI](https://medium.com/better-programming/accessibility-in-ios-14-widgets-with-swiftui-83656bdb68e2), by [@rudrankriyam](https://twitter.com/rudrankriyam)
-
+* [Expansion state of OutlineDisclosures using NSDiffableDataSourceSectionSnapshot (iOS 14)](https://crsantos.info/uicollectionviewdiffabledatasource-outline/), by [@crsantos](https://twitter.com/crsantos)
 
 **Tools/Controls**
 
@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [Exyte](https://github.com/exyte), [emrepun](https://github.com/emrepun), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [AnderGoig](https://github.com/AnderGoig)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [Exyte](https://github.com/exyte), [emrepun](https://github.com/emrepun), [V8tr](https://github.com/V8tr), [sarunw](https://github.com/sarunw), [AnderGoig](https://github.com/AnderGoig), [crsantos](https://github.com/crsantos)
