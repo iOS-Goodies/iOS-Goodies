@@ -8,6 +8,7 @@
 * [Understanding Date and DateComponents](https://sarunw.com/posts/understanding-date-and-datecomponents/), by [@sarunw](https://twitter.com/sarunw)
 * [Accessibility in iOS 14 Widgets With SwiftUI](https://medium.com/better-programming/accessibility-in-ios-14-widgets-with-swiftui-83656bdb68e2), by [@rudrankriyam](https://twitter.com/rudrankriyam)
 * [Expansion state of OutlineDisclosures using NSDiffableDataSourceSectionSnapshot (iOS 14)](https://crsantos.info/uicollectionviewdiffabledatasource-outline/), by [@crsantos](https://twitter.com/crsantos)
+* [Porting iPhone app to iPad: My experience](https://nemecek.be/blog/55/porting-iphone-app-to-ipad-my-experience), by [@nemecek_f](https://twitter.com/nemecek_f)
 
 **Tools/Controls**
 
