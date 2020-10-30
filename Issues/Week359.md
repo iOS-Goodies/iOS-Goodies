@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Hashable SwiftUI bindings](https://fivestars.blog/swiftui/hashable-bindings.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
