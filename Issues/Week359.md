@@ -7,7 +7,6 @@
 * [Getting the number of days between two dates in Swift](https://sarunw.com/posts/getting-number-of-days-between-two-dates/), by [@sarunw](https://twitter.com/sarunw)
 * [XCFrameworks — New Format for Packaging Frameworks in iOS](https://medium.com/dev-jam/xcframeworks-new-format-of-packaging-frameworks-in-ios-306cda40b24f?source=friends_link&sk=8368aa7d32e851f5ba5490c0bc901d36), by [@robertofrontado](https://github.com/robertofrontado)
 
-
 **Tools/Controls**
 
 * 
