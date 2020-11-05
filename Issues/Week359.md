@@ -1,4 +1,6 @@
-
+- [Swift concurrency roadmp](https://forums.swift.org/t/swift-concurrency-roadmap/41611)
+- iOS 14.2 released and Xcode 12.2 RC1 (RC is the new GM)
+- [App Store Connect security questions mandatory from december 8](https://developer.apple.com/news/?id=vlj9jty9)
 **Articles**
 
 * [Hashable SwiftUI bindings](https://fivestars.blog/swiftui/hashable-bindings.html), by [@zntfdr](https://twitter.com/zntfdr)
@@ -8,6 +10,7 @@
 * [XCFrameworks — New Format for Packaging Frameworks in iOS](https://medium.com/dev-jam/xcframeworks-new-format-of-packaging-frameworks-in-ios-306cda40b24f?source=friends_link&sk=8368aa7d32e851f5ba5490c0bc901d36), by [@robertofrontado](https://github.com/robertofrontado)
 * [Launch Screen with SwiftUI](https://kristaps.me/swiftui-launch-screen/), by [@fassko](https://twitter.com/fassko)
 * [Getting started with Swift for TensorFlow](https://www.47deg.com/blog/getting-started-swift-tensorflow/), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
+* [Apple's SwiftUI: How Collect experienced integrating this new technology](https://ideas.bywetransfer.com/story/apples-swiftui-collect), by [@twannl](twitter.com/twannl)
 
 **Tools/Controls**
 
@@ -15,7 +18,7 @@
 
 **Business/Career**
 
-* 
+* [The Ultimate Mobile In-App Purchases Guide](https://instabug.com/blog/mobile-in-app-purchases/), by [@instabug](https://twitter.com/instabug)
 
 **UI/UX**
 
@@ -23,7 +26,7 @@
 
 **Videos**
 
-* 
+* [Adopting a reactive mindset](https://www.youtube.com/watch?v=HUk2uiKkER0), by [@donnywals](twitter.com/donnywals)
 
 **Credits**
 
