@@ -1,6 +1,5 @@
-- [Swift concurrency roadmp](https://forums.swift.org/t/swift-concurrency-roadmap/41611)
-- iOS 14.2 released and Xcode 12.2 RC1 (RC is the new GM)
-- [App Store Connect security questions mandatory from december 8](https://developer.apple.com/news/?id=vlj9jty9)
+Happy Thursday! It's been a busy week in Apple news! There's a very detailed [Swift concurrency roadmp](https://forums.swift.org/t/swift-concurrency-roadmap/41611) and yes, async/await will be coming to Swif eventually 😄. iOS 14.2 was released with new emoji and wallpapers, and if that doesn't drive up adoption I don't know what will 🙃. Together with iOS 14.2 we also got Xcode 12.2 RC (RC is the new GM). And last but not least, there's a bit more than a month until answering the privacy questions in App Store Connect about what data your app collects and how it uses it [become mandatory on December 8th]((https://developer.apple.com/news/?id=vlj9jty9))
+
 **Articles**
 
 * [Hashable SwiftUI bindings](https://fivestars.blog/swiftui/hashable-bindings.html), by [@zntfdr](https://twitter.com/zntfdr)
