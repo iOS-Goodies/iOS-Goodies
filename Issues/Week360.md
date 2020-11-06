@@ -2,6 +2,7 @@
 **Articles**
 
 * [Displaying text in SwiftUI](https://fivestars.blog/swiftui/displaying-text-swiftui.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [How to use GeometryReader without breaking SwiftUI layout](https://swiftwithmajid.com/2020/11/04/how-to-use-geometryreader-without-breaking-swiftui-layout/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028)
+* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid)
