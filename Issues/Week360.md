@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Displaying text in SwiftUI](https://fivestars.blog/swiftui/displaying-text-swiftui.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [Ryo Aoyama](https://github.com/ra1028)
+* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028)
