@@ -3,6 +3,7 @@
 
 * [Displaying text in SwiftUI](https://fivestars.blog/swiftui/displaying-text-swiftui.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to use GeometryReader without breaking SwiftUI layout](https://swiftwithmajid.com/2020/11/04/how-to-use-geometryreader-without-breaking-swiftui-layout/), by [@mecid](https://twitter.com/mecid)
+* [Swift for TensforFlow: Choosing your dataset](https://www.47deg.com/blog/s4tf-choosing-dataset/), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid), [David Roman](https://github.com/davdroman)
+* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid), [David Roman](https://github.com/davdroman), [truizlop](https://github.com/truizlop)
