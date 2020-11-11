@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid), [David Roman](https://github.com/davdroman), [truizlop](https://github.com/truizlop), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid), [David Roman](https://github.com/davdroman), [truizlop](https://github.com/truizlop), [LeeKahSeng](https://github.com/LeeKahSeng), [ileitch](https://github.com/ileitch)
