@@ -6,6 +6,7 @@
 * [Swift for TensforFlow: Choosing your dataset](https://www.47deg.com/blog/s4tf-choosing-dataset/), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 * [UICollectionView List with Interactive Custom Header](https://swiftsenpai.com/development/list-interactive-custom-header/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [What's new in Periphery 2.0](https://github.com/peripheryapp/periphery/wiki/What's-new-in-Periphery-2.0), by [@ileitch](https://github.com/ileitch)
+* [Multi-cursor editing in Xcode](https://sarunw.com/posts/multi-cursor-editing-in-xcode/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid), [David Roman](https://github.com/davdroman), [truizlop](https://github.com/truizlop), [LeeKahSeng](https://github.com/LeeKahSeng), [ileitch](https://github.com/ileitch)
+* [zntfdr](https://github.com/zntfdr), [Ryo Aoyama](https://github.com/ra1028), [mecid](https://github.com/mecid), [David Roman](https://github.com/davdroman), [truizlop](https://github.com/truizlop), [LeeKahSeng](https://github.com/LeeKahSeng), [ileitch](https://github.com/ileitch), [sarunw](https://github.com/sarunw)
