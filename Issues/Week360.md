@@ -5,6 +5,7 @@
 * [How to use GeometryReader without breaking SwiftUI layout](https://swiftwithmajid.com/2020/11/04/how-to-use-geometryreader-without-breaking-swiftui-layout/), by [@mecid](https://twitter.com/mecid)
 * [Swift for TensforFlow: Choosing your dataset](https://www.47deg.com/blog/s4tf-choosing-dataset/), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 * [UICollectionView List with Interactive Custom Header](https://swiftsenpai.com/development/list-interactive-custom-header/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [What's new in Periphery 2.0](https://github.com/peripheryapp/periphery/wiki/What's-new-in-Periphery-2.0), by [@ileitch](https://github.com/ileitch)
 
 **Tools/Controls**
 
