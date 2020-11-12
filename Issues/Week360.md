@@ -20,7 +20,7 @@
 **Tools/Controls**
 
 * [PredicateKit](https://github.com/ftchirou/PredicateKit) -  Write expressive and type-safe predicates for CoreData using key-paths, comparisons and logical operators, literal values, and functions, by [@ftchirou](https://twitter.com/ftchirou)
-* [playbook-ui/accessibility-snapshot-ios](https://github.com/playbook-ui/accessibility-snapshot-ios), by [@ra1028fe5](https://twitter.com/ra1028fe5)
+* [PlaybookAccessibilitySnapshot](https://github.com/playbook-ui/accessibility-snapshot-ios) - A library for generating snapshot images of components managed by Playbook with accessibility labels, by [@ra1028fe5](https://twitter.com/ra1028fe5)
 * [MultiSheet](https://github.com/davdroman/MultiSheet) - Use multiple .sheet modifiers in a SwiftUI View, by [@davdroman](https://github.com/davdroman)
 
 **Business/Career**
