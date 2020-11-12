@@ -8,6 +8,7 @@
 * [What's new in Periphery 2.0](https://github.com/peripheryapp/periphery/wiki/What's-new-in-Periphery-2.0), by [@ileitch](https://github.com/ileitch)
 * [Multi-cursor editing in Xcode](https://sarunw.com/posts/multi-cursor-editing-in-xcode/), by [@sarunw](https://twitter.com/sarunw)
 * [10 Tips & Shortcuts You Should Be Using Right Now On Xcode](https://medium.com/@mpesate/10-tips-shortcuts-you-should-be-using-right-now-on-xcode-2e9e1b01511e?sk=41a96bbe6b660a35e7148ebb1bff6b53), by [Mike P.](https://twitter.com/mikept28)
+* [Debugging JSON Data in LLDB](https://soffes.blog/debugging-json-data-in-lldb), by [@soffes](https://twitter.com/soffes)
 
 **Tools/Controls**
 
