@@ -1,6 +1,5 @@
-- Apple Event; new macs; 
-- https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation + https://conradstoll.com/blog/2020/11/10/on-apples-swiftui-header-file-documentation
-- reminder that your iOS apps will run (if possible) on Apple Silicon unless you opt out; 
+Happy Thursday! Are you getting a new mac? Or holding on hoping for a larger Pro model in spring? The new processors seem amazing and at first look it seems that Apple was able to make more performant and cheaper macs than their current Intel-based line-up. And what's even more amazing is the battery life, which is almost double than before. 
+With the new macs we also get macOS Big Sur. And Xcode 12.2. Lots of stuff to download 😄. Also, just a reminder, iOS apps will run on Apple Silicon on macOS Big Sur unless you explicitly opt out in App Store Connect. We already started seeing messages about apps that might not work as expected on macOS (those using CoreLocation, HealthKit, etc).
 
 **Articles**
 
