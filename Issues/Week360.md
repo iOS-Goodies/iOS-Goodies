@@ -1,3 +1,6 @@
+- Apple Event; new macs; 
+- https://www.caseyliss.com/2020/11/10/on-apples-pisspoor-documentation + https://conradstoll.com/blog/2020/11/10/on-apples-swiftui-header-file-documentation
+- reminder that your iOS apps will run (if possible) on Apple Silicon unless you opt out; 
 
 **Articles**
 
@@ -9,6 +12,10 @@
 * [Multi-cursor editing in Xcode](https://sarunw.com/posts/multi-cursor-editing-in-xcode/), by [@sarunw](https://twitter.com/sarunw)
 * [10 Tips & Shortcuts You Should Be Using Right Now On Xcode](https://medium.com/@mpesate/10-tips-shortcuts-you-should-be-using-right-now-on-xcode-2e9e1b01511e?sk=41a96bbe6b660a35e7148ebb1bff6b53), by [Mike P.](https://twitter.com/mikept28)
 * [Debugging JSON Data in LLDB](https://soffes.blog/debugging-json-data-in-lldb), by [@soffes](https://twitter.com/soffes)
+* [Adopting the new PHPicker](https://www.kairadiagne.com/2020/11/04/adopting-the-new-photo-picker.html), by [@kairadiagne](https://twitter.com/kairadiagne)
+* [Building a concurrency-proof token refresh flow in Combine](https://www.donnywals.com/building-a-concurrency-proof-token-refresh-flow-in-combine/), by [@donnywals](https://twitter.com/donnywals)
+* [Slow Swift Compiler Performance](https://useyourloaf.com/blog/slow-swift-compiler-performance/), by [@kharrison](https://twitter.com/kharrison)
+* [Attributed Strings with SwiftUI](https://swiftui-lab.com/attributed-strings-with-swiftui/), by [@SwiftUILab](https://twitter.com/SwiftUILab)
 
 **Tools/Controls**
 
@@ -22,7 +29,8 @@
 
 **UI/UX**
 
-* 
+* [Small Copy, Big Impact](https://steamclock.com/blog/2020/10/microcopy/), by [@apike](http://www.twitter.com/apike/)
+* [5 Things I Wish I’d Known Before Starting a Design System at Spotify](https://spotify.design/article/5-things-i-wish-id-known-before-starting-a-design-system-at-spotify), by [@iamtyce](https://twitter.com/iamtyce)
 
 **Videos**
 
