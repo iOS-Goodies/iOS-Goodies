@@ -2,6 +2,7 @@
 **Articles**
 
 * [Swift overloading and @_disfavoredOverload](https://fivestars.blog/swift/disfavoredOverload.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Changing Text in iOS Lottie Animation](https://swiftsenpai.com/development/lottie-text-provider/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [michael_tigas](https://github.com/teeeeeegz)
+* [zntfdr](https://github.com/zntfdr), [michael_tigas](https://github.com/teeeeeegz), [LeeKahSeng](https://github.com/LeeKahSeng)
