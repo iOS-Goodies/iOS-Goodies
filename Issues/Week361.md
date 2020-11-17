@@ -6,7 +6,7 @@
 
 **Tools/Controls**
 
-* 
+* [Swimbols](https://apps.apple.com/app/id1525226399?platform=mac) - A simple and useful tool to customize SF Symbols and export SwiftUI/UIKit code by [@skydevz](https://twitter.com/skydevz). It [improves the existing workflow](https://medium.com/@imthathullah/re-imagining-sf-symbols-into-xcode-c2ebf92550d9?source=friends_link&sk=37af3872b7c89945bc67c9164c830340) of working with SF Symbols and also helps in [understanding](https://medium.com/better-programming/understanding-swiftui-modifiers-83ebfbc3f94?source=friends_link&sk=4f04d658f89fa814d766a4e056999d58) how SwiftUI modifiers work.
 
 **Business/Career**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [michael_tigas](https://github.com/teeeeeegz), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [zntfdr](https://github.com/zntfdr), [michael_tigas](https://github.com/teeeeeegz), [LeeKahSeng](https://github.com/LeeKahSeng), [imthath_m](https://github.com/imthath-m)
