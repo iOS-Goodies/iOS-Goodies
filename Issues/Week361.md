@@ -1,3 +1,5 @@
+- https://www.apple.com/newsroom/2020/11/apple-announces-app-store-small-business-program/
+- https://blog.jacopo.io/en/post/apple-ocsp/
 
 **Articles**
 
