@@ -9,6 +9,7 @@
 * [Comparing iPhone OS 1.0 with iOS 14 using tree maps](https://blog.timac.org/2020/1122-comparing-iphone-os-with-ios-14-using-tree-maps/), by [@timacfr](https://twitter.com/timacfr)
 * [Extending Combine with convenience APIs](https://www.swiftbysundell.com/articles/extending-combine-with-convenience-apis/), by [@johnsundell](https://twitter.com/johnsundell)
 * [DispatchSource: Detecting changes in files and folders in Swift](https://swiftrocks.com/dispatchsource-detecting-changes-in-files-and-folders-in-swift.html), by [@rockbruno_](https://twitter.com/rockbruno_)
+* [How to display Vision bounding boxes](https://machinethink.net/blog/bounding-boxes/), by [@mhollemans](https://twitter.com/mhollemans)
 
 **Tools/Controls**
 
