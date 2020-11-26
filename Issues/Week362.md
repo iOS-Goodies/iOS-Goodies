@@ -1,5 +1,4 @@
-- https://developer.apple.com/news/?id=83m4plrb
-- https://trycatchswift.com/black-friday-cyber-monday-ios-macos-watchos-apps-2020/ and https://mjtsai.com/blog/2020/11/24/black-friday-2020/
+Happy Thursday! Same as every year, App Store Connect will [go on holiday between 23 and 27 December](https://developer.apple.com/news/?id=83m4plrb), so make sure to schedule your releases in time. And since now it's that time of year where you can usually get discounts and good prices on a lot of stuff, [bryandubno](https://twitter.com/bryandubno) has compiled a [list of apps on which you can get a good offer](https://trycatchswift.com/black-friday-cyber-monday-ios-macos-watchos-apps-2020/). And [here's a similar one](https://mjtsai.com/blog/2020/11/24/black-friday-2020/) from [@mjtsai](https://twitter.com/mjtsai)
 
 **Articles**
 
