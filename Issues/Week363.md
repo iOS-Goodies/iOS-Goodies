@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [Kanvas: Tumblr’s Media Editor and Camera](https://github.com/tumblr/kanvas-ios), by [@tumblreng](https://twitter.com/tumblreng)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [pmusolino](https://github.com/pmusolino)
