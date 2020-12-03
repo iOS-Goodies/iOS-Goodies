@@ -5,7 +5,7 @@
 * [Reducing Memory Footprint When Using UIImage](https://swiftsenpai.com/development/reduce-uiimage-memory-footprint/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [UIStackView padding](https://sarunw.com/posts/uistackview-padding/), by [@sarunw](https://twitter.com/sarunw)
 * [How to deal with modal views (a.k.a. sheets) with SwiftUI](https://kristaps.me/swiftui-modal-view/) by [@fassko](https://twitter.com/fassko)
-* [Testing the UI without UI Testing in Swift](https://masilotti.com/testing-ui-without-ui-testing/) by [@joemasilotti](https://twitter.com/joemasilotti
+* [Testing the UI without UI Testing in Swift](https://masilotti.com/testing-ui-without-ui-testing/) by [@joemasilotti](https://twitter.com/joemasilotti)
 
 **Tools/Controls**
 
