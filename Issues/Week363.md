@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [pmusolino](https://github.com/pmusolino), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [pmusolino](https://github.com/pmusolino), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [Joe Masilotti](https://github.com/joemasilotti)
