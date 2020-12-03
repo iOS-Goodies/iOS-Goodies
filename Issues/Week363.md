@@ -10,6 +10,7 @@
 **Tools/Controls**
 
 * [Kanvas: Tumblr’s Media Editor and Camera](https://github.com/tumblr/kanvas-ios), by [@tumblreng](https://twitter.com/tumblreng)
+* [ColorKit](https://github.com/Boris-Em/ColorKit), by [@Boris-Em](https://twitter.com/boris_em?lang=en)
 
 **Business/Career**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [pmusolino](https://github.com/pmusolino), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [Joe Masilotti](https://github.com/joemasilotti)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [pmusolino](https://github.com/pmusolino), [sarunw](https://github.com/sarunw), [fassko](https://github.com/fassko), [Joe Masilotti](https://github.com/joemasilotti), [Boris-Em](https://github.com/Boris-Em)
