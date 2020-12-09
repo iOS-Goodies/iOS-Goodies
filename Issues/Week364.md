@@ -6,6 +6,7 @@
 * [The future of SwiftUI navigation (?)](https://fivestars.blog/swiftui/programmatic-navigation.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [An iOS Engineer’s Perspective on SOLID Principles](https://medium.com/better-programming/an-ios-engineers-perspective-on-solid-principles-bf46ddc25d47), by [@KelvinTanZY](https://twitter.com/KelvinTanZY)
 * [No more \[weak self\], or the weird new future of delegation](https://olegdreyman.medium.com/no-more-weak-self-or-the-weird-new-future-of-delegation-f2a2745cd73), by [@olegdreyman](https://twitter.com/olegdreyman)
+* [Chipping Away at Technical Debt](https://dev.to/kaydacode/chipping-away-at-technical-debt-335a), by [@kaydacode](https://twitter.com/kaydacode)
 
 **Tools/Controls**
 
