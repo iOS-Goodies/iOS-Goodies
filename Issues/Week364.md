@@ -1,4 +1,6 @@
+Happy Thursday! It is now possible to [use family-sharing for in-app purchases](https://developer.apple.com/news/?id=4zbvn7u9). And Xcode 12.3 RC1 is now available.  
 
+I think I wrote briefly about this in March as well, but now with the long nights, lack of sunshine and a new set of restrictions in Copenhagen 🇩🇰, where I live, I needed to remind myself again: those are difficult times, this is not what work from home usually is, it is normal for anyone to be less productive in these times, it is normal to feel tired. What's important to remember is that everyone around us is going through the same thing, so it's probably a good idea to adjust the expectations we have of ourselves and of others and try and be a bit more understanding. Now on to the iOS development links!
 
 **Articles**
 
