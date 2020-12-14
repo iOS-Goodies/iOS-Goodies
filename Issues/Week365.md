@@ -5,6 +5,7 @@
 * [Let's build @State](https://fivestars.blog/swiftui/lets-build-state.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to mock UNNotificationResponse in unit tests](https://onmyway133.com/blog/how-to-mock-unnotificationresponse-in-unit-tests/), by [@onmyway133](https://twitter.com/onmyway133)
 * [How expensive is DateFormatter](https://sarunw.com/posts/how-expensive-is-dateformatter/), by [@sarunw](https://twitter.com/sarunw)
+* [The Large Title UINavigationBar Glitches and How to Fix Them](https://swiftsenpai.com/development/large-title-uinavigationbar-glitches/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [LeeKahSeng](https://github.com/LeeKahSeng)
