@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133)
