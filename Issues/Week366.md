@@ -6,6 +6,7 @@
 * [Hero animations in SwiftUI](https://swiftwithmajid.com/2020/12/17/hero-animations-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [An alternative to SwiftUI's stacks + Spacer combo](https://fivestars.blog/swiftui/stack-spacer-alternatives.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to use DateFormatter in Swift](https://sarunw.com/posts/how-to-use-dateformatter/), by [@sarunw](https://twitter.com/sarunw)
+* [Keep private information out of your logs with Swift](https://olegdreyman.medium.com/keep-private-information-out-of-your-logs-with-swift-bbd2fbcd9a40), by [@olegdreyman](https://twitter.com/olegdreyman)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz), [dreymonde](https://github.com/dreymonde)
