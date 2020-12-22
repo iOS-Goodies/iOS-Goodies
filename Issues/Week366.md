@@ -12,8 +12,7 @@
 * [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Business/Career**
-
-* 
+* [Launching an Indie App - Part 4: Architecting for Productivity](https://heyimakeapps.com/blog/launching-an-indie-app-part-4-architecting-for-productivity), by [@michael_tigas](https://twitter.com/michael_tigas)
 
 **UI/UX**
 
@@ -25,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz)
