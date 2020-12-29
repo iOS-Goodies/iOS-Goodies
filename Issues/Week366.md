@@ -7,6 +7,7 @@
 * [An alternative to SwiftUI's stacks + Spacer combo](https://fivestars.blog/swiftui/stack-spacer-alternatives.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to use DateFormatter in Swift](https://sarunw.com/posts/how-to-use-dateformatter/), by [@sarunw](https://twitter.com/sarunw)
 * [Keep private information out of your logs with Swift](https://olegdreyman.medium.com/keep-private-information-out-of-your-logs-with-swift-bbd2fbcd9a40), by [@olegdreyman](https://twitter.com/olegdreyman)
+* [Background Color with SwiftUI](https://kristaps.me/blog/background-swiftui/), by [@fassko](https://twitter.com/fassko)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz), [dreymonde](https://github.com/dreymonde)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz), [dreymonde](https://github.com/dreymonde), [fassko](https://github.com/fassko)
