@@ -14,6 +14,7 @@
 
 **Business/Career**
 * [Launching an Indie App - Part 4: Architecting for Productivity](https://heyimakeapps.com/blog/launching-an-indie-app-part-4-architecting-for-productivity), by [@michael_tigas](https://twitter.com/michael_tigas)
+* [Launching an Indie App - Part 5: A habit building framework](https://heyimakeapps.com/blog/launching-an-indie-app-part-5-a-habit-building-framework), by [@michael_tigas](https://twitter.com/michael_tigas)
 
 **UI/UX**
 
