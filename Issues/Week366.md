@@ -29,4 +29,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz), [dreymonde](https://github.com/dreymonde), [fassko](https://github.com/fassko)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [onmyway133](https://github.com/onmyway133), [sarunw](https://github.com/sarunw), [michael_tigas](https://github.com/teeeeeegz), [dreymonde](https://github.com/dreymonde), [fassko](https://github.com/fassko), [hishnash](https://github.com/hishnash)
