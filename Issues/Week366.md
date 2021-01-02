@@ -8,10 +8,12 @@
 * [How to use DateFormatter in Swift](https://sarunw.com/posts/how-to-use-dateformatter/), by [@sarunw](https://twitter.com/sarunw)
 * [Keep private information out of your logs with Swift](https://olegdreyman.medium.com/keep-private-information-out-of-your-logs-with-swift-bbd2fbcd9a40), by [@olegdreyman](https://twitter.com/olegdreyman)
 * [Background Color with SwiftUI](https://kristaps.me/blog/background-swiftui/), by [@fassko](https://twitter.com/fassko)
+* [KeyWindow a better way of exposing values from the Key window](https://lostmoa.com/blog/KeyWindowABetterWayOfExposingValuesFromTheKeyWindow/), by [@hishnash](https://twitter.com/hishnash)
 
 **Tools/Controls**
 
 * [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui), by [@onmyway133](https://twitter.com/onmyway133)
+* [KeyWindow](https://github.com/LostMoa/KeyWindow), by [@hishnash](https://twitter.com/hishnash)
 
 **Business/Career**
 * [Launching an Indie App - Part 4: Architecting for Productivity](https://heyimakeapps.com/blog/launching-an-indie-app-part-4-architecting-for-productivity), by [@michael_tigas](https://twitter.com/michael_tigas)
