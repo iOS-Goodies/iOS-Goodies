@@ -1,3 +1,4 @@
+Happy Thursday, and Happy New Year! We're back, after my first break from the newsletter in the last 3 years. It felt really good to have some time off. Hope you enjoyed the holidays, if you had them, and that you're ready for some more iOS Goodies 😊
 
 **Articles**
 
@@ -11,6 +12,7 @@
 * [App architecture basics in SwiftUI, Part 1: Coding through iteration and integration](https://www.cocoawithlove.com/blog/coding-through-iteration-and-integration.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 * [What type is self in a Swift self-executing anonymous closure used to initialize a stored property?](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/), by [@jesse_squires](https://twitter.com/jesse_squires)
 * [How to refresh header / footer with Diffable Data Source](https://nemecek.be/blog/62/how-to-refresh-headerfooter-with-diffable-data-source), by [@nemecek_f](https://twitter.com/nemecek_f)
+* [What does “atomic” mean in programming?](https://www.donnywals.com/what-does-atomic-mean-in-programming/), by [@donnywals](https://twitter.com/donnywals)
 
 **Tools/Controls**
 
