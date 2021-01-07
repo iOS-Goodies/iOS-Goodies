@@ -9,6 +9,10 @@
 * [Keep private information out of your logs with Swift](https://olegdreyman.medium.com/keep-private-information-out-of-your-logs-with-swift-bbd2fbcd9a40), by [@olegdreyman](https://twitter.com/olegdreyman)
 * [Background Color with SwiftUI](https://kristaps.me/blog/background-swiftui/), by [@fassko](https://twitter.com/fassko)
 * [KeyWindow a better way of exposing values from the Key window](https://lostmoa.com/blog/KeyWindowABetterWayOfExposingValuesFromTheKeyWindow/), by [@hishnash](https://twitter.com/hishnash)
+* [Instruments Tutorial with Swift: Getting Started](https://www.raywenderlich.com/16126261-instruments-tutorial-with-swift-getting-started), by [@hellosunschein](https://twitter.com/hellosunschein)
+* [App architecture basics in SwiftUI, Part 1: Coding through iteration and integration](https://www.cocoawithlove.com/blog/coding-through-iteration-and-integration.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [What type is self in a Swift self-executing anonymous closure used to initialize a stored property?](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [How to refresh header / footer with Diffable Data Source](https://nemecek.be/blog/62/how-to-refresh-headerfooter-with-diffable-data-source), by [@nemecek_f](https://twitter.com/nemecek_f)
 
 **Tools/Controls**
 
