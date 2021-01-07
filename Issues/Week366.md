@@ -1,5 +1,3 @@
-> This will be sent on January 7 2021. Happy holidays!
----
 
 **Articles**
 
@@ -16,8 +14,9 @@
 
 **Tools/Controls**
 
-* [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui), by [@onmyway133](https://twitter.com/onmyway133)
-* [KeyWindow](https://github.com/LostMoa/KeyWindow), by [@hishnash](https://twitter.com/hishnash)
+* [awesome-swiftui](https://github.com/onmyway133/awesome-swiftui) - 🌮 Awesome resources, articles, libraries about SwiftUI, by [@onmyway133](https://twitter.com/onmyway133)
+* [KeyWindow](https://github.com/LostMoa/KeyWindow) - Share values provided by views in the Key window to all other parts of your SwiftUI application including the commands block, by [@hishnash](https://twitter.com/hishnash)
+* [AutomaticSettings](https://github.com/krzysztofzablocki/AutomaticSettings) - Data driven settings UI generation, by [@merowing_](https://twitter.com/merowing_)
 
 **Business/Career**
 * [Launching an Indie App - Part 4: Architecting for Productivity](https://heyimakeapps.com/blog/launching-an-indie-app-part-4-architecting-for-productivity), by [@michael_tigas](https://twitter.com/michael_tigas)
