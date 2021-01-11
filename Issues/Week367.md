@@ -7,6 +7,7 @@
 * [Replicate the Expandable Date Picker Using UICollectionView List](https://swiftsenpai.com/development/expandable-date-picker-list/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [How to select images using PHPickerViewController with SwiftUI](https://kristaps.me/blog/swiftui-select-image-with-phpickerviewcontroller/), by [@fassko](https://twitter.com/fassko)
 * [Create a dynamic onboarding UI in Swift](https://benoitpasquier.com/dynamic-onboarding-ios-swift/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Effective Auto Layout Programmatically in Swift](https://www.vadimbulavin.com/effective-auto-layout-programmatically-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [LeeKahSeng](https://github.com/LeeKahSeng), [fassko](https://github.com/fassko), [popei69](https://github.com/popei69)
+* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [LeeKahSeng](https://github.com/LeeKahSeng), [fassko](https://github.com/fassko), [popei69](https://github.com/popei69), [V8tr](https://github.com/V8tr)
