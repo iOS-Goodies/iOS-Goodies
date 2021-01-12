@@ -14,6 +14,7 @@
 * 
 
 **Business/Career**
+* [Launching an Indie App - Part 7: We Have Liftoff](https://heyimakeapps.com/blog/launching-an-indie-app-part-7-we-have-liftoff), by [@michael_tigas](https://twitter.com/michael_tigas)
 
 * 
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [LeeKahSeng](https://github.com/LeeKahSeng), [fassko](https://github.com/fassko), [popei69](https://github.com/popei69), [V8tr](https://github.com/V8tr)
+* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [LeeKahSeng](https://github.com/LeeKahSeng), [fassko](https://github.com/fassko), [popei69](https://github.com/popei69), [V8tr](https://github.com/V8tr), [michael_tigas](https://github.com/teeeeeegz)
