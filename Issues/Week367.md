@@ -1,4 +1,4 @@
-- [iOS developer survey](https://iosdevweekly.typeform.com/to/u7UvzNZh)
+Happy Thursday! When [Dave](https://twitter.com/daveverwer) announced that he won't be doing the iOS developer survey this year, I was hoping that someone from our community would step up and take initiative. And that's exactly what happened. Thanks to [Chris Hefferman](https://twitter.com/heffertron) and [Dragos Dobrean](https://twitter.com/dobreandl), the [iOS Developer Survey 2020](https://iosdevweekly.typeform.com/to/u7UvzNZh) is live. Make sure to answer the questions and take part in the biggest survey for our community. 
 
 **Articles**
 
