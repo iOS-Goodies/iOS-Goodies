@@ -9,6 +9,8 @@
 * [Create a dynamic onboarding UI in Swift](https://benoitpasquier.com/dynamic-onboarding-ios-swift/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [Effective Auto Layout Programmatically in Swift](https://www.vadimbulavin.com/effective-auto-layout-programmatically-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [How to change the color of SF Symbols](https://sarunw.com/posts/how-to-change-color-of-sf-symbols/), by [@sarunw](https://twitter.com/sarunw)
+* [Validating email addresses using RawRepresentable and NSDataDetector](https://www.swiftbysundell.com/articles/validating-email-addresses/), by [@johnsundell](https://twitter.com/johnsundell)
+* [Introduction to structured concurrency in Swift: continuations, tasks, and cancellation](https://desiatov.com/swift-structured-concurrency-introduction/), by [@maxdesiatov](https://twitter.com/maxdesiatov)
 
 **Tools/Controls**
 
