@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [Chain - A tiny library that enables us to describe operations in method-chain.](https://github.com/VergeGroup/Chain), by [@muukii](https://twitter.com/muukii_app)
 
 **Business/Career**
 
@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr), [muukii](https://github.com/muukii)
