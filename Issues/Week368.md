@@ -30,4 +30,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr), [muukii](https://github.com/muukii), [3Qax](https://github.com/3Qax), [@popei69](https://github.com/popei69), [dadederk](https://twitter.com/dadederk)
+* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr), [muukii](https://github.com/muukii), [3Qax](https://github.com/3Qax), [@popei69](https://github.com/popei69), [dadederk](https://github.com/dadederk)
