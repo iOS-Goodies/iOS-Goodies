@@ -6,6 +6,7 @@
 * [How to check if Text is truncated in SwiftUI?](https://fivestars.blog/swiftui/trucated-text.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Customising apps based on scheme](https://jakub.codes/posts/app-scheme), by [@3Qax](https://twitter.com/jakubtowarek)
 * [How to display date and time in SwiftUI](https://benoitpasquier.com/date-formatter-swiftui/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Traits of a good accessible iOS app](https://levelup.gitconnected.com/traits-of-a-good-accessible-ios-app-25266ee08fb9?sk=00b53e96c0cf477ebf814ce0e271e11b), by [@dadederk](https://twitter.com/dadederk)
 
 **Tools/Controls**
 
