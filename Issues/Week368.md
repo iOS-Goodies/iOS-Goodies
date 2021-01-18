@@ -21,6 +21,10 @@
 
 * 
 
+**Podcasts**
+
+* [Special: Daniel Devesa Derksen-Staats | AppForce1: news and info for iOS app developers](https://www.buzzsprout.com/1414396/7142317), with [@dadederk](https://twitter.com/dadederk), by [@AppForce1](https://twitter.com/AppForce1)
+
 **Credits**
 
 * [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr)
