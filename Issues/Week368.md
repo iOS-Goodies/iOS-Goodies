@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [onmyway133](https://github.com/onmyway133), [zntfdr](https://github.com/zntfdr), [dadederk](https://twitter.com/dadederk)
