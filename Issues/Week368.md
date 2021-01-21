@@ -20,6 +20,7 @@
 
 * [Chain - A tiny library that enables us to describe operations in method-chain.](https://github.com/VergeGroup/Chain), by [@muukii](https://twitter.com/muukii_app)
 * [XCMetrics](https://xcmetrics.io/) - Discover valuable insights hiding inside Xcode’s build logs, by [@spotifyeng](https://twitter.com/spotifyeng)
+* [What's new in RxSwift 6 ?](https://dev.to/freak4pc/what-s-new-in-rxswift-6-2nog), by [@freak4pc](https://twitter.com/freak4pc)
 
 **Business/Career**
 
