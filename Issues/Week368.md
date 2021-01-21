@@ -19,6 +19,7 @@
 **Tools/Controls**
 
 * [Chain - A tiny library that enables us to describe operations in method-chain.](https://github.com/VergeGroup/Chain), by [@muukii](https://twitter.com/muukii_app)
+* [XCMetrics](https://xcmetrics.io/) - Discover valuable insights hiding inside Xcode’s build logs, by [@spotifyeng](https://twitter.com/spotifyeng)
 
 **Business/Career**
 
