@@ -1,5 +1,6 @@
-- https://developer.apple.com/news/?id=g9ejcf8y
-- https://www.hackingwithswift.com/awards
+Happy Thursday! [Paul Hudson](https://twitter.com/twostraws)'s Swift Community Awards are [in the voting phase](https://www.hackingwithswift.com/awards). And while there's no Best Newsletter category this year, I recommend you go and have a look at the nominees in all the categories and vote for the persons, presentations, tools, apps or conferences that helped you the most this year. And feel free to also tweet at them sharing your appreciation 😄. Those people need to know how much they help us and how grateful we are for their work.
+
+Apple shared an [article about identity pinning](https://developer.apple.com/news/?id=g9ejcf8y), which is probably the best written article on that topic that I've read so far. Not too technical, not too long, focusing on the implications of certificate pinning and on how that could impact your app in case of both planned and unplanned events. And the best thing, it looks like it's now possible (or maybe it was before too, I just didn't know it) to do public key pinning by only adding the keys to your `Info.plist`.
 
 **Articles**
 
