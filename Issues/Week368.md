@@ -1,3 +1,5 @@
+- https://developer.apple.com/news/?id=g9ejcf8y
+- https://www.hackingwithswift.com/awards
 
 **Articles**
 
@@ -10,6 +12,9 @@
 * [What is @Environment in SwiftUI](https://sarunw.com/posts/what-is-environment-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [My first failed SwiftUI project](https://blog.maximeheckel.com/posts/first-failed-swiftui-project/), by [@MaximeHeckel](https://twitter.com/MaximeHeckel)
 * [Adding Double Column Navigation to a SwiftUI Document App](https://lostmoa.com/blog/AddingDoubleColumnNavigationToASwiftUIDocumentApp/), by [@hishnash](https://twitter.com/hishnash)
+* [Improve build times by extracting 3rd party tooling to processing script](http://merowing.info/2021/01/improve-build-times-by-extracting-3rd-party-tooling-to-processing-script./), by [@merowing_](https://twitter.com/merowing_)
+* [Measurement, Unit, Dimension, and MeasurementFormatter on iOS](https://augmentedcode.io/2021/01/18/measurement-unit-dimension-and-measurementformatter-on-ios/), by [@toomasvahter](https://twitter.com/toomasvahter)
+* [Building Instagram profile screen with Compositional Layout](https://nemecek.be/blog/72/building-instagram-profile-screen-with-compositional-layout), by [@nemecek_f](https://twitter.com/nemecek_f)
 
 **Tools/Controls**
 
