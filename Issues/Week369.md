@@ -3,6 +3,7 @@
 
 * [Profiling SwiftUI app using Instruments](https://swiftwithmajid.com/2021/01/20/profiling-swiftui-app-using-instruments/), by [@mecid](https://twitter.com/mecid)
 * [SwiftUI patterns: @Bindings](https://www.fivestars.blog/swiftui/swiftui-patterns-bindings.html), by [@zntfdr](https://twitter.com/zntfdr)
+* [Flow with SwiftUI and MVVM, parts 1 & 2](https://medium.com/swlh/flow-with-swiftui-and-mvvm-7cc394440ab8), by [@nickgmcconnell](https://twitter.com/nickgmcconnell)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [@nickgmcconnell](https://twitter.com/nickgmcconnell)
