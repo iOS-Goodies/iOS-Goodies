@@ -13,7 +13,8 @@
 
 **Business/Career**
 
-* 
+* [The Do’s and Don’ts of Code Reviews](https://medium.com/better-programming/the-dos-and-don-ts-of-code-reviews-77032ba3a30c?source=friends_link&sk=ddbd07dd7e91657faf6b215cd9a1eb8b), by [Mike P](https://twitter.com/MikePT28)
+*
 
 **UI/UX**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28)
