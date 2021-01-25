@@ -5,6 +5,7 @@
 * [SwiftUI patterns: @Bindings](https://www.fivestars.blog/swiftui/swiftui-patterns-bindings.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Flow with SwiftUI and MVVM, parts 1 & 2](https://medium.com/swlh/flow-with-swiftui-and-mvvm-7cc394440ab8), by [@nickgmcconnell](https://twitter.com/nickgmcconnell)
 * [Migrating MVVM architecture from RxSwift to Combine](https://benoitpasquier.com/migrating-mvvm-uikit-rxswift-to-combine/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Callable Objects and callAsFunction() in Swift](https://www.vadimbulavin.com/call-as-function-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr)
