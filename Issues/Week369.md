@@ -15,7 +15,7 @@
 **Business/Career**
 
 * [The Do’s and Don’ts of Code Reviews](https://medium.com/better-programming/the-dos-and-don-ts-of-code-reviews-77032ba3a30c?source=friends_link&sk=ddbd07dd7e91657faf6b215cd9a1eb8b), by [Mike P](https://twitter.com/MikePT28)
-*
+* [Launching an Indie App - Part 8: Presentation and Pitch](https://heyimakeapps.com/blog/launching-an-indie-app-part-8-presentation-and-pitch), by [@michael_tigas](https://twitter.com/michael_tigas)
 
 **UI/UX**
 
@@ -27,4 +27,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz)
