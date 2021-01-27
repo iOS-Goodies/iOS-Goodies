@@ -7,6 +7,7 @@
 * [Migrating MVVM architecture from RxSwift to Combine](https://benoitpasquier.com/migrating-mvvm-uikit-rxswift-to-combine/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
 * [Callable Objects and callAsFunction() in Swift](https://www.vadimbulavin.com/call-as-function-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [The Undocumented Facts of Diffable Data Source Section Snapshot](https://swiftsenpai.com/development/undocumented-section-snapshot-facts/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [List view, a UITableView equivalent in SwiftUI](https://sarunw.com/posts/list-view-uitableview-equivalent-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz), [interstateone](https://github.com/interstateone)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz), [interstateone](https://github.com/interstateone), [sarunw](https://github.com/sarunw)
