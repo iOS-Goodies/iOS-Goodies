@@ -8,6 +8,7 @@
 * [Callable Objects and callAsFunction() in Swift](https://www.vadimbulavin.com/call-as-function-in-swift/), by [@V8tr](https://twitter.com/V8tr)
 * [The Undocumented Facts of Diffable Data Source Section Snapshot](https://swiftsenpai.com/development/undocumented-section-snapshot-facts/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [List view, a UITableView equivalent in SwiftUI](https://sarunw.com/posts/list-view-uitableview-equivalent-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
+* [App Clips - Users Redemption, Developers Nightmare](https://blog.jayway.com/2020/09/16/app-clips-users-redemption-developers-nightmare/), by [@minaashna](https://twitter.com/minaashna)
 
 **Tools/Controls**
 
