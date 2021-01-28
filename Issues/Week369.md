@@ -25,8 +25,8 @@
 
 **Videos**
 
-* 
+* [Live App Store Optimization Q&A](https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers), by [@arielmichaeli](https://twitter.com/arielmichaeli)
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz), [interstateone](https://github.com/interstateone), [sarunw](https://github.com/sarunw)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [popei69](https://github.com/popei69), [@nickgmcconnell](https://twitter.com/nickgmcconnell), [V8tr](https://github.com/V8tr), [Mike P](https://github.com/MikePT28), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz), [interstateone](https://github.com/interstateone), [sarunw](https://github.com/sarunw), [rel](https://github.com/rel)
