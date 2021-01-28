@@ -1,3 +1,5 @@
+- https://xcodereleases.com/
+- https://developer.apple.com/news/?id=8rm6injj
 
 **Articles**
 
@@ -9,10 +11,16 @@
 * [The Undocumented Facts of Diffable Data Source Section Snapshot](https://swiftsenpai.com/development/undocumented-section-snapshot-facts/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [List view, a UITableView equivalent in SwiftUI](https://sarunw.com/posts/list-view-uitableview-equivalent-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [App Clips - Users Redemption, Developers Nightmare](https://blog.jayway.com/2020/09/16/app-clips-users-redemption-developers-nightmare/), by [@minaashna](https://twitter.com/minaashna)
+* [Improving XCTest test name readability](https://masilotti.com/xctest-name-readability/), by [@joemasilotti](https://twitter.com/joemasilotti)
+* [URLSession’s Delegate Queue Should Be the Main Queue](https://inessential.com/2021/01/27/urlsession_delegate_main_queue), by [@brentsimmons](https://twitter.com/brentsimmons/)
+* [Which SwiftUI property wrapper to choose in any situation](https://www.hackingwithswift.com/articles/227/which-swiftui-property-wrapper), by [@twostraws](https://twitter.com/twostraws)
+* [App architecture basics in SwiftUI, Part 2: SwiftUI's natural pattern](https://www.cocoawithlove.com/blog/swiftui-natural-pattern.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
 
 **Tools/Controls**
 
 * [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) - The easiest way to install and switch between multiple versions of Xcode, by [@RobotsAndPencils](https://twitter.com/robotsnpencils)
+* [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full-featured rich text editor for iOS applications, by [@twittereng](https://twitter.com/twittereng)
+* [ScheduledNotificationsViewController](https://github.com/nicephoton/ScheduledNotificationsViewController) - See all your scheduled local notifications in one place, by [@olegdreyman](https://twitter.com/olegdreyman)
 
 **Business/Career**
 
@@ -26,6 +34,7 @@
 **Videos**
 
 * [Live App Store Optimization Q&A](https://appfigures.com/resources/app-teardowns/live-aso-questions-and-answers), by [@arielmichaeli](https://twitter.com/arielmichaeli)
+* [TestFlight - How to Upload and Distribute Your App | App Store 2021](https://www.youtube.com/watch?v=DLvdZtTAJrE), by [@seanallen_dev](https://twitter.com/seanallen_dev)
 
 **Credits**
 
