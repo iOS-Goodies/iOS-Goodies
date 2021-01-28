@@ -1,5 +1,4 @@
-- https://xcodereleases.com/
-- https://developer.apple.com/news/?id=8rm6injj
+Happy Thursday! Apple released iOS 14.4 this week, together with Xcode 12.4, which is a great news if you got tired of the yellow tab bars and naviagtion bars that sometimes appeard in the iOS Simulator 🙃. Apple also just announced that [AppTrackingTransparency will be required starting with the next beta update and it will go live to everyone in an upcoming system update in early spring](https://developer.apple.com/news/?id=8rm6injj). So it's time to read again about [user privacy and data use](https://developer.apple.com/app-store/user-privacy-and-data-use/) 😅
 
 **Articles**
 
