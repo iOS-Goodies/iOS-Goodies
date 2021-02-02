@@ -1,3 +1,5 @@
+- https://developer.apple.com/documentation/xcode-release-notes/xcode-12_5-beta-release-notes/
+- https://developer.apple.com/news/?id=3ozbk628
 
 **Articles**
 
