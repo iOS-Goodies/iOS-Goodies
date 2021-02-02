@@ -7,6 +7,7 @@
 * [Exploring SwiftUI's Button styles](https://www.fivestars.blog/swiftui/button-styles.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to show text inside a circle with SwiftUI](https://kristaps.me/blog/swiftui-text-in-circle/), by [@fassko](https://twitter.com/fassko)
 * [Creating a webcam utility app for macOS in SwiftUI](https://benoitpasquier.com/webcam-utility-app-macos-swiftui/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Getting Started with Tuist](https://sarunw.com/posts/getting-started-with-tuist/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [fassko](https://github.com/fassko), [michael_tigas](https://github.com/teeeeeegz), [popei69](https://github.com/popei69)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [fassko](https://github.com/fassko), [michael_tigas](https://github.com/teeeeeegz), [popei69](https://github.com/popei69), [sarunw](https://github.com/sarunw)
