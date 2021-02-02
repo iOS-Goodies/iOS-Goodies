@@ -10,6 +10,7 @@
 * 
 
 **Business/Career**
+* [Launching an Indie App - Part 9: Effective Outreach](https://heyimakeapps.com/blog/launching-an-indie-app-part-9-effective-outreach), by [@michael_tigas](https://twitter.com/michael_tigas)
 
 * 
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [fassko](https://github.com/fassko)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [fassko](https://github.com/fassko), [michael_tigas](https://github.com/teeeeeegz)
