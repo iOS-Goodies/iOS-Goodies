@@ -23,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [michaelabadi](https://twitter.com/michaelabadiii)
