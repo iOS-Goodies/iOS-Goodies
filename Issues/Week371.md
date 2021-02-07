@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [Clendar - an open-source calendar app, written in SwiftUI](https://github.com/vinhnx/Clendar), by [@vinhnx](https://twitter.com/vinhnx)
+* [SFSymbolsFinder - an open-source for retrieving all of supported SF Symbols icon](https://github.com/abadikaka/SFSymbolsFinder), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 
 **Business/Career**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx), [michaelabadi](https://github.com/abadikaka)
