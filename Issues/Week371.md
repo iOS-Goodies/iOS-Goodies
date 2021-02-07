@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* [Clendar - an open-source calendar app, written in SwiftUI][https://github.com/vinhnx/Clendar], by [@vinhnx](https://twitter.com/vinhnx)
+* [Clendar - an open-source calendar app, written in SwiftUI](https://github.com/vinhnx/Clendar), by [@vinhnx](https://twitter.com/vinhnx)
 
 **Business/Career**
 
