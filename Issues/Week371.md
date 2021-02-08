@@ -8,6 +8,7 @@
 **Tools/Controls**
 
 * [Clendar - an open-source calendar app, written in SwiftUI](https://github.com/vinhnx/Clendar), by [@vinhnx](https://twitter.com/vinhnx)
+* [DateBuilder](https://github.com/nicephoton/DateBuilder) - An easier way to create dates with Swift, by [@dreymonde](https://twitter.com/dreymonde)
 
 **Business/Career**
 
@@ -23,4 +24,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx), [dreymonde](https://github.com/dreymonde)
