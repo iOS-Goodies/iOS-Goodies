@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Clendar - an open-source calendar app, written in SwiftUI](https://github.com/vinhnx/Clendar), by [@vinhnx](https://twitter.com/vinhnx)
+* [DateBuilder](https://github.com/nicephoton/DateBuilder) - An easier way to create dates with Swift, by [@dreymonde](https://twitter.com/dreymonde)
 * [SFSymbolsFinder - an open-source for retrieving all of supported SF Symbols icon](https://github.com/abadikaka/SFSymbolsFinder), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 
 **Business/Career**
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx), [abadikaka](https://github.com/abadikaka)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx), [dreymonde](https://github.com/dreymonde), [abadikaka](https://github.com/abadikaka)
