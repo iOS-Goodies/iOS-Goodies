@@ -7,6 +7,7 @@
 * [Proxy Pattern in Swift](https://michaelabadi.com/articles/Proxy-Pattern-Swift/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Re-enabling the iOS Simulator Slow Animations Shortcut](https://swiftsenpai.com/xcode/enable-simulator-slow-mo-shortcut/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Migrating an iOS app to SwiftUI - Navigation & Storyboards](https://benoitpasquier.com/migrating-ios-app-swiftui-part-1/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Using async/await in SwiftUI](https://peterfriese.dev/async-await-in-swiftui/), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Tools/Controls**
 
@@ -29,4 +30,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx), [dreymonde](https://github.com/dreymonde), [abadikaka](https://github.com/abadikaka), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz), [popei69](https://github.com/popei69)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [joemasilotti](https://github.com/joemasilotti), [vinhnx](https://github.com/vinhnx), [dreymonde](https://github.com/dreymonde), [abadikaka](https://github.com/abadikaka), [LeeKahSeng](https://github.com/LeeKahSeng), [michael_tigas](https://github.com/teeeeeegz), [popei69](https://github.com/popei69), [peterfriese](https://twitter.com/peterfriese)
