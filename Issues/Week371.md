@@ -7,6 +7,7 @@
 * [Proxy Pattern in Swift](https://michaelabadi.com/articles/Proxy-Pattern-Swift/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Re-enabling the iOS Simulator Slow Animations Shortcut](https://swiftsenpai.com/xcode/enable-simulator-slow-mo-shortcut/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Migrating an iOS app to SwiftUI - Navigation & Storyboards](https://benoitpasquier.com/migrating-ios-app-swiftui-part-1/), by [@BenoitPasquier_](https://twitter.com/benoitpasquier_)
+* [Using async/await in SwiftUI](https://peterfriese.dev/async-await-in-swiftui/), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Tools/Controls**
 
