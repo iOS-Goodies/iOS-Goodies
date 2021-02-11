@@ -14,7 +14,7 @@ Happy Thursday! Let's get straight to the links this week!
 
 **Tools/Controls**
 
-* [Clendar - an open-source calendar app, written in SwiftUI](https://github.com/vinhnx/Clendar), by [@vinhnx](https://twitter.com/vinhnx)
+* [Clendar](https://github.com/vinhnx/Clendar) - an open-source calendar app, written in SwiftUI, by [@vinhnx](https://twitter.com/vinhnx)
 * [DateBuilder](https://github.com/nicephoton/DateBuilder) - An easier way to create dates with Swift, by [@dreymonde](https://twitter.com/dreymonde)
 * [SFSymbolsFinder - an open-source for retrieving all of supported SF Symbols icon](https://github.com/abadikaka/SFSymbolsFinder), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Pulse](https://github.com/kean/Pulse) - a console and a network inspector for your app, by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
