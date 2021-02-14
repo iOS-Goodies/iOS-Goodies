@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [@iosartem](https://twitter.com/iosartem)
