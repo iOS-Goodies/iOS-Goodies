@@ -22,4 +22,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [@artemnovichkov](https://github.com/artemnovichkov)
+* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov)
