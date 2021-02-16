@@ -5,6 +5,9 @@
 * [SwiftUI keyboard avoidance](https://www.fivestars.blog/swiftui/swiftui-keyboard.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Custom @Environment value for share actions](https://blog.artemnovichkov.com/custom-environment-value-for-share-actions), by [@iosartem](https://twitter.com/iosartem)
 * [SplitView Navigation: An issue with state restoration](https://lostmoa.com/blog/SummoningSplitViewSidebar/), by [@hishnash](https://twitter.com/hishnash)
+* [RxUI: Applying SwiftUI ideas to improve the developer experience of using RxSwift](https://kean.blog/post/rxui), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [Triple Trouble: (Proper) triple-column navigation with sidebars on macOS and iPad using SwiftUI](https://kean.blog/post/triple-trouble), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [XCFrameworks: How one bad assumption turned into multiple wasted hours, and now not to repeat that](https://kean.blog/post/xcframeworks-caveats), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 
 **Tools/Controls**
 
@@ -24,4 +27,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov), [hishnash](https://github.com/hishnash), [mecid](https://github.com/mecid)
+* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov), [hishnash](https://github.com/hishnash), [mecid](https://github.com/mecid), [@kean](https://github.com/kean)
