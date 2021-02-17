@@ -8,6 +8,7 @@
 * [RxUI: Applying SwiftUI ideas to improve the developer experience of using RxSwift](https://kean.blog/post/rxui), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Triple Trouble: (Proper) triple-column navigation with sidebars on macOS and iPad using SwiftUI](https://kean.blog/post/triple-trouble), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [XCFrameworks: How one bad assumption turned into multiple wasted hours, and now not to repeat that](https://kean.blog/post/xcframeworks-caveats), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
+* [Testing for watchOS Apps (Apple Watch)](https://jasonzurita.com/automated-testing-for-watchos-apps/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov), [hishnash](https://github.com/hishnash), [mecid](https://github.com/mecid), [@kean](https://github.com/kean)
+* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov), [hishnash](https://github.com/hishnash), [mecid](https://github.com/mecid), [@kean](https://github.com/kean), [jasonzurita](https://github.com/jasonzurita/)
