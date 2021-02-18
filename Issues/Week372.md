@@ -5,6 +5,7 @@
 * [SwiftUI keyboard avoidance](https://www.fivestars.blog/swiftui/swiftui-keyboard.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Custom @Environment value for share actions](https://blog.artemnovichkov.com/custom-environment-value-for-share-actions), by [@iosartem](https://twitter.com/iosartem)
 * [SplitView Navigation: An issue with state restoration](https://lostmoa.com/blog/SummoningSplitViewSidebar/), by [@hishnash](https://twitter.com/hishnash)
+* [iOS Biometric Authentication Implementation with FaceID and TouchID](https://batikansosun.medium.com/ios-biometric-authentication-implementation-with-faceid-and-touchid-4155c804fea4), by [@batikansosun](https://twitter.com/batikansosun)
 * [RxUI: Applying SwiftUI ideas to improve the developer experience of using RxSwift](https://kean.blog/post/rxui), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [Triple Trouble: (Proper) triple-column navigation with sidebars on macOS and iPad using SwiftUI](https://kean.blog/post/triple-trouble), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
 * [XCFrameworks: How one bad assumption turned into multiple wasted hours, and now not to repeat that](https://kean.blog/post/xcframeworks-caveats), by [@a_grebenyuk](https://twitter.com/a_grebenyuk)
