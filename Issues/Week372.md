@@ -16,15 +16,15 @@
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [Build a news app in SwiftUI 2.0 (Combine, API, MVVM & Swift Package Manager)](https://youtu.be/M2psX-JwHdE), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Credits**
 
