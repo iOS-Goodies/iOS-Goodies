@@ -12,7 +12,7 @@
 
 **Tools/Controls**
 
-* 
+* [TelegraphKit](https://github.com/nicephoton/TelegraphKit) - the ultimate solution for showing ad hoc, server-editable web content (FAQs, Guides, Privacy Policy, etc.) in your iOS apps, by [@dreymonde](https://twitter.com/dreymonde)
 
 **Business/Career**
 
@@ -28,4 +28,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov), [hishnash](https://github.com/hishnash), [mecid](https://github.com/mecid), [@kean](https://github.com/kean), [jasonzurita](https://github.com/jasonzurita/)
+* [zntfdr](https://github.com/zntfdr), [artemnovichkov](https://github.com/artemnovichkov), [hishnash](https://github.com/hishnash), [mecid](https://github.com/mecid), [@kean](https://github.com/kean), [jasonzurita](https://github.com/jasonzurita/), [dreymonde](https://github.com/dreymonde)
