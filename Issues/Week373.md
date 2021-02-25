@@ -13,7 +13,7 @@ Happy Thursday!
 * [Ignoring invalid JSON elements when using Codable](https://www.swiftbysundell.com/articles/ignoring-invalid-json-elements-codable/), by [@johnsundell](https://twitter.com/johnsundell)
 * [Dynamic Type & In-App Font Scaling](https://lickability.com/blog/dynamic-type-and-in-app-font-scaling/), by [@daisyr317](https://twitter.com/daisyr317)
 * [Dependency Inversion as a Driver to Scale Mobile Development](https://developers.soundcloud.com/blog/dependency-inversion-as-a-driver-to-scale-mobile-development), by [@firatov](https://twitter.com/firatov)
-* [The Context And The Logic](https://khanlou.com/2021/02/the-context-and-the-logic/), by [khanlou](http://www.twitter.com/khanlou)
+* [The Context And The Logic](https://khanlou.com/2021/02/the-context-and-the-logic/), by [@khanlou](http://www.twitter.com/khanlou)
 
 **Tools/Controls**
 
