@@ -9,7 +9,7 @@
 
 **Business/Career**
 
-*
+* [How to Submit an App to the App Store](https://www.thedroidsonroids.com/blog/how-to-submit-app-to-the-app-store-guide-and-checklist), by [@WlodarczykDam](https://twitter.com/WlodarczykDam)
 
 **UI/UX**
 
@@ -22,3 +22,4 @@
 **Credits**
 
 * [StavrosSchizas](https://github.com/sschizas)
+* [Damian Włodarczyk](https://github.com/DamianW93)
