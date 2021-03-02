@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [SwiftUI-Hooks](https://github.com/ra1028/SwiftUI-Hooks), by [@ra1028fe5](https://twitter.com/ra1028fe5)
 
 **Business/Career**
 
@@ -27,3 +27,4 @@
 * [Damian Włodarczyk](https://github.com/DamianW93)
 * [mecid](https://github.com/mecid)
 * [fassko](https://github.com/fassko)
+* [Ryo Aoyama](https://github.com/ra1028)
