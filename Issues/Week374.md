@@ -1,6 +1,7 @@
 
 **Articles**
 
+* [Custom HUDs in SwiftUI](https://www.fivestars.blog/swiftui/swiftui-hud.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Encrypt DNS in iOS 14 applications](https://stavrosschizas.com/post/encrypt-dns-in-ios-14-applications/), by [@StavrosSchizas](https://twitter.com/StavrosSchizas)
 * [GraphQL in Swift](https://swiftwithmajid.com/2021/02/24/graphql-in-swift/), by [@mecid](https://twitter.com/mecid)
 * [How to use Alert with SwiftUI](https://kristaps.me/blog/swiftui-alert/), by [@fassko](https://twitter.com/fassko)
@@ -24,6 +25,7 @@
 
 **Credits**
 
+* [zntfdr](https://github.com/zntfdr)
 * [StavrosSchizas](https://github.com/sschizas)
 * [Damian Włodarczyk](https://github.com/DamianW93)
 * [mecid](https://github.com/mecid)
