@@ -1,3 +1,4 @@
+- https://developer.apple.com/news/?id=uzyxiriy
 
 **Articles**
 
@@ -7,6 +8,13 @@
 * [How to manage WindowGroup in SwiftUI for macOS](https://onmyway133.com/posts/how-to-manage-windowgroup-in-swiftui-for-macos/), by [@onmyway133](https://twitter.com/onmyway133)
 * [Code Generating Swift Mocks with Sourcery](https://www.vadimbulavin.com/mocking-in-swift-using-sourcery/), by [@V8tr](https://twitter.com/V8tr)
 * [Tuist Template: What is it and how to create them](https://sarunw.com/posts/tuist-template/), by [@sarunw](https://twitter.com/sarunw)
+* [Building a Customizable UITextField with Combine](https://lickability.com/blog/building-a-customizable-uitextfield-with-combine/), by [@daisyr317](https://twitter.com/daisyr317)
+* [How to use @autoclosure in Swift to improve performance](https://www.avanderlee.com/swift/autoclosure/), by [@twannl](https://www.twitter.com/twannl)
+* [Tweaking The iOS System Fonts](https://useyourloaf.com/blog/tweaking-the-ios-system-fonts/), by [@kharrison](https://twitter.com/kharrison)
+* [UIMenu: Comprehensive guide](https://nemecek.be/blog/88/uimenu-comprehensive-guide), by [@nemecek_f](https://twitter.com/nemecek_f)
+* [Getting to Know the Simulator Better](https://www.andyibanez.com/posts/getting-to-know-the-simulator-better/), by [@AndyIbanezK](https://twitter.com/AndyIbanezK)
+* [Frameworks: embed or not embed that's the question](https://holyswift.app/frameworks-embed-or-not-embed-thats-the-question), by [@Leo_Pugliese](https://twitter.com/Leo_Pugliese)
+
 
 **Tools/Controls**
 
