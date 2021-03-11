@@ -1,4 +1,4 @@
-- https://developer.apple.com/news/?id=uzyxiriy
+Happy Thursday! I've been waiting a bit to send out this issue even though it's been ready for a while because I wanted to see if Apple announced something about WWDC. The last 3 years, they announced the dates on 13 or 14 of March, so we're almost there. I'm probably too excited about this, but let's see what the rest of the week brings us.
 
 **Articles**
 
