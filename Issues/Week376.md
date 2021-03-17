@@ -18,8 +18,8 @@
 
 **Videos**
 
-* 
+* [MOBCAST: Routing at Farfetch](https://youtu.be/Y3hQ6Z_wW9k) - First episode of a series of videos on how Farfetch builds Mobile Apps at Scale, by [@FarfetchPeople](https://twitter.com/farfetchpeople)
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [davdroman](https://github.com/davdroman)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [davdroman](https://github.com/davdroman), [FranciscoAmado](https://github.com/FranciscoAmado)
