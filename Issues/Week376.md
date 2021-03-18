@@ -1,6 +1,7 @@
 
 **Articles**
 
+* [Mastering SwiftUI previews](https://swiftwithmajid.com/2021/03/10/mastering-swiftui-previews/), by [@mecid](https://twitter.com/mecid)
 * [Remove the image background in Swift using Core ML](https://medium.com/macoclock/remove-the-image-background-in-swift-using-core-ml-8646ed3a1c14?source=friends_link&sk=0ee882e0983cb7f431e5965dc8df504f), by [@iGamesDev](https://twitter.com/iGamesDev)
 * [App-wide state in SwiftUI](https://www.fivestars.blog/swiftui/app-state.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Swift Result Builders: The Basics You Need to Know!](https://swiftsenpai.com/swift/result-builders-basics/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
@@ -24,4 +25,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [davdroman](https://github.com/davdroman), [FranciscoAmado](https://github.com/FranciscoAmado), [sarunw](https://github.com/sarunw), [vlondon](https://github.com/vlondon)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng), [davdroman](https://github.com/davdroman), [FranciscoAmado](https://github.com/FranciscoAmado), [sarunw](https://github.com/sarunw), [vlondon](https://github.com/vlondon), [mecid](https://github.com/mecid)
