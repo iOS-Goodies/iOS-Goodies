@@ -1,7 +1,4 @@
-Happy Thursday!
-
-- https://www.swiftjectivec.com/introducing-the-daily-ios/
-- https://www.pointfree.co/blog/posts/55-open-sourcing-isowords
+Happy Thursday! [Jordan Morgan](https://www.twitter.com/jordanmorgan10) has launched [The Daily iOS](https://twitter.com/thedailyios) Twitter account which publishes daily technical articles and code samples from Apple's documentation. Yes, yes, I know what you're thinking. Apple's documentation? Isn't that, like... [not great?](https://nooverviewavailable.com/). Yes, there's room for improvement. But there are a lot of hidden gems in it, and they're hard to find. The Daily iOS makes that easier.
 
 **Articles**
 
@@ -13,6 +10,10 @@ Happy Thursday!
 * [How to decode snake case with Codable](https://nemecek.be/blog/90/how-to-decode-snake-case-with-codable), by [@nemecek_f](https://twitter.com/nemecek_f)
 * [Discoverable Key Commands](https://indiestack.com/2021/03/discoverable-key-commands/), by [@danielpunkass](https://twitter.com/danielpunkass)
 * [The Hottest of All Xcode Tips](https://inessential.com/2021/03/16/the_hottest_of_all_xcode_tips), by [@brentsimmons](https://twitter.com/brentsimmons/)
+* [Unsafe memory pointers in Swift](https://theswiftdev.com/unsafe-memory-pointers-in-swift/), by [@tiborbodecs](https://twitter.com/tiborbodecs)
+* [Using CoreLocation With SwiftUI](https://www.andyibanez.com/posts/using-corelocation-with-swiftui/), by [@AndyIbanezK](https://twitter.com/AndyIbanezK)
+* [Dependency Injection for Property Wrappers](https://otbivnoe.ru/2021/03/13/Dependency-Injection-for-Property-Wrappers.html), by [@iOtbivnoe](https://twitter.com/iOtbivnoe)
+* [Open Sourcing isowords](https://www.pointfree.co/blog/posts/55-open-sourcing-isowords), by [@pointfreeco](https://www.twitter.com/pointfreeco)
 
 **Tools/Controls**
 
