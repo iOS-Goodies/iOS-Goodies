@@ -1,3 +1,7 @@
+Happy Thursday!
+
+- https://www.swiftjectivec.com/introducing-the-daily-ios/
+- https://www.pointfree.co/blog/posts/55-open-sourcing-isowords
 
 **Articles**
 
@@ -6,6 +10,9 @@
 * [App-wide state in SwiftUI](https://www.fivestars.blog/swiftui/app-state.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Swift Result Builders: The Basics You Need to Know!](https://swiftsenpai.com/swift/result-builders-basics/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Tuist init: How to use Tuist templates to bootstrap your project](https://sarunw.com/posts/tuist-init/), by [@sarunw](https://twitter.com/sarunw)
+* [How to decode snake case with Codable](https://nemecek.be/blog/90/how-to-decode-snake-case-with-codable), by [@nemecek_f](https://twitter.com/nemecek_f)
+* [Discoverable Key Commands](https://indiestack.com/2021/03/discoverable-key-commands/), by [@danielpunkass](https://twitter.com/danielpunkass)
+* [The Hottest of All Xcode Tips](https://inessential.com/2021/03/16/the_hottest_of_all_xcode_tips), by [@brentsimmons](https://twitter.com/brentsimmons/)
 
 **Tools/Controls**
 
@@ -22,6 +29,7 @@
 **Videos**
 
 * [MOBCAST: Routing at Farfetch](https://youtu.be/Y3hQ6Z_wW9k) - First episode of a series of videos on how Farfetch builds Mobile Apps at Scale, by [@FarfetchPeople](https://twitter.com/farfetchpeople)
+* [Ultimate iOS Menu Template. Dark Mode, Ratings, Share Sheet, Email & More](https://www.youtube.com/watch?v=ZQn4jME9i94), by [@davejacobseniOS](https://twitter.com/davejacobseniOS)
 
 **Credits**
 
