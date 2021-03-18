@@ -1,4 +1,4 @@
-Happy Thursday! [Jordan Morgan](https://www.twitter.com/jordanmorgan10) has launched [The Daily iOS](https://twitter.com/thedailyios) Twitter account which publishes daily technical articles and code samples from Apple's documentation. Yes, yes, I know what you're thinking. Apple's documentation? Isn't that, like... [not great?](https://nooverviewavailable.com/). Yes, there's room for improvement. But there are a lot of hidden gems in it, and they're hard to find. The Daily iOS makes that easier.
+Happy Thursday! [Jordan Morgan](https://www.twitter.com/jordanmorgan10) has launched [The Daily iOS](https://twitter.com/thedailyios) Twitter account which publishes daily technical articles and code samples from Apple's documentation. Yes, yes, I know what you're thinking. Apple's documentation? Isn't that, like... [not great](https://nooverviewavailable.com/)? Yes, there's room for improvement. But there are a lot of hidden gems in it, and they're hard to find. The Daily iOS makes that easier.
 
 **Articles**
 
