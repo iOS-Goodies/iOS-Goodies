@@ -2,7 +2,7 @@
 
 **Articles**
 
-* 
+* [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -22,4 +22,4 @@
 
 **Credits**
 
-* 
+* [mecid](https://github.com/mecid)
