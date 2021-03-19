@@ -3,6 +3,7 @@
 **Articles**
 
 * [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/), by [@mecid](https://twitter.com/mecid)
+* [Encoding and decoding Swift dictionaries with custom key types](https://www.fivestars.blog/swift/codable-swift-dictionaries.html), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
