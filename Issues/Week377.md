@@ -7,19 +7,19 @@
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [Create a placeholder loading screen with SwiftUI Redacted (SwiftUI Tutorial, Xcode 12, SwiftUI 2.0)](https://youtu.be/cfwEt__pnvA), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Credits**
 
