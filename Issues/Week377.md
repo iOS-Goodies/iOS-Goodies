@@ -6,6 +6,7 @@
 * [Encoding and decoding Swift dictionaries with custom key types](https://www.fivestars.blog/swift/codable-swift-dictionaries.html), by [@zntfdr](https://twitter.com/zntfdr)
 * [Quick guide to using Core Data with SwiftUI](https://tanaschita.com/20210320-using-core-data-with-swiftui), by [@tanaschita](https://twitter.com/tanaschita)
 * [ARKit + SceneKit: Place content in the real world](https://stefanblos.com/posts/arkit_scenekit_place_objects/), by [@stefanjblos](https://twitter.com/stefanjblos)
+* [How to show and hide content with DisclosureGroup using SwiftUI](https://kristaps.me/blog/swiftui-disclosure-group/), by [@fassko](https://twitter.com/fassko)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko)
