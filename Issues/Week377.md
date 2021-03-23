@@ -11,6 +11,7 @@
 **Tools/Controls**
 
 * [emitron (iOS)](https://github.com/razeware/emitron-iOS) - source code for the iOS version of the raywenderlich.com app, by [@rwenderlich](https://twitter.com/rwenderlich)
+* [BackedCodable](https://github.com/jegnux/BackedCodable) - powerful property wrapper to back codable properties, by [@jegnux](https://twitter.com/jegnux)
 
 **Business/Career**
 
@@ -26,4 +27,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko), [aymericio](https://github.com/aymericio)
