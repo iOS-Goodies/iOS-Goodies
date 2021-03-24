@@ -8,6 +8,8 @@
 * [ARKit + SceneKit: Place content in the real world](https://stefanblos.com/posts/arkit_scenekit_place_objects/), by [@stefanjblos](https://twitter.com/stefanjblos)
 * [How to show and hide content with DisclosureGroup using SwiftUI](https://kristaps.me/blog/swiftui-disclosure-group/), by [@fassko](https://twitter.com/fassko)
 * [The Comprehensive Guide to Mapping Firestore Data in Swift](https://peterfriese.dev/firestore-codable-the-comprehensive-guide/), by [@peterfriese](https://twitter.com/peterfriese)
+* [SwiftUI read preference helper](https://alejandromp.com/blog/swiftui-read-preference-helper/), by [@alexito4](https://twitter.com/alexito4)
+* [Using Combine’s futures and subjects](https://swiftbysundell.com/articles/using-combine-futures-and-subjects/), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
@@ -16,7 +18,7 @@
 
 **Business/Career**
 
-*
+* [Why You Should Pair with Non-Engineers](https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/), by [@iamtyce](https://twitter.com/iamtyce)
 
 **UI/UX**
 
