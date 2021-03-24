@@ -10,6 +10,7 @@
 * [The Comprehensive Guide to Mapping Firestore Data in Swift](https://peterfriese.dev/firestore-codable-the-comprehensive-guide/), by [@peterfriese](https://twitter.com/peterfriese)
 * [SwiftUI read preference helper](https://alejandromp.com/blog/swiftui-read-preference-helper/), by [@alexito4](https://twitter.com/alexito4)
 * [Using Combine’s futures and subjects](https://swiftbysundell.com/articles/using-combine-futures-and-subjects/), by [@johnsundell](https://twitter.com/johnsundell)
+* [How to fix ZStack's views disappear transition not animated in SwiftUI](https://sarunw.com/posts/how-to-fix-zstack-transition-animation-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -31,4 +32,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko), [aymericio](https://github.com/aymericio), [peterfriese](https://github.com/peterfriese)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko), [aymericio](https://github.com/aymericio), [peterfriese](https://github.com/peterfriese), [sarunw](https://github.com/sarunw)
