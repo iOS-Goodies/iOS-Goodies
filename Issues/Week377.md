@@ -19,6 +19,7 @@
 **Business/Career**
 
 * [Why You Should Pair with Non-Engineers](https://engineering.atspotify.com/2021/03/23/why-you-should-pair-with-non-engineers/), by [@iamtyce](https://twitter.com/iamtyce)
+* [Teaching](https://akos.ma/teaching/), by [@akosma](https://twitter.com/akosma)
 
 **UI/UX**
 
