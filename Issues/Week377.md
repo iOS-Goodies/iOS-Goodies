@@ -1,5 +1,6 @@
 - https://www.joinclubhouse.com/event/xBD03W6m (+ clubhouse invites got more "private" - search by phone number instead of allow contacts access)
-
+- https://xcode-tips.github.io/
+- 
 **Articles**
 
 * [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/), by [@mecid](https://twitter.com/mecid)
@@ -11,6 +12,7 @@
 * [SwiftUI read preference helper](https://alejandromp.com/blog/swiftui-read-preference-helper/), by [@alexito4](https://twitter.com/alexito4)
 * [Using Combine’s futures and subjects](https://swiftbysundell.com/articles/using-combine-futures-and-subjects/), by [@johnsundell](https://twitter.com/johnsundell)
 * [How to fix ZStack's views disappear transition not animated in SwiftUI](https://sarunw.com/posts/how-to-fix-zstack-transition-animation-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
+* [Creating a Siri Shortcut](https://www.swiftjectivec.com/create-a-siri-shortcut/), by [@jordanmorgan10](https://www.twitter.com/jordanmorgan10)
 
 **Tools/Controls**
 
