@@ -29,7 +29,8 @@
 **Videos**
 
 * [Create a placeholder loading screen with SwiftUI Redacted (SwiftUI Tutorial, Xcode 12, SwiftUI 2.0)](https://youtu.be/cfwEt__pnvA), by [@tundsdev](https://twitter.com/tundsdev)
+* [Live ASO Session - Benchmarking Competitors & Finding Keyword Gaps](https://appfigures.com/resources/app-teardowns/live-app-teardown-session-20210318), by [@arielmichaeli](https://twitter.com/arielmichaeli)
 
 **Credits**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko), [aymericio](https://github.com/aymericio), [peterfriese](https://github.com/peterfriese), [sarunw](https://github.com/sarunw)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [fassko](https://github.com/fassko), [aymericio](https://github.com/aymericio), [peterfriese](https://github.com/peterfriese), [sarunw](https://github.com/sarunw), [rel](https://github.com/rel)
