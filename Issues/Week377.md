@@ -1,6 +1,6 @@
-- https://www.joinclubhouse.com/event/xBD03W6m (+ clubhouse invites got more "private" - search by phone number instead of allow contacts access)
-- https://xcode-tips.github.io/
-- 
+Happy Thursday! I know I mentioned Clubhouse a few issues ago, but I just have to do this again: [Craig Clayton](https://twitter.com/thedevme) hosts [Marc Aupont](https://twitter.com/digimarktech) and [Jazbo Beason](https://twitter.com/bugKrusha) in the first ["Versus Edition"](https://www.joinclubhouse.com/event/xBD03W6m) where they talk about how they would code the same app on 28 March, 11 am PDT (8 pm CET). I really love the idea it sounds like a great event. And speaking of Clubhouse, I pointed fingers at them when they required access to the whole contact list in order to invite a friend, so it's only fair that I mention now that this has significantly improved and the users can now just type a phone number in order to send an invite.
+And [Jessee Squires](https://twitter.com/jesse_squires) has set up [Xcode Tips](https://xcode-tips.github.io/), a collection of Xcode tips shared by the community. Even though it's new, there is already a lot of good content in there.
+
 **Articles**
 
 * [UI Testing in Swift with XCTest framework](https://swiftwithmajid.com/2021/03/18/ui-testing-in-swift-with-xctest-framework/), by [@mecid](https://twitter.com/mecid)
