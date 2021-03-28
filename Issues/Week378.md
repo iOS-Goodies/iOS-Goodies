@@ -24,4 +24,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [rudrankriyam](https://github.com/rudrankriyam), [otbivnoe](https://twitter.com/iOtbivnoe)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [rudrankriyam](https://github.com/rudrankriyam), [otbivnoe](https://github.com/Otbivnoe)
