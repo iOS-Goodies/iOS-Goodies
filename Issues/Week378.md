@@ -9,7 +9,7 @@
 
 **Tools/Controls**
 
-* 
+* [FuzzyFind](https://github.com/truizlop/FuzzyFind): A Swift package to perform fuzzy search queries on strings, by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 
 **Business/Career**
 
@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [rudrankriyam](https://github.com/rudrankriyam), [otbivnoe](https://github.com/Otbivnoe), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [rudrankriyam](https://github.com/rudrankriyam), [otbivnoe](https://github.com/Otbivnoe), [LeeKahSeng](https://github.com/LeeKahSeng), [truizlop](https://github.com/truizlop)
