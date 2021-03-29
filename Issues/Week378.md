@@ -25,4 +25,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [rudrankriyam](https://github.com/rudrankriyam), [otbivnoe](https://github.com/Otbivnoe), [LeeKahSeng](https://github.com/LeeKahSeng). [truizlop](https://github.com/truizlop)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [rudrankriyam](https://github.com/rudrankriyam), [otbivnoe](https://github.com/Otbivnoe), [LeeKahSeng](https://github.com/LeeKahSeng), [truizlop](https://github.com/truizlop)
