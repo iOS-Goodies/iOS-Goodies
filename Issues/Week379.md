@@ -1,5 +1,5 @@
-- https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer
-- 
+Happy Thursday! I want to link to [Paul Hudson](https://twitter.com/twostraws)'s guide on [how to become an iOS developer](https://www.hackingwithswift.com/articles/230/how-to-become-an-ios-developer). I think it's a very good read (or, if you prefer, a very good 53 minutes video 😄). The article is aimed at beginners, so don't be surprised that there's no mention of Objective-C, UIKit or similar. Does it help to have UIKit knowledge to be an iOS developer? Yes. Can you be an iOS developer with no UIKit knowledge? Of course. If I were to start right now, would I start with SwiftUI or UIKit? Definitely SwiftUI. So if somebody asks you how they can learn iOS development, you can share that guide with them 😄
+
 **Articles**
 
 * [A sneak peek into SwiftUI's graph](https://www.fivestars.blog/swiftui/swiftui-graph.html), by [@zntfdr](https://twitter.com/zntfdr)
