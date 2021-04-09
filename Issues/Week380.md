@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [Bringing Polymorphism to Codable](https://lostmoa.com/blog/BringingPolymorphismToCodable/), by [@hishnash](https://twitter.com/hishnash)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Credits**
 
-* 
+* [hishnash](https://github.com/hishnash)
