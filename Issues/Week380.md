@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-* 
+* [TextBuilder](https://github.com/davdroman/TextBuilder) - Like ViewBuilder, but for Text - by [@davdroman](https://github.com/davdroman)
 
 **Business/Career**
 
@@ -25,3 +25,4 @@
 
 * [mecid](https://github.com/mecid)
 * [hishnash](https://github.com/hishnash)
+* [davdroman](https://github.com/davdroman)
