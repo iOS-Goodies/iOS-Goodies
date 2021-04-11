@@ -11,18 +11,19 @@
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [Dark Mode in SwiftUI, Add Dark Mode Support in SwiftUI using Binding & AppStorage](https://youtu.be/j7a4jvHz4MM), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Credits**
 
 * [mecid](https://github.com/mecid)
 * [hishnash](https://github.com/hishnash)
 * [davdroman](https://github.com/davdroman)
+* [tundsdev](https://github.com/tunds)
