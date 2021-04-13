@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [TextBuilder](https://github.com/davdroman/TextBuilder) - Like ViewBuilder, but for Text - by [@davdroman](https://github.com/davdroman)
+* [Sourcery Pro](https://merowing.info/sourcery-pro/) - Xcode extension that adds support for Live AST Templates, with fully featured Sourcery editor, by [Krzysztof Zabłocki](https://twitter.com/merowing_)
 
 **Business/Career**
 
@@ -29,3 +30,4 @@
 * [davdroman](https://github.com/davdroman)
 * [tundsdev](https://github.com/tunds)
 * [Kelvin Tan](https://twitter.com/kelvintanzy)
+* [Krzysztof Zabłocki](https://twitter.com/merowing_)
