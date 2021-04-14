@@ -5,6 +5,7 @@
 * [Designing API using Combine framework](https://swiftwithmajid.com/2021/04/07/designing-api-using-combine-framework/), by [@mecid](https://twitter.com/mecid)
 * [Bringing Polymorphism to Codable](https://lostmoa.com/blog/BringingPolymorphismToCodable/), by [@hishnash](https://twitter.com/hishnash)
 * [Create your own Circle](https://daddycoding.com/2021/04/11/create-your-own-circle/), by [@KelvinTanZY](https://twitter.com/kelvintanzy)
+* [How to Manage Photo Library Permission in iOS](https://swiftsenpai.com/development/photo-library-permission/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -31,3 +32,4 @@
 * [tundsdev](https://github.com/tunds)
 * [Kelvin Tan](https://twitter.com/kelvintanzy)
 * [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
+* [LeeKahSeng](https://github.com/LeeKahSeng)
