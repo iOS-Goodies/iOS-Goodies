@@ -6,6 +6,7 @@
 * [Bringing Polymorphism to Codable](https://lostmoa.com/blog/BringingPolymorphismToCodable/), by [@hishnash](https://twitter.com/hishnash)
 * [Create your own Circle](https://daddycoding.com/2021/04/11/create-your-own-circle/), by [@KelvinTanZY](https://twitter.com/kelvintanzy)
 * [How to Manage Photo Library Permission in iOS](https://swiftsenpai.com/development/photo-library-permission/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [How to resize an image view to fit a container view in SwiftUI](https://sarunw.com/posts/how-to-resize-an-image-to-fit-a-container-view-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -33,3 +34,4 @@
 * [Kelvin Tan](https://twitter.com/kelvintanzy)
 * [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
 * [LeeKahSeng](https://github.com/LeeKahSeng)
+* [sarunw](https://github.com/sarunw)
