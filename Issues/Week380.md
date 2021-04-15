@@ -17,10 +17,12 @@
 
 * [TextBuilder](https://github.com/davdroman/TextBuilder) - Like ViewBuilder, but for Text - by [@davdroman](https://github.com/davdroman)
 * [Sourcery Pro](https://merowing.info/sourcery-pro/) - Xcode extension that adds support for Live AST Templates, with fully featured Sourcery editor, by [@merowing_](https://twitter.com/merowing_)
+* [DesignDetective](https://github.com/EnesKaraosman/DesignDetective) - Compare your implementation and design, see how much they match, by Enes Karaosman
+* [OptionallyDecodable](https://github.com/idrougge/OptionallyDecodable) - Property wrapper for turning decoding failures into optionals instead of errors, by Iggy Drougg
 
 **Business/Career**
 
-*
+* [The Case for Ad Hoc Engineer 1:1s with Newcomers](https://pspdfkit.com/blog/2021/ad-hoc-engineer-meetings/), by [@heytherewills](https://twitter.com/heytherewills)
 
 **UI/UX**
 
@@ -32,12 +34,4 @@
 
 **Credits**
 
-* [mecid](https://github.com/mecid)
-* [fadiossama](https://github.com/FadiOssama)
-* [hishnash](https://github.com/hishnash)
-* [davdroman](https://github.com/davdroman)
-* [tundsdev](https://github.com/tunds)
-* [Kelvin Tan](https://twitter.com/kelvintanzy)
-* [Krzysztof Zabłocki](https://github.com/krzysztofzablocki)
-* [LeeKahSeng](https://github.com/LeeKahSeng)
-* [sarunw](https://github.com/sarunw)
+* [mecid](https://github.com/mecid), [fadiossama](https://github.com/FadiOssama), [hishnash](https://github.com/hishnash), [davdroman](https://github.com/davdroman), [tundsdev](https://github.com/tunds), [Kelvin Tan](https://twitter.com/kelvintanzy), [Krzysztof Zabłocki](https://github.com/krzysztofzablocki), [LeeKahSeng](https://github.com/LeeKahSeng), [sarunw](https://github.com/sarunw)
