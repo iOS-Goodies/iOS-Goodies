@@ -9,6 +9,9 @@
 * [Create your own Circle](https://daddycoding.com/2021/04/11/create-your-own-circle/), by [@KelvinTanZY](https://twitter.com/kelvintanzy)
 * [How to Manage Photo Library Permission in iOS](https://swiftsenpai.com/development/photo-library-permission/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [How to resize an image view to fit a container view in SwiftUI](https://sarunw.com/posts/how-to-resize-an-image-to-fit-a-container-view-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
+* [Create Publishers for HealthKit](https://isalima.xyz/create-publishers-for-healthkit/), by [@lsabyte](https://twitter.com/lsabyte)
+* [Top-Level Menu Visibility in SwiftUI for macOS](https://steipete.com/posts/top-level-menu-visibility-in-swiftui/), by [@steipete](https://twitter.com/steipete)
+* [Styling localized strings in Swift](https://swiftbysundell.com/articles/styled-localized-strings-in-swift/), by [@johnsundell](https://twitter.com/johnsundell)
 
 **Tools/Controls**
 
