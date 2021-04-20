@@ -1,3 +1,4 @@
+Happy Thursday! If you’ve been subscribed to this newsletter for a while now, you probably realised I don’t like to include links to paid products, or that are behind a paywall or even require a login in order to read them (looking at you, Medium 👀). I have always considered that linking to paid products should be in the form of a sponsored message. So you might be very surprised that this week I’m linking to [Krzysztof Zabłocki](https://twitter.com/merowing_)’s Sourcery Pro - look for it in the Tools section below. Why am I making an exception? Does Krzysztof really need the extra clicks and maybe app purchases he might get from iOS Goodies? He might not need them. But he definitely deserves them. Thanks for your great work and for being a part of our community, Krzysztof!
 
 **Articles**
 
