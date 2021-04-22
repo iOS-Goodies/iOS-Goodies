@@ -1,5 +1,8 @@
-- https://developer.apple.com/news/?id=ib31uj1j
-- 
+Happy Thursday! We had the Apple Spring Event this week. I'm not going to cover the hardware announcements, but [as I was expecting](https://twitter.com/marius_const/status/1379367908141326341) soon after that we got the Xcode 12.5 RC. Xcode 12.5 requires macOS Big Sur, so if you haven't updated yet, be sure to do that before downloading and unxipping Xcode 12.5. 
+
+In other news, [Apple announced](https://developer.apple.com/news/?id=ib31uj1j) that starting April 26, all apps submitted to the App Store have to be built with Xcode 12 and the iOS 14 SDK. This shouldn't come as a surprise, as it was [initially announced in September](https://developer.apple.com/news/?id=itpt8dkc) last year and it fits the schedule from the previous years. However, that announcement in September was easy to miss as it was overshadowed by the [surprise release of iOS 14](https://ios-goodies.com/post/629536923835318272/week-352). But everybody's using the latest Xcode and this sudden 6-day deadline shouldn't be a problem. Right? Right? 😳
+
+ 
 **Articles**
 
 * [Every SwiftUI protocol explained](https://www.fivestars.blog/articles/swiftui-protocols/), by [@zntfdr](https://twitter.com/zntfdr)
