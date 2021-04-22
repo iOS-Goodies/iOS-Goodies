@@ -22,6 +22,7 @@
 
 * [SwiftUI In Production](https://vimeo.com/536908653), by [@steipete](https://twitter.com/steipete)
 * [Swift Tips #30 - weak & unowned](https://www.youtube.com/watch?v=L2y7HejLtyY), by [@v_pradeilles](https://twitter.com/v_pradeilles)
+* [Modernizing old APIs using KeyPaths](https://www.youtube.com/watch?v=LrDsUW6805E), by [@v_pradeilles](https://twitter.com/v_pradeilles)
 
 **Credits**
 
