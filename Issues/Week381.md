@@ -5,6 +5,8 @@
 * [Accessibility actions in SwiftUI](https://swiftwithmajid.com/2021/04/15/accessibility-actions-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Getting Ready for AppTrackingTransparency](https://swiftsenpai.com/development/get-ready-apptrackingtransparency/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [What’s the difference between a singleton and a shared instance in Swift?](https://www.donnywals.com/whats-the-difference-between-a-singleton-and-a-shared-instance-in-swift/), by [@donnywals](https://twitter.com/donnywals)
+* [CocoaPods Trunk: Remote Code Execution found](https://blog.cocoapods.org/CocoaPods-Trunk-RCE/), by [@orta](https://twitter.com/orta)
+* [Coordinators and Tab Bars: A Love Story](https://holyswift.app/coordinators-and-tab-bars-a-love-story), by [@Leo_Pugliese](https://twitter.com/Leo_Pugliese)
 
 **Tools/Controls**
 
