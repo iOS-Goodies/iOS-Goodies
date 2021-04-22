@@ -1,4 +1,5 @@
-
+- https://developer.apple.com/news/?id=ib31uj1j
+- 
 **Articles**
 
 * [Every SwiftUI protocol explained](https://www.fivestars.blog/articles/swiftui-protocols/), by [@zntfdr](https://twitter.com/zntfdr)
@@ -8,6 +9,7 @@
 * [4 Xcode shortcuts to boost your productivity for SwiftUI](https://sarunw.com/posts/xcode-shortcuts-for-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [CocoaPods Trunk: Remote Code Execution found](https://blog.cocoapods.org/CocoaPods-Trunk-RCE/), by [@orta](https://twitter.com/orta)
 * [Coordinators and Tab Bars: A Love Story](https://holyswift.app/coordinators-and-tab-bars-a-love-story), by [@Leo_Pugliese](https://twitter.com/Leo_Pugliese)
+* [Dear Xcode....](https://merowing.info/2021/04/dear-xcode..../), by [@merowing_](https://twitter.com/merowing_)
 
 **Tools/Controls**
 
