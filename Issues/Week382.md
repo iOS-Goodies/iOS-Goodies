@@ -2,6 +2,7 @@
 **Articles**
 
 * [Four ways to customize TextFields](https://www.fivestars.blog/articles/how-to-customize-textfields/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Edge Cases in App & Backend Development. Part 4 – Dates & Time](https://www.thedroidsonroids.com/blog/edge-cases-in-app-and-backend-development-dates-and-time), by [@koral--](https://twitter.com/droidsonroids)
 
 **Tools/Controls**
 
@@ -22,4 +23,4 @@
 
 **Credits**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FranciscoAmado](https://github.com/FranciscoAmado)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FranciscoAmado](https://github.com/FranciscoAmado), [@koral--](https://github.com/koral--)
