@@ -12,7 +12,7 @@ Happy Thursday! This week we saw the official release of Xcode 12.5, which, unsu
 **Tools/Controls**
 
 * [AccessibilitySnapshotColorBlindness](https://github.com/sherlouk/AccessibilitySnapshotColorBlindness) - Colour blindness simulation and testing for iOS, by [@JamesSherlouk](https://twitter.com/JamesSherlouk)
-* [TableOfContentsSelector](https://github.com/christianselig/TableOfContentsSelector) - UITableView's `sectionIndexTitles` API but with support for symbols, by [@flarup](https://twitter.com/flarup/)
+* [TableOfContentsSelector](https://github.com/christianselig/TableOfContentsSelector) - UITableView's `sectionIndexTitles` API but with support for symbols, by [@ChristianSelig](https://twitter.com/ChristianSelig)
 
 **Business/Career**
 
@@ -20,7 +20,7 @@ Happy Thursday! This week we saw the official release of Xcode 12.5, which, unsu
 
 **UI/UX**
 
-* [How to Design a Great App Icon: What You Need to Know](https://www.shopify.ie/partners/blog/app-icon), by []()
+* [How to Design a Great App Icon: What You Need to Know](https://www.shopify.ie/partners/blog/app-icon), by [@flarup](https://twitter.com/flarup/)
 
 **Videos**
 
