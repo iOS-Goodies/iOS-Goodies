@@ -1,6 +1,4 @@
-- https://swift.org/blog/swift-5-4-released/
-- Xcode 12.5 released (same as RC)
-
+Happy Thursday! This week we saw the official release of Xcode 12.5, which, unsurprisingly, is exactly the same build as the RC release from last week. So if you alread have the RC, don't bother downloading. With it, [Swift 5.4 is now officially released](https://swift.org/blog/swift-5-4-released/). Time to update your development machines 😊
 
 **Articles**
 
