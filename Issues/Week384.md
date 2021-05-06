@@ -19,6 +19,6 @@
 
 * 
 
-**Credits**
+**Contributors**
 
 * 
