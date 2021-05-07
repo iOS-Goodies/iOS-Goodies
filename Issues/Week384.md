@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [A TextFieldStyle API preview!](https://www.fivestars.blog/articles/textfieldstyle/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
