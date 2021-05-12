@@ -11,11 +11,11 @@
 
 **Business/Career**
 
-* 
+* [How to Craft the Perfect ATT (App Tracking Transparency) Prompt and Pre-Prompt Copy](https://appfigures.com/resources/guides/att-prompt-copywriting), by [@arielmichaeli](https://twitter.com/arielmichaeli)
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
@@ -23,4 +23,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LeeKahSeng](https://github.com/LeeKahSeng), [rel](https://github.com/rel)
