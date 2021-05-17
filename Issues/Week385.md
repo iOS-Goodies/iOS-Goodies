@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-*
+* [Screen Sizes](https://www.screensizes.app/) - A complete guide for Apple displays, by Toast Studio
 
 **Business/Career**
 
