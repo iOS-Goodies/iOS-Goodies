@@ -9,6 +9,7 @@
 **Tools/Controls**
 
 * [Screen Sizes](https://www.screensizes.app/) - A complete guide for Apple displays, by Toast Studio
+* [SwiftUI-MVVM-C](https://github.com/huynguyencong/SwiftUI-MVVM-C) - A template iOS project using SwiftUI, Combine and MVVM-C software architecture, by Huy Nguyen
 
 **Business/Career**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [joemasilotti](https://github.com/joemasilotti), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [joemasilotti](https://github.com/joemasilotti), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka), [huynguyencong](https://github.com/huynguyencong)
