@@ -1,3 +1,5 @@
+- https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/
+
 
 **Articles**
 
@@ -8,6 +10,8 @@
 * [Create a Public CocoaPods](https://daddycoding.com/2021/05/06/create-a-public-cocoapods/). by [@KelvinTanZY](https://twitter.com/kelvintanzy)
 * [Automatic Keyboard Avoidance for UIKit](https://swiftsenpai.com/development/uikit-keyboard-avoidance/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Sort array of objects by multiple properties with Swift Tuple](https://sarunw.com/posts/sort-array-of-objects-by-multiple-properties-with-swift-tuple/), by [@sarunw](https://twitter.com/sarunw)
+* [Manual UIKit Layout](https://www.highcaffeinecontent.com/blog/20210513-Manual-UIKit-Layout), by [@stroughtonsmith](https://twitter.com/stroughtonsmith)
+* [Allowing parallel iOS UI tests runs in CI](https://blog.kulman.sk/parallel-ui-test-runs/), by [@igorkulman](https://www.twitter.com/igorkulman)
 
 **Tools/Controls**
 
@@ -16,11 +20,11 @@
 
 **Business/Career**
 
-*
+* [How necessary are the programming fundamentals?](https://swiftrocks.com/how-necessary-are-the-programming-fundamentals), by [@rockbruno_](https://twitter.com/rockbruno_)
 
 **UI/UX**
 
-*
+* [On Building a Fluid User Interface](https://about.instagram.com/blog/engineering/on-building-a-fluid-user-interface), by Rishi Mody
 
 **Videos**
 
