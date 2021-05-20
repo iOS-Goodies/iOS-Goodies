@@ -1,4 +1,4 @@
-- https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/
+Happy Thursday! I just want to highlight [Apple's recent work in the accessibitliy field](https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/). The Assistive Touch on Apple Watch looks amazing. And if they announced this one 3 weeks before WWDC, just imagine what they'll show then 🤩
 
 
 **Articles**
