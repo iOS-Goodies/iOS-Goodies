@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [SwiftUI Introspect](https://www.fivestars.blog/articles/swiftui-introspect/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
