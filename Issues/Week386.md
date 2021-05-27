@@ -18,7 +18,7 @@ Changing the subject.. since I'm basically writing to you every Thursday for alm
 
 **Business/Career**
 
-*
+* [Achieving Team Purpose and Pride with Scrum](https://engineering.atspotify.com/2021/05/27/achieving-team-purpose-and-pride-with-scrum/), by Sophia Ciocca
 
 **UI/UX**
 
