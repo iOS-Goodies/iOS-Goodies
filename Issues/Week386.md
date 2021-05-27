@@ -10,6 +10,7 @@ Changing the subject.. since I'm basically writing to you every Thursday for alm
 * [Checking if device is locked (or sleeping) in iOS](https://nemecek.be/blog/104/checking-if-device-is-locked-or-sleeping-in-ios), by [@nemecek_f](https://twitter.com/nemecek_f)
 * [Adding a Gradient to Large Title Text in SwiftUI or UIKit](https://beckyhansmeyer.com/2021/05/22/adding-a-gradient-to-your-large-title-text-in-swiftui-or-uikit/), by [@bhansmeyer](http://twitter.com/bhansmeyer)
 * [Avoiding problematic cases when using Swift enums](https://www.swiftbysundell.com/articles/avoiding-problematic-enum-cases-in-swift/), by [@swiftbysundell](https://twitter.com/swiftbysundell)
+* [Insidious Bugs #3: Apple App Site Association File Identifiers](https://lickability.com/blog/insidious-bugs-number-3-apple-app-site-association-file/), by [@Cordavi](https://twitter.com/Cordavi)
 
 **Tools/Controls**
 
