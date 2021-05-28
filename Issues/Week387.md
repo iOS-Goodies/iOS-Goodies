@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [SwiftUI patterns: view closures](https://www.fivestars.blog/articles/swiftui-patterns-closures/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -21,4 +21,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
