@@ -20,6 +20,7 @@
 **Videos**
 
 * [SwiftUI Form Validation using Combine (SwiftUI Tutorial, Regular Expressions, Combine Framework)](https://youtu.be/v-6qU-DqaZo), by [@tundsdev](https://twitter.com/tundsdev)
+* [Building SwiftUI Components - Getting Started](https://youtu.be/UhDdtdeW63k), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Contributors**
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [@peterfriese](https://twitter.com/peterfriese)
