@@ -5,6 +5,8 @@
 * [SwiftUI patterns: view closures](https://www.fivestars.blog/articles/swiftui-patterns-closures/), by [@zntfdr](https://twitter.com/zntfdr)
 * [What's new in Swift 5.5?](https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5), by [@twostraws](https://twitter.com/twostraws)
 * [Complete conferences to watch ahead of WWDC21](https://michaelabadi.com/articles/complete-conference-list-to-watch/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
+* [Creating A Functional Text Field In SwiftUI](https://www.linkedin.com/pulse/wring-functional-text-field-swiftui-inti-albuquerque), by [Inti Albuquerque]
+* [WWDC Together 2021](https://wwdctogether.com), by [@onmyway133](https://twitter.com/onmyway133)
 
 **Tools/Controls**
 
@@ -23,4 +25,5 @@
 * [SwiftUI Form Validation using Combine (SwiftUI Tutorial, Regular Expressions, Combine Framework)](https://youtu.be/v-6qU-DqaZo), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [abadikaka](https://github.com/abadikaka)
+
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing), [abadikaka](https://github.com/abadikaka)
