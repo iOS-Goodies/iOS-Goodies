@@ -7,6 +7,7 @@
 * [Complete conferences to watch ahead of WWDC21](https://michaelabadi.com/articles/complete-conference-list-to-watch/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Creating A Functional Text Field In SwiftUI](https://www.linkedin.com/pulse/wring-functional-text-field-swiftui-inti-albuquerque), by [Inti Albuquerque]
 * [WWDC Together 2021](https://wwdctogether.com), by [@onmyway133](https://twitter.com/onmyway133)
+* [Towards a Design System in iOS: Colors](https://medium.com/engineering-at-goodnotes/towards-a-design-system-in-ios-colors-63a3a0289ad7), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing), [abadikaka](https://github.com/abadikaka), [@peterfriese](https://twitter.com/peterfriese), [huynguyencong](https://github.com/huynguyencong)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing), [abadikaka](https://github.com/abadikaka), [@peterfriese](https://twitter.com/peterfriese), [huynguyencong](https://github.com/huynguyencong), [truizlop](https://github.com/truizlop)
