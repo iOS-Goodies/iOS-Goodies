@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-*
+* [ToastSwiftUI](https://github.com/huynguyencong/ToastSwiftUI) - Showing toast, pop up in SwiftUI, by Huy Nguyen
 
 **Business/Career**
 
@@ -27,4 +27,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing), [abadikaka](https://github.com/abadikaka), [@peterfriese](https://twitter.com/peterfriese)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing), [abadikaka](https://github.com/abadikaka), [@peterfriese](https://twitter.com/peterfriese), [huynguyencong](https://github.com/huynguyencong)
