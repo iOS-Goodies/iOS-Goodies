@@ -6,6 +6,8 @@
 * [What's new in Swift 5.5?](https://www.hackingwithswift.com/articles/233/whats-new-in-swift-5-5), by [@twostraws](https://twitter.com/twostraws)
 * [Creating A Functional Text Field In SwiftUI](https://www.linkedin.com/pulse/wring-functional-text-field-swiftui-inti-albuquerque), by [Inti Albuquerque]
 * [WWDC Together 2021](https://wwdctogether.com), by [@onmyway133](https://twitter.com/onmyway133)
+* [Adding Swift Code as Custom LLDB Command](https://swiftsenpai.com/testing/add-custom-lldb/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+
 
 **Tools/Controls**
 
@@ -25,4 +27,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [intiMRA](https://github.com/intiMRA), [dkhamsing](https://github.com/dkhamsing), [LeeKahSeng](https://github.com/LeeKahSeng)
