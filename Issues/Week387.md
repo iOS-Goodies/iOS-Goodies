@@ -7,7 +7,7 @@
 
 **Tools/Controls**
 
-*
+* [ToastSwiftUI](https://github.com/huynguyencong/ToastSwiftUI) - Showing toast, pop up in SwiftUI, by Huy Nguyen
 
 **Business/Career**
 
@@ -22,4 +22,4 @@
 * [SwiftUI Form Validation using Combine (SwiftUI Tutorial, Regular Expressions, Combine Framework)](https://youtu.be/v-6qU-DqaZo), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [LisaDziuba](https://github.com/LisaDziuba), [tundsdev](https://github.com/tunds), [huynguyencong](https://github.com/huynguyencong)
