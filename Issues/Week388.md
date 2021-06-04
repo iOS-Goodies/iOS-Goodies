@@ -1,3 +1,6 @@
+**WWDC**
+
+* [WWDC Notes](https://wwdcnotes.com/), by the WWDC community
 
 **Articles**
 
@@ -21,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
