@@ -1,6 +1,7 @@
 **WWDC**
 
 * [WWDC Notes](https://wwdcnotes.com/), by the WWDC community
+* [Frames in SwiftUI](https://swiftwithmajid.com/2021/06/02/frames-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Articles**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
