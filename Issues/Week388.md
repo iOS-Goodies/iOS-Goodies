@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-* 
+* [Advice for Junior Developers](https://ashfurrow.com/blog/advice-for-junior-developers/), by [@ashfurrow](https://twitter.com/ashfurrow)
 
 **UI/UX**
 
@@ -25,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), LisaDziuba (https://github.com/LisaDziuba)
