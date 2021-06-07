@@ -21,8 +21,8 @@
 
 **Videos**
 
-* 
+* [Building a Reusable Text Input Field With a Floating Label](https://youtu.be/Sg0rfYL3utI), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), LisaDziuba (https://github.com/LisaDziuba)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese)
