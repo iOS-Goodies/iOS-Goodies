@@ -13,7 +13,7 @@
 
 **Business/Career**
 
-* [Advice for Junior Developers](https://ashfurrow.com/blog/advice-for-junior-developers/), by [@ashfurrow](https://twitter.com/ashfurrow)
+* 
 
 **UI/UX**
 
