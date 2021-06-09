@@ -23,7 +23,8 @@
 **Videos**
 
 * [Building a Reusable Text Input Field With a Floating Label](https://youtu.be/Sg0rfYL3utI), by [@peterfriese](https://twitter.com/peterfriese)
+* [Anatomy of an App Store Scam with Kosta Eleftherious](https://appfigures.com/resources/chats/kosta-eleftheriou-anatomy-app-store-scam), by [@arielmichaeli](https://twitter.com/arielmichaeli)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese), [sarunw](https://github.com/sarunw)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese), [sarunw](https://github.com/sarunw), [rel](https://github.com/rel)
