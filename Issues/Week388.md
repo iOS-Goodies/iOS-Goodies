@@ -2,6 +2,7 @@
 
 * [WWDC Notes](https://wwdcnotes.com/), by the WWDC community
 * [Frames in SwiftUI](https://swiftwithmajid.com/2021/06/02/frames-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [Pull to refresh in SwiftUI with refreshable](https://sarunw.com/posts/pull-to-refresh-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 
 **Articles**
 
@@ -25,4 +26,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese), [sarunw](https://github.com/sarunw)
