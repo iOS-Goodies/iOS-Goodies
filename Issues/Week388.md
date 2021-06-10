@@ -8,6 +8,7 @@
 
 * [Getting started with SwiftUI](https://paulstamatiou.com/getting-started-with-swiftui/), by [Paul Stamatiou](https://twitter.com/Stammy)
 * [Cracking the Navigation Bar Secrets with SwiftUI](https://kristaps.me/blog/swiftui-navigationview/), by [@fassko](https://twitter.com/fassko)
+* [SwiftUI List Bindings - Behind the Scenes](https://peterfriese.dev/swiftui-list-item-bindings-behind-the-scenes/), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Tools/Controls**
 
