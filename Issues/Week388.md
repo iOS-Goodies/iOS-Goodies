@@ -7,6 +7,7 @@
 **Articles**
 
 * [Getting started with SwiftUI](https://paulstamatiou.com/getting-started-with-swiftui/), by [Paul Stamatiou](https://twitter.com/Stammy)
+* [Cracking the Navigation Bar Secrets with SwiftUI](https://kristaps.me/blog/swiftui-navigationview/), by [@fassko](https://twitter.com/fassko)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese), [sarunw](https://github.com/sarunw), [rel](https://github.com/rel)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [LisaDziuba](https://github.com/LisaDziuba), [peterfriese](https://twitter.com/peterfriese), [sarunw](https://github.com/sarunw), [rel](https://github.com/rel), [fassko](https://github.com/fassko)
