@@ -1,4 +1,8 @@
 
+**WWDC**
+
+* [What's new in SwiftUI](https://www.fivestars.blog/articles/swiftui-wwdc21/), by [@zntfdr](https://twitter.com/zntfdr)
+
 **Articles**
 
 * 
@@ -21,4 +25,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
