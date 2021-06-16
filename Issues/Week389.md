@@ -2,6 +2,7 @@
 **WWDC**
 
 * [What's new in SwiftUI](https://www.fivestars.blog/articles/swiftui-wwdc21/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Table and Collection View Cells Reload Improvements in iOS 15](https://swiftsenpai.com/development/cells-reload-improvements-ios-15/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Articles**
 
@@ -25,4 +26,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr),[tundsdev](https://github.com/tunds)
+* [zntfdr](https://github.com/zntfdr),[tundsdev](https://github.com/tunds), [LeeKahSeng](https://github.com/LeeKahSeng)
