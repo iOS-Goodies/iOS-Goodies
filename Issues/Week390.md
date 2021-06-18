@@ -2,6 +2,7 @@
 **Articles**
 
 * [Mastering List in SwiftUI](https://swiftwithmajid.com/2021/06/16/mastering-list-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [How to control safe area insets in SwiftUI](https://www.fivestars.blog/articles/safe-area-insets/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -21,4 +22,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr)
