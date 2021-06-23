@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* 
+* [PreciseDecimal](https://github.com/davdroman/PreciseDecimal) - Precise JSON decimal parsing for Swift 🧮, by [David Roman](https://github.com/davdroman)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [intiMRA](https://github.com/intiMRA)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [intiMRA](https://github.com/intiMRA), [davdroman](https://github.com/davdroman)
