@@ -5,6 +5,7 @@
 * [How to control safe area insets in SwiftUI](https://www.fivestars.blog/articles/safe-area-insets/), by [@zntfdr](https://twitter.com/zntfdr)
 * [Discover new HTTP Traffic Instrument](https://michaelabadi.com/articles/analyse-http-instruments/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Identifiable and Selectable Collection](https://www.linkedin.com/pulse/identifiable-selectable-collection-inti-albuquerque/?trackingId=Rfh2KQc8qfeOMwFEGUvoew%3D%3D), by [@imra](https://twitter.com/imra17848920)
+* [A better way to ask for a one-time user's location with the Location Button](https://sarunw.com/posts/location-button/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [intiMRA](https://github.com/intiMRA), [davdroman](https://github.com/davdroman)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [intiMRA](https://github.com/intiMRA), [davdroman](https://github.com/davdroman), [sarunw](https://github.com/sarunw)
