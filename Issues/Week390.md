@@ -22,8 +22,9 @@
 
 **Videos**
 
-* 
+* [MOBCAST: Engineering and Product - A Tale of Growth](https://youtu.be/SfPcercdlqA) - Third episode of a series of videos on how Farfetch builds Mobile Apps at Scale, by [@FarfetchPeople](https://twitter.com/farfetchpeople) 
+
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [intiMRA](https://github.com/intiMRA), [davdroman](https://github.com/davdroman), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [intiMRA](https://github.com/intiMRA), [davdroman](https://github.com/davdroman), [sarunw](https://github.com/sarunw), [popei69](https://github.com/popei69), [DiogoBalseiro](https://github.com/diogobalseiro)
