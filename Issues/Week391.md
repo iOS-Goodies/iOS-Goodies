@@ -7,22 +7,23 @@
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [Firebase SwiftUI Login, Registration, Password Reset & Session Management with Combine](https://youtu.be/5gIuYHn9nOc), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
 
 * [mecid](https://github.com/mecid)
 * [jasonzurita](https://github.com/jasonzurita)
 * [rudrankriyam](https://github.com/rudrankriyam)
+* [tundsdev](https://github.com/tunds)
