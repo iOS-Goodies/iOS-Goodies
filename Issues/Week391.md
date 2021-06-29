@@ -29,3 +29,4 @@
 * [rudrankriyam](https://github.com/rudrankriyam)
 * [tundsdev](https://github.com/tunds)
 * [truizlop](https://github.com/truizlop)
+* [theblixguy](https://github.com/theblixguy)
