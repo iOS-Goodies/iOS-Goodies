@@ -8,7 +8,7 @@
 
 **Tools/Controls**
 
-* [https://github.com/Lightricks/Kintsugi](Kintsugi): A tool to automatically resolve Git conflicts that occur in Xcode project files
+* [Kintsugi](https://github.com/Lightricks/Kintsugi): A tool to automatically resolve Git conflicts that occur in Xcode project files
 
 **Business/Career**
 
