@@ -1,6 +1,7 @@
 
 **Articles**
 
+* [Getting Started with async/await in SwiftUI](https://peterfriese.dev/swiftui-concurrency-essentials-part1/), by [@peterfriese](https://twitter.com/peterfriese)
 * [Backport SwiftUI safe area insets to iOS 13 and 14](https://www.fivestars.blog/articles/safe-area-insets-2/), by [@zntfdr](https://twitter.com/zntfdr)
 * [Mastering search in SwiftUI](https://swiftwithmajid.com/2021/06/23/mastering-search-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Linting vs Formatting: A Swift Guide (Part 1)](https://jasonzurita.com/linting-and-formatting-swift-part-1/), by [@jasonalexzurita](https://twitter.com/jasonalexzurita)
@@ -28,6 +29,7 @@
 
 **Contributors**
 
+* [@peterfriese](https://twitter.com/peterfriese)
 * [zntfdr](https://github.com/zntfdr)
 * [mecid](https://github.com/mecid)
 * [jasonzurita](https://github.com/jasonzurita)
