@@ -6,6 +6,7 @@
 * [Highlights of SwiftUI Release 3](https://rudrank.blog/highlights-swiftui-3), by [@rudrankriyam](https://twitter.com/rudrankriyam)
 * [Towards a Design System in iOS: Typography](https://medium.com/engineering-at-goodnotes/design-system-ios-typography-9459cb842673), by [@tomasruizlopez](https://twitter.com/tomasruizlopez)
 * [How to master grid layout in iOS with SwiftUI](https://kristaps.me/blog/swiftui-gridview/), by [@fassko](https://twitter.com/fassko)
+* [New Formatters in iOS 15: Why do we need another formatter](https://sarunw.com/posts/new-formatters-in-ios15/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -31,3 +32,4 @@
 * [tundsdev](https://github.com/tunds)
 * [truizlop](https://github.com/truizlop)
 * [fassko](https://github.com/fassko)
+* [sarunw](https://github.com/sarunw)
