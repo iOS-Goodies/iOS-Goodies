@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-*
+* [`@Invalidating`](https://github.com/theblixguy/Invalidating) A property wrapper that backports the new `@Invalidating` property wrapper in iOS 15/macOS 12 to older versions, by [@suyashsrijan](https://twitter.com/suyashsrijan)
 
 **Business/Career**
 
@@ -31,5 +31,6 @@
 * [rudrankriyam](https://github.com/rudrankriyam)
 * [tundsdev](https://github.com/tunds)
 * [truizlop](https://github.com/truizlop)
+* [theblixguy](https://github.com/theblixguy)
 * [fassko](https://github.com/fassko)
 * [sarunw](https://github.com/sarunw)
