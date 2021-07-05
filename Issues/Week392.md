@@ -1,7 +1,7 @@
 
 **Articles**
 
-* 
+* [SwiftUI patterns evolution: view builders](https://www.fivestars.blog/articles/swiftui-patterns-view-builders/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -22,3 +22,5 @@
 **Contributors**
 
 * [muukii](https://github.com/muukii)
+* [zntfdr](https://github.com/zntfdr)
+
