@@ -12,7 +12,7 @@
 * [MondrianLayout](https://github.com/muukii/MondrianLayout) A way to building layouts faster in AutoLayout like SwiftUI
 
 **Business/Career**
-
+* [Launching an Indie App - Part 11: In For The Long Haul](https://heyimakeapps.com/blog/launching-an-indie-app-part-11-in-for-the-long-haul), by [@michael_tigas](https://twitter.com/michael_tigas)
 * 
 
 **UI/UX**
@@ -30,4 +30,5 @@
 * [zntfdr](https://github.com/zntfdr)
 * [superpeteblaze](https://github.com/superpeteblaze)
 * [LeeKahSeng](https://github.com/LeeKahSeng)
+* [michael_tigas](https://github.com/teeeeeegz)
 * [johnpatrickmorgan](https://github.com/johnpatrickmorgan)
