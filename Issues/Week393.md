@@ -6,20 +6,22 @@
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [Mastering Stacks in SwiftUI (VStack, HStack, LazyStacks, SwiftUI Tutorial)](https://youtu.be/P6eFtYaX4ow), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
+* [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid)
+* [tundsdev](https://github.com/tunds)
