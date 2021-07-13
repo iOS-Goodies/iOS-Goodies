@@ -12,8 +12,8 @@
 *
 
 **Business/Career**
-
-*
+* [Launching an Indie App - Part 12: Dashboard Insights](https://heyimakeapps.com/blog/launching-an-indie-app-part-12-dashboard-insights), by [@michael_tigas](https://twitter.com/michael_tigas)
+* 
 
 **UI/UX**
 
@@ -30,3 +30,4 @@
 * [tundsdev](https://github.com/tunds)
 * [fassko](https://github.com/fassko)
 * [icanzilb](https://github.com/icanzilb)
+* [michael_tigas](https://github.com/teeeeeegz)
