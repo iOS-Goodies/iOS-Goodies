@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-*
+* [Swift Identified Collections](https://github.com/pointfreeco/swift-identified-collections) - A library of data structures for working with collections of identifiable elements in an ergonomic, performant way., by [@pointfreeco](https://twitter.com/pointfreeco)
 
 **Business/Career**
 * [Launching an Indie App - Part 12: Dashboard Insights](https://heyimakeapps.com/blog/launching-an-indie-app-part-12-dashboard-insights), by [@michael_tigas](https://twitter.com/michael_tigas)
