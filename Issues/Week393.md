@@ -6,6 +6,7 @@
 * [How to translate SwiftUI applications](https://kristaps.me/blog/swiftui-localization/), by [@fassko](https://twitter.com/fassko)
 * [Bridge from Combine to AsyncSequence - the plan](https://trycombine.com/posts/combine-async-sequence-1/), by [@icanzilb](https://twitter.com/icanzilb)
 * [Bridge from Combine to AsyncSequence - the code](https://trycombine.com/posts/combine-async-sequence-2/), by [@icanzilb](https://twitter.com/icanzilb)
+* [Diffable data source behavior changes and reconfiguring cells in iOS 15](https://www.jessesquires.com/blog/2021/07/08/diffable-data-source-behavior-changes-and-reconfiguring-cells-in-ios-15/), by [@jesse_squires](https://twitter.com/jesse_squires)
 
 **Tools/Controls**
 
