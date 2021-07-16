@@ -22,4 +22,4 @@
 **Contributors**
 
 * [@peterfriese](https://twitter.com/peterfriese)
-* [@SvenTiigi](https://twitter.com/SvenTiigi)
+* [@SvenTiigi](https://github.com/SvenTiigi)
