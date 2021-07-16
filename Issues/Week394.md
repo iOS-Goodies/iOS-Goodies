@@ -5,7 +5,7 @@
 
 **Tools/Controls**
 
-* 
+* [EUDCCKit](https://github.com/SvenTiigi/EUDCCKit) - EU Digital COVID Certificate Kit for the Apple Platform  (unofficial), by [@SvenTiigi](https://twitter.com/SvenTiigi)
 
 **Business/Career**
 
@@ -22,3 +22,4 @@
 **Contributors**
 
 * [@peterfriese](https://twitter.com/peterfriese)
+* [@SvenTiigi](https://twitter.com/SvenTiigi)
