@@ -2,6 +2,7 @@
 **Articles**
 
 * [Cooperative Task Cancellation](https://peterfriese.dev/swiftui-concurrency-essentials-part2/), by [@peterfriese](https://twitter.com/peterfriese)
+* [Pull-to-Refresh in SwiftUI](https://swiftwithmajid.com/2021/07/14/pull-to-refresh-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -23,3 +24,4 @@
 
 * [@peterfriese](https://twitter.com/peterfriese)
 * [@SvenTiigi](https://github.com/SvenTiigi)
+* [mecid](https://github.com/mecid)
