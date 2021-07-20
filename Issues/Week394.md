@@ -10,8 +10,7 @@
 * [EUDCCKit](https://github.com/SvenTiigi/EUDCCKit) - EU Digital COVID Certificate Kit for the Apple Platform  (unofficial), by [@SvenTiigi](https://twitter.com/SvenTiigi)
 
 **Business/Career**
-
-* 
+* [Launching an Indie App - Part 13: Growing in Momentum](https://heyimakeapps.com/blog/launching-an-indie-app-part-13-growing-in-momentum), by [@michael_tigas](https://twitter.com/michael_tigas)
 
 **UI/UX**
 
@@ -27,3 +26,4 @@
 * [@peterfriese](https://twitter.com/peterfriese)
 * [@SvenTiigi](https://github.com/SvenTiigi)
 * [mecid](https://github.com/mecid)
+* [michael_tigas](https://github.com/teeeeeegz)
