@@ -1,6 +1,10 @@
-- https://twitter.com/olebegemann/status/1415351550847950848
-- https://developer.apple.com/tutorials/app-dev-training/
-- https://twitter.com/smileyborg/status/1406769460032114689
+Happy Thursday! We finally got the Beta 3 of Xcode 13 that everyone was expecting last week or even the week before. And I also found this [12 hour course from Apple](https://developer.apple.com/tutorials/app-dev-training/) for learning the basics of Xcode, SwiftUI and UIKit, which, as far as I can tell, is new, even though I haven't seen it advertised as new by Apple. But then again, I haven't seen it advertised at all by Apple 😅. Still, a very good resource if you want to start learning how to make iOS apps.
+
+**Tips from Twitter**
+
+*   [Avoid index math in Collections](https://twitter.com/olebegemann/status/1415351550847950848): Ole Begemann with a reminder to use the Collection APIs and try to avoid subscripting Collections with integer indexes directly.
+*   [iOS 15 changes in cell prefetching](https://twitter.com/smileyborg/status/1406769460032114689): Tyler Fox has a great thread on what changed in cell prefetching for UICollectionView and UITableView in iOS 15
+*   [SwiftUI enhancements in Xcode 13 beta 3](https://twitter.com/zntfdr/status/1415570313551568897): Federico Zanetello highlights the changes that Xcode 13 beta 3 brings to SwiftUI
 
 
 **Articles**
