@@ -14,6 +14,7 @@
 * [Experimenting with ShazamKit- Let’s Shazam Everything!](https://rudrank.blog/experimenting-with-shazamkit), by [@rudrankriyam](https://twitter.com/rudrankriyam)
 * [SwiftUI Swipe Actions](https://useyourloaf.com/blog/swiftui-swipe-actions/), by [@kharrison](https://twitter.com/kharrison)
 * [Fixing a hard-to-find bug in Dark Mode](https://www.jessesquires.com/blog/2021/07/15/fixing-a-hard-to-find-bug-in-dark-mode/), by [@jesse_squires](https://twitter.com/jesse_squires)
+* [Dynamic button configuration in iOS 15](https://sarunw.com/posts/dynamic-button-configuration/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -38,3 +39,4 @@
 * [@SvenTiigi](https://github.com/SvenTiigi)
 * [mecid](https://github.com/mecid)
 * [michael_tigas](https://github.com/teeeeeegz)
+* [sarunw](https://github.com/sarunw)
