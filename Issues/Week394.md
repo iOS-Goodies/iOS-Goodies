@@ -1,8 +1,9 @@
+Happy Thursday! I wrote last week that Xcode 13 Beta 3 was released, and indeed it was. Also, two days later, it was re-released. According to [@XcodeReleases](https://twitter.com/XcodeReleases/status/1416085354692497412) it seems it's mostly the same, but the re-release fixes something related to Xcode Could (for those who were lucky to get access to the beta 🥺).
+
 **Tips from Twitter**
 
-* https://twitter.com/twostraws/status/1416859653481324544?s=20
-* https://twitter.com/eneko/status/1416143468070465537
-
+* [Hacking with Swift: Live! diversity scholarship](https://twitter.com/twostraws/status/1416859653481324544): Paul Hudson and his team are organizing the 3rd edition of Hacking with Swift: Live! and they have a huge batch of diversity tickets, so if you're from an under-represented category in our community, reach out to Paul to apply. 
+* [Watch out for retain cycles](https://twitter.com/eneko/status/1416143468070465537): a reminder from Eneko Alonso to avoid retain cycles when working with Combine.
 
 **Articles**
 
