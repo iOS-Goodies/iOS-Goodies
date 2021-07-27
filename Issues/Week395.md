@@ -10,7 +10,7 @@
 * 
 
 **Business/Career**
-
+* [Launching an Indie App - Part 14: A Present from Santa](https://heyimakeapps.com/blog/launching-an-indie-app-part-14-a-present-from-santa), by [@michael_tigas](https://twitter.com/michael_tigas)
 * 
 
 **UI/UX**
@@ -23,4 +23,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka)
+* [mecid](https://github.com/mecid), [zntfdr](https://github.com/zntfdr), [abadikaka](https://github.com/abadikaka), [michael_tigas](https://github.com/teeeeeegz)
