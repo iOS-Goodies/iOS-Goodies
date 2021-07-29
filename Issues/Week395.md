@@ -1,3 +1,6 @@
+**Tips from Twitter**
+* [Jump between CamelCaseWords in Xcode](https://twitter.com/xavierLowmiller/status/1420735796454232066): Xavier Lowmiller with a great tip for navigating to the between subwords of a camel case word
+
 
 **Articles**
 
@@ -6,6 +9,9 @@
 * [Command Pattern in Real-Life with Swift](https://michaelabadi.com/articles/command-pattern-swift/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Copy-On-Assignment vs. Copy-On-Write in Swift](https://aymanmoo.medium.com/copy-on-assignment-vs-copy-on-write-in-swift-c3016b343d06), by [@Ayman__adlY](https://twitter.com/Ayman__adlY)
 * [Persisting Sensitive Data Using Keychain in Swift](https://swiftsenpai.com/development/persist-data-using-keychain/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [Throwing and asynchronous Swift properties](https://www.swiftbysundell.com/articles/throwing-async-properties/), by [@johnsundell](https://twitter.com/johnsundell)
+* [Picture in Picture Across All Platforms](https://www.raywenderlich.com/24247382-picture-in-picture-across-all-platforms), by [@OsterbergJordan](https://twitter.com/OsterbergJordan)
+* [Implementing Feature Flagging in iOS](https://digitalbunker.dev/2021/07/23/implementing-feature-flagging-in-ios/), by Aryaman Sharda
 
 **Tools/Controls**
 
