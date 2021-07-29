@@ -1,3 +1,5 @@
+Happy Thursday! It feels like we just got Beta 3 of Xcode 13, but there's already a Beta 4 out there. And it's almost August, so in a bit more than a month we'll probably get the iOS 15 release and Xcode 13. Time to start thinking about iOS 15 support in your apps, if you haven't already 😄.
+
 **Tips from Twitter**
 * [Jump between CamelCaseWords in Xcode](https://twitter.com/xavierLowmiller/status/1420735796454232066): Xavier Lowmiller with a great tip for navigating to the between subwords of a camel case word
 
