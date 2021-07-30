@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [Backporting new features with `@_alwaysEmitIntoClient`](https://www.fivestars.blog/articles/alwaysEmitIntoClient), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
