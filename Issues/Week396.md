@@ -8,20 +8,20 @@
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [SwiftUI Data Flow series. Learn how to use State, ObservedObject, EnvironmentObject and many more with practical examples.](https://youtube.com/playlist?list=PLvUWi5tdh92zfsV9xRgx7vTlASvmrToqQ), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds)
