@@ -5,6 +5,7 @@
 **Articles**
 
 * [Backporting new features with `@_alwaysEmitIntoClient`](https://www.fivestars.blog/articles/alwaysEmitIntoClient), by [@zntfdr](https://twitter.com/zntfdr)
+* [Convincing Xcode to Map Vim Keys](https://bryce.co/xcode-vim-map/), by [@brycepauken](https://twitter.com/brycepauken)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [brycepauken](https://github.com/brycepauken)
