@@ -1,3 +1,5 @@
+Happy Thursday! The Tips from Twitter section, which I introduced in [Issue 393](https://ios-goodies.com/post/656799719731937280/week-393) seems to be well received, and somehow I managed to find content for it weekly for now, so it looks like it's here to stay. Hope you'll enjoy 😄
+
 **Tips from Twitter**
 
 * [Compiler flags for Swift Concurrency](https://twitter.com/olebegemann/status/1421144304127463427): Ole Begemann with a great tip picked up on the [Swift Forums](https://forums.swift.org/t/concurrency-in-swift-5-and-6/49337)
