@@ -5,6 +5,7 @@
 **Articles**
 
 * [SwiftUI's new onSubmit modifier](https://www.fivestars.blog/articles/onsubmit/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Getting Started with Swift Concurrency](https://swiftsenpai.com/swift/swift-concurrency-get-started/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng)
