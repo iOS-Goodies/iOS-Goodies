@@ -5,6 +5,7 @@
 **Articles**
 
 * [How to layer multiple windows in SwiftUI](https://www.fivestars.blog/articles/swiftui-windows/), by [@zntfdr](https://twitter.com/zntfdr)
+* [How to create a property wrapper in Swift](https://swiftwithmajid.com/2021/08/11/how-to-create-a-property-wrapper-in-swift/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -25,3 +26,4 @@
 **Contributors**
 
 * [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid)
