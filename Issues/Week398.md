@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-* 
+* [Easy UIAlertController presentation](https://chris-mash.medium.com/easy-uialertcontroller-presentation-40e69a29ea99), by [@cjmash](https://twitter.com/cjmash)
 
 **Business/Career**
 
@@ -29,3 +29,4 @@
 * [zntfdr](https://github.com/zntfdr)
 * [mecid](https://github.com/mecid)
 * [popei69](https://github.com/popei69)
+* [Chris Mash](https://github.com/ChrisMash)
