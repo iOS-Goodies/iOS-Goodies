@@ -6,7 +6,7 @@
 
 **Articles**
 
-* 
+* [Handling links with SwiftUI's openURL](https://www.fivestars.blog/articles/openurl-openurlaction/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -26,4 +26,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
