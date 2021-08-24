@@ -7,6 +7,7 @@
 **Articles**
 
 * [Handling links with SwiftUI's openURL](https://www.fivestars.blog/articles/openurl-openurlaction/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Making Network Requests with Async/await in Swift](https://swiftsenpai.com/swift/async-await-network-requests/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -26,4 +27,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [LeeKahSeng](https://github.com/LeeKahSeng)
