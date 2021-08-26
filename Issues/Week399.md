@@ -1,8 +1,8 @@
-* https://www.eventbrite.com/e/ios-dev-happy-hour-tickets-167263444465
-*
+Happy Thursday! This Saturday at 8 PM CEST (11 AM PDT) is a new edition of [iOS Dev Happy Hour](https://www.eventbrite.com/e/ios-dev-happy-hour-tickets-167263444465). My schedule didn't allow me to participate in any of those events yet, but they are a great opportunity to meet new iOS developers and share experiences. I would encourage everyone to try and join, no matter how experienced they are in iOS. Show up, be nice, make new friends, have fun 😊
+
 **Tips from Twitter**
 
-*
+* [UserDefaults-backed property storage](https://twitter.com/DAlooG/status/1430446850625130496): interesting approach by Oleksii Demedetskiy to save properties in UserDefaults. Would you use that?
 
 **Articles**
 
@@ -12,10 +12,15 @@
 * [Unit testing UIView action and gesture in Swift](https://benoitpasquier.com/unit-testing-uiview-action-gesture-swift/), by [@benoitpasquier_](https://twitter.com/benoitpasquier_)
 * [How to do print debugging in SwiftUI](https://sarunw.com/posts/how-to-do-print-debugging-in-swiftui/), by [@sarunw](https://twitter.com/sarunw)
 * [Unit Testing in Swift](https://semaphoreci.com/blog/xcode-unit-testing-tutorial), by [@rudrankriyam](https://twitter.com/rudrankriyam)
+* [Deprecating Workarounds](https://www.basbroek.nl/deprecating-workarounds), by [@basthomas](https://www.twitter.com/basthomas)
+* [Creating Slick Color Palette APIs](https://www.fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/), by [@mergesort](https://twitter.com/mergesort)
+* [Why Conditional View Modifiers are a Bad Idea](https://www.objc.io/blog/2021/08/24/conditional-view-modifiers/), by [@chriseidhof](https://twitter.com/chriseidhof)
+* [Customizing UIButton in iOS 15](https://ohmyswift.com/blog/2021/08/23/customizing-uibutton-in-ios-15/), by [@rizwanasifahmed](https://twitter.com/rizwanasifahmed)
+* [Tuist Tutorial for Xcode](https://www.raywenderlich.com/24508362-tuist-tutorial-for-xcode), by [@ski081](https://twitter.com/ski081)
 
 **Tools/Controls**
 
-*
+* [Custom Dump](https://github.com/pointfreeco/swift-custom-dump) - A collection of tools for debugging, diffing, and testing your application's data structures, by [@pointfreeco](https://twitter.com/pointfreeco)
 
 **Business/Career**
 
