@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [Every SwiftUI Environment Value explained](https://www.fivestars.blog/articles/swiftui-environment-values/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
