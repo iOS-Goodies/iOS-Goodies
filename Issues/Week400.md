@@ -26,4 +26,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid),  [abadikaka](https://github.com/abadikaka)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka)
