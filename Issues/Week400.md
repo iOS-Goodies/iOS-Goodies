@@ -22,8 +22,8 @@
 
 **Videos**
 
-* 
+* [Developing iOS Apps with an Accessibility Mindset](https://youtu.be/7plgTpk3REY), by [@dadederk](https://twitter.com/dadederk)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka), [dadederk](https://github.com/dadederk)
