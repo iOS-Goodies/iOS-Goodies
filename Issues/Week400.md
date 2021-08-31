@@ -8,6 +8,7 @@
 * [Mastering FocusState property wrapper in SwiftUI](https://swiftwithmajid.com/2021/08/24/mastering-focusstate-property-wrapper-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [VIPER adoption to SwiftUI](https://michaelabadi.com/articles/swiftui-viper-adaption/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Swift Concurrency: An Introduction](https://medium.com/zendesk-engineering/swift-concurrency-an-introduction-47e3bbe5ec66?source=friends_link&sk=111811da8159729db0b0da3d41a6303e), by [@superpeteblaze](https://twitter.com/superpeteblaze)
+* [Exploring SwiftUI map custom annotations](https://kristaps.me/blog/swiftui-map-annotations/), by [@fassko](https://twitter.com/fassko)
 
 **Tools/Controls**
 
@@ -27,4 +28,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka), [dadederk](https://github.com/dadederk), [superpeteblaze](https://github.com/superpeteblaze)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid), [abadikaka](https://github.com/abadikaka), [dadederk](https://github.com/dadederk), [superpeteblaze](https://github.com/superpeteblaze), [fassko](https://github.com/fassko)
