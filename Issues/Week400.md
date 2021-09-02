@@ -1,3 +1,5 @@
+https://www.macrumors.com/2021/09/01/apple-reader-app-changes-japan-ftc/
+
 **Tips from Twitter**
 
 *
