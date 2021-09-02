@@ -11,6 +11,7 @@ https://www.macrumors.com/2021/09/01/apple-reader-app-changes-japan-ftc/
 * [VIPER adoption to SwiftUI](https://michaelabadi.com/articles/swiftui-viper-adaption/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Swift Concurrency: An Introduction](https://medium.com/zendesk-engineering/swift-concurrency-an-introduction-47e3bbe5ec66?source=friends_link&sk=111811da8159729db0b0da3d41a6303e), by [@superpeteblaze](https://twitter.com/superpeteblaze)
 * [Exploring SwiftUI map custom annotations](https://kristaps.me/blog/swiftui-map-annotations/), by [@fassko](https://twitter.com/fassko)
+* [Best practices for building accessible mobile apps](https://increment.com/mobile/best-practices-for-building-accessible-mobile-apps/), by [@dadederk](https://twitter.com/dadederk)
 
 **Tools/Controls**
 
