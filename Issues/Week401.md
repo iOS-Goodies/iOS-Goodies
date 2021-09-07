@@ -5,6 +5,8 @@
 **Articles**
 
 * [View clipping in SwiftUI](https://www.fivestars.blog/articles/swiftui-clipping/), by [@zntfdr](https://twitter.com/zntfdr)
+* [The Ultimate Guide to SwiftUI List Views - Part 1: Static Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part1/), by [@peterfriese](https://twitter.com/peterfriese)
+* [The Ultimate Guide to SwiftUI List Views - Part 2: Dynamic Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part2/), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Tools/Controls**
 
@@ -26,3 +28,4 @@
 
 * [zntfdr](https://github.com/zntfdr)
 * [cristik](https://www.github.com/cristik)
+* [peterfriese](https://twitter.com/peterfriese)
