@@ -9,6 +9,9 @@
 * [The Ultimate Guide to SwiftUI List Views - Part 2: Dynamic Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part2/), by [@peterfriese](https://twitter.com/peterfriese)
 * [Preventing Data Races Using Actors in Swift](https://swiftsenpai.com/swift/actor-prevent-data-race/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [How to set custom CodingKey for the convertFromSnakeCase decoding strategy](https://sarunw.com/posts/how-to-set-custom-codingkey-for-convertfromsnakecase-decoding-strategy/), by [@sarunw](https://twitter.com/sarunw)
+* [Dancing with Dinosaurs I: Auditing Objective-C for Swift Interoperability](https://www.basbroek.nl/objc-swift-interop-auditing), by [@basthomas](https://www.twitter.com/basthomas)
+* [What’s New With Privacy?](https://www.raywenderlich.com/24738637-what-s-new-with-privacy), by [@renanbdias](https://twitter.com/renanbdias)
+* [Restricting Dynamic Type Sizes](https://useyourloaf.com/blog/restricting-dynamic-type-sizes/), by [@kharrison](https://twitter.com/kharrison)
 
 **Tools/Controls**
 
@@ -16,7 +19,7 @@
 
 **Business/Career**
 
-* 
+* [Getting the Most Out of Virtual Conferences](https://martiancraft.com/blog/2021/09/virtual-conferences/), by [@coryb](https://twitter.com/coryb)
 
 **UI/UX**
 
