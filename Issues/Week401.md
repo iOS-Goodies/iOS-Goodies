@@ -8,6 +8,7 @@
 * [The Ultimate Guide to SwiftUI List Views - Part 1: Static Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part1/), by [@peterfriese](https://twitter.com/peterfriese)
 * [The Ultimate Guide to SwiftUI List Views - Part 2: Dynamic Lists in SwiftUI](https://peterfriese.dev/swiftui-listview-part2/), by [@peterfriese](https://twitter.com/peterfriese)
 * [Preventing Data Races Using Actors in Swift](https://swiftsenpai.com/swift/actor-prevent-data-race/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+* [How to set custom CodingKey for the convertFromSnakeCase decoding strategy](https://sarunw.com/posts/how-to-set-custom-codingkey-for-convertfromsnakecase-decoding-strategy/), by [@sarunw](https://twitter.com/sarunw)
 
 **Tools/Controls**
 
@@ -31,3 +32,4 @@
 * [cristik](https://www.github.com/cristik)
 * [peterfriese](https://twitter.com/peterfriese)
 * [LeeKahSeng](https://github.com/LeeKahSeng)
+* [sarunw](https://github.com/sarunw)
