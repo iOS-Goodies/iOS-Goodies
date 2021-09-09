@@ -1,3 +1,5 @@
+Happy Thursday! On 14 September, Apple will have their September event where they're expected to show the new iPhones. Still no sign of the Xcode 13 GM, but I'm afraid this is starting to look more and more like last year, so I think we should prepare for a Xcode 13 RC on 14 September and iOS 15 public launch either the next day, or early the following week. Let's see.  
+
 **Tips from Twitter**
 
 * ["includeIf" in the git config can prevent you from using packages in Xcode](https://twitter.com/cristiankocza/status/1433778633626247172): the "includeIf" directive, if present in your global ~/.gitconfig file, will lead to Xcode not being able to import or discover packages.
