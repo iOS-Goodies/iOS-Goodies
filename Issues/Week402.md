@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [View masking in SwiftUI](https://www.fivestars.blog/articles/swiftui-masking/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
