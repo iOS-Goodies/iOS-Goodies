@@ -1,11 +1,10 @@
-- https://forums.swift.org/t/swift-concurrency-back-deployment/51908/3
-- Xcode 13 RC 1
-- https://developer.apple.com/news/?id=f87q5n2j
-- Cases of apps rejected because metadata mentions iOS 15 support
+Happy Thursday! Apple had its September event this week, where they announced new iPhones, a new Apple Watch and 2 new iPads. I was [fearing a scenario like last year](https://twitter.com/marius_const/status/1435502190123266057), but luckily we got the Xcode 13 RC and developers still have until Monday to get their apps on the App Store if they want to be live on day 1. Yes, iOS 15 will be available on 20 September, and [submissions are now open for iOS 15 and iPadOS 15](https://developer.apple.com/news/?id=f87q5n2j). And just as always, from April 2022 new apps and updates must be built with Xcode 13 and the iOS 15 SDK.
+
+For some Swift-related news, [Doug Gregor](https://twitter.com/dgregor79) made things clear after we got our hopes up for seeing [this Pull Request](https://github.com/apple/swift/pull/39051): the new Swift concurrency model is, at least for now and possibly forever iOS 15+. More details in [his Swift Forums post](https://forums.swift.org/t/swift-concurrency-back-deployment/51908/3)
 
 **Tips from Twitter**
 
-* https://twitter.com/nicklockwood/status/1436261948950294530
+* [Nick Lockwood explains DRY](https://twitter.com/nicklockwood/status/1436261948950294530): very good thread from Nick explaining one of the main problem the Don't Repeat Yourself principle bring when it's poorly implemented. 
 
 **Articles**
 
