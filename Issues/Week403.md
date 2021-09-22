@@ -13,7 +13,7 @@
 
 **Tools/Controls**
 
-* 
+* [PeriodDuration](https://github.com/davdroman/PeriodDuration) - The ISO 8601 period/duration types missing in Foundation, by [@davdroman](https://github.com/davdroman)
 
 **Business/Career**
 
@@ -35,3 +35,4 @@
 * [popei69](https://github.com/popei69)
 * [jasonzurita](https://github.com/jasonzurita/)
 * [LeeKahSeng](https://github.com/LeeKahSeng)
+* [davdroman](https://github.com/davdroman)
