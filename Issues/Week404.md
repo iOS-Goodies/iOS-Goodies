@@ -6,7 +6,7 @@
 
 **Articles**
 
-* 
+* [Accessibility focus in SwiftUI](https://swiftwithmajid.com/2021/09/23/accessibility-focus-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -26,4 +26,4 @@
 
 **Contributors**
 
-* 
+* [mecid](https://github.com/mecid)
