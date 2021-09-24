@@ -6,7 +6,7 @@
 
 **Articles**
 
-* 
+* [SwiftUI blend modes](https://www.fivestars.blog/articles/swiftui-blend-modes/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -26,4 +26,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
