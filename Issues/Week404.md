@@ -10,7 +10,7 @@
 
 **Tools/Controls**
 
-* 
+* [YouTubePlayerKit](https://github.com/SvenTiigi/YouTubePlayerKit) - A Swift Package to easily play YouTube videos, by [@SvenTiigi](https://twitter.com/SvenTiigi)
 
 **Business/Career**
 
@@ -27,3 +27,4 @@
 **Contributors**
 
 * [mecid](https://github.com/mecid)
+* [SvenTiigi](https://github.com/SvenTiigi)
