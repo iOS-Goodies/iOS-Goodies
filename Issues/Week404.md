@@ -25,8 +25,10 @@
 
 **Videos**
 
+* [SwiftUI List Explained](https://www.youtube.com/watch?v=zaJ4_fdfMes), by [@FloWritesCode](https://twitter.com/FloWritesCode)
+* [Install, Setup & Use SwiftLint in Xcode](https://www.youtube.com/watch?v=uTlADMZuq48), by [@FloWritesCode](https://twitter.com/FloWritesCode)
 * [SwiftUI MVVM Async/Await Networking Example(SwiftUI 3.0, Xcode 13, Error Handling, SwiftUI Tutorial)](https://youtu.be/53lbqYYAPLw), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [fassko](https://github.com/fassko), [SvenTiigi](https://github.com/SvenTiigi), [zntfdr](https://github.com/zntfdr)
+* [mecid](https://github.com/mecid), [fassko](https://github.com/fassko), [SvenTiigi](https://github.com/SvenTiigi), [zntfdr](https://github.com/zntfdr), [FloWritesCode](https://twitter.com/FloWritesCode)
