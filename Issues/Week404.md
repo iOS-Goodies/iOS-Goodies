@@ -6,8 +6,10 @@
 
 **Articles**
 
+
 * [Accessibility focus in SwiftUI](https://swiftwithmajid.com/2021/09/23/accessibility-focus-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [Three brilliant ways to style button with SwiftUI](https://kristaps.me/blog/swiftui-three-ways-button/), by [@fassko](https://twitter.com/fassko)
+* [SwiftUI blend modes](https://www.fivestars.blog/articles/swiftui-blend-modes/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -27,4 +29,4 @@
 
 **Contributors**
 
-* [mecid](https://github.com/mecid), [fassko](https://github.com/fassko), [SvenTiigi](https://github.com/SvenTiigi)
+* [mecid](https://github.com/mecid), [fassko](https://github.com/fassko), [SvenTiigi](https://github.com/SvenTiigi), [zntfdr](https://github.com/zntfdr)
