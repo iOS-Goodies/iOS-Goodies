@@ -1,5 +1,5 @@
 - https://developer.apple.com/news/?id=ufox7ci5
-- 
+-
 **Tips from Twitter**
 
 *
@@ -11,19 +11,19 @@
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [SwiftUI MVVM Async/Await Networking Example(SwiftUI 3.0, Xcode 13, Error Handling, SwiftUI Tutorial)](https://youtu.be/53lbqYYAPLw), by [@tundsdev](https://twitter.com/tundsdev)
 
 **Contributors**
 
