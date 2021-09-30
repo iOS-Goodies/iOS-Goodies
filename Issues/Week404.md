@@ -1,8 +1,11 @@
-- https://developer.apple.com/news/?id=ufox7ci5
--
+Happy Thursday! Let's start this weeks edition with a quick word of advice: if you're not able to switch to Xcode 13 too soon, then don't update your macOS to Monterey when that's out, because [only Xcode 13 will work on macOS Monterey](https://developer.apple.com/news/?id=ufox7ci5). 
+
+In other news, it's been around 10 days since iOS 15 was released and [the adoption rate is around 20%](https://mixpanel.com/trends/#report/ios_15), which is actually better than [I expected](https://twitter.com/marius_const/status/1440242669179965450)
+
+
 **Tips from Twitter**
 
-* https://twitter.com/marius_const/status/1442768235917717510
+* [Custom date decoding strategy for Codable](https://twitter.com/marius_const/status/1442768235917717510): if what you need to parse has the dates in inconsistent formats, you can set a custom date decoding strategy to cover all cases.
 
 **Articles**
 
