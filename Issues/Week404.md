@@ -2,7 +2,7 @@
 -
 **Tips from Twitter**
 
-*
+* https://twitter.com/marius_const/status/1442768235917717510
 
 **Articles**
 
@@ -12,6 +12,10 @@
 * [SwiftUI blend modes](https://www.fivestars.blog/articles/swiftui-blend-modes/), by [@zntfdr](https://twitter.com/zntfdr)
 * [How to present a Bottom Sheet in iOS 15 with UISheetPresentationController](https://sarunw.com/posts/bottom-sheet-in-ios-15-with-uisheetpresentationcontroller/), by [@sarunw](https://twitter.com/sarunw)
 * [Styling List Views - The Ultimate Guide to SwiftUI List Views - Part 3](https://peterfriese.dev/swiftui-listview-part3/), by [@peterfriese](https://twitter.com/peterfriese)
+* [The Mysterious CodableWithConfiguration Protocol](https://www.andyibanez.com/posts/the-mysterious-codablewithconfiguration-protocol/), by [@AndyIbanezK](https://twitter.com/AndyIbanezK)
+* [Performance: Actor vs queue vs lock ](https://trycombine.com/posts/performance-actor-queue-lock-benchmark/), by [@icanzilb](https://twitter.com/icanzilb)
+* [Working with DisclosureGroup in SwiftUI for iOS 15](http://chriswu.com/posts/swiftui/disclosure1/), by [@MuseumShuffle](https://twitter.com/MuseumShuffle)
+* [EXC_BAD_ACCESS crash error: Understanding and solving it](https://www.avanderlee.com/swift/exc-bad-access-crash/), by [@twannl](https://www.twitter.com/twannl)
 
 **Tools/Controls**
 
