@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [The SwiftUI Environment](https://www.fivestars.blog/articles/swiftui-environment-propagation/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
