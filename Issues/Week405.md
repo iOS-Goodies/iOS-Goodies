@@ -27,7 +27,7 @@
 
 **Videos**
 
-* 
+* [How YOU can become an iOS developer in 2021](https://youtu.be/KjeD3y7SevI), by [@davejacobsenios](https://twitter.com/davejacobseniOS)
 
 **Contributors**
 
@@ -38,3 +38,4 @@
 * [intiMRA](https://github.com/intiMRA)
 * [sarunw](https://github.com/sarunw)
 * [LeeKahSeng](https://github.com/LeeKahSeng)
+* [@davejacobsenios](https://twitter.com/davejacobseniOS)
