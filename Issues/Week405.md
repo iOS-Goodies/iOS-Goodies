@@ -10,6 +10,8 @@
 * [Leverage Accessibility Identifier For View Debugging](https://michaelabadi.com/articles/debugging-with-accessibility-swiftui/), by [@michaelabadiii](https://twitter.com/michaelabadiii)
 * [Truncation Text Field SwiftUI](https://www.linkedin.com/pulse/truncation-tex-field-swiftui-inti-albuquerque), by [@imra17848920](https://twitter.com/imra17848920)
 * [How to present an alert in SwiftUI in iOS 15](https://sarunw.com/posts/how-to-present-alert-in-swiftui-ios15/), by [@sarunw](https://twitter.com/sarunw)
+* [How Sendable Can Help in Preventing Data Races](https://swiftsenpai.com/swift/sendable-prevent-data-races/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
+
 
 **Tools/Controls**
 
@@ -35,3 +37,4 @@
 * [abadikaka](https://github.com/abadikaka)
 * [intiMRA](https://github.com/intiMRA)
 * [sarunw](https://github.com/sarunw)
+* [LeeKahSeng](https://github.com/LeeKahSeng)
