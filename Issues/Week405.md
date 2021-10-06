@@ -11,7 +11,7 @@
 * [Truncation Text Field SwiftUI](https://www.linkedin.com/pulse/truncation-tex-field-swiftui-inti-albuquerque), by [@imra17848920](https://twitter.com/imra17848920)
 * [How to present an alert in SwiftUI in iOS 15](https://sarunw.com/posts/how-to-present-alert-in-swiftui-ios15/), by [@sarunw](https://twitter.com/sarunw)
 * [How Sendable Can Help in Preventing Data Races](https://swiftsenpai.com/swift/sendable-prevent-data-races/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
-
+* [Designing for Productivity in a Large-Scale iOS Application](https://medium.com/airbnb-engineering/designing-for-productivity-in-a-large-scale-ios-application-9376a430a0bf), by [@michaelbachand](https://twitter.com/michaelbachand)
 
 **Tools/Controls**
 
