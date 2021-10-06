@@ -28,6 +28,7 @@
 **Videos**
 
 * [How YOU can become an iOS developer in 2021](https://youtu.be/KjeD3y7SevI), by [@davejacobsenios](https://twitter.com/davejacobseniOS)
+* [Code injection without rebuilding or restarting your application](https://www.youtube.com/watch?v=2CW7cK4e1Ac), by [@mikemikina](https://twitter.com/mikemikina)
 
 **Contributors**
 
@@ -39,3 +40,4 @@
 * [sarunw](https://github.com/sarunw)
 * [LeeKahSeng](https://github.com/LeeKahSeng)
 * [@davejacobsenios](https://twitter.com/davejacobseniOS)
+* [@mikemikina](https://twitter.com/mikemikina)
