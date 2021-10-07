@@ -1,5 +1,5 @@
 Happy Thursday! Very easy to miss in the WWDC week, but Apple updated then the App Store Review Guidelines, making it mandatory for apps offering account creation to also offer account deletion? I [drew attention](https://ios-goodies.com/post/653635319102685184/week-388) to this easy-to-miss update back then, because it seems like a pretty important change. Now Apple added more details on it, announcing that [they will start to enforce the rule form 31 January](https://developer.apple.com/news/?id=mdkbobfo). 
-- 
+
 **Tips from Twitter**
 
 * [UITableView debugging tip](https://twitter.com/smileyborg/status/1445785968569565194): Tyler Fox with a very good tip for debugging the internal gemoetry of a table view cell
