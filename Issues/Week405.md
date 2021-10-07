@@ -13,6 +13,7 @@
 * [How Sendable Can Help in Preventing Data Races](https://swiftsenpai.com/swift/sendable-prevent-data-races/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Designing for Productivity in a Large-Scale iOS Application](https://medium.com/airbnb-engineering/designing-for-productivity-in-a-large-scale-ios-application-9376a430a0bf), by [@michaelbachand](https://twitter.com/michaelbachand)
 * [Audio graphs in SwiftUI](https://swiftwithmajid.com/2021/09/29/audio-graphs-in-swiftui/), by [@mecid](https://twitter.com/mecid)
+* [String — Text management in Swift](https://blog.devgenius.io/string-text-management-in-swift-ab12cf27c702), by [@batikansosun](https://twitter.com/batikansosun)
 
 **Tools/Controls**
 
@@ -43,3 +44,4 @@
 * [@davejacobsenios](https://twitter.com/davejacobseniOS)
 * [@mikemikina](https://twitter.com/mikemikina)
 * [mecid](https://github.com/mecid)
+* [batikansosun](https://github.com/batikansosun)
