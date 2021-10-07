@@ -12,6 +12,7 @@
 * [How to present an alert in SwiftUI in iOS 15](https://sarunw.com/posts/how-to-present-alert-in-swiftui-ios15/), by [@sarunw](https://twitter.com/sarunw)
 * [How Sendable Can Help in Preventing Data Races](https://swiftsenpai.com/swift/sendable-prevent-data-races/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 * [Designing for Productivity in a Large-Scale iOS Application](https://medium.com/airbnb-engineering/designing-for-productivity-in-a-large-scale-ios-application-9376a430a0bf), by [@michaelbachand](https://twitter.com/michaelbachand)
+* [Audio graphs in SwiftUI](https://swiftwithmajid.com/2021/09/29/audio-graphs-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -41,3 +42,4 @@
 * [LeeKahSeng](https://github.com/LeeKahSeng)
 * [@davejacobsenios](https://twitter.com/davejacobseniOS)
 * [@mikemikina](https://twitter.com/mikemikina)
+* [mecid](https://github.com/mecid)
