@@ -1,4 +1,4 @@
-Happy Thursday! Very easy to miss in the WWDC week, but Apple updated then the App Store Review Guidelines, making it mandatory for apps offering account creation to also offer account deletion? I [drew attention](https://ios-goodies.com/post/653635319102685184/week-388) to this easy-to-miss update back then, because it seems like a pretty important change. Now Apple added more details on it, announcing that [they will start to enforce the rule form 31 January](https://developer.apple.com/news/?id=mdkbobfo). 
+Happy Thursday! Back in thw WWDC week it was very easy to miss it, but Apple updated then the App Store Review Guidelines, making it mandatory for apps offering account creation to also offer account deletion? I [drew attention](https://ios-goodies.com/post/653635319102685184/week-388) to thistinys update back then, because I think it's a pretty important change and it can impact a lot of apps. Now Apple added more details on it, announcing that [they will start to enforce the rule form 31 January](https://developer.apple.com/news/?id=mdkbobfo). So get ready to implement account deletion in your apps 😄.
 
 **Tips from Twitter**
 
