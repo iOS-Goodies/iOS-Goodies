@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [Advanced Environment propagation](https://www.fivestars.blog/articles/swiftui-environment-propagation-2/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
