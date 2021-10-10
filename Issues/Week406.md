@@ -8,20 +8,20 @@
 
 **Tools/Controls**
 
-* 
+*
 
 **Business/Career**
 
-* 
+*
 
 **UI/UX**
 
-* 
+*
 
 **Videos**
 
-* 
+* [SwiftUI 3.0 SwipeActions (SwiftUI SwipeActions, SwiftUI 3.0, Xcode 13, SwiftUI Tutorial, Mail App)](https://youtu.be/S7-x_1MU-0Y), by [@tundsdev](https://youtu.be/S7-x_1MU-0Y)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds)
