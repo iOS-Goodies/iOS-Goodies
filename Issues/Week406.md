@@ -25,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://twitter.com/FloWritesCode)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://github.com/chflorian)
