@@ -21,7 +21,8 @@
 **Videos**
 
 * [SwiftUI 3.0 SwipeActions (SwiftUI SwipeActions, SwiftUI 3.0, Xcode 13, SwiftUI Tutorial, Mail App)](https://youtu.be/S7-x_1MU-0Y), by [@tundsdev](https://youtu.be/S7-x_1MU-0Y)
+* [Add QuickNote Support to your iPad App in iOS 15](https://www.youtube.com/watch?v=Rw7eFrISmNU) by [@FloWritesCode](https://twitter.com/FloWritesCode)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://twitter.com/FloWritesCode)
