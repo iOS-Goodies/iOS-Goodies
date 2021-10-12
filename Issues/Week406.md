@@ -5,6 +5,7 @@
 **Articles**
 
 * [Advanced Environment propagation](https://www.fivestars.blog/articles/swiftui-environment-propagation-2/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Effective Objective-C: Getting Familiar with Objective-C](https://heldesouky.xyz/effective-objective-c-getting-familiar-with-objective-c), by [@hassanedesouky](https://twitter.com/hassanedesouky)
 
 **Tools/Controls**
 
@@ -25,4 +26,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://github.com/chflorian)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://github.com/chflorian), [HassanElDesouky](https://github.com/HassanElDesouky)
