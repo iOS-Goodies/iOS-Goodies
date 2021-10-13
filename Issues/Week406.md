@@ -12,7 +12,7 @@
 *
 
 **Business/Career**
-
+* [Why I chose iOS Development](https://ahmdyasser.hashnode.dev/why-i-chose-ios-development), by [@ahmadyas_ser](https://twitter.com/ahmadyas_ser)
 *
 
 **UI/UX**
@@ -26,4 +26,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://github.com/chflorian), [HassanElDesouky](https://github.com/HassanElDesouky)
+* [zntfdr](https://github.com/zntfdr), [tundsdev](https://github.com/tunds), [FloWritesCode](https://github.com/chflorian), [HassanElDesouky](https://github.com/HassanElDesouky), [ahmdyasser](https://github.com/ahmdyasser)
