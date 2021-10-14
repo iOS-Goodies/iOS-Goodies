@@ -16,6 +16,7 @@
 * [(Improving Your) XCTAssert* Failure Messages](https://www.basbroek.nl/xctassert-asterisk), by [@basthomas](https://www.twitter.com/basthomas)
 * [Inspecting HTTP Traffic With Instruments](https://useyourloaf.com/blog/inspecting-http-traffic-with-instruments/), by [@kharrison](https://twitter.com/kharrison)
 * [How to disable automatic transparent tabBar in iOS 15](https://nemecek.be/blog/127/how-to-disable-automatic-transparent-tabbar-in-ios-15), by [@nemecek_f](https://twitter.com/nemecek_f)
+* [Download Progress With Awaited Network Tasks](https://khanlou.com/2021/10/download-progress-with-awaited-network-tasks/), by [@khanlou](http://www.twitter.com/khanlou)
 
 **Tools/Controls**
 
