@@ -15,7 +15,7 @@
 * [Unit Testing Weak References / Retain Cycles in Swift](https://swiftrocks.com/unit-testing-weak-references--deallocation-in-swift), by [@rockbruno_](https://twitter.com/rockbruno_)
 * [(Improving Your) XCTAssert* Failure Messages](https://www.basbroek.nl/xctassert-asterisk), by [@basthomas](https://www.twitter.com/basthomas)
 * [Inspecting HTTP Traffic With Instruments](https://useyourloaf.com/blog/inspecting-http-traffic-with-instruments/), by [@kharrison](https://twitter.com/kharrison)
-
+* [How to disable automatic transparent tabBar in iOS 15](https://nemecek.be/blog/127/how-to-disable-automatic-transparent-tabbar-in-ios-15), by [@nemecek_f](https://twitter.com/nemecek_f)
 
 **Tools/Controls**
 
