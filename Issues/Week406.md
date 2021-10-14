@@ -32,7 +32,7 @@ Happy Thursday! This week my attention was caught by this [twitter thread](https
 
 **Videos**
 
-* [SwiftUI 3.0 SwipeActions (SwiftUI SwipeActions, SwiftUI 3.0, Xcode 13, SwiftUI Tutorial, Mail App)](https://youtu.be/S7-x_1MU-0Y), by [@tundsdev](https://youtu.be/S7-x_1MU-0Y)
+* [SwiftUI 3.0 SwipeActions (SwiftUI SwipeActions, SwiftUI 3.0, Xcode 13, SwiftUI Tutorial, Mail App)](https://youtu.be/S7-x_1MU-0Y), by [@tundsdev](https://twitter.com/tundsdev)
 * [Add QuickNote Support to your iPad App in iOS 15](https://www.youtube.com/watch?v=Rw7eFrISmNU) by [@FloWritesCode](https://twitter.com/FloWritesCode)
 
 **Contributors**
