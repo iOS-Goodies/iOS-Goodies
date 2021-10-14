@@ -1,11 +1,21 @@
+- https://twitter.com/stevesi/status/1448143393175965697
+- https://twitter.com/featherless/status/1446151509549387781
+
+
 **Tips from Twitter**
 
 * [SwiftUI backport](https://twitter.com/davedelong/status/1446151822800945155): Dave DeLong shows us a great way to use new SwiftUI view modifiers while maintaining backward compatibility
+* [Highlight touches in the iOS Simulator](https://twitter.com/HeyDaveTheDev/status/1447993218147172357): David Piper has a great tip for showing touches when you're recording the screen of the simulator
 
 **Articles**
 
 * [Advanced Environment propagation](https://www.fivestars.blog/articles/swiftui-environment-propagation-2/), by [@zntfdr](https://twitter.com/zntfdr)
 * [Effective Objective-C: Getting Familiar with Objective-C](https://heldesouky.xyz/effective-objective-c-getting-familiar-with-objective-c), by [@hassanedesouky](https://twitter.com/hassanedesouky)
+* [Swift-DocC is Now Open Source](https://swift.org/blog/swift-docc/), by [@franklinschrans](https://twitter.com/franklinschrans)
+* [Unit Testing Weak References / Retain Cycles in Swift](https://swiftrocks.com/unit-testing-weak-references--deallocation-in-swift), by [@rockbruno_](https://twitter.com/rockbruno_)
+* [(Improving Your) XCTAssert* Failure Messages](https://www.basbroek.nl/xctassert-asterisk), by [@basthomas](https://www.twitter.com/basthomas)
+* [Inspecting HTTP Traffic With Instruments](https://useyourloaf.com/blog/inspecting-http-traffic-with-instruments/), by [@kharrison](https://twitter.com/kharrison)
+
 
 **Tools/Controls**
 
