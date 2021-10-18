@@ -26,4 +26,4 @@
 **Contributors**
 
 * [mecid](https://github.com/mecid)
-* [albertojauregui](https://twitter.com/albertojauregui)
+* [albertojauregui](https://github.com/albertojauregui)
