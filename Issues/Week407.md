@@ -4,6 +4,7 @@
 
 **Articles**
 
+* [UIKit/AppKit and SwiftUI's Environment propagation](https://www.fivestars.blog/articles/swiftui-environment-propagation-3/), by [@zntfdr](https://twitter.com/zntfdr)
 * [Custom accessibility content in SwiftUI](https://swiftwithmajid.com/2021/10/06/custom-accessibility-content-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 * [How do I customize the NavigationView in SwiftUI?](https://www.bigmountainstudio.com/community/public/posts/80041-how-do-i-customize-the-navigationview-in-swiftui), by [@BigMtnStudio](https://twitter.com/BigMtnStudio)
 * [What is a KeyPath in Swift](https://sarunw.com/posts/what-is-keypath-in-swift/), by [@sarunw](https://twitter.com/sarunw)
@@ -27,6 +28,7 @@
 
 **Contributors**
 
+* [zntfdr](https://github.com/zntfdr)
 * [mecid](https://github.com/mecid)
 * [albertojauregui](https://github.com/albertojauregui)
 * [sarunw](https://github.com/sarunw)
