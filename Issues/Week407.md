@@ -1,10 +1,10 @@
-Happy Thursday! Apple announced [Tech Talks 2021](https://developer.apple.com/tech-talks/), with live sessions and office hours for developers, between 25 Ocotber - 17 December. And every two weeks, a [Tech Talks Digest will be published](https://developer.apple.com/news/?id=pxmrhflz) with teh deails of the latest developer events.
+Happy Thursday! Apple announced [Tech Talks 2021](https://developer.apple.com/tech-talks/), with live sessions and office hours for developers, between 25 October - 17 December. And every two weeks, a [Tech Talks Digest will be published](https://developer.apple.com/news/?id=pxmrhflz) with the details of the latest developer events.
 
-MacOS Monterrey now has a release date: 25 October. That's next week. I mentioned this in [issue 404](https://ios-goodies.com/post/663776526168424448/week-404) as well but in case that's not found 😅, I'll write it here again: don't update to Monterrey unless you're ready to go all in with Xcode 13, because [Xcode 12 won't work](https://developer.apple.com/news/?id=ufox7ci5).
+macOS Monterrey now has a release date: 25 October. That's next week. I mentioned this in [issue 404](https://ios-goodies.com/post/663776526168424448/week-404) as well but in case that's not found 😅, I'll write it here again: don't update to Monterrey unless you're ready to go all-in with Xcode 13, because [Xcode 12 won't work](https://developer.apple.com/news/?id=ufox7ci5).
 
 **Tips from Twitter**
 
-* https://twitter.com/Lascorbe/status/1450501815712325632
+* [Don't initialize UIColors in a SwiftUI body](https://twitter.com/Lascorbe/status/1450501815712325632): nice tip here from Luis Ascorbe. Another take could also be: remember to run Instruments every now and then on your app(s).
 
 **Articles**
 
