@@ -4,11 +4,11 @@
 
 **Articles**
 
-* 
+* [EnvironmentValues](https://www.fivestars.blog/articles/environmentvalues/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
-* 
+* [xcresulttool](https://github.com/marketplace/actions/xcresulttool), by [@k_katsumi](https://twitter.com/k_katsumi)
 
 **Business/Career**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
