@@ -5,6 +5,7 @@
 **Articles**
 
 * [EnvironmentValues](https://www.fivestars.blog/articles/environmentvalues/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Understanding Swift Task Groups With Example](https://swiftsenpai.com/swift/understanding-task-groups/), by [@Lee_Kah_Seng](https://twitter.com/Lee_Kah_Seng)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [LeeKahSeng](https://github.com/LeeKahSeng)
