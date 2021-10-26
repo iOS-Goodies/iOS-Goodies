@@ -5,6 +5,7 @@
 **Articles**
 
 * [EnvironmentValues](https://www.fivestars.blog/articles/environmentvalues/), by [@zntfdr](https://twitter.com/zntfdr)
+* [Mastering ControlGroup in SwiftUI](https://swiftwithmajid.com/2021/10/21/mastering-controlgroup-in-swiftui/), by [@mecid](https://twitter.com/mecid)
 
 **Tools/Controls**
 
@@ -24,4 +25,4 @@
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr)
+* [zntfdr](https://github.com/zntfdr), [mecid](https://github.com/mecid)
