@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [How to define custom SwiftUI environment values](https://www.fivestars.blog/articles/how-to-define-environment-values/), by [@zntfdr](https://twitter.com/zntfdr)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [zntfdr](https://github.com/zntfdr)
