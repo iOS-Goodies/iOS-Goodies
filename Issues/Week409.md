@@ -21,8 +21,8 @@
 
 **Videos**
 
-* 
+* [Just Track It - Mobcast](https://www.youtube.com/watch?v=uv7ftWQVfGA), by [@af_rosa2](https://twitter.com/af_rosa2) and [@gastaldi_thiery](https://twitter.com/gastaldi_thiery)
 
 **Contributors**
 
-* [zntfdr](https://github.com/zntfdr), [sarunw](https://github.com/sarunw)
+* [zntfdr](https://github.com/zntfdr), [sarunw](https://github.com/sarunw), [AfonsoBroclan](https://github.com/AfonsoBroclan), [thierygastaldi](https://github.com/thierygastaldi)
