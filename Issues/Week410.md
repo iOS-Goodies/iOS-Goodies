@@ -1,6 +1,6 @@
 **Tips from Twitter**
 
-*
+* [De-mangling swift symbols](https://twitter.com/ronyfadel/status/1458453813459816453): nice tip from [Rony Fadel](https://twitter.com/ronyfadel) on how to read a mangled Swift symbol.
 
 **Articles**
 
@@ -11,7 +11,7 @@
 
 **Tools/Controls**
 
-* 
+* [CollectionConcurrencyKit](https://github.com/JohnSundell/CollectionConcurrencyKit) - Async and concurrent versions of Swift’s forEach, map, flatMap, and compactMap APIs, by [@JohnSundell](https://github.com/JohnSundell)
 
 **Business/Career**
 
