@@ -4,7 +4,7 @@
 
 **Articles**
 
-* 
+* [Managing Focus in SwiftUI List Views](https://peterfriese.dev/swiftui-list-focus/), by [@peterfriese](https://twitter.com/peterfriese)
 
 **Tools/Controls**
 
@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* 
+* [peterfriese](https://github.com/peterfriese)
