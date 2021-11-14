@@ -24,4 +24,4 @@
 
 **Contributors**
 
-* [peterfriese](https://github.com/peterfriese)
+* [peterfriese](https://github.com/peterfriese), [tundsdev](https://github.com/tunds)
