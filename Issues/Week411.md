@@ -11,7 +11,6 @@
 
 * [XCRemoteCache](https://github.com/spotify/XCRemoteCache) - Remote cache tool for Xcode projects that speeds up local iOS builds, by [@polac24](https://github.com/polac24)
 
-
 **Business/Career**
 
 *
