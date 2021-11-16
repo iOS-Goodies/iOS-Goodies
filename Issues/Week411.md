@@ -25,4 +25,4 @@
 
 **Contributors**
 
-* [peterfriese](https://github.com/peterfriese), [tundsdev](https://github.com/tunds), [LeeKahSeng](https://github.com/LeeKahSeng)
+* [peterfriese](https://github.com/peterfriese), [tundsdev](https://github.com/tunds), [LeeKahSeng](https://github.com/LeeKahSeng), [polac24](https://github.com/polac24)
